@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "eventStoryId": 1,
+    "unit": "light_sound",
+    "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "eventStoryId": 1,
+    "unit": "theme_park",
+    "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 3,
+    "seq": 3,
+    "eventStoryId": 2,
+    "unit": "school_refusal",
+    "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 4,
+    "seq": 4,
+    "eventStoryId": 2,
+    "unit": "light_sound",
+    "eventStoryUnitRelation": "sub"
+  }
+]

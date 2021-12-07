@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "areaId": 5,
+    "name": "Miku CDs",
+    "flavorText": "フレーバーテキスト:ミクのCD",
+    "spawnPoint": "spawn-point1",
+    "assetbundleName": "areaitem0501"
+  },
+  {
+    "id": 2,
+    "areaId": 5,
+    "name": "Phenny Plushie",
+    "flavorText": "フレーバーテキスト:フェニーのぬいぐるみ",
+    "spawnPoint": "spawn-point2",
+    "assetbundleName": "areaitem0502"
+  },
+  {
+    "id": 3,
+    "areaId": 5,
+    "name": "Stargazing Guide",
+    "flavorText": "フレーバーテキスト:星空図鑑",
+    "spawnPoint": "spawn-point3",
+    "assetbundleName": "areaitem0503"
+  },
+  {
+    "id": 4,
+    "areaId": 5,
+    "name": "Shiho's Bass Guitar",
+    "flavorText": "フレーバーテキスト:志歩のベース",
+    "spawnPoint": "spawn-point4",
+    "assetbundleName": "areaitem0504"
+  },
+  {
+    "id": 5,
+    "areaId": 7,
+    "name": "Idol Merch",
+    "flavorText": "フレーバーテキスト:アイドルグッズ",
+    "spawnPoint": "spawn-point1",
+    "assetbundleName": "areaitem0701"
+  },
+  {
+    "id": 6,
+    "areaId": 7,
+    "name": "Haruka's Glow Stick",
+    "flavorText": "フレーバーテキスト:遥のペンライト",
+    "spawnPoint": "spawn-point2",
+    "assetbundleName": "areaitem0702"
+  },
+  {
+    "id": 7,
+    "areaId": 7,
+    "name": "Handmade Airi Fan",
+    "flavorText": "フレーバーテキスト:光り輝くステージ",
+    "spawnPoint": "spawn-point3",
+    "assetbundleName": "areaitem0703"
+  },
+  {
+    "id": 8,
+    "areaId": 7,
+    "name": "Towel From Airi",
+    "flavorText": "フレーバーテキスト:愛莉がくれたタオル",
+    "spawnPoint": "spawn-point4",
+    "assetbundleName": "areaitem0704"
+  },
+  {
+    "id": 9,
+    "areaId": 8,
+    "name": "Cafe Signboard",
+    "flavorText": "フレーバーテキスト:カフェの看板",
+    "spawnPoint": "spawn-point1",
+    "assetbundleName": "areaitem0801"
+  },
+  {
+    "id": 10,
+    "areaId": 8,
+    "name": "Old DJing Set",
+    "flavorText": "フレーバーテキスト:古びたDJセット",
+    "spawnPoint": "spawn-point2",
+    "assetbundleName": "areaitem0802"
+  },
+  {
+    "id": 11,
+    "areaId": 8,
+    "name": "Ken's CDs",
+    "flavorText": "フレーバーテキスト:謙さんのCD",
+    "spawnPoint": "spawn-point3",
+    "assetbundleName": "areaitem0803"
+  },
+  {
+    "id": 12,
+    "areaId": 8,
+    "name": "Pair of Mics",
+    "flavorText": "フレーバーテキスト:２本のマイク",
+    "spawnPoint": "spawn-point4",
+    "assetbundleName": "areaitem0804"
+  },
+  {
+    "id": 13,
+    "areaId": 9,
+    "name": "Statue of a Star",
+    "flavorText": "フレーバーテキスト:ショースターの銅像",
+    "spawnPoint": "spawn-point1",
+    "assetbundleName": "areaitem0901"
+  },
+  {
+    "id": 14,
+    "areaId": 9,
+    "name": "Mini Model",
+    "flavorText": "フレーバーテキスト:ミニチュア",
+    "spawnPoint": "spawn-point2",
+    "assetbundleName": "areaitem0902"
+  },
+  {
+    "id": 15,
+    "areaId": 9,
+    "name": "Singing Robot",
+    "flavorText": "フレーバーテキスト:歌うロボット",
+    "spawnPoint": "spawn-point3",
+    "assetbundleName": "areaitem0903"
+  },
+  {
+    "id": 16,
+    "areaId": 9,
+    "name": "Show Kit (Drones Incl.)",
+    "flavorText": "フレーバーテキスト:ドローン入りのショー道具",
+    "spawnPoint": "spawn-point4",
+    "assetbundleName": "areaitem0904"
+  },
+  {
+    "id": 17,
+    "areaId": 10,
+    "name": "Music Box",
+    "flavorText": "フレーバーテキスト:オルゴール",
+    "spawnPoint": "spawn-point1",
+    "assetbundleName": "areaitem1001"
+  },
+  {
+    "id": 18,
+    "areaId": 10,
+    "name": "Caring for an empty fish tank",
+    "flavorText": "フレーバーテキスト:アクアリウム",
+    "spawnPoint": "spawn-point2",
+    "assetbundleName": "areaitem1002"
+  },
+  {
+    "id": 19,
+    "areaId": 10,
+    "name": "Ena's Painting",
+    "flavorText": "フレーバーテキスト:絵名の絵",
+    "spawnPoint": "spawn-point3",
+    "assetbundleName": "areaitem1003"
+  },
+  {
+    "id": 20,
+    "areaId": 10,
+    "name": "Cute Outfit",
+    "flavorText": "フレーバーテキスト:かわいい服",
+    "spawnPoint": "spawn-point4",
+    "assetbundleName": "areaitem1004"
+  },
+  {
+    "id": 21,
+    "areaId": 5,
+    "name": "Miku's Guitar",
+    "flavorText": "フレーバーテキスト:ミクのギター",
+    "spawnPoint": "spawn-point5",
+    "assetbundleName": "areaitem0505"
+  },
+  {
+    "id": 22,
+    "areaId": 7,
+    "name": "Green Flower Stand",
+    "flavorText": "フレーバーテキスト:緑のフラワースタンド",
+    "spawnPoint": "spawn-point5",
+    "assetbundleName": "areaitem0705"
+  },
+  {
+    "id": 23,
+    "areaId": 8,
+    "name": "Cafe Handbell",
+    "flavorText": "フレーバーテキスト:カフェのハンドベル",
+    "spawnPoint": "spawn-point5",
+    "assetbundleName": "areaitem0805"
+  },
+  {
+    "id": 24,
+    "areaId": 9,
+    "name": "Miku(?) Mascot",
+    "flavorText": "フレーバーテキスト:ミク(？)のきぐるみ",
+    "spawnPoint": "spawn-point5",
+    "assetbundleName": "areaitem0905"
+  },
+  {
+    "id": 25,
+    "areaId": 10,
+    "name": "Re-Tied Ribbon",
+    "flavorText": "フレーバーテキスト:繋ぎなおされたリボン",
+    "spawnPoint": "spawn-point5",
+    "assetbundleName": "areaitem1005"
+  },
+  {
+    "id": 26,
+    "areaId": 7,
+    "name": "Yellow Flower Stand",
+    "flavorText": "フレーバーテキスト:黄色いフラワースタンド",
+    "spawnPoint": "spawn-point6",
+    "assetbundleName": "areaitem0706"
+  },
+  {
+    "id": 27,
+    "areaId": 8,
+    "name": "Len's Headphones",
+    "flavorText": "フレーバーテキスト:レンのヘッドフォン",
+    "spawnPoint": "spawn-point6",
+    "assetbundleName": "areaitem0806"
+  },
+  {
+    "id": 28,
+    "areaId": 5,
+    "name": "Luka's Bass Guitar",
+    "flavorText": "フレーバーテキスト:ルカのベース",
+    "spawnPoint": "spawn-point6",
+    "assetbundleName": "areaitem0506"
+  },
+  {
+    "id": 29,
+    "areaId": 9,
+    "name": "Showman's Baton",
+    "flavorText": "フレーバーテキスト:座長のショーステッキ",
+    "spawnPoint": "spawn-point6",
+    "assetbundleName": "areaitem0906"
+  },
+  {
+    "id": 30,
+    "areaId": 8,
+    "name": "Coffee Grinder",
+    "flavorText": "フレーバーテキスト:コーヒーミル",
+    "spawnPoint": "spawn-point7",
+    "assetbundleName": "areaitem0807"
+  },
+  {
+    "id": 31,
+    "areaId": 5,
+    "name": "Telescope",
+    "flavorText": "フレーバーテキスト:天体望遠鏡",
+    "spawnPoint": "spawn-point7",
+    "assetbundleName": "areaitem0507"
+  },
+  {
+    "id": 32,
+    "areaId": 5,
+    "name": "Group Photo",
+    "flavorText": "フレーバーテキスト:4人の写真",
+    "spawnPoint": "spawn-point8",
+    "assetbundleName": "areaitem0508"
+  },
+  {
+    "id": 33,
+    "areaId": 7,
+    "name": "Clover Decoration",
+    "flavorText": "フレーバーテキスト:クローバーオブジェ",
+    "spawnPoint": "spawn-point7",
+    "assetbundleName": "areaitem0707"
+  },
+  {
+    "id": 34,
+    "areaId": 7,
+    "name": "Portable Speakers",
+    "flavorText": "フレーバーテキスト:ポータブルスピーカー",
+    "spawnPoint": "spawn-point8",
+    "assetbundleName": "areaitem0708"
+  },
+  {
+    "id": 35,
+    "areaId": 8,
+    "name": "RAD WEEKEND Flyer",
+    "flavorText": "フレーバーテキスト:『RAD WEEKEND』のフライヤー",
+    "spawnPoint": "spawn-point8",
+    "assetbundleName": "areaitem0808"
+  },
+  {
+    "id": 36,
+    "areaId": 8,
+    "name": "Graffiti",
+    "flavorText": "フレーバーテキスト:グラフィティ",
+    "spawnPoint": "spawn-point9",
+    "assetbundleName": "areaitem0809"
+  },
+  {
+    "id": 37,
+    "areaId": 9,
+    "name": "Parade Float",
+    "flavorText": "フレーバーテキスト:パレードフロート",
+    "spawnPoint": "spawn-point7",
+    "assetbundleName": "areaitem0907"
+  },
+  {
+    "id": 38,
+    "areaId": 9,
+    "name": "Show Flag",
+    "flavorText": "フレーバーテキスト:ショーフラッグ",
+    "spawnPoint": "spawn-point8",
+    "assetbundleName": "areaitem0908"
+  },
+  {
+    "id": 39,
+    "areaId": 10,
+    "name": "Nightcord Room",
+    "flavorText": "フレーバーテキスト:ナイトコードルーム",
+    "spawnPoint": "spawn-point6",
+    "assetbundleName": "areaitem1006"
+  },
+  {
+    "id": 40,
+    "areaId": 10,
+    "name": "Broken Mirror",
+    "flavorText": "フレーバーテキスト:割れた鏡",
+    "spawnPoint": "spawn-point7",
+    "assetbundleName": "areaitem1007"
+  },
+  {
+    "id": 41,
+    "areaId": 5,
+    "name": "Music Speakers",
+    "flavorText": "フレーバーテキスト:ミュージックスピーカー",
+    "spawnPoint": "spawn-point9",
+    "assetbundleName": "areaitem0509"
+  },
+  {
+    "id": 42,
+    "areaId": 7,
+    "name": "Music Speakers",
+    "flavorText": "フレーバーテキスト:ミュージックスピーカー",
+    "spawnPoint": "spawn-point9",
+    "assetbundleName": "areaitem0709"
+  },
+  {
+    "id": 43,
+    "areaId": 8,
+    "name": "Music Speakers",
+    "flavorText": "フレーバーテキスト:ミュージックスピーカー",
+    "spawnPoint": "spawn-point10",
+    "assetbundleName": "areaitem0810"
+  },
+  {
+    "id": 44,
+    "areaId": 9,
+    "name": "Music Speakers",
+    "flavorText": "フレーバーテキスト:ミュージックスピーカー",
+    "spawnPoint": "spawn-point9",
+    "assetbundleName": "areaitem0909"
+  },
+  {
+    "id": 45,
+    "areaId": 10,
+    "name": "Music Speakers",
+    "flavorText": "フレーバーテキスト:ミュージックスピーカー",
+    "spawnPoint": "spawn-point8",
+    "assetbundleName": "areaitem1008"
+  },
+  {
+    "id": 46,
+    "areaId": 13,
+    "name": "Cool Flowers",
+    "flavorText": "フレーバーテキスト:クールフラワー",
+    "spawnPoint": "spawn-point1",
+    "assetbundleName": "areaitem1301"
+  },
+  {
+    "id": 47,
+    "areaId": 11,
+    "name": "Cool Berries",
+    "flavorText": "フレーバーテキスト:クールベリー",
+    "spawnPoint": "spawn-point1",
+    "assetbundleName": "areaitem1101"
+  },
+  {
+    "id": 48,
+    "areaId": 13,
+    "name": "Cute Flowers",
+    "flavorText": "フレーバーテキスト:キュートフラワー",
+    "spawnPoint": "spawn-point2",
+    "assetbundleName": "areaitem1302"
+  },
+  {
+    "id": 49,
+    "areaId": 11,
+    "name": "Cute Cherries",
+    "flavorText": "フレーバーテキスト:キュートチェリー",
+    "spawnPoint": "spawn-point2",
+    "assetbundleName": "areaitem1102"
+  },
+  {
+    "id": 50,
+    "areaId": 13,
+    "name": "Pure Flowers",
+    "flavorText": "フレーバーテキスト:ピュアフラワー",
+    "spawnPoint": "spawn-point3",
+    "assetbundleName": "areaitem1303"
+  },
+  {
+    "id": 51,
+    "areaId": 11,
+    "name": "Pure Apples",
+    "flavorText": "フレーバーテキスト:ピュアアップル",
+    "spawnPoint": "spawn-point3",
+    "assetbundleName": "areaitem1103"
+  },
+  {
+    "id": 52,
+    "areaId": 13,
+    "name": "Happy Flowers",
+    "flavorText": "フレーバーテキスト:ハッピーフラワー",
+    "spawnPoint": "spawn-point4",
+    "assetbundleName": "areaitem1304"
+  },
+  {
+    "id": 53,
+    "areaId": 11,
+    "name": "Happy Oranges",
+    "flavorText": "フレーバーテキスト:ハッピーオレンジ",
+    "spawnPoint": "spawn-point4",
+    "assetbundleName": "areaitem1104"
+  },
+  {
+    "id": 54,
+    "areaId": 13,
+    "name": "Mysterious Flowers",
+    "flavorText": "フレーバーテキスト:ミステリアスフラワー",
+    "spawnPoint": "spawn-point5",
+    "assetbundleName": "areaitem1305"
+  },
+  {
+    "id": 55,
+    "areaId": 11,
+    "name": "Mysterious Grapes",
+    "flavorText": "フレーバーテキスト:ミステリアスグレープ",
+    "spawnPoint": "spawn-point5",
+    "assetbundleName": "areaitem1105"
+  }
+]

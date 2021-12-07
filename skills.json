@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "shortDescription": "Score +{{1;v}}%.",
+    "description": "Score +{{1;v}}% for {{1;d}}s.",
+    "descriptionSpriteName": "score_up",
+    "skillEffects": [
+      {
+        "id": 1,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 1,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 20
+          },
+          {
+            "id": 2,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 25
+          },
+          {
+            "id": 3,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 30
+          },
+          {
+            "id": 4,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "shortDescription": "Score +{{2;v}}%.",
+    "description": "Score +{{2;v}}% for {{2;d}}s.",
+    "descriptionSpriteName": "score_up",
+    "skillEffects": [
+      {
+        "id": 2,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 5,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 30
+          },
+          {
+            "id": 6,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 35
+          },
+          {
+            "id": 7,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 40
+          },
+          {
+            "id": 8,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "shortDescription": "Score +{{3;v}}%.",
+    "description": "Score +{{3;v}}% for {{3;d}}s.",
+    "descriptionSpriteName": "score_up",
+    "skillEffects": [
+      {
+        "id": 3,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 9,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 60
+          },
+          {
+            "id": 10,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 65
+          },
+          {
+            "id": 11,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 70
+          },
+          {
+            "id": 12,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "shortDescription": "Score +{{4;v}}%.",
+    "description": "Score +{{4;v}}% for {{4;d}}s.",
+    "descriptionSpriteName": "score_up",
+    "skillEffects": [
+      {
+        "id": 4,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 13,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          },
+          {
+            "id": 14,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 105
+          },
+          {
+            "id": 15,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 110
+          },
+          {
+            "id": 16,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "shortDescription": "Accuracy Up (S)\\n& Score +{{5;v}}%.",
+    "description": "GREAT taps change to PERFECT taps for {{8;d}}s and Score +{{5;v}}% for {{5;d}}s.",
+    "descriptionSpriteName": "judgment_up",
+    "skillEffects": [
+      {
+        "id": 5,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 17,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 10
+          },
+          {
+            "id": 18,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 15
+          },
+          {
+            "id": 19,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 20
+          },
+          {
+            "id": 20,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 30
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "skillEffectType": "judgment_up",
+        "activateNotesJudgmentType": "great",
+        "skillEffectDetails": [
+          {
+            "id": 29,
+            "level": 1,
+            "activateEffectDuration": 4.5,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 0
+          },
+          {
+            "id": 30,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 0
+          },
+          {
+            "id": 31,
+            "level": 3,
+            "activateEffectDuration": 5.5,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 0
+          },
+          {
+            "id": 32,
+            "level": 4,
+            "activateEffectDuration": 6,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "shortDescription": "Accuracy Up (M)\\n& Score +{{6;v}}%.",
+    "description": "GOOD or better taps change to PERFECT taps for {{9;d}}s and Score +{{6;v}}% for {{6;d}}s.",
+    "descriptionSpriteName": "judgment_up",
+    "skillEffects": [
+      {
+        "id": 6,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 21,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 40
+          },
+          {
+            "id": 22,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 45
+          },
+          {
+            "id": 23,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 50
+          },
+          {
+            "id": 24,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 60
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "skillEffectType": "judgment_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 33,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 0
+          },
+          {
+            "id": 34,
+            "level": 2,
+            "activateEffectDuration": 5.5,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 0
+          },
+          {
+            "id": 35,
+            "level": 3,
+            "activateEffectDuration": 6,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 0
+          },
+          {
+            "id": 36,
+            "level": 4,
+            "activateEffectDuration": 6.5,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "shortDescription": "Accuracy Up (L)\\n& Score +{{7;v}}%.",
+    "description": "BAD or better taps change to PERFECT taps for {{10;d}}s and Score +{{7;v}}% for {{7;d}}s.",
+    "descriptionSpriteName": "judgment_up",
+    "skillEffects": [
+      {
+        "id": 7,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 25,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 26,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 27,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 28,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "skillEffectType": "judgment_up",
+        "activateNotesJudgmentType": "bad",
+        "skillEffectDetails": [
+          {
+            "id": 37,
+            "level": 1,
+            "activateEffectDuration": 5.5,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 0
+          },
+          {
+            "id": 38,
+            "level": 2,
+            "activateEffectDuration": 6,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 0
+          },
+          {
+            "id": 39,
+            "level": 3,
+            "activateEffectDuration": 6.5,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 0
+          },
+          {
+            "id": 40,
+            "level": 4,
+            "activateEffectDuration": 7,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "shortDescription": "Life Recovery +{{14;v}}\\n& Score +{{11;v}}%.",
+    "description": "Life Recovery +{{14;v}} and Score +{{11;v}}% for {{11;d}}s.",
+    "descriptionSpriteName": "life_recovery",
+    "skillEffects": [
+      {
+        "id": 11,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 41,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 10
+          },
+          {
+            "id": 42,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 15
+          },
+          {
+            "id": 43,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 20
+          },
+          {
+            "id": 44,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 30
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "skillEffectType": "life_recovery",
+        "skillEffectDetails": [
+          {
+            "id": 53,
+            "level": 1,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 150
+          },
+          {
+            "id": 54,
+            "level": 2,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 200
+          },
+          {
+            "id": 55,
+            "level": 3,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 250
+          },
+          {
+            "id": 56,
+            "level": 4,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 300
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "shortDescription": "Life Recovery +{{15;v}}\\n& Score +{{12;v}}%.",
+    "description": "Life Recovery +{{15;v}} and Score +{{12;v}}% for {{12;d}}s.",
+    "descriptionSpriteName": "life_recovery",
+    "skillEffects": [
+      {
+        "id": 12,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 45,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 40
+          },
+          {
+            "id": 46,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 45
+          },
+          {
+            "id": 47,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 50
+          },
+          {
+            "id": 48,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 60
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "skillEffectType": "life_recovery",
+        "skillEffectDetails": [
+          {
+            "id": 57,
+            "level": 1,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 250
+          },
+          {
+            "id": 58,
+            "level": 2,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 300
+          },
+          {
+            "id": 59,
+            "level": 3,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 350
+          },
+          {
+            "id": 60,
+            "level": 4,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "shortDescription": "Life Recovery +{{16;v}}\\n& Score +{{13;v}}%.",
+    "description": "Life Recovery +{{16;v}} and Score +{{13;v}}% for {{13;d}}s.",
+    "descriptionSpriteName": "life_recovery",
+    "skillEffects": [
+      {
+        "id": 13,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 49,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 50,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 51,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 52,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "skillEffectType": "life_recovery",
+        "skillEffectDetails": [
+          {
+            "id": 61,
+            "level": 1,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 350
+          },
+          {
+            "id": 62,
+            "level": 2,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 400
+          },
+          {
+            "id": 63,
+            "level": 3,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 450
+          },
+          {
+            "id": 64,
+            "level": 4,
+            "activateEffectDuration": 0,
+            "activateEffectValueType": "fixed",
+            "activateEffectValue": 500
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "shortDescription": "Score +{{17;v}}%\\nfor PERFECT taps.",
+    "description": "Score +{{17;v}}% for PERFECT taps for {{17;d}}s.",
+    "descriptionSpriteName": "score_up",
+    "skillEffects": [
+      {
+        "id": 17,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "perfect",
+        "skillEffectDetails": [
+          {
+            "id": 65,
+            "level": 1,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 110
+          },
+          {
+            "id": 66,
+            "level": 2,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 115
+          },
+          {
+            "id": 67,
+            "level": 3,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 120
+          },
+          {
+            "id": 68,
+            "level": 4,
+            "activateEffectDuration": 5,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 130
+          }
+        ]
+      }
+    ]
+  }
+]
