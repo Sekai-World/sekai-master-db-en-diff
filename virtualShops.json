@@ -5,6 +5,16 @@
     "name": "New Release",
     "virtualShopItems": [
       {
+        "id": 1,
+        "virtualShopId": 1,
+        "virtualShopItemType": "avatar_motion",
+        "seq": 10,
+        "resourceBoxId": 1,
+        "costVirtualCoin": 1500,
+        "costJewel": 500,
+        "startAt": 1556740800000
+      },
+      {
         "id": 2,
         "virtualShopId": 1,
         "virtualShopItemType": "avatar_motion",
@@ -638,12 +648,6 @@
     ]
   },
   {
-    "id": 9,
-    "seq": 9,
-    "name": "5th Event Merch",
-    "virtualShopItems": []
-  },
-  {
     "id": 10,
     "seq": 10,
     "name": "6th Event Merch",
@@ -676,12 +680,6 @@
         "endAt": 1610351999000
       }
     ]
-  },
-  {
-    "id": 12,
-    "seq": 12,
-    "name": "7th Event Merch",
-    "virtualShopItems": []
   },
   {
     "id": 13,
@@ -817,18 +815,6 @@
         "endAt": 1641855599000
       }
     ]
-  },
-  {
-    "id": 19,
-    "seq": 19,
-    "name": "10th Event Merch",
-    "virtualShopItems": []
-  },
-  {
-    "id": 20,
-    "seq": 20,
-    "name": "11th Event Merch",
-    "virtualShopItems": []
   },
   {
     "id": 21,
