@@ -1,5 +1,15 @@
 [
   {
+    "homeBannerId": 4,
+    "seq": 99,
+    "name": "First Star After the Rain",
+    "assetbundleName": "event_stella_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 1,
+    "startAt": 1639004400000,
+    "endAt": 1639695599000
+  },
+  {
     "homeBannerId": 6,
     "seq": 100,
     "name": "Release Celebration Gacha",
@@ -17,6 +27,16 @@
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 3,
     "startAt": 1638914400000,
+    "endAt": 1639695599000
+  },
+  {
+    "homeBannerId": 11,
+    "seq": 100,
+    "name": "Starry Night Memories Gacha",
+    "assetbundleName": "banner_gacha4",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 4,
+    "startAt": 1639004400000,
     "endAt": 1639695599000
   },
   {
