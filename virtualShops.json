@@ -648,6 +648,22 @@
     ]
   },
   {
+    "id": 9,
+    "seq": 9,
+    "name": "5th Event Merch",
+    "virtualShopItems": [
+      {
+        "id": 61,
+        "virtualShopId": 9,
+        "virtualShopItemType": "penlight",
+        "seq": 199981,
+        "resourceBoxId": 51,
+        "costPaidJewel": 1000,
+        "startAt": 1642460400000
+      }
+    ]
+  },
+  {
     "id": 10,
     "seq": 10,
     "name": "6th Event Merch",
@@ -676,8 +692,24 @@
         "seq": 99995,
         "resourceBoxId": 64,
         "costPaidJewel": 1000,
-        "startAt": 1608332400000,
-        "endAt": 1610351999000
+        "startAt": 1642546800000,
+        "endAt": 1642892399000
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "seq": 12,
+    "name": "7th Event Merch",
+    "virtualShopItems": [
+      {
+        "id": 64,
+        "virtualShopId": 12,
+        "virtualShopItemType": "penlight",
+        "seq": 199979,
+        "resourceBoxId": 65,
+        "costPaidJewel": 1000,
+        "startAt": 1643842800000
       }
     ]
   },
@@ -693,8 +725,8 @@
         "seq": 99995,
         "resourceBoxId": 66,
         "costPaidJewel": 1000,
-        "startAt": 1608764400000,
-        "endAt": 1609023599000
+        "startAt": 1643929200000,
+        "endAt": 1644274799000
       },
       {
         "id": 66,
@@ -704,8 +736,8 @@
         "resourceBoxId": 67,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
-        "startAt": 1608764400000,
-        "endAt": 1609023599000
+        "startAt": 1643929200000,
+        "endAt": 1644274799000
       }
     ]
   },
@@ -828,8 +860,8 @@
         "seq": 99986,
         "resourceBoxId": 76,
         "costPaidJewel": 1000,
-        "startAt": 1611615600000,
-        "endAt": 1611874799000
+        "startAt": 1643151600000,
+        "endAt": 1643497199000
       }
     ]
   },
@@ -845,8 +877,8 @@
         "seq": 99985,
         "resourceBoxId": 77,
         "costPaidJewel": 1000,
-        "startAt": 1611874800000,
-        "endAt": 1612133999000
+        "startAt": 1643410800000,
+        "endAt": 1643756399000
       }
     ]
   }

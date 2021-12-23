@@ -26,6 +26,19 @@
     "effectExpressionType": "throw_effect"
   },
   {
+    "id": 3,
+    "virtualItemCategory": "normal",
+    "seq": 30,
+    "priority": 30,
+    "name": "Fireworks",
+    "assetbundleName": "fireworks_001",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "fireworks_001",
+    "effectExpressionType": "throw_effect"
+  },
+  {
     "id": 4,
     "virtualItemCategory": "normal",
     "seq": 40,
@@ -62,6 +75,19 @@
     "costJewel": 10000,
     "cheerPoint": 10000,
     "effectAssetbundleName": "sekai_all_001",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 7,
+    "virtualItemCategory": "spread",
+    "seq": 70,
+    "priority": 70,
+    "name": "Smoke",
+    "assetbundleName": "smoke_001",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "smoke_001",
     "effectExpressionType": "throw_effect"
   },
   {
@@ -166,6 +192,32 @@
     "costJewel": 300,
     "cheerPoint": 300,
     "effectAssetbundleName": "fireworks_rocket",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 16,
+    "virtualItemCategory": "normal",
+    "seq": 220,
+    "priority": 160,
+    "name": "Birthday Sash",
+    "assetbundleName": "birthday_flag",
+    "costVirtualCoin": 20,
+    "costJewel": 20,
+    "cheerPoint": 20,
+    "effectAssetbundleName": "birthday_flag",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 17,
+    "virtualItemCategory": "normal",
+    "seq": 230,
+    "priority": 170,
+    "name": "Birthday Cake",
+    "assetbundleName": "birthday_cake",
+    "costVirtualCoin": 20,
+    "costJewel": 20,
+    "cheerPoint": 20,
+    "effectAssetbundleName": "birthday_cake",
     "effectExpressionType": "throw_effect"
   },
   {
