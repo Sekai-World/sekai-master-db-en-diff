@@ -508,6 +508,133 @@
     ]
   },
   {
+    "id": 5,
+    "eventId": 5,
+    "assetbundleName": "event_restart_2020",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000033,
+        "eventStoryId": 5,
+        "episodeNo": 1,
+        "title": "I'll Become an Idol Too!",
+        "assetbundleName": "event_restart_2020_01",
+        "scenarioId": "event_05_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000034,
+        "eventStoryId": 5,
+        "episodeNo": 2,
+        "title": "It Takes Four",
+        "assetbundleName": "event_restart_2020_02",
+        "scenarioId": "event_05_02",
+        "releaseConditionId": 100401,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000035,
+        "eventStoryId": 5,
+        "episodeNo": 3,
+        "title": "Disturbing Rumor",
+        "assetbundleName": "event_restart_2020_03",
+        "scenarioId": "event_05_03",
+        "releaseConditionId": 100402,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000036,
+        "eventStoryId": 5,
+        "episodeNo": 4,
+        "title": "Last Resort",
+        "assetbundleName": "event_restart_2020_04",
+        "scenarioId": "event_05_04",
+        "releaseConditionId": 100403,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000037,
+        "eventStoryId": 5,
+        "episodeNo": 5,
+        "title": "Dreams and Reality",
+        "assetbundleName": "event_restart_2020_05",
+        "scenarioId": "event_05_05",
+        "releaseConditionId": 100404,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000038,
+        "eventStoryId": 5,
+        "episodeNo": 6,
+        "title": "A Smile for Every Situation",
+        "assetbundleName": "event_restart_2020_06",
+        "scenarioId": "event_05_06",
+        "releaseConditionId": 100405,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000039,
+        "eventStoryId": 5,
+        "episodeNo": 7,
+        "title": "New Choices",
+        "assetbundleName": "event_restart_2020_07",
+        "scenarioId": "event_05_07",
+        "releaseConditionId": 100406,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000040,
+        "eventStoryId": 5,
+        "episodeNo": 8,
+        "title": "The Path We Choose",
+        "assetbundleName": "event_restart_2020_08",
+        "scenarioId": "event_05_08",
+        "releaseConditionId": 100407,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 6,
     "eventId": 6,
     "assetbundleName": "event_forward_2020",
@@ -625,6 +752,260 @@
         "assetbundleName": "event_forward_2020_08",
         "scenarioId": "event_06_08",
         "releaseConditionId": 100507,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "eventId": 7,
+    "assetbundleName": "event_culturalfestival_2020",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000049,
+        "eventStoryId": 7,
+        "episodeNo": 1,
+        "title": "The School Festival and Me",
+        "assetbundleName": "event_culturalfestival_2020_01",
+        "scenarioId": "event_07_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000050,
+        "eventStoryId": 7,
+        "episodeNo": 2,
+        "title": "Younger Brother Sighted!",
+        "assetbundleName": "event_culturalfestival_2020_02",
+        "scenarioId": "event_07_02",
+        "releaseConditionId": 100601,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000051,
+        "eventStoryId": 7,
+        "episodeNo": 3,
+        "title": "Let's See This Play!",
+        "assetbundleName": "event_culturalfestival_2020_03",
+        "scenarioId": "event_07_03",
+        "releaseConditionId": 100602,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000052,
+        "eventStoryId": 7,
+        "episodeNo": 4,
+        "title": "Where Did He Go?",
+        "assetbundleName": "event_culturalfestival_2020_04",
+        "scenarioId": "event_07_04",
+        "releaseConditionId": 100603,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000053,
+        "eventStoryId": 7,
+        "episodeNo": 5,
+        "title": "Matching T-shirts",
+        "assetbundleName": "event_culturalfestival_2020_05",
+        "scenarioId": "event_07_05",
+        "releaseConditionId": 100604,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000054,
+        "eventStoryId": 7,
+        "episodeNo": 6,
+        "title": "School Festival Memories",
+        "assetbundleName": "event_culturalfestival_2020_06",
+        "scenarioId": "event_07_06",
+        "releaseConditionId": 100605,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000055,
+        "eventStoryId": 7,
+        "episodeNo": 7,
+        "title": "Together on the Roof",
+        "assetbundleName": "event_culturalfestival_2020_07",
+        "scenarioId": "event_07_07",
+        "releaseConditionId": 100606,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000056,
+        "eventStoryId": 7,
+        "episodeNo": 8,
+        "title": "My School Festival",
+        "assetbundleName": "event_culturalfestival_2020_08",
+        "scenarioId": "event_07_08",
+        "releaseConditionId": 100607,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "eventId": 8,
+    "assetbundleName": "event_nijiiro_2020",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000057,
+        "eventStoryId": 8,
+        "episodeNo": 1,
+        "title": "A Merry Christmas",
+        "assetbundleName": "event_nijiiro_2020_01",
+        "scenarioId": "event_08_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000058,
+        "eventStoryId": 8,
+        "episodeNo": 2,
+        "title": "Phoenix Stage Investigation",
+        "assetbundleName": "event_nijiiro_2020_02",
+        "scenarioId": "event_08_02",
+        "releaseConditionId": 100701,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000059,
+        "eventStoryId": 8,
+        "episodeNo": 3,
+        "title": "I Can't Rival Her",
+        "assetbundleName": "event_nijiiro_2020_03",
+        "scenarioId": "event_08_03",
+        "releaseConditionId": 100702,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000060,
+        "eventStoryId": 8,
+        "episodeNo": 4,
+        "title": "How I Used to Sing",
+        "assetbundleName": "event_nijiiro_2020_04",
+        "scenarioId": "event_08_04",
+        "releaseConditionId": 100703,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000061,
+        "eventStoryId": 8,
+        "episodeNo": 5,
+        "title": "The Show Back Then",
+        "assetbundleName": "event_nijiiro_2020_05",
+        "scenarioId": "event_08_05",
+        "releaseConditionId": 100704,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000062,
+        "eventStoryId": 8,
+        "episodeNo": 6,
+        "title": "Enchantment",
+        "assetbundleName": "event_nijiiro_2020_06",
+        "scenarioId": "event_08_06",
+        "releaseConditionId": 100705,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000063,
+        "eventStoryId": 8,
+        "episodeNo": 7,
+        "title": "SEKAI's Newest Member?!",
+        "assetbundleName": "event_nijiiro_2020_07",
+        "scenarioId": "event_08_07",
+        "releaseConditionId": 100706,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 1000064,
+        "eventStoryId": 8,
+        "episodeNo": 8,
+        "title": "Merry Christmas!",
+        "assetbundleName": "event_nijiiro_2020_08",
+        "scenarioId": "event_08_08",
+        "releaseConditionId": 100707,
         "episodeRewards": [
           {
             "storyType": "event_story",
