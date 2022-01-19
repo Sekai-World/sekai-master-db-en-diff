@@ -1209,7 +1209,7 @@
     "title": "New song, MORE! JUMP! MORE!, now available!",
     "path": "information/index.html?id=info_add_music_20201119_Loge14Id",
     "startAt": 1642460400000,
-    "endAt": 1642679999000
+    "endAt": 1642719599000
   },
   {
     "id": 137,
@@ -1231,9 +1231,9 @@
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "MORE MORE SMILE! Gacha, available now!",
+    "title": "MORE MORE SMILE! Gacha, available now! (Updated: Jan. 19, 02:00 PST)",
     "path": "information/index.html?id=gacha_12_Lige1345",
-    "startAt": 1642460400000,
+    "startAt": 1642586400000,
     "endAt": 1643151599000,
     "bannerAssetbundleName": "banner_news_gacha12_en_lg82TwfW"
   },
@@ -2211,7 +2211,7 @@
     "title": "Event, On This Holy Night, I Sing now on!",
     "path": "information/index.html?id=info_event_8_held_Pma3aVVg",
     "startAt": 1643842800000,
-    "endAt": 1644533999000,
+    "endAt": 1644382799000,
     "bannerAssetbundleName": "news_event_nijiiro_2020_en_Xmr2aOk"
   },
   {
@@ -3323,52 +3323,15 @@
   },
   {
     "id": 377,
-    "seq": 100,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "About Special Bundles Premium Mission Pass in the News",
-    "path": "information/index.html?id=bug_menu_info_20211210_bg5IaewaP",
-    "startAt": 1639141200000,
-    "endAt": 1639814399000
-  },
-  {
-    "id": 378,
-    "seq": 99,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "Issue with Virtual Shows",
-    "path": "information/index.html?id=bug_virtual_show_20211213_cdasio89",
-    "startAt": 1639392600000,
-    "endAt": 1640073599000,
-    "bannerAssetbundleName": "bug_vl_schedule3"
-  },
-  {
-    "id": 379,
-    "seq": 102,
+    "seq": 5954,
     "informationType": "normal",
-    "informationTag": "information",
+    "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "(Important) Ver.1.0.1 Update(Updated: 12/14, 23:00 PST)",
-    "path": "information/index.html?id=info_update_v101_bug_UPNaou53l",
-    "startAt": 1639551600000,
-    "endAt": 1640159999000
-  },
-  {
-    "id": 380,
-    "seq": 98,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "Implementation of Text Changes",
-    "path": "information/index.html?id=bug_menu_info_20211205_O8ahakdA",
-    "startAt": 1639551600000,
-    "endAt": 1640159999000
+    "title": "New song, Time Machine, now available!",
+    "path": "information/index.html?id=info_music_timemachine_2021020_TMw0d92goz0jh",
+    "startAt": 1643670000000,
+    "endAt": 1643929200000
   },
   {
     "id": 381,
@@ -3397,15 +3360,15 @@
   },
   {
     "id": 383,
-    "seq": 100,
+    "seq": 1,
     "informationType": "normal",
-    "informationTag": "information",
+    "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "Maintenance Notification (12/23)(Updated: 12/23, 04:00 PST)",
-    "path": "information/index.html?id=info_maintenanse_1221_LaofjheE32",
-    "startAt": 1640260800000,
-    "endAt": 1640851199000
+    "title": "New song, droppopcandy, now available!",
+    "path": "information/index.html?id=info_music_droppopcandy_20210215_DPC0wf9aw9gn37",
+    "startAt": 1644274800000,
+    "endAt": 1644534000000
   },
   {
     "id": 384,
@@ -3498,6 +3461,67 @@
     "path": "information/index.html?id=info_virtiallive_timechange_20220112_JAgi21a",
     "startAt": 1642158000000,
     "endAt": 1643270399000
+  },
+  {
+    "id": 1002,
+    "seq": 100,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "About Special Bundles Premium Mission Pass in the News",
+    "path": "information/index.html?id=bug_menu_info_20211210_bg5IaewaP",
+    "startAt": 1639141200000,
+    "endAt": 1639814399000
+  },
+  {
+    "id": 1003,
+    "seq": 99,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Issue with Virtual Shows",
+    "path": "information/index.html?id=bug_virtual_show_20211213_cdasio89",
+    "startAt": 1639392600000,
+    "endAt": 1640073599000,
+    "bannerAssetbundleName": "bug_vl_schedule3"
+  },
+  {
+    "id": 1004,
+    "seq": 102,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "(Important) Ver.1.0.1 Update(Updated: 12/14, 23:00 PST)",
+    "path": "information/index.html?id=info_update_v101_bug_UPNaou53l",
+    "startAt": 1639551600000,
+    "endAt": 1640159999000
+  },
+  {
+    "id": 1005,
+    "seq": 98,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Implementation of Text Changes",
+    "path": "information/index.html?id=bug_menu_info_20211205_O8ahakdA",
+    "startAt": 1639551600000,
+    "endAt": 1640159999000
+  },
+  {
+    "id": 1008,
+    "seq": 100,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Maintenance Notification (12/23)(Updated: 12/23, 04:00 PST)",
+    "path": "information/index.html?id=info_maintenanse_1221_LaofjheE32",
+    "startAt": 1640260800000,
+    "endAt": 1640851199000
   },
   {
     "id": 9298,
