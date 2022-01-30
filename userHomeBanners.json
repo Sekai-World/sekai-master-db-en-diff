@@ -1,45 +1,5 @@
 [
   {
-    "homeBannerId": 23,
-    "seq": 99,
-    "name": "Sports Festival Event",
-    "assetbundleName": "event_sportsfestival_2020",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 4,
-    "startAt": 1641769200000,
-    "endAt": 1642460399000
-  },
-  {
-    "homeBannerId": 24,
-    "seq": 100,
-    "name": "Sports Festival Gacha",
-    "assetbundleName": "banner_gacha9",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 9,
-    "startAt": 1641769200000,
-    "endAt": 1642460399000
-  },
-  {
-    "homeBannerId": 30,
-    "seq": 110,
-    "name": "Akito's Birthday Show",
-    "assetbundleName": "banner_virtuallive36",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 36,
-    "startAt": 1641855600000,
-    "endAt": 1642287599000
-  },
-  {
-    "homeBannerId": 31,
-    "seq": 120,
-    "name": "Event Character Boosted Rate Gacha (Sports Festival)",
-    "assetbundleName": "banner_gacha11",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 11,
-    "startAt": 1641942000000,
-    "endAt": 1642309199000
-  },
-  {
     "homeBannerId": 32,
     "seq": 300,
     "name": "Premium Mission Pass",
@@ -50,6 +10,36 @@
     "endAt": 1643702399000
   },
   {
+    "homeBannerId": 45,
+    "seq": 99,
+    "name": "School Festival Event_Event Banner",
+    "assetbundleName": "event_culturalfestival_2020",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 7,
+    "startAt": 1643151600000,
+    "endAt": 1643842799000
+  },
+  {
+    "homeBannerId": 46,
+    "seq": 100,
+    "name": "School Festival Event_Regular Gacha Banner",
+    "assetbundleName": "banner_gacha20",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 20,
+    "startAt": 1643151600000,
+    "endAt": 1643842799000
+  },
+  {
+    "homeBannerId": 47,
+    "seq": 120,
+    "name": "School Festival Event_Event Character Boosted Rate Gacha Banner",
+    "assetbundleName": "banner_gacha22",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 22,
+    "startAt": 1643324400000,
+    "endAt": 1643691599000
+  },
+  {
     "homeBannerId": 48,
     "seq": 9998,
     "name": "Welcome Show Banner",
@@ -58,6 +48,16 @@
     "transitionDestinationId": 20001,
     "startAt": 1601492400000,
     "endAt": 4102473599000
+  },
+  {
+    "homeBannerId": 81,
+    "seq": 110,
+    "name": "Luka's Anniversary Show",
+    "assetbundleName": "banner_virtuallive54",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 54,
+    "startAt": 1643410800000,
+    "endAt": 1643756399000
   },
   {
     "homeBannerId": 1001,
