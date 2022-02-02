@@ -43276,6 +43276,30 @@
   },
   {
     "resourceBoxPurpose": "login_bonus",
+    "id": 29,
+    "resourceBoxType": "list",
+    "name": "Valentine's Gift Box",
+    "assetbundleName": "item_box_special",
+    "details": [
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 29,
+        "seq": 1,
+        "resourceType": "boost_item",
+        "resourceId": 3,
+        "resourceQuantity": 1
+      },
+      {
+        "resourceBoxPurpose": "login_bonus",
+        "resourceBoxId": 29,
+        "seq": 2,
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "login_bonus",
     "id": 1001,
     "resourceBoxType": "expand",
     "description": "特別ログインボーナス 1日目",
@@ -77849,6 +77873,29 @@
     ]
   },
   {
+    "resourceBoxPurpose": "virtual_live_reward",
+    "id": 50,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "virtual_live_reward",
+        "resourceBoxId": 50,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 300
+      },
+      {
+        "resourceBoxPurpose": "virtual_live_reward",
+        "resourceBoxId": 50,
+        "seq": 2,
+        "resourceType": "honor",
+        "resourceId": 238,
+        "resourceLevel": 1,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
     "resourceBoxPurpose": "virtual_shop_item",
     "id": 1,
     "resourceBoxType": "expand",
@@ -79076,6 +79123,70 @@
         "seq": 1,
         "resourceType": "avatar_coordinate",
         "resourceId": 21,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_shop_item",
+    "id": 79,
+    "resourceBoxType": "expand",
+    "name": "Full Costume: Kanade",
+    "details": [
+      {
+        "resourceBoxPurpose": "virtual_shop_item",
+        "resourceBoxId": 79,
+        "seq": 1,
+        "resourceType": "avatar_coordinate",
+        "resourceId": 22,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_shop_item",
+    "id": 80,
+    "resourceBoxType": "expand",
+    "name": "Full Costume: KAITO",
+    "details": [
+      {
+        "resourceBoxPurpose": "virtual_shop_item",
+        "resourceBoxId": 80,
+        "seq": 1,
+        "resourceType": "avatar_coordinate",
+        "resourceId": 23,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_shop_item",
+    "id": 81,
+    "resourceBoxType": "expand",
+    "name": "Full Costume: Valentine's",
+    "details": [
+      {
+        "resourceBoxPurpose": "virtual_shop_item",
+        "resourceBoxId": 81,
+        "seq": 1,
+        "resourceType": "avatar_coordinate",
+        "resourceId": 24,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "virtual_shop_item",
+    "id": 82,
+    "resourceBoxType": "expand",
+    "name": "Full Costume: Kohane",
+    "details": [
+      {
+        "resourceBoxPurpose": "virtual_shop_item",
+        "resourceBoxId": 82,
+        "seq": 1,
+        "resourceType": "avatar_coordinate",
+        "resourceId": 25,
         "resourceQuantity": 1
       }
     ]
