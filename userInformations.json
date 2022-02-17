@@ -1,16 +1,39 @@
 [
   {
+    "id": 1,
+    "seq": 10000,
+    "informationType": "normal",
+    "informationTag": "campaign",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Release Celebration Campaign now on!",
+    "path": "information/index.html?id=information_release_MhUWhVWU",
+    "startAt": 1638914400000,
+    "bannerAssetbundleName": "banner_loginBonus1"
+  },
+  {
+    "id": 2,
+    "seq": 99996,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Contacting Customer Support",
+    "path": "information/index.html?id=application_trouble",
+    "startAt": 1638914400000
+  },
+  {
     "id": 3,
     "seq": 9970,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "「リリース記念バーチャルライブ」開催！",
+    "title": "Check out the Welcome Show!",
     "path": "information/index.html?id=virtualLive_release_8MZJ83Wf",
-    "startAt": 1601467200000,
-    "endAt": 1602237599000,
-    "bannerAssetbundleName": "banner_virtuallive1"
+    "startAt": 1633384800000,
+    "endAt": 1634680799000,
+    "bannerAssetbundleName": "banner_welcomelive"
   },
   {
     "id": 4,
@@ -21,21 +44,8 @@
     "platform": "all",
     "title": "プロジェクトセカイ公式サイト",
     "path": "https://www.colorfulstage.com/",
-    "startAt": 1601424000000,
+    "startAt": 1601452800000,
     "bannerAssetbundleName": "content_banner_pjsekai_site_en"
-  },
-  {
-    "id": 5,
-    "seq": 9990,
-    "informationType": "normal",
-    "informationTag": "campaign",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「みんなでバーチャルライブを楽しもうキャンペーン」開催！",
-    "path": "information/index.html?id=campaign_privateroom_HBfCVxBc",
-    "startAt": 1601467200000,
-    "endAt": 1602237599000,
-    "bannerAssetbundleName": "banner_cp1"
   },
   {
     "id": 6,
@@ -46,7 +56,7 @@
     "platform": "all",
     "title": "公式Twitter",
     "path": "https://twitter.com/ColorfulStageEN",
-    "startAt": 1601424000000,
+    "startAt": 1601452800000,
     "bannerAssetbundleName": "content_banner_pjsekai_twitter_en"
   },
   {
@@ -56,10 +66,10 @@
     "informationTag": "campaign",
     "browseType": "internal",
     "platform": "all",
-    "title": "「20日連続！毎日楽曲追加キャンペーン」開催！",
+    "title": "39 Days of New Music Campaign!(Updated: 12/17, 06:00 PST)",
     "path": "information/index.html?id=campaign_20daymusic_YXj8YrsR",
-    "startAt": 1601467200000,
-    "endAt": 1603238399000,
+    "startAt": 1639749600000,
+    "endAt": 1642373999000,
     "bannerAssetbundleName": "banner_cp2"
   },
   {
@@ -69,23 +79,23 @@
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「バーチャル・シンガー限定ガチャ」開催！",
+    "title": "VIRTUAL SINGER Limited Gacha!",
     "path": "information/index.html?id=gacha_virtualsinger_YD8tLLN4",
-    "startAt": 1601467200000,
-    "endAt": 1602255599000,
+    "startAt": 1638914400000,
+    "endAt": 1639695599000,
     "bannerAssetbundleName": "banner_gacha3"
   },
   {
     "id": 9,
-    "seq": 9960,
+    "seq": 102,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「リリース記念ガチャ」開催！",
+    "title": "Don't miss the Release Celebration Gacha!",
     "path": "information/index.html?id=gacha_release_KNLK48Be",
-    "startAt": 1601467200000,
-    "endAt": 1604188799000,
+    "startAt": 1638914400000,
+    "endAt": 1639695599000,
     "bannerAssetbundleName": "banner_gacha1"
   },
   {
@@ -95,23 +105,10 @@
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "お得なセットとプレミアムミッションパスについてのご案内",
+    "title": "Special Bundles/Premium Mission Pass",
     "path": "information/index.html?id=shop_lineup_OY5w9Tr5",
-    "startAt": 1601467200000,
-    "endAt": 1604188799000,
-    "bannerAssetbundleName": "banner_beta_shopsetappeal"
-  },
-  {
-    "id": 11,
-    "seq": 9930,
-    "informationType": "normal",
-    "informationTag": "campaign",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「100万人突破記念ログインキャンペーン」開催について",
-    "path": "information/index.html?id=loginbonus_100_anniversary_notice_Y6Hu9I2O",
-    "startAt": 1601640000000,
-    "endAt": 1601726399000
+    "startAt": 1639126200000,
+    "endAt": 1641628799000
   },
   {
     "id": 12,
@@ -122,180 +119,179 @@
     "platform": "all",
     "title": "「HAPPY BIRTHDAYライブ 遥」開催について",
     "path": "information/index.html?id=virtualLive_8_KME5U2rQ",
-    "startAt": 1601737200000,
-    "endAt": 1601996399000,
+    "startAt": 1633384800000,
+    "endAt": 1633496399000,
     "bannerAssetbundleName": "banner_virtuallive8"
   },
   {
     "id": 13,
-    "seq": 9855,
+    "seq": 1999,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "予告、イベント「雨上がりの一番星」開催について",
+    "title": "[Announcement] First Star After the Rain",
     "path": "information/index.html?id=event_notice_1_RYWkGf3C",
-    "startAt": 1602169200000,
-    "endAt": 1602255599000
+    "startAt": 1638914400000,
+    "endAt": 1639004399000
   },
   {
     "id": 14,
-    "seq": 9846,
+    "seq": 1998,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "\"The First Star after the Rain\" Event!",
+    "title": "Event, First Star After the Rain, now on!",
     "path": "information/index.html?id=event_held_1_HQEQ8HAL",
-    "startAt": 1626188400000,
-    "endAt": 1632603599000,
+    "startAt": 1639004400000,
+    "endAt": 1639717199000,
     "bannerAssetbundleName": "banner_event1"
   },
   {
     "id": 15,
-    "seq": 9844,
+    "seq": 1997,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "\"Memories of a Starry Night Sky Gacha\" Held!",
+    "title": "Starry Night Memories Gacha, available now!",
     "path": "information/index.html?id=gacha_4_Gl7tLTN3",
-    "startAt": 1626188400000,
-    "endAt": 1632754799000,
+    "startAt": 1639004400000,
+    "endAt": 1639695599000,
     "bannerAssetbundleName": "banner_gacha4"
   },
   {
-    "id": 17,
-    "seq": 9915,
+    "id": 16,
+    "seq": 99999,
     "informationType": "normal",
-    "informationTag": "campaign",
+    "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "「100万人突破記念ログインキャンペーン」開催！",
-    "path": "information/index.html?id=loginbonus_100_anniversary_held_Ki86He3P",
-    "startAt": 1601726400000,
-    "endAt": 1602302399000,
-    "bannerAssetbundleName": "banner_100_anniversary"
+    "title": "Beginner's Guide",
+    "path": "information/index.html?id=beginners_guide_YoK7T5Re",
+    "startAt": 1638914400000,
+    "bannerAssetbundleName": "banner_beginners_guide"
   },
   {
     "id": 18,
-    "seq": 9940,
+    "seq": 5999,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「アスノヨゾラ哨戒班」追加！",
+    "title": "New song, Night Sky Patrol of Tomorrow, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music01_RLk9Mmga",
-    "startAt": 1601564400000,
-    "endAt": 1601823599000
+    "startAt": 1639004400000,
+    "endAt": 1639263599000
   },
   {
     "id": 19,
-    "seq": 9920,
+    "seq": 5998,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「ニア」追加！",
+    "title": "New song, Near, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music02_jsT9CWFx",
-    "startAt": 1601650800000,
-    "endAt": 1601909999000
+    "startAt": 1639090800000,
+    "endAt": 1639349999000
   },
   {
     "id": 20,
-    "seq": 9910,
+    "seq": 5997,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「Just Be Friends」追加！",
+    "title": "New song, Just Be Friends, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music03_h2i3aERw",
-    "startAt": 1601737200000,
-    "endAt": 1601996399000
+    "startAt": 1639177200000,
+    "endAt": 1639436399000
   },
   {
     "id": 21,
-    "seq": 9900,
+    "seq": 5996,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「脱法ロック」追加！",
+    "title": "New song, Law-evading Rock, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music04_upc3my5T",
-    "startAt": 1601823600000,
-    "endAt": 1602082799000
+    "startAt": 1639263600000,
+    "endAt": 1639522799000
   },
   {
     "id": 22,
-    "seq": 9890,
+    "seq": 5995,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「命に嫌われている」追加！",
+    "title": "New song, Hated by Life, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music05_BEVhV5gs",
-    "startAt": 1601910000000,
-    "endAt": 1602169199000
+    "startAt": 1639350000000,
+    "endAt": 1639609199000
   },
   {
     "id": 23,
-    "seq": 9880,
+    "seq": 5994,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「ワールドイズマイン」追加！",
+    "title": "New song, The World is Mine, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music06_rpCdHf9u",
-    "startAt": 1601996400000,
-    "endAt": 1602255599000
+    "startAt": 1639436400000,
+    "endAt": 1639695599000
   },
   {
     "id": 24,
-    "seq": 9870,
+    "seq": 5985,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「ダンスロボットダンス」追加！",
+    "title": "New song, Dance Robot Dance, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music07_sNMwtMgX",
-    "startAt": 1602082800000,
-    "endAt": 1602341999000
+    "startAt": 1640214000000,
+    "endAt": 1640473199000
   },
   {
     "id": 25,
-    "seq": 9860,
+    "seq": 5990,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「Hand in Hand」追加！",
+    "title": "New song, Hand in Hand, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music08_B4P4rBaB",
-    "startAt": 1602169200000,
-    "endAt": 1602428399000
+    "startAt": 1639782000000,
+    "endAt": 1640041199000
   },
   {
     "id": 26,
-    "seq": 9850,
+    "seq": 5989,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「夜咄ディセイブ」追加！",
+    "title": "New song, Yobanashi Deceive, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music09_bEfH6fTi",
-    "startAt": 1602255600000,
-    "endAt": 1602514799000
+    "startAt": 1639868400000,
+    "endAt": 1640127599000
   },
   {
     "id": 27,
-    "seq": 9840,
+    "seq": 5988,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「Gimme×Gimme」追加！",
+    "title": "New song, Gimme×Gimme, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music10_VWgARrXe",
-    "startAt": 1602342000000,
-    "endAt": 1602601199000
+    "startAt": 1639954800000,
+    "endAt": 1640213999000
   },
   {
     "id": 28,
@@ -304,58 +300,58 @@
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「ビバハピ」追加！",
+    "title": "New song, Viva Happy, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music11_cay7HGNR",
-    "startAt": 1602428400000,
-    "endAt": 1602687599000
+    "startAt": 1640041200000,
+    "endAt": 1640300399000
   },
   {
     "id": 29,
-    "seq": 9820,
+    "seq": 5987,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「ジャンキーナイトタウンオーケストラ」追加！",
+    "title": "New song, junky nighttown orchestra, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music12_dGVTRCEY",
-    "startAt": 1602514800000,
-    "endAt": 1602773999000
+    "startAt": 1640127600000,
+    "endAt": 1640386799000
   },
   {
     "id": 30,
-    "seq": 9810,
+    "seq": 5992,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「ミラクルペイント」追加！",
+    "title": "New song, Miracle Paint, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music13_V33g5JYY",
-    "startAt": 1602601200000,
-    "endAt": 1602860399000
+    "startAt": 1639609200000,
+    "endAt": 1639868399000
   },
   {
     "id": 31,
-    "seq": 9800,
+    "seq": 5984,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「on the rocks」追加！",
+    "title": "New song, on the rock, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music14_4FVdhsf5",
-    "startAt": 1602687600000,
-    "endAt": 1602946799000
+    "startAt": 1640300400000,
+    "endAt": 1640559599000
   },
   {
     "id": 32,
-    "seq": 9790,
+    "seq": 5983,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「携帯恋話」追加！",
+    "title": "New song, Cellphone Love Story, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music15_BrEJ5gCZ",
-    "startAt": 1602774000000,
-    "endAt": 1603033199000
+    "startAt": 1640386800000,
+    "endAt": 1640645999000
   },
   {
     "id": 33,
@@ -364,10 +360,10 @@
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「39みゅーじっく！」追加！",
+    "title": "New song, 39Music!, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music16_eVYtxKEQ",
-    "startAt": 1602860400000,
-    "endAt": 1603119599000
+    "startAt": 1640473200000,
+    "endAt": 1640732399000
   },
   {
     "id": 34,
@@ -376,70 +372,58 @@
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「青く駆けろ！」追加！",
+    "title": "New song, Aoku Kakero!, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music17_Ux7h9QiL",
-    "startAt": 1602946800000,
-    "endAt": 1603205999000
+    "startAt": 1640559600000,
+    "endAt": 1640818799000
   },
   {
     "id": 35,
-    "seq": 9760,
+    "seq": 5993,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「ステラ」追加！",
+    "title": "New song, Stella, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music18_642Gjc3H",
-    "startAt": 1603058700000,
-    "endAt": 1603292399000
+    "startAt": 1639548300000,
+    "endAt": 1639781999000
   },
   {
     "id": 36,
-    "seq": 9750,
+    "seq": 5982,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「Leia - Remind」追加！",
+    "title": "New song, Leia - Remind, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music19_sTcD3z4c",
-    "startAt": 1603119600000,
-    "endAt": 1603378799000
+    "startAt": 1640646000000,
+    "endAt": 1640905199000
   },
   {
     "id": 37,
-    "seq": 9740,
+    "seq": 5981,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「ジャックポットサッドガール」追加！",
+    "title": "New song, Jack Pot Sad Girl, now available!",
     "path": "information/index.html?id=campaign_20daymusic_add_music20_X2jWWs89",
-    "startAt": 1603206000000,
-    "endAt": 1603465199000
-  },
-  {
-    "id": 38,
-    "seq": 9998,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "iOS",
-    "title": "【9月30日17時30分追記】【重要】「プロセカ」再インストール時の注意点について",
-    "path": "information/index.html?id=bug_apple_20200930_Ue83Y63L",
-    "startAt": 1601487000000,
-    "endAt": 1601632800000
+    "startAt": 1639695600000,
+    "endAt": 1639954799000
   },
   {
     "id": 39,
-    "seq": 9945,
+    "seq": 99000,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "正式サービス開始！",
+    "title": "Now Available!",
     "path": "information/index.html?id=information_release_new_ijK4Y5Tr",
-    "startAt": 1601467200000,
-    "endAt": 1605844799000,
+    "startAt": 1638914400000,
+    "endAt": 1644235199000,
     "bannerAssetbundleName": "banner_sekairelease"
   },
   {
@@ -451,44 +435,8 @@
     "platform": "all",
     "title": "【9月30日23時00分追記】正式サービス開始の遅延と緊急メンテナンスのお詫びについて",
     "path": "information/index.html?id=information_maintenance_end_20200930_iKu5T4eW",
-    "startAt": 1601506800000,
-    "endAt": 1602115199000
-  },
-  {
-    "id": 41,
-    "seq": 9994,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【9月30日23時00分追記】タイトル画面で「マスタデータの保存に失敗しました。」と表示されログインできない場合がある事象について",
-    "path": "information/index.html?id=bug_20200930_1_Ui4J24Ok",
-    "startAt": 1601506800000,
-    "endAt": 1602007199000
-  },
-  {
-    "id": 42,
-    "seq": 9997,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "Android",
-    "title": "「今すぐ評価する」をタップした際の遷移先が誤っていた事象について",
-    "path": "information/index.html?id=bug_android_20200930_Ui9Y72R4",
-    "startAt": 1601487000000,
-    "endAt": 1601632800000
-  },
-  {
-    "id": 43,
-    "seq": 9995,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「みんなでライブ」のマッチングで5人揃ってもライブが開始されない場合がある",
-    "path": "information/index.html?id=bug_20200930_2_Kie8U63O",
-    "startAt": 1601503800000,
-    "endAt": 1603166399000
+    "startAt": 32495756400000,
+    "endAt": 1602143999000
   },
   {
     "id": 44,
@@ -499,56 +447,8 @@
     "platform": "all",
     "title": "「リリース記念ライブ」公演スケジュールの追加について",
     "path": "information/index.html?id=virtualLive_release_add_he729r6y",
-    "startAt": 1601506800000,
-    "endAt": 1602237599000
-  },
-  {
-    "id": 45,
-    "seq": 9993,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "アクセス障害の発生について",
-    "path": "information/index.html?id=bug_20200930_iU96Ye42",
-    "startAt": 1601506800000,
-    "endAt": 1601632800000
-  },
-  {
-    "id": 46,
-    "seq": 9990,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月30日7時00分追記】ログイン後に未読のエリア会話を読むとクリスタル所持数が「10」個多く表示される事象について",
-    "path": "information/index.html?id=bug_areaconversation_fix_Vj3ka",
-    "startAt": 1604041200000,
-    "endAt": 1604289599000
-  },
-  {
-    "id": 47,
-    "seq": 9950,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月30日7時00分追記】ライブボーナスの所持数が本来より多くなりライブが行えなくなる事象について",
-    "path": "information/index.html?id=bug_livebonus_20201001_fix_TUKFsj7",
-    "startAt": 1604041200000,
-    "endAt": 1604289599000
-  },
-  {
-    "id": 48,
-    "seq": 9970,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月30日7時00分追記】【重要】特定条件下でライブ中に獲得できるスコアが「1」になる事象について",
-    "path": "information/index.html?id=bug_livescore_20201001_fix_LKhev6",
-    "startAt": 1604041200000,
-    "endAt": 1604289599000
+    "startAt": 32495756400000,
+    "endAt": 1602266399000
   },
   {
     "id": 49,
@@ -559,8 +459,8 @@
     "platform": "all",
     "title": "本日20時より『プロジェクトセカイ リリース記念発表会』を生配信！",
     "path": "information/index.html?id=information_livebroadcast_20201002_Uer4E34k",
-    "startAt": 1601654400000,
-    "endAt": 1602237599000
+    "startAt": 32495904000000,
+    "endAt": 1602266399000
   },
   {
     "id": 50,
@@ -571,8 +471,8 @@
     "platform": "all",
     "title": "初イベント開催決定記念「ユニットランク経験値2倍キャンペーン」開催！",
     "path": "information/index.html?id=campaign_double_unitexp_20201002_Ye2O9w2c",
-    "startAt": 1601674200000,
-    "endAt": 1602237599000,
+    "startAt": 32495923800000,
+    "endAt": 1602266399000,
     "bannerAssetbundleName": "banner_cp_double_unitexp"
   },
   {
@@ -584,32 +484,8 @@
     "platform": "all",
     "title": "10月2日放送「プロジェクトセカイ リリース記念発表会」で発表された内容について",
     "path": "information/index.html?id=information_livebroadcast_02_20201002_ide7Iue09",
-    "startAt": 1601677800000,
-    "endAt": 1603238399000
-  },
-  {
-    "id": 52,
-    "seq": 9765,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月30日9時00分追記】称号「皆伝」「真・皆伝」が本来とは異なる条件で獲得できる事象について",
-    "path": "information/index.html?id=bug_honormission_20201030_LKdg",
-    "startAt": 1604048400000,
-    "endAt": 1605110399000
-  },
-  {
-    "id": 53,
-    "seq": 9940,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月6日14時00分追記】楽曲「ニア」の3DMV中の演出が一部想定と異なっている事象について",
-    "path": "information/index.html?id=bug_3dmv_20201005_K2Hu3oqw",
-    "startAt": 1601992800000,
-    "endAt": 1602612000000
+    "startAt": 32495927400000,
+    "endAt": 1603267199000
   },
   {
     "id": 54,
@@ -620,45 +496,8 @@
     "platform": "all",
     "title": "Youtube公式チャンネル",
     "path": "https://www.youtube.com/channel/UCeWCjteIDYK34E7bCZBTcLA",
-    "startAt": 1601467200000,
+    "startAt": 1601496000000,
     "bannerAssetbundleName": "content_banner_pjsekai_youtube_en"
-  },
-  {
-    "id": 55,
-    "seq": 9930,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月30日7時00分追記】未所持楽曲を「みんなでライブ」でプレイした際にクリアデータが正常に反映されない事象について",
-    "path": "information/index.html?id=bug_music_not_possessed_20201006_fix_Teq98",
-    "startAt": 1604041200000,
-    "endAt": 1604289599000
-  },
-  {
-    "id": 56,
-    "seq": 9866,
-    "informationType": "normal",
-    "informationTag": "campaign",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "予告、「150万人突破記念ログインキャンペーン」開催について",
-    "path": "information/index.html?id=loginbonus_150_anniversary_notice_Ne3T2R3e",
-    "startAt": 1602158400000,
-    "endAt": 1602244799000
-  },
-  {
-    "id": 57,
-    "seq": 9851,
-    "informationType": "normal",
-    "informationTag": "campaign",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「150万人突破記念ログインキャンペーン」開催！",
-    "path": "information/index.html?id=loginbonus_150_anniversary_held_2PleU3e4",
-    "startAt": 1602244800000,
-    "endAt": 1602820799000,
-    "bannerAssetbundleName": "banner_150_anniversary"
   },
   {
     "id": 58,
@@ -669,8 +508,8 @@
     "platform": "all",
     "title": "【10月9日11時00分追記】【重要】「v1.0.1」アップデート予定のお知らせ",
     "path": "information/index.html?id=update_v101_add_2_KEye6R2p",
-    "startAt": 1602241200000,
-    "endAt": 1603425599000
+    "startAt": 32496490800000,
+    "endAt": 1603454399000
   },
   {
     "id": 59,
@@ -681,8 +520,8 @@
     "platform": "all",
     "title": "10月中旬ユニットランクバランスアップデートのお知らせ",
     "path": "information/index.html?id=balanceupdate_unit_exp_Uei2L35R",
-    "startAt": 1602183600000,
-    "endAt": 1602613800000
+    "startAt": 32496433200000,
+    "endAt": 1602642600000
   },
   {
     "id": 60,
@@ -693,8 +532,8 @@
     "platform": "all",
     "title": "【重要】一部楽曲・難易度で高いスコアを獲得しやすい状態になっていた事象について",
     "path": "information/index.html?id=balanceupdate_long_notes_34Jek9Y3",
-    "startAt": 1602241200000,
-    "endAt": 1603238399000
+    "startAt": 32496490800000,
+    "endAt": 1603267199000
   },
   {
     "id": 61,
@@ -705,8 +544,8 @@
     "platform": "all",
     "title": "カラフルパスに関する表記、及び今後の対応について",
     "path": "information/index.html?id=colorfulpass_support_T3I5Lk23",
-    "startAt": 1602246600000,
-    "endAt": 1603798199000
+    "startAt": 32496496200000,
+    "endAt": 1603826999000
   },
   {
     "id": 62,
@@ -717,8 +556,8 @@
     "platform": "all",
     "title": "バランスアップデート：楽曲時間に対するイベントPとバッジの獲得量",
     "path": "information/index.html?id=balanceupdate_event_score_Le42Ew1P",
-    "startAt": 1602525600000,
-    "endAt": 1602539999000
+    "startAt": 32496775200000,
+    "endAt": 1602568799000
   },
   {
     "id": 63,
@@ -729,32 +568,8 @@
     "platform": "all",
     "title": "【10月12日22時00分追記】バランスアップデート：楽曲時間に対するイベントPとバッジの獲得量",
     "path": "information/index.html?id=balanceupdate_event_score_add_P2deW50q",
-    "startAt": 1602540000000,
-    "endAt": 1603231200000
-  },
-  {
-    "id": 64,
-    "seq": 9920,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月30日7時00分追記】｢_(アンダーバー)｣が含まれる｢TwitterID｣をプレイヤープロフィールに登録すると｢_｣が消えてしまう事象について",
-    "path": "information/index.html?id=bug_twitter_20201012_fix_j4Pefrb",
-    "startAt": 1604041200000,
-    "endAt": 1604289599000
-  },
-  {
-    "id": 65,
-    "seq": 9910,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月30日7時00分追記】｢暁山瑞希｣が｢1年生キャラクター5人を編成して100回ライブしよう。｣の対象にならない事象について",
-    "path": "information/index.html?id=bug_firstgrade_20201012_fix_XRCDwqsil",
-    "startAt": 1604041200000,
-    "endAt": 1604289599000
+    "startAt": 32496789600000,
+    "endAt": 1603260000000
   },
   {
     "id": 66,
@@ -765,94 +580,57 @@
     "platform": "all",
     "title": "バランスアップデートに伴うメンテナンス実施のお知らせ",
     "path": "information/index.html?id=information_maintenance_20201013_Leo1Tw31",
-    "startAt": 1602540000000,
-    "endAt": 1602613800000
+    "startAt": 32496789600000,
+    "endAt": 1602642600000
   },
   {
     "id": 67,
-    "seq": 9700,
+    "seq": 1996,
     "informationType": "normal",
-    "informationTag": "information",
+    "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "予告、イベント「囚われのマリオネット」開催について",
+    "title": "[Announcement] Imprisoned Marionette",
     "path": "information/index.html?id=event_2_notice_RYWkGf3C",
-    "startAt": 1603119600000,
-    "endAt": 1603205999000
+    "startAt": 1639609200000,
+    "endAt": 1639695599000
   },
   {
     "id": 68,
-    "seq": 9690,
+    "seq": 1995,
     "informationType": "normal",
-    "informationTag": "information",
+    "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "イベント「囚われのマリオネット」開催！",
+    "title": "Event, Imprisoned Marionette, now on!",
     "path": "information/index.html?id=event_2_held_HQEQ8HAL",
-    "startAt": 1603206000000,
-    "endAt": 1604782799000,
+    "startAt": 1639695600000,
+    "endAt": 1640235599000,
     "bannerAssetbundleName": "event_jackpod_2020"
   },
   {
     "id": 69,
-    "seq": 9680,
+    "seq": 1994,
     "informationType": "normal",
-    "informationTag": "information",
+    "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「人形達の舞踏会ガチャ」開催！",
+    "title": "Ball of the Marionettes Gacha, available now!",
     "path": "information/index.html?id=gacha_4_4Yw8Pm2w",
-    "startAt": 1603206000000,
-    "endAt": 1606748399000,
+    "startAt": 1639695600000,
+    "endAt": 1640386799000,
     "bannerAssetbundleName": "banner_gacha5"
   },
   {
-    "id": 71,
-    "seq": 9900,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「ミラクルペイント」セカイver.を選択した際に、Vo.メンバーに「初音ミク」が含まれていない事象について",
-    "path": "information/index.html?id=bug_miraclepaint_20201013_2H3o6Tw1",
-    "startAt": 1602601200000,
-    "endAt": 1602842399000
-  },
-  {
-    "id": 72,
-    "seq": 9806,
+    "id": 70,
+    "seq": 99997,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "【10月13日18時30分追記】バランスアップデートに伴うメンテナンス実施のお知らせ",
-    "path": "information/index.html?id=information_maintenance_end_20201013_Uega3O2w",
-    "startAt": 1602613800000,
-    "endAt": 1603166399000
-  },
-  {
-    "id": 73,
-    "seq": 9808,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月13日18時30分追記】10月中旬ユニットランクバランスアップデートのお知らせ",
-    "path": "information/index.html?id=balanceupdate_unit_exp_add_le1O4r9qd",
-    "startAt": 1602613800000,
-    "endAt": 1602820799000
-  },
-  {
-    "id": 74,
-    "seq": 9787,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「スイートマジック」のセカイVer.をプレイした際に、想定と異なる事象が発生していた件について",
-    "path": "information/index.html?id=bug_sweetmagic_20201016_2Uie29Pl",
-    "startAt": 1602842400000,
-    "endAt": 1603079999000
+    "title": "Regarding violations of the Terms of use",
+    "path": "information/index.html?id=information_ban_notice_20201013_Oe2Rqwvd",
+    "startAt": 1638914400000
   },
   {
     "id": 75,
@@ -863,8 +641,8 @@
     "platform": "all",
     "title": "10月23日20時より「プロジェクトセカイ　ワンダショちゃんねる」を生配信！",
     "path": "information/index.html?id=info_livebroadcast_20201023_we34P9ls",
-    "startAt": 1603292400000,
-    "endAt": 1603486799000,
+    "startAt": 32497542000000,
+    "endAt": 1603515599000,
     "bannerAssetbundleName": "banner_livebroadcast_20201023"
   },
   {
@@ -876,8 +654,8 @@
     "platform": "all",
     "title": "「公式Twitterフォローキャンペーン」のお知らせ",
     "path": "information/index.html?id=cp_twitterfollow_20201023_Ne1P4q9L",
-    "startAt": 1603485000000,
-    "endAt": 1604491199000,
+    "startAt": 32497734600000,
+    "endAt": 1604519999000,
     "bannerAssetbundleName": "banner_cp3"
   },
   {
@@ -889,8 +667,8 @@
     "platform": "all",
     "title": "10月23日放送「プロジェクトセカイ　ワンダショちゃんねる#1」で発表された内容について",
     "path": "information/index.html?id=info_livebroadcast_summary_20201023_we34P9ls",
-    "startAt": 1603488600000,
-    "endAt": 1608004799000
+    "startAt": 32497738200000,
+    "endAt": 1608033599000
   },
   {
     "id": 78,
@@ -901,8 +679,8 @@
     "platform": "all",
     "title": "予告、「200万人突破記念ログインキャンペーン」開催について",
     "path": "information/index.html?id=loginbonus_200_anniversary_notice_87eRqp3e",
-    "startAt": 1603281600000,
-    "endAt": 1603367999000
+    "startAt": 32497531200000,
+    "endAt": 1603396799000
   },
   {
     "id": 79,
@@ -913,33 +691,21 @@
     "platform": "all",
     "title": "「200万人突破記念ログインキャンペーン」開催！",
     "path": "information/index.html?id=loginbonus_200_anniversary_held_Kle1P2yw",
-    "startAt": 1603368000000,
-    "endAt": 1603943999000,
+    "startAt": 32497617600000,
+    "endAt": 1603972799000,
     "bannerAssetbundleName": "banner_200_anniversary"
   },
   {
-    "id": 80,
-    "seq": 9880,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月30日7時00分追記】「Bluetoothイヤホン」を接続した状態でライブをプレイすると最後までプレイできないことがある事象について",
-    "path": "information/index.html?id=bug_Bluetooth_20201014_fix_YCDeql",
-    "startAt": 1604041200000,
-    "endAt": 1604289599000
-  },
-  {
     "id": 81,
-    "seq": 9610,
+    "seq": 5979,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「メルティランドナイトメア」追加！",
+    "title": "New song, Melty Land Nightmare, now available!",
     "path": "information/index.html?id=info_add_music_20201025_Lk3O1q0U",
-    "startAt": 1603638000000,
-    "endAt": 1603897199000
+    "startAt": 1640732400000,
+    "endAt": 1640991599000
   },
   {
     "id": 82,
@@ -950,21 +716,9 @@
     "platform": "all",
     "title": "「HAPPY BIRTHDAYライブ 穂波」開催について",
     "path": "information/index.html?id=virtualLive_11_Lw12Oq1U2",
-    "startAt": 1603638000000,
-    "endAt": 1603897199000,
+    "startAt": 32497887600000,
+    "endAt": 1603925999000,
     "bannerAssetbundleName": "banner_virtuallive11"
-  },
-  {
-    "id": 83,
-    "seq": 9875,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月16日10時00分追記】「ミラクルペイント」セカイver.を選択した際に、Vo.メンバーに「初音ミク」が含まれていない事象について",
-    "path": "information/index.html?id=bug_miraclepaint_end_20201016_LEo1S03I",
-    "startAt": 1602842400000,
-    "endAt": 1603079999000
   },
   {
     "id": 84,
@@ -975,8 +729,8 @@
     "platform": "all",
     "title": "【重要】「雨上がりの一番星アフターライブ」公演スケジュール追加のお知らせ",
     "path": "information/index.html?id=info_stella_virtuallive_expansion_20201016_4RpwW0q1",
-    "startAt": 1602799200000,
-    "endAt": 1603292399000
+    "startAt": 32497048800000,
+    "endAt": 1603321199000
   },
   {
     "id": 85,
@@ -987,32 +741,8 @@
     "platform": "all",
     "title": "バランスアップデート：イベント交換所のアイテム",
     "path": "information/index.html?id=balanceupdate_exchange_shop_20201016_e3RwPq12",
-    "startAt": 1602849600000,
-    "endAt": 1603166399000
-  },
-  {
-    "id": 86,
-    "seq": 9786,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「39みゅーじっく！」の難易度MASTERで反応しないリズムノーツがある事象について",
-    "path": "information/index.html?id=bug_39music_note_20201016_GUw3r9",
-    "startAt": 1602864600000,
-    "endAt": 1602879599000
-  },
-  {
-    "id": 87,
-    "seq": 9786,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月16日20時20分追記】「39みゅーじっく！」の難易度MASTERで反応しないリズムノーツがある事象について",
-    "path": "information/index.html?id=bug_39music_note_fix_20201016_ILU8yu",
-    "startAt": 1602879600000,
-    "endAt": 1603138800000
+    "startAt": 32497099200000,
+    "endAt": 1603195199000
   },
   {
     "id": 88,
@@ -1023,20 +753,8 @@
     "platform": "all",
     "title": "【重要】イベント終了後の「雨上がりの一番星」ストーリーについて",
     "path": "information/index.html?id=info_stella_story_heads_up_20201017_4hui21q",
-    "startAt": 1602936000000,
-    "endAt": 1603292399000
-  },
-  {
-    "id": 89,
-    "seq": 9785,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「青く駆けろ！」で獲得できるイベントPが想定と異なっていた事象について",
-    "path": "information/index.html?id=bug_aokukakero_time_fix_20201017_JKH34oi",
-    "startAt": 1602951600000,
-    "endAt": 1603210800000
+    "startAt": 32497185600000,
+    "endAt": 1603321199000
   },
   {
     "id": 90,
@@ -1047,20 +765,20 @@
     "platform": "all",
     "title": "【10月19日19時10分追記】緊急メンテナンスのお詫びと「雨上がりの一番星アフターライブ」追加公演開催について",
     "path": "information/index.html?id=info_maintenance_end_20201019_Leid1hd0w",
-    "startAt": 1603134600000,
-    "endAt": 1603339199000
+    "startAt": 32497384200000,
+    "endAt": 1603367999000
   },
   {
     "id": 91,
-    "seq": 9620,
+    "seq": 3998,
     "informationType": "normal",
     "informationTag": "campaign",
     "browseType": "internal",
     "platform": "all",
-    "title": "「ハッピーハロウィンログインキャンペーン」開催！",
+    "title": "Halloween Login Campaign, now on!",
     "path": "information/index.html?id=loginbonus_happy_halloween_2020_held_W1ps2L9M",
-    "startAt": 1603627200000,
-    "endAt": 1604721599000,
+    "startAt": 1640376000000,
+    "endAt": 1641124799000,
     "bannerAssetbundleName": "banner_happy_halloween_2020"
   },
   {
@@ -1072,8 +790,8 @@
     "platform": "all",
     "title": "「プレミアムミッションパス」リニューアルのお知らせ",
     "path": "information/index.html?id=premium_pass_renewal_20201029_he28fw9i",
-    "startAt": 1603994400000,
-    "endAt": 1606780799000
+    "startAt": 32498244000000,
+    "endAt": 1606809599000
   },
   {
     "id": 93,
@@ -1084,80 +802,20 @@
     "platform": "all",
     "title": "「ビバハピ」オリジナル2DMV追加のお知らせ",
     "path": "information/index.html?id=info_bibahapi_2dmv_add_20201020_dh28Oeqp",
-    "startAt": 1603204200000,
-    "endAt": 1603425599000
-  },
-  {
-    "id": 94,
-    "seq": 9780,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月30日7時00分追記】イベントTOP上部に表示されている所持バッジ数の表示が正しい表示にならない場合がある事象について",
-    "path": "information/index.html?id=bug_exchange_shop_20201020_fix_dKegif",
-    "startAt": 1604041200000,
-    "endAt": 1604289599000
-  },
-  {
-    "id": 95,
-    "seq": 9770,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月20日20時30分追記】「ジャックポットサッドガール」の難易度MASTERで反応しないリズムノーツがある事象について",
-    "path": "information/index.html?id=bug_jackpod_master_20201020_9U8eke2F",
-    "startAt": 1603225800000,
-    "endAt": 1603425599000
-  },
-  {
-    "id": 96,
-    "seq": 9760,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月20日20時30分追記】「ライブボーナスドリンク(小)」を所持しているとライブボーナス回復時に「通信エラー」となる場合がある事象について",
-    "path": "information/index.html?id=bug_liveboost_20201020_Jke1Pe34",
-    "startAt": 1603225800000,
-    "endAt": 1603425599000
-  },
-  {
-    "id": 97,
-    "seq": 9750,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月20日20時30分追記】「囚われのマリオネット」イベント交換所の「コイン×10」を交換すると「通信エラー」となる事象について",
-    "path": "information/index.html?id=bug_exchange_coin_20201020_Liefw453",
-    "startAt": 1603225800000,
-    "endAt": 1603425599000
-  },
-  {
-    "id": 98,
-    "seq": 9740,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "一部のバーチャルライブで応援Pの獲得ができなかった事象について",
-    "path": "information/index.html?id=bug_virtualLive_point_20201021_H92sEmeq",
-    "startAt": 1603303200000,
-    "endAt": 1603511999000
+    "startAt": 32497453800000,
+    "endAt": 1603454399000
   },
   {
     "id": 99,
-    "seq": 9625,
+    "seq": 3999,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "予告、「ハッピーハロウィンログインキャンペーン」開催について",
+    "title": "[Announcement] Halloween Login Campaign",
     "path": "information/index.html?id=loginbonus_happy_halloween_2020_notice_W1ps2L9M",
-    "startAt": 1603540800000,
-    "endAt": 1603627199000
+    "startAt": 1640300400000,
+    "endAt": 1640375999000
   },
   {
     "id": 100,
@@ -1168,21 +826,21 @@
     "platform": "all",
     "title": "「ジャックポットサッドガール」2DMV追加のお知らせ",
     "path": "information/index.html?id=info_jackpod_2dmv_add_20201023_Iege73T1",
-    "startAt": 1603900800000,
-    "endAt": 1604203199000
+    "startAt": 32498150400000,
+    "endAt": 1604231999000
   },
   {
     "id": 101,
-    "seq": 9580,
+    "seq": 2999,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "「ハロウィン2020ライブ」開催について",
+    "title": "Halloween Show 2021",
     "path": "information/index.html?id=virtualLive_12_Ple2Uz0E",
-    "startAt": 1603983600000,
-    "endAt": 1604329199000,
-    "bannerAssetbundleName": "banner_virtuallive12"
+    "startAt": 1640214000000,
+    "endAt": 1640559599000,
+    "bannerAssetbundleName": "banner_virtuallive12_en"
   },
   {
     "id": 102,
@@ -1193,8 +851,8 @@
     "platform": "all",
     "title": "メンテナンスの実施及び「v1.1.0」アップデートのご案内",
     "path": "information/index.html?id=update_v110_Pe18Ue6r",
-    "startAt": 1603488600000,
-    "endAt": 1604034000000
+    "startAt": 32497738200000,
+    "endAt": 1604062800000
   },
   {
     "id": 103,
@@ -1205,46 +863,46 @@
     "platform": "all",
     "title": "バーチャルライブ「ウェルカムライブ」臨時開催のお知らせ",
     "path": "information/index.html?id=welcomeLive_20201030_Ke3o4Dam",
-    "startAt": 1604070000000,
-    "endAt": 1608004799000
+    "startAt": 32498319600000,
+    "endAt": 1608033599000
   },
   {
     "id": 104,
-    "seq": 9520,
+    "seq": 1993,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "予告、イベント「全力！ワンダーハロウィン！」開催について",
+    "title": "[Announcement] It's On! Wonder Halloween!",
     "path": "information/index.html?id=event_3_notice_Oeg1Ue5w",
-    "startAt": 1604070000000,
-    "endAt": 1604156399000
+    "startAt": 1640300400000,
+    "endAt": 1640386799000
   },
   {
     "id": 105,
-    "seq": 9400,
+    "seq": 1992,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "イベント「全力！ワンダーハロウィン！」開催！",
+    "title": "Event, It's On! Wonder Halloween!, now on!",
     "path": "information/index.html?id=event_3_held_Fk2Le8Wd",
-    "startAt": 1604156400000,
-    "endAt": 1605646799000,
-    "bannerAssetbundleName": "banner_news_event3_Leg12If3"
+    "startAt": 1640386800000,
+    "endAt": 1640926799000,
+    "bannerAssetbundleName": "banner_event3"
   },
   {
     "id": 106,
-    "seq": 9390,
+    "seq": 1991,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「ジェントル★ポテトスターガチャ」開催！",
+    "title": "Gentle★Potato Star Gacha, available now!",
     "path": "information/index.html?id=gacha_6_L2He96Rg",
-    "startAt": 1604156400000,
-    "endAt": 1607612399000,
-    "bannerAssetbundleName": "banner_news_gacha6_2eg7egCv"
+    "startAt": 1640386800000,
+    "endAt": 1641077999000,
+    "bannerAssetbundleName": "banner_gacha6"
   },
   {
     "id": 107,
@@ -1255,20 +913,20 @@
     "platform": "all",
     "title": "10月31日25時よりWEBラジオ「25時、ナイトラジオで。#1」を配信！",
     "path": "information/index.html?id=info_webradio_20201031_feni83fe",
-    "startAt": 1604059200000,
-    "endAt": 1604548799000
+    "startAt": 32498308800000,
+    "endAt": 1604577599000
   },
   {
     "id": 108,
-    "seq": 9380,
+    "seq": 5961,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「乙女解剖」追加！",
+    "title": "New song, Otome Dissection, now available!",
     "path": "information/index.html?id=info_add_music_20201101_Re32Po98",
-    "startAt": 1604242800000,
-    "endAt": 1605067199000
+    "startAt": 1642201200000,
+    "endAt": 1642460399000
   },
   {
     "id": 109,
@@ -1277,24 +935,24 @@
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "「HAPPY ANNIVERSARYライブ MEIKO」開催について",
+    "title": "MEIKO's Anniversary Show (Recording)",
     "path": "information/index.html?id=virtualLive_14_Lw12Oq1U2",
-    "startAt": 1604415600000,
-    "endAt": 1604674799000,
-    "bannerAssetbundleName": "banner_news_virtuallive14_Wdo1Dx8m"
+    "startAt": 1640559600000,
+    "endAt": 1640905199000,
+    "bannerAssetbundleName": "banner_news_virtuallive14_en_Wdo1Dx8m"
   },
   {
     "id": 110,
-    "seq": 9360,
+    "seq": 1990,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「イベントメンバー出現率UPガチャ」開催！",
+    "title": "Event Character Boosted Rate Gacha, available now!",
     "path": "information/index.html?id=gacha_8_Lee2U8n5",
-    "startAt": 1604502000000,
-    "endAt": 1604782799000,
-    "bannerAssetbundleName": "banner_news_gacha8_A2i9L2hm"
+    "startAt": 1640559600000,
+    "endAt": 1640926799000,
+    "bannerAssetbundleName": "banner_news_gacha8_en_A2i9L2hm"
   },
   {
     "id": 111,
@@ -1305,8 +963,8 @@
     "platform": "all",
     "title": "10/27メンテナンス完了とお礼の配布について",
     "path": "information/index.html?id=info_maintenance_end_20201027_Oer1Wv94",
-    "startAt": 1603798200000,
-    "endAt": 1604375999000
+    "startAt": 32498047800000,
+    "endAt": 1604404799000
   },
   {
     "id": 112,
@@ -1317,32 +975,20 @@
     "platform": "all",
     "title": "【10月27日11時30分追記】カラフルパスに関する表記、及び今後の対応について",
     "path": "information/index.html?id=colorfulpass_support_add_Le7q94ja",
-    "startAt": 1603798200000,
-    "endAt": 1608004799000
-  },
-  {
-    "id": 113,
-    "seq": 9770,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【10月30日7時00分追記】ジャックポットサッドガールのMVが「原曲MV」ではなく、「2DMV」の表記となっている事象について",
-    "path": "information/index.html?id=bug_jackpod_mv_20201028_fix_LKJHfgyi",
-    "startAt": 1604041200000,
-    "endAt": 1604289599000
+    "startAt": 32498047800000,
+    "endAt": 1608033599000
   },
   {
     "id": 114,
-    "seq": 9350,
+    "seq": 5977,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「potatoになっていく」追加！",
+    "title": "New song, Becoming Potatoes, now available!",
     "path": "information/index.html?id=info_add_music_20201107_Pl1J3u56",
-    "startAt": 1604786700000,
-    "endAt": 1604980799000
+    "startAt": 1640930700000,
+    "endAt": 1641164399000
   },
   {
     "id": 115,
@@ -1353,8 +999,8 @@
     "platform": "all",
     "title": "メンテナンスおよび「v1.1.0」アップデート完了のお知らせ",
     "path": "information/index.html?id=update_v110_release_KJfeiasd2",
-    "startAt": 1604043900000,
-    "endAt": 1605239999000
+    "startAt": 32498293500000,
+    "endAt": 1605268799000
   },
   {
     "id": 116,
@@ -1365,8 +1011,8 @@
     "platform": "all",
     "title": "【重要】ライブミッションの月初めリセットについて",
     "path": "information/index.html?id=livemission_reset_announce_202010_LIh3e8BJ",
-    "startAt": 1603994400000,
-    "endAt": 1604188799000
+    "startAt": 32498244000000,
+    "endAt": 1604217599000
   },
   {
     "id": 117,
@@ -1377,8 +1023,8 @@
     "platform": "all",
     "title": "11月ライブミッション開催のお知らせ",
     "path": "information/index.html?id=livemission_start_announce_202011_CeJGS67",
-    "startAt": 1604188800000,
-    "endAt": 1606780799000
+    "startAt": 32498438400000,
+    "endAt": 1606809599000
   },
   {
     "id": 118,
@@ -1389,44 +1035,20 @@
     "platform": "all",
     "title": "【クリスタル100個のお礼付き】アンケートへのご協力のお願い",
     "path": "information/index.html?id=info_questionnaire_20201031_ke2oj5s3",
-    "startAt": 1604145600000,
-    "endAt": 1604447999000
-  },
-  {
-    "id": 119,
-    "seq": 9715,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【11月25日14時30分追記】楽曲「悔やむと書いてミライ」の一部音源でリズムノーツとズレて再生される事象について",
-    "path": "information/index.html?id=bug_music_kuyamu_IUGdh2",
-    "startAt": 1606314600000,
-    "endAt": 1606535999000
-  },
-  {
-    "id": 120,
-    "seq": 9710,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【11月25日14時30分追記】バーチャルライブの応援メッセージで同じメッセージが何度も表示されてしまっている事象について",
-    "path": "information/index.html?id=bug_vlive_message_Ke2op8w3",
-    "startAt": 1606314600000,
-    "endAt": 1606535999000
+    "startAt": 32498395200000,
+    "endAt": 1604476799000
   },
   {
     "id": 121,
-    "seq": 9000,
+    "seq": 1985,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "予告、イベント「走れ！体育祭！～実行委員は大忙し～」開催について",
+    "title": "[Announcement] Run! Sports Festival! Committee Rush",
     "path": "information/index.html?id=event_4_notice_Huef2f9s",
-    "startAt": 1604847600000,
-    "endAt": 1604933999000
+    "startAt": 1641682800000,
+    "endAt": 1641769199000
   },
   {
     "id": 122,
@@ -1437,8 +1059,8 @@
     "platform": "all",
     "title": "「乙女解剖」アナザーボーカルver.追加のお知らせ",
     "path": "information/index.html?id=info_add_music_another_20201109_Te5pH8ee",
-    "startAt": 1604925000000,
-    "endAt": 1605153599000
+    "startAt": 32499174600000,
+    "endAt": 1605182399000
   },
   {
     "id": 123,
@@ -1449,47 +1071,47 @@
     "platform": "all",
     "title": "「potatoになっていく」バーチャル・シンガーver.追加のお知らせ",
     "path": "information/index.html?id=info_add_music_virtualsiger_20201109_4Reew65F",
-    "startAt": 1604925000000,
-    "endAt": 1605153599000
+    "startAt": 32499174600000,
+    "endAt": 1605182399000
   },
   {
     "id": 124,
-    "seq": 8940,
+    "seq": 1984,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "イベント「走れ！体育祭！～実行委員は大忙し～」開催！",
+    "title": "Event, Run! Sports Festival! Committee Rush",
     "path": "information/index.html?id=event_4_held_OI5dee8Y",
-    "startAt": 1604934000000,
-    "endAt": 1606597199000,
-    "bannerAssetbundleName": "banner_news_event4_fwe4a42P"
+    "startAt": 1641769200000,
+    "endAt": 1642309199000,
+    "bannerAssetbundleName": "banner_news_event4_en_fwe4a42P"
   },
   {
     "id": 125,
-    "seq": 8920,
+    "seq": 1983,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「げんきはつらつ♪応援団ガチャ」開催！",
+    "title": "Ever Energetic♪ Cheer Squad Gacha, available now!",
     "path": "information/index.html?id=gacha_9_f5eYegf3",
-    "startAt": 1604934000000,
-    "endAt": 1608389999000,
-    "bannerAssetbundleName": "banner_news_gacha9_gjs2t37L"
+    "startAt": 1641769200000,
+    "endAt": 1642460399000,
+    "bannerAssetbundleName": "banner_news_gacha9_en_gjs2t37L"
   },
   {
     "id": 126,
-    "seq": 8900,
+    "seq": 2503,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "「HAPPY BIRTHDAYライブ 彰人」開催について",
+    "title": "Akito's Birthday Show (Recording)",
     "path": "information/index.html?id=virtualLive_36_Jie8UeP9",
-    "startAt": 1605020400000,
-    "endAt": 1605279599000,
-    "bannerAssetbundleName": "banner_news_virtuallive36_9ger82gh2"
+    "startAt": 1641855600000,
+    "endAt": 1642114799000,
+    "bannerAssetbundleName": "banner_news_virtuallive36_en_9ger82gh2"
   },
   {
     "id": 127,
@@ -1500,33 +1122,33 @@
     "platform": "all",
     "title": "11月14日25時よりWEBラジオ「25時、ナイトラジオで。#2」を配信！",
     "path": "information/index.html?id=info_webradio_20201113_Ke8Re2ev",
-    "startAt": 1605270600000,
-    "endAt": 1605844799000
+    "startAt": 32499520200000,
+    "endAt": 1605873599000
   },
   {
     "id": 128,
-    "seq": 8860,
+    "seq": 1982,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「イベントメンバー出現率UPガチャ」開催！",
+    "title": "Event Character Boosted Rate Gacha, available now!",
     "path": "information/index.html?id=gacha_11_OfvEE9el",
-    "startAt": 1605279600000,
-    "endAt": 1605646799000,
-    "bannerAssetbundleName": "banner_news_gacha11_fe93gPw1"
+    "startAt": 1641942000000,
+    "endAt": 1642309199000,
+    "bannerAssetbundleName": "banner_news_gacha11_en_fe93gPw1"
   },
   {
     "id": 129,
-    "seq": 8840,
+    "seq": 5973,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「ローリンガール」追加！",
+    "title": "New song, Rollin Girl, now available!",
     "path": "information/index.html?id=info_add_music_20201114_Lke2Dd3a",
-    "startAt": 1605366000000,
-    "endAt": 1605585599000
+    "startAt": 1641250800000,
+    "endAt": 1641509999000
   },
   {
     "id": 130,
@@ -1537,21 +1159,9 @@
     "platform": "all",
     "title": "【11月4日12時00分追記】「公式Twitterフォローキャンペーン」のお知らせ",
     "path": "information/index.html?id=cp_twitterfollow_add_20201104_Kjge83ew",
-    "startAt": 1604491200000,
-    "endAt": 1605067199000,
+    "startAt": 32498740800000,
+    "endAt": 1605095999000,
     "bannerAssetbundleName": "banner_cp3"
-  },
-  {
-    "id": 131,
-    "seq": 9740,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "イベント交換所で交換制限のないコインを大量に交換するとライブやイベント交換所が正常に動作しなくなる事象について",
-    "path": "information/index.html?id=bug_exchange_shop_20201102_efa3ui73",
-    "startAt": 1604354400000,
-    "endAt": 1604584799000
   },
   {
     "id": 132,
@@ -1562,20 +1172,8 @@
     "platform": "all",
     "title": "プレイにおけるマナーと禁止行為に対する対応について",
     "path": "information/index.html?id=info_playmanners_20201105_f13LFe02",
-    "startAt": 1604584800000,
-    "endAt": 1605277799000
-  },
-  {
-    "id": 133,
-    "seq": 9740,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【11月4日14時00分追記】イベント交換所で交換制限のないコインを大量に交換するとライブやイベント交換所が正常に動作しなくなる事象について",
-    "path": "information/index.html?id=bug_exchange_shop_fix_20201105_Kee1fx6L",
-    "startAt": 1604584800000,
-    "endAt": 1604843999000
+    "startAt": 32498834400000,
+    "endAt": 1605306599000
   },
   {
     "id": 134,
@@ -1586,83 +1184,58 @@
     "platform": "all",
     "title": "「ライブPが8,000以上でもショップでライブPが購入できた不具合」の対応について",
     "path": "information/index.html?id=info_liveP_refund_20201106",
-    "startAt": 1604698200000,
-    "endAt": 1605736799000
+    "startAt": 32498947800000,
+    "endAt": 1605765599000
   },
   {
     "id": 135,
-    "seq": 8785,
+    "seq": 1981,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "予告、イベント「ここからRE:START！」開催について",
+    "title": "[Announcement] Time to RE:START!",
     "path": "information/index.html?id=event_5_notice_Ode1w35k",
-    "startAt": 1605711600000,
-    "endAt": 1605797999000,
-    "bannerAssetbundleName": "banner_news_event5_9uKe2Keg"
+    "startAt": 1642374000000,
+    "endAt": 1642460399000
   },
   {
     "id": 136,
-    "seq": 8780,
+    "seq": 5959,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「モア ！ジャンプ！モア！」追加！",
+    "title": "New song, MORE! JUMP! MORE!, now available!",
     "path": "information/index.html?id=info_add_music_20201119_Loge14Id",
-    "startAt": 1605798000000,
-    "endAt": 1606017599000
+    "startAt": 1642460400000,
+    "endAt": 1642719599000
   },
   {
     "id": 137,
-    "seq": 8760,
+    "seq": 1980,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "イベント「ここからRE:START！」開催！",
+    "title": "Event, Time to RE:START!, now on!",
     "path": "information/index.html?id=event_5_held_Alw94Re2",
-    "startAt": 1605798000000,
-    "endAt": 1607461199000,
-    "bannerAssetbundleName": "banner_news_event5_9uKe2Keg"
+    "startAt": 1642460400000,
+    "endAt": 1643000399000,
+    "bannerAssetbundleName": "banner_news_event5_en_9uKe2Keg"
   },
   {
     "id": 138,
-    "seq": 8740,
+    "seq": 1979,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「MORE MORE SMILE！ガチャ」開催！",
+    "title": "MORE MORE SMILE! Gacha, available now! (Updated: Jan. 19, 02:00 PST)",
     "path": "information/index.html?id=gacha_12_Lige1345",
-    "startAt": 1605798000000,
-    "endAt": 1609426799000,
-    "bannerAssetbundleName": "banner_news_gacha12_lg82TwfW"
-  },
-  {
-    "id": 139,
-    "seq": 9730,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「potatoになっていく」のバーチャル・シンガーver.が解放されないことがある",
-    "path": "information/index.html?id=bug_music_Grant_20201109_Pef2jfe8",
-    "startAt": 1604927700000,
-    "endAt": 1604941199000
-  },
-  {
-    "id": 140,
-    "seq": 9730,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【11月9日17時00分追記】楽曲「potatoになっていく」のバーチャル・シンガーver.が解放されないことがある",
-    "path": "information/index.html?id=bug_music_Grant_20201109_Fix_Pge34kgr",
-    "startAt": 1604941200000,
-    "endAt": 1605153599000
+    "startAt": 1642586400000,
+    "endAt": 1643151599000,
+    "bannerAssetbundleName": "banner_news_gacha12_en_lg82TwfW"
   },
   {
     "id": 141,
@@ -1673,8 +1246,8 @@
     "platform": "all",
     "title": "11月11日 メンテナンス実施のお知らせ",
     "path": "information/index.html?id=info_maintenance_20201111_Peggd2mf",
-    "startAt": 1604950200000,
-    "endAt": 1605110399000
+    "startAt": 32499199800000,
+    "endAt": 1605139199000
   },
   {
     "id": 142,
@@ -1685,8 +1258,8 @@
     "platform": "all",
     "title": "【11月11日16時00分追記】11月11日メンテナンス実施のお知らせ",
     "path": "information/index.html?id=info_maintenance_end_20201111_Re39Pk7w",
-    "startAt": 1605110400000,
-    "endAt": 1605671999000
+    "startAt": 32499360000000,
+    "endAt": 1605700799000
   },
   {
     "id": 143,
@@ -1697,20 +1270,8 @@
     "platform": "Android",
     "title": "Google Play 「ベスト オブ 2020」あなたのベストに投票しよう！",
     "path": "information/index.html?id=info_bestof2020_20201110_Eug4fIeK",
-    "startAt": 1605043800000,
-    "endAt": 1608004799000
-  },
-  {
-    "id": 144,
-    "seq": 9720,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【11月11日19時30分追記】称号「皆伝」「真・皆伝」が本来とは異なる条件で獲得できる事象について",
-    "path": "information/index.html?id=bug_honormission_20201111_fix_Kfe2Ife9",
-    "startAt": 1605123000000,
-    "endAt": 1608841799000
+    "startAt": 32499293400000,
+    "endAt": 1608033599000
   },
   {
     "id": 145,
@@ -1721,8 +1282,8 @@
     "platform": "all",
     "title": "11月25日20時より「プロジェクトセカイワンダショちゃんねる#2」を生配信！",
     "path": "information/index.html?id=info_livebroadcast_20201119_h73HYFEs",
-    "startAt": 1605700800000,
-    "endAt": 1606337999000,
+    "startAt": 32499950400000,
+    "endAt": 1606366799000,
     "bannerAssetbundleName": "banner_livebroadcast_notice_Kge12FEd"
   },
   {
@@ -1734,8 +1295,8 @@
     "platform": "all",
     "title": "11月25日放送「プロジェクトセカイワンダショちゃんねる#2」で発表された内容について",
     "path": "information/index.html?id=info_livebroadcast_summary_20201125_M2EpKeb4",
-    "startAt": 1606338000000,
-    "endAt": 1608757199000
+    "startAt": 32500587600000,
+    "endAt": 1608785999000
   },
   {
     "id": 147,
@@ -1746,20 +1307,8 @@
     "platform": "all",
     "title": "「ミラクルペイント」オリジナル2DMV追加のお知らせ",
     "path": "information/index.html?id=info_add_2dmv_20201113_Jfe7Ieda",
-    "startAt": 1605277800000,
-    "endAt": 1605499199000
-  },
-  {
-    "id": 148,
-    "seq": 9710,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "一部の「エリア会話」「サイドストーリー」にて、テキストや背景、衣装が想定と異なっていた事象について",
-    "path": "information/index.html?id=bug_story_20201113_fix_Keige2Ue",
-    "startAt": 1605277800000,
-    "endAt": 1605499199000
+    "startAt": 32499527400000,
+    "endAt": 1605527999000
   },
   {
     "id": 150,
@@ -1770,8 +1319,8 @@
     "platform": "all",
     "title": "11月18日メンテナンス実施のお知らせ",
     "path": "information/index.html?id=info_maintenance_20201118_K3iH4uge",
-    "startAt": 1605286800000,
-    "endAt": 1605625199000
+    "startAt": 32499536400000,
+    "endAt": 1605653999000
   },
   {
     "id": 151,
@@ -1782,8 +1331,8 @@
     "platform": "iOS",
     "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」オンライン一次予選の開催日程について",
     "path": "information/index.html?id=info_RAGE_20201113_ios_Lem8D9ws",
-    "startAt": 1605290400000,
-    "endAt": 1606564799000
+    "startAt": 32499540000000,
+    "endAt": 1606593599000
   },
   {
     "id": 152,
@@ -1794,8 +1343,8 @@
     "platform": "all",
     "title": "予告、「250万人突破記念ログインキャンペーン」開催について",
     "path": "information/index.html?id=loginbonus_250_anniversary_notice_bvwD4l6U",
-    "startAt": 1605873600000,
-    "endAt": 1605959999000,
+    "startAt": 32500123200000,
+    "endAt": 1605988799000,
     "bannerAssetbundleName": "banner_250_anniversary_Yef72ofe"
   },
   {
@@ -1807,8 +1356,8 @@
     "platform": "all",
     "title": "予告、「夜咄ディセイブ」アナザーボーカルver.追加のお知らせ",
     "path": "information/index.html?id=info_add_music_another_20201120_Kf2U1maZ",
-    "startAt": 1605713400000,
-    "endAt": 1606103999000
+    "startAt": 32499963000000,
+    "endAt": 1606132799000
   },
   {
     "id": 154,
@@ -1819,59 +1368,59 @@
     "platform": "all",
     "title": "「250万人突破記念ログインキャンペーン」開催！",
     "path": "information/index.html?id=loginbonus_250_anniversary_held_Lefe12u3",
-    "startAt": 1605960000000,
-    "endAt": 1606535999000,
+    "startAt": 32500209600000,
+    "endAt": 1606564799000,
     "bannerAssetbundleName": "banner_250_anniversary_Yef72ofe"
   },
   {
     "id": 155,
-    "seq": 8400,
+    "seq": 5958,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「裏表ラバーズ」追加！",
+    "title": "New song, Ura-Omote Lovers, now available!",
     "path": "information/index.html?id=info_add_music_20201121_Xeet2o8L",
-    "startAt": 1605970800000,
-    "endAt": 1606190399000
+    "startAt": 1643065200000,
+    "endAt": 1643324399000
   },
   {
     "id": 156,
-    "seq": 8380,
+    "seq": 1975,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「250万人突破記念★4メンバー1人確定ガチャ」開催！",
+    "title": "4★ Guaranteed Gacha, available now!",
     "path": "information/index.html?id=gacha_15_Kege32PD",
-    "startAt": 1605970800000,
-    "endAt": 1607093999000,
-    "bannerAssetbundleName": "banner_news_gacha15_Qfe18W13"
+    "startAt": 1642114800000,
+    "endAt": 1642633199000,
+    "bannerAssetbundleName": "banner_news_gacha15_en_Qfe18W13"
   },
   {
     "id": 157,
-    "seq": 8360,
+    "seq": 5957,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「アンノウン・マザーグース」追加！",
+    "title": "New song, Unknown Mother-Goose, now available!",
     "path": "information/index.html?id=info_add_music_20201123_MqwR77Bc",
-    "startAt": 1606143600000,
-    "endAt": 1606363199000
+    "startAt": 1643151600000,
+    "endAt": 1643410799000
   },
   {
     "id": 158,
-    "seq": 8340,
+    "seq": 1978,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「イベントメンバー出現率UPガチャ」開催！",
+    "title": "Event Character Boosted Rate Gacha, available now!",
     "path": "information/index.html?id=gacha_14_P9G7MdwZ",
-    "startAt": 1606230000000,
-    "endAt": 1606597199000,
-    "bannerAssetbundleName": "banner_news_gacha14_SS3we5sw"
+    "startAt": 1642633200000,
+    "endAt": 1643000399000,
+    "bannerAssetbundleName": "banner_news_gacha14_en_SS3we5sw"
   },
   {
     "id": 159,
@@ -1882,8 +1431,8 @@
     "platform": "all",
     "title": "「ジャックポットサッドガール」バーチャル・シンガーver.追加のお知らせ",
     "path": "information/index.html?id=info_add_music_virtualsiger_20201130_PlR4e12f",
-    "startAt": 1606741200000,
-    "endAt": 1606967999000
+    "startAt": 32500990800000,
+    "endAt": 1606996799000
   },
   {
     "id": 160,
@@ -1894,8 +1443,8 @@
     "platform": "all",
     "title": "楽曲「愛されなくても君がいる」追加！",
     "path": "information/index.html?id=info_add_music_20201130_Peeg52He",
-    "startAt": 1606748400000,
-    "endAt": 1606967999000
+    "startAt": 32500998000000,
+    "endAt": 1606996799000
   },
   {
     "id": 161,
@@ -1906,92 +1455,8 @@
     "platform": "all",
     "title": "「v1.2.0」アップデート予定のお知らせ",
     "path": "information/index.html?id=update_v120_Yde2HF3m",
-    "startAt": 1605540600000,
-    "endAt": 1605625199000
-  },
-  {
-    "id": 162,
-    "seq": 8853,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "Android",
-    "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」オンライン一次予選の開催日程について",
-    "path": "information/index.html?id=info_RAGE_20201113_android_Lem8D9ws",
-    "startAt": 1605290400000,
-    "endAt": 1606564799000
-  },
-  {
-    "id": 163,
-    "seq": 8810,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "iOS",
-    "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」公式大会サイトオープン！",
-    "path": "information/index.html?id=info_RAGE_site_open_ios_20201116_Pw2Y35fn",
-    "startAt": 1605551400000,
-    "endAt": 1608055199000
-  },
-  {
-    "id": 164,
-    "seq": 8810,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "Android",
-    "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」公式大会サイトオープン！",
-    "path": "information/index.html?id=info_RAGE_site_open_android_20201116_Pw2Y35fn",
-    "startAt": 1605551400000,
-    "endAt": 1608055199000
-  },
-  {
-    "id": 165,
-    "seq": 8808,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【11月17日15時00分追記】11月18日メンテナンス実施のお知らせ",
-    "path": "information/index.html?id=info_maintenance_20201118_add_K3iH4uge",
-    "startAt": 1605625200000,
-    "endAt": 1605711599000
-  },
-  {
-    "id": 166,
-    "seq": 8809,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【11月17日15時00分追記】「v1.2.0」アップデート予定のお知らせ",
-    "path": "information/index.html?id=update_v120_add_Yde2HF3m",
-    "startAt": 1605625200000,
-    "endAt": 1605877199000
-  },
-  {
-    "id": 167,
-    "seq": 8789,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【11月18日15時00分追記】11月18日メンテナンス実施のお知らせ",
-    "path": "information/index.html?id=info_maintenance_20201118_end_K3iH4uge",
-    "startAt": 1605711600000,
-    "endAt": 1606276799000
-  },
-  {
-    "id": 168,
-    "seq": 8800,
-    "informationType": "normal",
-    "informationTag": "information",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【11月17日22時30分追記】「ライブPが8,000以上でもショップでライブPが購入できた不具合」の対応について",
-    "path": "information/index.html?id=info_liveP_refund_add_20201117_Pfe6iHF2",
-    "startAt": 1605652200000,
-    "endAt": 1606496399000
+    "startAt": 32499790200000,
+    "endAt": 1605653999000
   },
   {
     "id": 169,
@@ -2002,8 +1467,8 @@
     "platform": "all",
     "title": "プレイヤーランクの上限解放、及びオートライブの改善アップデートの先行リリースについて",
     "path": "information/index.html?id=info_120_preceding_release_20201118_fejo6wew",
-    "startAt": 1605715200000,
-    "endAt": 1605880799000
+    "startAt": 32499964800000,
+    "endAt": 1605909599000
   },
   {
     "id": 170,
@@ -2014,8 +1479,8 @@
     "platform": "iOS",
     "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」オンライン一次予選開催！",
     "path": "information/index.html?id=info_RAGE_once_ios_20201122_Pw2Y35fn",
-    "startAt": 1606046400000,
-    "endAt": 1606564799000,
+    "startAt": 32500296000000,
+    "endAt": 1606593599000,
     "bannerAssetbundleName": "banner_news_RAGE2020_winte_eijTe7F8"
   },
   {
@@ -2027,8 +1492,8 @@
     "platform": "Android",
     "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」オンライン一次予選開催！",
     "path": "information/index.html?id=info_RAGE_once_android_20201122_Pw2Y35fn",
-    "startAt": 1606046400000,
-    "endAt": 1606564799000,
+    "startAt": 32500296000000,
+    "endAt": 1606593599000,
     "bannerAssetbundleName": "banner_news_RAGE2020_winte_eijTe7F8"
   },
   {
@@ -2040,8 +1505,8 @@
     "platform": "all",
     "title": "【11月20日13時00分追記】「v1.2.0」アップデート予定のお知らせ",
     "path": "information/index.html?id=update_v120_end_20201120_Yde2HF3m",
-    "startAt": 1605877200000,
-    "endAt": 1607054399000
+    "startAt": 32500126800000,
+    "endAt": 1607083199000
   },
   {
     "id": 173,
@@ -2052,8 +1517,8 @@
     "platform": "iOS",
     "title": "【11月25日19時15分追記】「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」オンライン一次予選の当落結果について",
     "path": "information/index.html?id=info_RAGE_once_result_ios_20201125_Pf5eJ7fe",
-    "startAt": 1606331700000,
-    "endAt": 1606564799000
+    "startAt": 32500581300000,
+    "endAt": 1606593599000
   },
   {
     "id": 174,
@@ -2064,8 +1529,8 @@
     "platform": "Android",
     "title": "【11月25日19時15分追記】「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」オンライン一次予選の当落結果について",
     "path": "information/index.html?id=info_RAGE_once_result_android_20201125_Pf5eJ7fe",
-    "startAt": 1606331700000,
-    "endAt": 1606564799000
+    "startAt": 32500581300000,
+    "endAt": 1606593599000
   },
   {
     "id": 175,
@@ -2076,47 +1541,46 @@
     "platform": "all",
     "title": "【重要】ライブミッションの月初めリセットについて",
     "path": "information/index.html?id=livemission_reset_announce_202011_FEhw93pe",
-    "startAt": 1606500000000,
-    "endAt": 1606780799000
+    "startAt": 32500749600000,
+    "endAt": 1606809599000
   },
   {
     "id": 176,
-    "seq": 8180,
+    "seq": 1989,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "予告、イベント「いつか、背中あわせのリリックを」開催について",
+    "title": "[Announcement] Singing in Sync",
     "path": "information/index.html?id=event_6_notice_AK3wfw5z",
-    "startAt": 1606662000000,
-    "endAt": 1606748399000,
-    "bannerAssetbundleName": "banner_news_event6_X2xK97h2"
+    "startAt": 1640905200000,
+    "endAt": 1640991599000
   },
   {
     "id": 177,
-    "seq": 8120,
+    "seq": 1988,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "イベント「いつか、背中あわせのリリックを」開催！",
+    "title": "Event, Singing in Sync, now on!",
     "path": "information/index.html?id=event_6_held_Mcdg93kd",
-    "startAt": 1606748400000,
-    "endAt": 1608325199000,
-    "bannerAssetbundleName": "banner_news_event6_X2xK97h2"
+    "startAt": 1641078000000,
+    "endAt": 1641617999000,
+    "bannerAssetbundleName": "banner_event6"
   },
   {
     "id": 178,
-    "seq": 8100,
+    "seq": 1987,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「レベル1の相棒ガチャ」開催！",
+    "title": "Rookie Partner Gacha, available now!",
     "path": "information/index.html?id=gacha_17_M2IF8fse",
-    "startAt": 1606748400000,
-    "endAt": 1610290799000,
-    "bannerAssetbundleName": "banner_news_gacha17_FfeH4B73"
+    "startAt": 1641078000000,
+    "endAt": 1641769199000,
+    "bannerAssetbundleName": "banner_news_gacha17_en_FfeH4B73"
   },
   {
     "id": 179,
@@ -2127,59 +1591,59 @@
     "platform": "all",
     "title": "12月ライブミッション開催のお知らせ",
     "path": "information/index.html?id=livemission_start_announce_202012_Pfe3i9ge",
-    "startAt": 1606780800000,
-    "endAt": 1609459199000,
+    "startAt": 32501030400000,
+    "endAt": 1609487999000,
     "bannerAssetbundleName": "banner_premiummissionpass_2020_12_Ke2r8Dw3"
   },
   {
     "id": 180,
-    "seq": 8060,
+    "seq": 5963,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "【12月1日15時45分追記】楽曲「ウミユリ海底譚」追加！",
+    "title": "New song, Tale of the Deep-sea Lily, now available!",
     "path": "information/index.html?id=info_add_music_20201201_Pfen8g3x",
-    "startAt": 1606837500000,
-    "endAt": 1607054399000
+    "startAt": 1642028400000,
+    "endAt": 1642287599000
   },
   {
     "id": 181,
-    "seq": 8040,
+    "seq": 2504,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "「HAPPY BIRTHDAYライブ 雫」開催について",
+    "title": "Shizuku's Birthday Show (Recording)",
     "path": "information/index.html?id=virtualLive_39_Rk8k3n6M",
-    "startAt": 1607094000000,
-    "endAt": 1607353199000,
-    "bannerAssetbundleName": "banner_news_virtuallive39_nK3Kd24M"
+    "startAt": 1642546800000,
+    "endAt": 1642805999000,
+    "bannerAssetbundleName": "banner_news_virtuallive39_en_nK3Kd24M"
   },
   {
     "id": 182,
-    "seq": 8020,
+    "seq": 1986,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「イベントメンバー出現率UPガチャ」開催！",
+    "title": "Event Character Boosted Rate Gacha, available now!",
     "path": "information/index.html?id=gacha_19_yT1fKvg2",
-    "startAt": 1607094000000,
-    "endAt": 1607461199000,
-    "bannerAssetbundleName": "banner_news_gacha19_Mvee29e7"
+    "startAt": 1641250800000,
+    "endAt": 1641617999000,
+    "bannerAssetbundleName": "banner_news_gacha19_en_Mvee29e7"
   },
   {
     "id": 183,
-    "seq": 7990,
+    "seq": 5968,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「Forward」追加！",
+    "title": "New song, Forward, now available!",
     "path": "information/index.html?id=info_add_music_20201208_Kei3evy9",
-    "startAt": 1607465100000,
-    "endAt": 1607659199000
+    "startAt": 1641621900000,
+    "endAt": 1641855599000
   },
   {
     "id": 184,
@@ -2190,8 +1654,8 @@
     "platform": "all",
     "title": "アンケートにご協力いただいたお礼の配布について",
     "path": "information/index.html?id=info_questionnaire_thanks_20201124_Pke12r23",
-    "startAt": 1606314600000,
-    "endAt": 1606881599000
+    "startAt": 32500564200000,
+    "endAt": 1606910399000
   },
   {
     "id": 185,
@@ -2202,8 +1666,8 @@
     "platform": "all",
     "title": "11月28日25時よりWEBラジオ「25時、ナイトラジオで。#3」を配信！",
     "path": "information/index.html?id=info_webradio_20201127_Ofwe1fn3",
-    "startAt": 1606500000000,
-    "endAt": 1607054399000
+    "startAt": 32500749600000,
+    "endAt": 1607083199000
   },
   {
     "id": 186,
@@ -2214,8 +1678,8 @@
     "platform": "iOS",
     "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」オンライン二次予選開催！",
     "path": "information/index.html?id=info_RAGE_once_ios_20201128_Pw2Y35fn",
-    "startAt": 1606564800000,
-    "endAt": 1606910399000
+    "startAt": 32500814400000,
+    "endAt": 1606939199000
   },
   {
     "id": 187,
@@ -2226,8 +1690,8 @@
     "platform": "Android",
     "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」オンライン二次予選開催！",
     "path": "information/index.html?id=info_RAGE_once_android_20201128_Pw2Y35fn",
-    "startAt": 1606564800000,
-    "endAt": 1606910399000
+    "startAt": 32500814400000,
+    "endAt": 1606939199000
   },
   {
     "id": 188,
@@ -2238,8 +1702,8 @@
     "platform": "all",
     "title": "【12月3日14時30分追記】「ライブPが8,000以上でもショップでライブPが購入できた不具合」の対応について",
     "path": "information/index.html?id=info_liveP_refund_add_20201127_MKfe2f39",
-    "startAt": 1607005800000,
-    "endAt": 1607227199000
+    "startAt": 32501255400000,
+    "endAt": 1607255999000
   },
   {
     "id": 189,
@@ -2250,8 +1714,8 @@
     "platform": "all",
     "title": "ボイスドラマ『アイドル活動、スタート』公開！",
     "path": "information/index.html?id=info_momotube_20201129_H8f34YEg",
-    "startAt": 1606651200000,
-    "endAt": 1609127999000
+    "startAt": 32500900800000,
+    "endAt": 1609156799000
   },
   {
     "id": 190,
@@ -2262,8 +1726,8 @@
     "platform": "iOS",
     "title": "祝！「ベストオブ2020」ユーザー投票部門で最優秀賞に選ばれました！",
     "path": "information/index.html?id=info_bestof2020_ios_20201201_nLN3f5en",
-    "startAt": 1606818600000,
-    "endAt": 1608004799000
+    "startAt": 32501068200000,
+    "endAt": 1608033599000
   },
   {
     "id": 191,
@@ -2274,20 +1738,8 @@
     "platform": "Android",
     "title": "祝！Google Play「ベストオブ2020」ユーザー投票部門で最優秀賞に選ばれました！",
     "path": "information/index.html?id=info_bestof2020_android_20201201_nLN3f5en",
-    "startAt": 1606818600000,
-    "endAt": 1608004799000
-  },
-  {
-    "id": 192,
-    "seq": 9700,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "ガチャシール交換所より衣装付きメンバーを交換した際に一部ミッションのカウントが進まない事象について",
-    "path": "information/index.html?id=bug_mission_count_20201201_LMveo632",
-    "startAt": 1606849200000,
-    "endAt": 1608841799000
+    "startAt": 32501068200000,
+    "endAt": 1608033599000
   },
   {
     "id": 193,
@@ -2298,8 +1750,8 @@
     "platform": "iOS",
     "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」オンライン二次予選の当落結果について",
     "path": "information/index.html?id=info_RAGE_second_result_ios_20201202_LfeGE9q3",
-    "startAt": 1606910400000,
-    "endAt": 1607018399000
+    "startAt": 32501160000000,
+    "endAt": 1607047199000
   },
   {
     "id": 194,
@@ -2310,32 +1762,8 @@
     "platform": "Android",
     "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」オンライン二次予選の当落結果について",
     "path": "information/index.html?id=info_RAGE_second_result_android_20201202_LfeGE9q3",
-    "startAt": 1606910400000,
-    "endAt": 1607018399000
-  },
-  {
-    "id": 195,
-    "seq": 9690,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "「イベントボーナス」を含んだ「おすすめ編成」で一部想定と異なる挙動が発生する事象について",
-    "path": "information/index.html?id=bug_music_Deck_Recomend_20201202_a79dkAW",
-    "startAt": 1606926600000,
-    "endAt": 1608114599000
-  },
-  {
-    "id": 196,
-    "seq": 9680,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "楽曲「ビバハピ」を「みんなでライブ」でプレイした際、スキル発動回数が少なくなることがある事象について",
-    "path": "information/index.html?id=bug_music_Bibahapi_20201202_AEds12dj",
-    "startAt": 1606926600000,
-    "endAt": 1607018399000
+    "startAt": 32501160000000,
+    "endAt": 1607047199000
   },
   {
     "id": 197,
@@ -2346,8 +1774,8 @@
     "platform": "iOS",
     "title": "【12月3日18時00分追記】「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」オンライン二次予選の当落結果について",
     "path": "information/index.html?id=info_RAGE_second_result_ios_add_20201202_LfeGE9q3",
-    "startAt": 1607018400000,
-    "endAt": 1607709599000
+    "startAt": 32501268000000,
+    "endAt": 1607738399000
   },
   {
     "id": 198,
@@ -2358,20 +1786,8 @@
     "platform": "Android",
     "title": "【12月3日18時00分追記】「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」オンライン二次予選の当落結果について",
     "path": "information/index.html?id=info_RAGE_second_result_android_add_20201202_LfeGE9q3",
-    "startAt": 1607018400000,
-    "endAt": 1607709599000
-  },
-  {
-    "id": 199,
-    "seq": 9680,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【12月3日18時00分追記】楽曲「ビバハピ」を「みんなでライブ」でプレイした際、スキル発動回数が少なくなることがある事象について",
-    "path": "information/index.html?id=bug_music_Bibahapi_20201203_fix_Sefiag8",
-    "startAt": 1607018400000,
-    "endAt": 1607227199000
+    "startAt": 32501268000000,
+    "endAt": 1607738399000
   },
   {
     "id": 200,
@@ -2382,8 +1798,8 @@
     "platform": "all",
     "title": "予告、「ベストオブ2020 最優秀賞 大感謝ログインキャンペーン」開催について",
     "path": "information/index.html?id=loginbonus_bestof2020_announce_20201206_sjtTW4T",
-    "startAt": 1607256000000,
-    "endAt": 1607353199000
+    "startAt": 32501505600000,
+    "endAt": 1607381999000
   },
   {
     "id": 201,
@@ -2394,8 +1810,8 @@
     "platform": "iOS",
     "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」本戦出場者決定＆12月13日18時より生配信！",
     "path": "information/index.html?id=info_RAGE_final_url_ios_20201207_ASre5ts",
-    "startAt": 1607364000000,
-    "endAt": 1607878799000
+    "startAt": 32501613600000,
+    "endAt": 1607907599000
   },
   {
     "id": 202,
@@ -2406,8 +1822,8 @@
     "platform": "Android",
     "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」本戦出場者決定＆12月13日18時より生配信！",
     "path": "information/index.html?id=info_RAGE_final_url_android_20201207_ASre5ts",
-    "startAt": 1607364000000,
-    "endAt": 1607878799000
+    "startAt": 32501613600000,
+    "endAt": 1607907599000
   },
   {
     "id": 203,
@@ -2418,8 +1834,8 @@
     "platform": "all",
     "title": "「ベストオブ2020 最優秀賞 大感謝ログインキャンペーン」開催！",
     "path": "information/index.html?id=loginbonus_bestof2020_20201207_aeu45SE",
-    "startAt": 1607353200000,
-    "endAt": 1609473599000,
+    "startAt": 32501602800000,
+    "endAt": 1609502399000,
     "bannerAssetbundleName": "banner_news_bestof2020_anniversary"
   },
   {
@@ -2431,21 +1847,20 @@
     "platform": "all",
     "title": "【アンケートのご協力のお願い】バーチャルライブ深夜帯の時間追加について",
     "path": "information/index.html?id=info_questionnaire_20201209_esdTA8f",
-    "startAt": 1607515200000,
-    "endAt": 1607608799000
+    "startAt": 32501764800000,
+    "endAt": 1607637599000
   },
   {
     "id": 205,
-    "seq": 7780,
+    "seq": 1977,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "予告、イベント「KAMIKOU FESTIVAL！」開催について",
+    "title": "[Announcement] KAMIYAMA HIGH FESTIVAL!",
     "path": "information/index.html?id=info_event_7_notice_IFeij2j3",
-    "startAt": 1607526000000,
-    "endAt": 1607612399000,
-    "bannerAssetbundleName": "news_event_culturalfestival_2020_FEe4og2a"
+    "startAt": 1643065200000,
+    "endAt": 1643151599000
   },
   {
     "id": 206,
@@ -2456,8 +1871,8 @@
     "platform": "all",
     "title": "「Forward」バーチャル・シンガーver.追加のお知らせ",
     "path": "information/index.html?id=info_add_music_virtualsiger_01_20201210_Peif7234",
-    "startAt": 1607605200000,
-    "endAt": 1607831999000
+    "startAt": 32501854800000,
+    "endAt": 1607860799000
   },
   {
     "id": 207,
@@ -2468,34 +1883,34 @@
     "platform": "all",
     "title": "「Ready Steady」バーチャル・シンガーver.追加のお知らせ",
     "path": "information/index.html?id=info_add_music_virtualsiger_02_20201210_Pm5o32en",
-    "startAt": 1607605200000,
-    "endAt": 1607831999000
+    "startAt": 32501854800000,
+    "endAt": 1607860799000
   },
   {
     "id": 208,
-    "seq": 7720,
+    "seq": 1976,
     "informationType": "normal",
     "informationTag": "event",
     "browseType": "internal",
     "platform": "all",
-    "title": "イベント「KAMIKOU FESTIVAL！」開催！",
+    "title": "Event, KAMIYAMA HIGH FESTIVAL! now on!",
     "path": "information/index.html?id=info_event_7_held_P1fe2rm4",
-    "startAt": 1607612400000,
-    "endAt": 1609275599000,
-    "bannerAssetbundleName": "news_event_culturalfestival_2020_FEe4og2a"
+    "startAt": 1643151600000,
+    "endAt": 1643691599000,
+    "bannerAssetbundleName": "news_event_culturalfestival_2020_en_FEe4og2a"
   },
   {
     "id": 209,
-    "seq": 7700,
+    "seq": 1975,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「ハイスクールカーニバルガチャ」開催！",
+    "title": "High School Carnival Gacha, available now!",
     "path": "information/index.html?id=info_gacha_20_POf5ie39",
-    "startAt": 1607612400000,
-    "endAt": 1611154799000,
-    "bannerAssetbundleName": "banner_news_gacha20_OP3mfe14"
+    "startAt": 1643151600000,
+    "endAt": 1643842799000,
+    "bannerAssetbundleName": "banner_news_gacha20_en_OP3mfe14"
   },
   {
     "id": 210,
@@ -2506,8 +1921,8 @@
     "platform": "all",
     "title": "「v1.3.0」アップデート予定のお知らせ",
     "path": "information/index.html?id=update_v130_STsd87gr",
-    "startAt": 1607698800000,
-    "endAt": 1608044399000
+    "startAt": 32501948400000,
+    "endAt": 1608073199000
   },
   {
     "id": 211,
@@ -2518,33 +1933,33 @@
     "platform": "all",
     "title": "12月12日25時よりWEBラジオ「25時、ナイトラジオで。#4」を配信！",
     "path": "information/index.html?id=info_webradio_20201212_Pmfe2jf9",
-    "startAt": 1607774400000,
-    "endAt": 1608350399000
+    "startAt": 32502024000000,
+    "endAt": 1608379199000
   },
   {
     "id": 212,
-    "seq": 7640,
+    "seq": 1974,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
     "platform": "all",
-    "title": "「イベントメンバー出現率UPガチャ」開催！",
+    "title": "Event Character Boosted Rate Gacha, available now!",
     "path": "information/index.html?id=info_gacha_22_Lmuv2ug4",
-    "startAt": 1607871600000,
-    "endAt": 1608325199000,
-    "bannerAssetbundleName": "banner_news_gacha22_efNE04fe"
+    "startAt": 1643324400000,
+    "endAt": 1643691599000,
+    "bannerAssetbundleName": "banner_news_gacha22_en_efNE04fe"
   },
   {
     "id": 213,
-    "seq": 7560,
+    "seq": 5972,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
-    "title": "楽曲「独りんぼエンヴィー」追加！",
+    "title": "New song, Hitorinbo Envy, now available!",
     "path": "information/index.html?id=info_add_music_20201214_Pfoe21f7",
-    "startAt": 1607958000000,
-    "endAt": 1608177599000
+    "startAt": 1641337200000,
+    "endAt": 1641596399000
   },
   {
     "id": 214,
@@ -2555,8 +1970,8 @@
     "platform": "all",
     "title": "【重要】バーチャルライブ深夜帯の時間追加に関するアンケートの不備に伴う再実施について",
     "path": "information/index.html?id=info_questionnaire_20201210_Seag7g",
-    "startAt": 1607608800000,
-    "endAt": 1607709599000
+    "startAt": 32501858400000,
+    "endAt": 1607738399000
   },
   {
     "id": 215,
@@ -2567,8 +1982,8 @@
     "platform": "all",
     "title": "【12月11日18時00分追記】【重要】バーチャルライブ深夜帯の時間追加に関するアンケートの不備に伴う再実施について",
     "path": "information/index.html?id=info_questionnaire_second_20201211_aktWI7l",
-    "startAt": 1607709600000,
-    "endAt": 1607903999000
+    "startAt": 32501959200000,
+    "endAt": 1607932799000
   },
   {
     "id": 216,
@@ -2579,8 +1994,8 @@
     "platform": "all",
     "title": "【12月11日19時15分追記】【バランスアップデート】バーチャルショップ一部アイテムの改定",
     "path": "information/index.html?id=balanceupdate_virtual_shop_price_revision_announce_20201211_IHif4ae53w",
-    "startAt": 1607714100000,
-    "endAt": 1610323199000
+    "startAt": 32501963700000,
+    "endAt": 1608245999000
   },
   {
     "id": 217,
@@ -2591,8 +2006,8 @@
     "platform": "iOS",
     "title": "本日「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」本戦生配信！",
     "path": "information/index.html?id=info_RAGE_final_url_add_ios_20201211_YUGF3k56dfs",
-    "startAt": 1607878800000,
-    "endAt": 1607896799000
+    "startAt": 32502128400000,
+    "endAt": 1607925599000
   },
   {
     "id": 218,
@@ -2603,8 +2018,8 @@
     "platform": "Android",
     "title": "本日「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」本戦生配信！",
     "path": "information/index.html?id=info_RAGE_final_url_add_android_20201211_CTRo1h35",
-    "startAt": 1607878800000,
-    "endAt": 1607896799000
+    "startAt": 32502128400000,
+    "endAt": 1607925599000
   },
   {
     "id": 219,
@@ -2615,8 +2030,8 @@
     "platform": "all",
     "title": "バーチャルショップの一時販売停止と対象アイテムについて",
     "path": "information/index.html?id=balanceupdate_virtual_shop_price_revision_20201211_kjhbd876j",
-    "startAt": 1607958000000,
-    "endAt": 1610323199000
+    "startAt": 32502207600000,
+    "endAt": 1608785999000
   },
   {
     "id": 220,
@@ -2627,8 +2042,8 @@
     "platform": "all",
     "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」の決勝楽曲「千本桜」について",
     "path": "information/index.html?id=info_RAGE_archive_music_20201211_EsPo8anm",
-    "startAt": 1607896800000,
-    "endAt": 1609905599000
+    "startAt": 32502146400000,
+    "endAt": 1609934399000
   },
   {
     "id": 221,
@@ -2639,8 +2054,8 @@
     "platform": "all",
     "title": "【12月15日15時00分追記】「v1.3.0」アップデート予定のお知らせ",
     "path": "information/index.html?id=update_v130_add_Gwps5jv",
-    "startAt": 1608044400000,
-    "endAt": 1608114599000
+    "startAt": 32502294000000,
+    "endAt": 1608143399000
   },
   {
     "id": 223,
@@ -2651,20 +2066,8 @@
     "platform": "Android",
     "title": "Google Playストアにて一時的に発生していた問題について",
     "path": "information/index.html?id=info_GooglePlayStore_error_20201214_Er8e6Gl",
-    "startAt": 1607985000000,
-    "endAt": 1608177599000
-  },
-  {
-    "id": 224,
-    "seq": 9670,
-    "informationType": "bug",
-    "informationTag": "bug",
-    "browseType": "internal",
-    "platform": "all",
-    "title": "【12月16日10時30分追記】「イベントボーナス」を含んだ「おすすめ編成」で一部想定と異なる挙動が発生する事象について",
-    "path": "information/index.html?id=bug_music_Deck_Recomend_fix_20201216_Bs10fa8F",
-    "startAt": 1608114600000,
-    "endAt": 1608350399000
+    "startAt": 32502234600000,
+    "endAt": 1608206399000
   },
   {
     "id": 225,
@@ -2675,8 +2078,8 @@
     "platform": "iOS",
     "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」大会結果発表！",
     "path": "information/index.html?id=info_RAGE_final_result_ios_20201215_Rg360sdm",
-    "startAt": 1608055200000,
-    "endAt": 1608580799000
+    "startAt": 32502304800000,
+    "endAt": 1608609599000
   },
   {
     "id": 226,
@@ -2687,8 +2090,8 @@
     "platform": "Android",
     "title": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」大会結果発表！",
     "path": "information/index.html?id=info_RAGE_final_result_android_20201215_Rg360sdm",
-    "startAt": 1608055200000,
-    "endAt": 1608580799000
+    "startAt": 32502304800000,
+    "endAt": 1608609599000
   },
   {
     "id": 227,
@@ -2699,31 +2102,1501 @@
     "platform": "all",
     "title": "【12月16日10時30分追記】「v1.3.0」アップデート予定のお知らせ",
     "path": "information/index.html?id=update_v130_add_open_Uus03eY",
-    "startAt": 1608114600000,
-    "endAt": 1608127199000
+    "startAt": 32502364200000,
+    "endAt": 1608155999000
   },
   {
-    "id": 228,
-    "seq": 9660,
+    "id": 230,
+    "seq": 7480,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月16日14時00分追記】「v1.3.0」アップデート予定のお知らせ",
+    "path": "information/index.html?id=update_v130_add_open_end_Esd1gJJs",
+    "startAt": 32502376800000,
+    "endAt": 1608177599000
+  },
+  {
+    "id": 231,
+    "seq": 7420,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "12月23日20時より「プロジェクトセカイワンダショちゃんねる#3」を生配信！",
+    "path": "information/index.html?id=info_livebroadcast_20201223_PF7feawE",
+    "startAt": 32502466800000,
+    "endAt": 1608785999000
+  },
+  {
+    "id": 232,
+    "seq": 7440,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月16日20時00分追記】「v1.3.0」アップデート予定のお知らせ",
+    "path": "information/index.html?id=update_v130_add2_open_end_drEd3dI",
+    "startAt": 32502398400000,
+    "endAt": 1609415999000
+  },
+  {
+    "id": 234,
+    "seq": 7240,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "12月23日放送「プロジェクトセカイワンダショちゃんねる#3」で発表された内容について",
+    "path": "information/index.html?id=info_livebroadcast_summary_202011223_WCe539TJ",
+    "startAt": 32503008600000,
+    "endAt": 1611633599000
+  },
+  {
+    "id": 235,
+    "seq": 7425,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月17日15時00分追記】【バランスアップデート】バーチャルショップ一部アイテムの改定",
+    "path": "information/index.html?id=balanceupdate_virtual_shop_price_revision_announce_20201216_IHif4ae53w",
+    "startAt": 32502466800000,
+    "endAt": 1610351999000
+  },
+  {
+    "id": 236,
+    "seq": 7410,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "バーチャルショップのアイテム販売再開と過去アイテム再販のお知らせ",
+    "path": "information/index.html?id=info_shop_price_rivision_resale_20201218_Io3Uiiu",
+    "startAt": 32502553200000,
+    "endAt": 1610351999000
+  },
+  {
+    "id": 237,
+    "seq": 7415,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "楽曲「独りんぼエンヴィー」バーチャル・シンガーver.とアナザーボーカルver.追加のお知らせ",
+    "path": "information/index.html?id=info_add_music_virtualsiger_another_20201218_Mu49VaAn",
+    "startAt": 32502546000000,
+    "endAt": 1608551999000
+  },
+  {
+    "id": 238,
+    "seq": 7400,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "[Announcement] On This Holy Night, I Sing",
+    "path": "information/index.html?id=info_event_8_notice_Xmr2aOk",
+    "startAt": 1643756400000,
+    "endAt": 1643842799000
+  },
+  {
+    "id": 239,
+    "seq": 7380,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, NIJIIRO STORIES, now available!",
+    "path": "information/index.html?id=info_add_music_202012118_wsdwG2w",
+    "startAt": 1643842800000,
+    "endAt": 1644101999000
+  },
+  {
+    "id": 240,
+    "seq": 7360,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Event, On This Holy Night, I Sing now on!",
+    "path": "information/index.html?id=info_event_8_held_Pma3aVVg",
+    "startAt": 1643842800000,
+    "endAt": 1644382799000,
+    "bannerAssetbundleName": "news_event_nijiiro_2020_en_Xmr2aOk"
+  },
+  {
+    "id": 241,
+    "seq": 1971,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Wonder Carol Gacha, available now!",
+    "path": "information/index.html?id=info_gacha_23_WdXa25ek",
+    "startAt": 1643842800000,
+    "endAt": 1644533999000,
+    "bannerAssetbundleName": "news_banner_gacha23_en_WdXa25ek"
+  },
+  {
+    "id": 242,
+    "seq": 7300,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "iOS",
+    "title": "【12月21日20時00分追記】「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」大会結果発表！",
+    "path": "information/index.html?id=info_RAGE_final_result_ios_add_20201221_RAg29zh",
+    "startAt": 32502830400000,
+    "endAt": 1609228799000
+  },
+  {
+    "id": 243,
+    "seq": 7300,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "Android",
+    "title": "【12月21日20時00分追記】「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」大会結果発表！",
+    "path": "information/index.html?id=info_RAGE_final_result_add_android_20201215_RAg29zh",
+    "startAt": 32502830400000,
+    "endAt": 1609228799000
+  },
+  {
+    "id": 245,
+    "seq": 7230,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【期間限定】一部楽曲のアナザーボーカルver.を「公式YouTubeチャンネル」で公開中！",
+    "path": "information/index.html?id=info_anothervocal_limitedopen_20201223_LEvs582s",
+    "startAt": 32503017600000,
+    "endAt": 1608969599000
+  },
+  {
+    "id": 246,
+    "seq": 2991,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Christmas Show",
+    "path": "information/index.html?id=info_virtualLive_41_Pfe34u43",
+    "startAt": 1643929200000,
+    "endAt": 1644361199000,
+    "bannerAssetbundleName": "banner_news_virtuallive41_en_SEsj6a"
+  },
+  {
+    "id": 247,
+    "seq": 3997,
+    "informationType": "normal",
+    "informationTag": "campaign",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "(Christmas Special) Login Campaign & Costume Bundles",
+    "path": "information/index.html?id=loginbonus_shop_christmas_20201223_Pfen13If",
+    "startAt": 1640332800000,
+    "endAt": 1640505599000
+  },
+  {
+    "id": 248,
+    "seq": 5962,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, ODDS&ENDS, now available!",
+    "path": "information/index.html?id=info_add_music_20201224_Nc7ed3dw",
+    "startAt": 1642114800000,
+    "endAt": 1642373999000
+  },
+  {
+    "id": 249,
+    "seq": 1970,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Event Character Boosted Rate Gacha, available now!",
+    "path": "information/index.html?id=info_gacha_25_Lfe34hb9",
+    "startAt": 1644015600000,
+    "endAt": 1644382799000,
+    "bannerAssetbundleName": "banner_news_gacha25_en_n9ud3r4o"
+  },
+  {
+    "id": 250,
+    "seq": 7160,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "12月26日25時よりWEBラジオ「25時、ナイトラジオで。#5」を配信！",
+    "path": "information/index.html?id=info_webradio_20201226_Pij5f7e0",
+    "startAt": 32503147200000,
+    "endAt": 1609196399000
+  },
+  {
+    "id": 251,
+    "seq": 2998,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Rin's Anniversary Show",
+    "path": "information/index.html?id=info_virtualLive_42_20201225_e4vICFw",
+    "startAt": 1640473200000,
+    "endAt": 1640732399000,
+    "bannerAssetbundleName": "banner_news_virtuallive42_en_e4vICFw"
+  },
+  {
+    "id": 252,
+    "seq": 2997,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Len's Anniversary Show",
+    "path": "information/index.html?id=info_virtualLive_43_20201225_WSjd4If",
+    "startAt": 1640473200000,
+    "endAt": 1640732399000,
+    "bannerAssetbundleName": "banner_news_virtuallive43_en_WSjd4If"
+  },
+  {
+    "id": 253,
+    "seq": 7100,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「#プロセカ生放送」Twitterトレンド1位記念のプレゼント配布について",
+    "path": "information/index.html?id=info_livebroadcast_campaign_present_20201224_AEs56gg",
+    "startAt": 32503168800000,
+    "endAt": 1609502399000
+  },
+  {
+    "id": 254,
+    "seq": 7080,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「v1.3.1」アップデート予定のお知らせ",
+    "path": "information/index.html?id=info_update_v131_Legf52Of",
+    "startAt": 32503168800000,
+    "endAt": 1609361999000
+  },
+  {
+    "id": 255,
+    "seq": 59,
+    "informationType": "normal",
+    "informationTag": "campaign",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New Year's Countdown Login Campaign, now on!",
+    "path": "information/index.html?id=loginbonus_countdown2020_held_Lefe12u3",
+    "startAt": 1640505600000,
+    "endAt": 1641023999000,
+    "bannerAssetbundleName": "banner_news_countdown_2021_en"
+  },
+  {
+    "id": 256,
+    "seq": 7040,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【重要】ライブミッションの月初めリセットについて",
+    "path": "information/index.html?id=livemission_reset_announce_202012_A2k4Mwt8",
+    "startAt": 32503406400000,
+    "endAt": 1609487999000
+  },
+  {
+    "id": 257,
+    "seq": 5974,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Dramaturgy, now available!",
+    "path": "information/index.html?id=info_add_music_campaign_9day_1_20201228_O62adut",
+    "startAt": 1641164400000,
+    "endAt": 1641423599000
+  },
+  {
+    "id": 258,
+    "seq": 50,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Customer Support During the New Year's Holiday",
+    "path": "information/index.html?id=info_newyearholidays_support_Mqs8d9Ke",
+    "startAt": 1640721600000,
+    "endAt": 1641297599000
+  },
+  {
+    "id": 260,
+    "seq": 5978,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Greenlights Serenade, now available!",
+    "path": "information/index.html?id=info_add_music_campaign_9day_2_20201228_Gsm853hx",
+    "startAt": 1640818800000,
+    "endAt": 1641077999000
+  },
+  {
+    "id": 261,
+    "seq": 6940,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月30日13時00分追記】「v1.3.1」アップデート予定のお知らせ",
+    "path": "information/index.html?id=info_update_v131_add_storeopen_AsDf9ghL",
+    "startAt": 32503582800000,
+    "endAt": 1609376399000
+  },
+  {
+    "id": 262,
+    "seq": 6860,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月30日17時00分追記】「v1.3.1」アップデート予定のお知らせ",
+    "path": "information/index.html?id=info_update_v131_add_forcedupdate_Ty6fe12du",
+    "startAt": 32503597200000,
+    "endAt": 1610539199000
+  },
+  {
+    "id": 263,
+    "seq": 5970,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Love Trial, now available!",
+    "path": "information/index.html?id=info_add_music_campaign_9day_3_20201228_O62adut",
+    "startAt": 1641510000000,
+    "endAt": 1641769199000
+  },
+  {
+    "id": 264,
+    "seq": 6840,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "バーチャルライブの深夜帯開催の追加について",
+    "path": "information/index.html?id=info_virtualLive_times_add_20201230_AWs62Lrof",
+    "startAt": 32503600800000,
+    "endAt": 1610539199000
+  },
+  {
+    "id": 265,
+    "seq": 2996,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New Year's Countdown Show 2022",
+    "path": "information/index.html?id=info_virtualLive_44_20201231_SeE9j2ami",
+    "startAt": 1640916000000,
+    "endAt": 1641164399000,
+    "bannerAssetbundleName": "banner_news_virtuallive44_en_WCe539TJ"
+  },
+  {
+    "id": 266,
+    "seq": 2995,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Happy New Year 2022 Shows",
+    "path": "information/index.html?id=info_virtualLive_45-49_20210101_aOSEjf3h",
+    "startAt": 1640916000000,
+    "endAt": 1641509999000,
+    "bannerAssetbundleName": "banner_news_virtuallive45-49_en_WCe539TJ"
+  },
+  {
+    "id": 267,
+    "seq": 6850,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "[Announcement]Colorful Festival Gacha!",
+    "path": "information/index.html?id=info_gacha_26_notice_ON32du6e",
+    "startAt": 1644447600000,
+    "endAt": 1644533999000,
+    "bannerAssetbundleName": "banner_news_gacha26_en_Hef8lMe1Kv"
+  },
+  {
+    "id": 268,
+    "seq": 1969,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "[Announcement] SEKAI Happy New Year!",
+    "path": "information/index.html?id=info_event_9_notice_7Lm5diwp",
+    "startAt": 1644447600000,
+    "endAt": 1644533999000,
+    "bannerAssetbundleName": "news_event_newyear_2020_en_Ldmkw7f3"
+  },
+  {
+    "id": 269,
+    "seq": 5971,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, *Hello, Planet, now available!",
+    "path": "information/index.html?id=info_add_music_campaign_9day_4_20201228_sHo157s",
+    "startAt": 1641423600000,
+    "endAt": 1641682799000
+  },
+  {
+    "id": 270,
+    "seq": 1966,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Colorful Festival Gacha, available now!",
+    "path": "information/index.html?id=info_gacha_26_held_Cn3efK93",
+    "startAt": 1644534000000,
+    "endAt": 1645225199000,
+    "bannerAssetbundleName": "banner_news_gacha26_en_Hef8lMe1Kv"
+  },
+  {
+    "id": 271,
+    "seq": 1968,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Event, SEKAI Happy New Year! now on!",
+    "path": "information/index.html?id=info_event_9_held_Oij4dw6d",
+    "startAt": 1644534000000,
+    "endAt": 1645073999000,
+    "bannerAssetbundleName": "news_event_newyear_2020_en_Ldmkw7f3"
+  },
+  {
+    "id": 272,
+    "seq": 6700,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "1月ライブミッション開催のお知らせ",
+    "path": "information/index.html?id=livemission_start_announce_202101_Lmfe24in",
+    "startAt": 32472172800000,
+    "endAt": 1612166399000,
+    "bannerAssetbundleName": "banner_news_puremiam_misshon_pass_202101_Bdeg7r4h"
+  },
+  {
+    "id": 273,
+    "seq": 6680,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「謹賀新年2021プロセカおみくじキャンペーン」開催！",
+    "path": "information/index.html?id=info_cp_omikuji_20210101_Nfek7fer",
+    "startAt": 32472172800000,
+    "endAt": 1609919999000
+  },
+  {
+    "id": 274,
+    "seq": 58,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "2022 New Year's Sale now on!",
+    "path": "information/index.html?id=info_shop_firstsale_20210101_Mo7IU2De",
+    "startAt": 1641024000000,
+    "endAt": 1641887999000,
+    "bannerAssetbundleName": "banner_news_shop_newyear2021_en_Kpde3h59"
+  },
+  {
+    "id": 275,
+    "seq": 6640,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「新春1日1回限定！10連無料ガチャ」開催！",
+    "path": "information/index.html?id=info_gacha_30_Br5uyYf9",
+    "startAt": 32472172800000,
+    "endAt": 1610179199000,
+    "bannerAssetbundleName": "banner_news_gacha30_Ojei40eL"
+  },
+  {
+    "id": 276,
+    "seq": 6620,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "新年のご挨拶",
+    "path": "information/index.html?id=info_newyear_aisatsu_20210101_Lf4UfdO7",
+    "startAt": 32472172800000,
+    "endAt": 1610092799000
+  },
+  {
+    "id": 277,
+    "seq": 5975,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Senbonzakura, now available!",
+    "path": "information/index.html?id=info_add_music_campaign_9day_5_20201228_13sdUTs",
+    "startAt": 1641078000000,
+    "endAt": 1641337199000
+  },
+  {
+    "id": 278,
+    "seq": 5976,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, ECHO, now available!",
+    "path": "information/index.html?id=info_add_music_campaign_9day_6_20201228_8aWNdv7",
+    "startAt": 1640991600000,
+    "endAt": 1641250799000
+  },
+  {
+    "id": 279,
+    "seq": 5965,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Chururira Chururira Daddadda!, now available!",
+    "path": "information/index.html?id=info_add_music_campaign_9day_7_20201228_Pqro2nf",
+    "startAt": 1641855600000,
+    "endAt": 1642114799000
+  },
+  {
+    "id": 280,
+    "seq": 5964,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Bless Your Breath, now available!",
+    "path": "information/index.html?id=info_add_music_campaign_9day_8_20201228_KWea7K",
+    "startAt": 1641942000000,
+    "endAt": 1642201199000
+  },
+  {
+    "id": 281,
+    "seq": 6520,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "SEKAI Thrilling New Year Gacha, available now!",
+    "path": "information/index.html?id=info_gacha_28_Lfe34hb9",
+    "startAt": 1644534000000,
+    "endAt": 1645225199000,
+    "bannerAssetbundleName": "banner_news_gacha28_en_Kie7l3o4"
+  },
+  {
+    "id": 282,
+    "seq": 5967,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Totemoitai Itagaritai, now available!",
+    "path": "information/index.html?id=info_add_music_campaign_9day_9_20201228_rZKv95P",
+    "startAt": 1641682800000,
+    "endAt": 1641941999000
+  },
+  {
+    "id": 283,
+    "seq": 2994,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Shiho's Birthday Show ",
+    "path": "information/index.html?id=virtualLive_50_Rk8k3n6M",
+    "startAt": 1641510000000,
+    "endAt": 1641769199000,
+    "bannerAssetbundleName": "banner_news_virtuallive50_en_Lief5Fe1"
+  },
+  {
+    "id": 284,
+    "seq": 6460,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "1月9日25時よりWEBラジオ「25時、ナイトラジオで。#6」を配信！",
+    "path": "information/index.html?id=info_webradio_6_20210107_38j4DnUS",
+    "startAt": 32472820800000,
+    "endAt": 1610711999000
+  },
+  {
+    "id": 285,
+    "seq": 1965,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "[Announcement] Don't Let Doubts Hold You Back",
+    "path": "information/index.html?id=info_event_10_notice_Pfe6ff52",
+    "startAt": 1645138800000,
+    "endAt": 1645225199000,
+    "bannerAssetbundleName": "banner_news_event10_en_1X2xHrh2"
+  },
+  {
+    "id": 286,
+    "seq": 5936,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Awaiting Clear Skies, now available!",
+    "path": "information/index.html?id=info_add_music_20210110_Liw32fw6",
+    "startAt": 1645225200000,
+    "endAt": 1645484399000
+  },
+  {
+    "id": 287,
+    "seq": 1964,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Event, Don't Let Doubts Hold You Back now on!",
+    "path": "information/index.html?id=info_event_10_held_eMde6g3D",
+    "startAt": 1645225200000,
+    "endAt": 1645765199000,
+    "bannerAssetbundleName": "banner_news_event10_en_1X2xHrh2"
+  },
+  {
+    "id": 288,
+    "seq": 1963,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "A Little Courage Goes a Long Way Gacha, available now!",
+    "path": "information/index.html?id=info_gacha_39_LeU3fe5D",
+    "startAt": 1645225200000,
+    "endAt": 1645916399000,
+    "bannerAssetbundleName": "banner_news_gacha39_en_Jfe6i2Ld"
+  },
+  {
+    "id": 289,
+    "seq": 6340,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Event Character Boosted Rate Gacha, available now!",
+    "path": "information/index.html?id=info_gacha_41_Nfghje24",
+    "startAt": 1645398000000,
+    "endAt": 1645765199000,
+    "bannerAssetbundleName": "banner_news_gacha41_en_U2fe6Jde"
+  },
+  {
+    "id": 291,
+    "seq": 7290,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月下旬バランスアップデート】一部ミッションのクリア条件改善",
+    "path": "information/index.html?id=balanceupdate_mission_20201222_HOknfewh0-shYoiu",
+    "startAt": 32502911400000,
+    "endAt": 1608870599000
+  },
+  {
+    "id": 292,
+    "seq": 7255,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月23日21時30分追記】バーチャルショップの一時販売停止と対象アイテムについて",
+    "path": "information/index.html?id=balanceupdate_virtual_shop_price_revision_20201223_kdsD-97s",
+    "startAt": 32503008600000,
+    "endAt": 1610351999000
+  },
+  {
+    "id": 295,
+    "seq": 7175,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月24日20時30分追記】【12月下旬バランスアップデート】一部ミッションのクリア条件改善",
+    "path": "information/index.html?id=balanceupdate_mission_20201224_Ofnejrks5-1dsah",
+    "startAt": 32503091400000,
+    "endAt": 1609315199000
+  },
+  {
+    "id": 299,
+    "seq": 6710,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【12月31日23時15分追記】「★3以上確定チケットガチャ」の出現メンバー更新予定のご案内",
+    "path": "information/index.html?id=info_rarity3overgacha_update_Jek74vf0",
+    "startAt": 32503706100000,
+    "endAt": 1610539199000
+  },
+  {
+    "id": 300,
+    "seq": 5956,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, World’s End Dancehall, now available!",
+    "path": "information/index.html?id=info_add_music_20210114_Ok14fe62",
+    "startAt": 1643238000000,
+    "endAt": 1643497199000
+  },
+  {
+    "id": 301,
+    "seq": 5966,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Hibikase, now available!",
+    "path": "information/index.html?id=info_add_music_20210118_Y6Od3Ldc",
+    "startAt": 1641769200000,
+    "endAt": 1642028399000
+  },
+  {
+    "id": 303,
+    "seq": 6490,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「人数拡張βテスト版」バーチャルライブの今後の実施について",
+    "path": "information/index.html?id=info_virtualLive_update_add_20210106_AKWE9v4tac",
+    "startAt": 32472658800000,
+    "endAt": 1611608399000
+  },
+  {
+    "id": 304,
+    "seq": 6450,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "楽曲「ブレス・ユア・ブレス」原曲MV追加のお知らせ",
+    "path": "information/index.html?id=info_add_original_mv_20210108_Kife3Fd2",
+    "startAt": 32472824400000,
+    "endAt": 1610366399000
+  },
+  {
+    "id": 305,
+    "seq": 6480,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【1月6日16時00分追記】「HAPPY BIRTHDAYライブ 志歩」開催について",
+    "path": "information/index.html?id=virtualLive_50_add_AKe9sksG",
+    "startAt": 32472662400000,
+    "endAt": 1610141399000,
+    "bannerAssetbundleName": "banner_news_virtuallive50_Lief5Fe1"
+  },
+  {
+    "id": 309,
+    "seq": 6445,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【1月8日13時30分追記】「HAPPY BIRTHDAYライブ 志歩」開催について",
+    "path": "information/index.html?id=virtualLive_50_add2_AKe9sksG",
+    "startAt": 32472826200000,
+    "endAt": 1610319599000,
+    "bannerAssetbundleName": "banner_news_virtuallive50_Lief5Fe1"
+  },
+  {
+    "id": 310,
+    "seq": 6440,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "カラフルパスに関する表記、及び今後の対応について",
+    "path": "information/index.html?id=info_colorfulpass_20210109_AwasDa81j",
+    "startAt": 32472855000000,
+    "endAt": 1610751599000
+  },
+  {
+    "id": 311,
+    "seq": 6370,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "1月16日14時より「プロセカストーリーシアター Leo/need編」を生配信！",
+    "path": "information/index.html?id=info_storytheater_leoneed_20210112_P83kajGMS",
+    "startAt": 32473177200000,
+    "endAt": 1610848799000
+  },
+  {
+    "id": 312,
+    "seq": 6220,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "1月25日19時より「プロジェクトセカイワンダショちゃんねる#4」を生配信！",
+    "path": "information/index.html?id=info_livebroadcast_notice_20210118_VANsie3allO",
+    "startAt": 32473857600000,
+    "endAt": 1611633599000
+  },
+  {
+    "id": 313,
+    "seq": 6320,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【1月15日15時00分追記】カラフルパスに関する表記、及び今後の対応について",
+    "path": "information/index.html?id=info_colorfulpass_add_20210115_AW329gAEn",
+    "startAt": 32473436400000,
+    "endAt": 1611089999000
+  },
+  {
+    "id": 314,
+    "seq": 6300,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "1月23日14時より「プロセカストーリーシアター MORE MORE JUMP！編」を生配信！",
+    "path": "information/index.html?id=info_storytheater_moremorejump_20210116_MMJ23iwev8i7",
+    "startAt": 32473533600000,
+    "endAt": 1611453599000
+  },
+  {
+    "id": 316,
+    "seq": 6240,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【1月19日13時00分追記】カラフルパスに関する表記、及び今後の対応について",
+    "path": "information/index.html?id=info_colorfulpass_fix_20210119_Wg0mGwjgww",
+    "startAt": 32473774800000,
+    "endAt": 1611356399000
+  },
+  {
+    "id": 317,
+    "seq": 6200,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "[Announcement] My Color!",
+    "path": "information/index.html?id=info_event_11_notice_EOmas19mso",
+    "startAt": 1645830000000,
+    "endAt": 1645916399000,
+    "bannerAssetbundleName": "banner_news_event11_en_EOmas19mso"
+  },
+  {
+    "id": 318,
+    "seq": 6180,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「ニジイロストーリーズ」アナザーボーカルver.追加のお知らせ",
+    "path": "information/index.html?id=info_music_nijiiro_another_20210121_Zce69jfugg5",
+    "startAt": 32473947600000,
+    "endAt": 1611489599000
+  },
+  {
+    "id": 319,
+    "seq": 6160,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「ECHO」アナザーボーカルver.追加のお知らせ",
+    "path": "information/index.html?id=info_music_echo_another_20210121_EPvnao039kg",
+    "startAt": 32473947600000,
+    "endAt": 1611489599000
+  },
+  {
+    "id": 320,
+    "seq": 6140,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「チュルリラ・チュルリラ・ダッダッダ！」アナザーボーカルver.追加のお知らせ",
+    "path": "information/index.html?id=info_music_chururira_another_20210121_AW9vj4tAos",
+    "startAt": 32473947600000,
+    "endAt": 1611489599000
+  },
+  {
+    "id": 323,
+    "seq": 1960,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Event, My Color! now on!",
+    "path": "information/index.html?id=info_event_11_held_w29vAW0kk",
+    "startAt": 1645916400000,
+    "endAt": 1646456399000,
+    "bannerAssetbundleName": "banner_news_event11_en_EOmas19mso"
+  },
+  {
+    "id": 324,
+    "seq": 6100,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "A Rainbow Follows the Rain Gacha, available now!",
+    "path": "information/index.html?id=info_gacha_42_A39awvlaEE",
+    "startAt": 1645916400000,
+    "endAt": 1646607599000,
+    "bannerAssetbundleName": "banner_news_gacha42_en_A39awvlaEE"
+  },
+  {
+    "id": 325,
+    "seq": 6080,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "1月23日25時よりWEBラジオ「25時、ナイトラジオで。#7」を配信！",
+    "path": "information/index.html?id=info_webradio_7_20210122_rdo25Ae9cnr",
+    "startAt": 32474030400000,
+    "endAt": 1611921599000
+  },
+  {
+    "id": 326,
+    "seq": 6060,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "1月27日メンテナンス実施のお知らせ",
+    "path": "information/index.html?id=info_maintenance_notice_20210122_EOvsne18giP",
+    "startAt": 32474030400000,
+    "endAt": 1611788399000
+  },
+  {
+    "id": 328,
+    "seq": 6020,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Event Character Boosted Rate Gacha, available now!",
+    "path": "information/index.html?id=info_gacha_44_a23vraivmTY",
+    "startAt": 1646089200000,
+    "endAt": 1646456399000,
+    "bannerAssetbundleName": "banner_news_gacha44_en_a23vraivmTY"
+  },
+  {
+    "id": 329,
+    "seq": 6000,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【1月25日13時00分追記】イベント「Color of Myself！」開催！",
+    "path": "information/index.html?id=info_event_11_held_add_Weavw948szk",
+    "startAt": 32474293200000,
+    "endAt": 1612760399000,
+    "bannerAssetbundleName": "banner_news_event11_EOmas19mso"
+  },
+  {
+    "id": 332,
+    "seq": 5940,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「v1.4.0」アップデート予定のお知らせ",
+    "path": "information/index.html?id=info_update_v140_EWPVk140mdyia",
+    "startAt": 32474293200000,
+    "endAt": 1611712799000
+  },
+  {
+    "id": 333,
+    "seq": 2993,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Mafuyu's Birthday Show ",
+    "path": "information/index.html?id=virtualLive53_MFYse63vbh",
+    "startAt": 1643151600000,
+    "endAt": 1643410799000,
+    "bannerAssetbundleName": "banner_news_virtuallive53_en_MFYse63vbh"
+  },
+  {
+    "id": 337,
+    "seq": 5880,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【1月26日18時00分追記】「v1.4.0」アップデート予定のお知らせ",
+    "path": "information/index.html?id=info_update_v140_add_We203Dkzj",
+    "startAt": 32474397600000,
+    "endAt": 1611858599000
+  },
+  {
+    "id": 338,
+    "seq": 5860,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "【1月27日15時30分追記】1月27日メンテナンス実施のお知らせ",
+    "path": "information/index.html?id=info_maintenance_end_20210127_ASoegm73nfa8",
+    "startAt": 32474475000000,
+    "endAt": 1612353599000
+  },
+  {
+    "id": 342,
+    "seq": 2992,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Luka's Anniversary Show",
+    "path": "information/index.html?id=virtualLive_54_LK29avGGf",
+    "startAt": 1643410800000,
+    "endAt": 1643669999000,
+    "bannerAssetbundleName": "banner_news_virtuallive54_en_LK29avGGf"
+  },
+  {
+    "id": 350,
+    "seq": 5933,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Color of Drops, now available!",
+    "path": "information/index.html?id=info_music_colorofdrops_20210129_Uxamw92n8g",
+    "startAt": 1646460300000,
+    "endAt": 1646693999000
+  },
+  {
+    "id": 358,
+    "seq": 99996,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Regarding unauthorized acquisition and pre-release dissemination of in-game data/content via social networks",
+    "path": "information/index.html?id=information_test_eppiHjm5",
+    "startAt": 1638914400000
+  },
+  {
+    "id": 363,
+    "seq": 1,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Milk Crown on Sonechka, now available!",
+    "path": "information/index.html?id=info_music_milkcrown_20210206_MCOSw9s38jdopP",
+    "startAt": 1645484400000,
+    "endAt": 1645743599000
+  },
+  {
+    "id": 366,
+    "seq": 99994,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Check out the Welcome Show!",
+    "path": "information/index.html?id=information_weicomelive_release_KJ65TC2m",
+    "startAt": 1638914400000
+  },
+  {
+    "id": 367,
+    "seq": 99995,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "About COLORFUL+",
+    "path": "information/index.html?id=information_colorful_release_izxZXQaN",
+    "startAt": 1638914400000
+  },
+  {
+    "id": 368,
+    "seq": 99980,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Increased Virtual Show player cap",
+    "path": "information/index.html?id=information_virtuallive_increase_iKLWNPUn",
+    "startAt": 1639548000000
+  },
+  {
+    "id": 369,
+    "seq": 1,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Kanade's Birthday Show ",
+    "path": "information/index.html?id=virtualLive56_KADodk9ajg2ig",
+    "startAt": 1644361200000,
+    "endAt": 1644706799000,
+    "bannerAssetbundleName": "banner_news_virtualLive56_en_KADodk9ajg2ig"
+  },
+  {
+    "id": 373,
+    "seq": 104,
     "informationType": "bug",
     "informationTag": "bug",
     "browseType": "internal",
     "platform": "all",
-    "title": "｢練習｣｢スキルアップ｣において、特定条件下で｢おすすめ｣をタップするとアイテムが1つ余分に選択されてしまうことがある事象について",
-    "path": "information/index.html?id=bug_training_recommended_fix_20201216_Tr39kgrQ",
-    "startAt": 1608114600000,
-    "endAt": 1609473599000
+    "title": "Issue Regarding Show Missions (Updated: Dec. 14, 01:30 PST) ",
+    "path": "information/index.html?id=bug_menu_info_20211208_bg2Tyns5ab",
+    "startAt": 1639474200000
   },
   {
-    "id": 229,
-    "seq": 9680,
+    "id": 377,
+    "seq": 5954,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Time Machine, now available!",
+    "path": "information/index.html?id=info_music_timemachine_2021020_TMw0d92goz0jh",
+    "startAt": 1643670000000,
+    "endAt": 1643929200000
+  },
+  {
+    "id": 379,
+    "seq": 57,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "[Announcement] Valentine's Day Login Campaign",
+    "path": "information/index.html?id=loginbonus_Valentine2021_notice_VLwa028t4naG",
+    "startAt": 1644706800000,
+    "endAt": 1644825599000,
+    "bannerAssetbundleName": "banner_news_Valentine2021_en_VLwa028t4naG"
+  },
+  {
+    "id": 380,
+    "seq": 56,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Valentine's Day Show 2022",
+    "path": "information/index.html?id=virtualLive57_VLLf02a9Sfej2",
+    "startAt": 1644706800000,
+    "endAt": 1645138799000,
+    "bannerAssetbundleName": "banner_news_virtualLive57_en_VLLf02a9Sfej2"
+  },
+  {
+    "id": 381,
+    "seq": 57,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Valentine's Day Login Campaign, now on!",
+    "path": "information/index.html?id=loginbonus_Valentine2021_held_VLwom02ga7wng",
+    "startAt": 1644825600000,
+    "endAt": 1644911999000,
+    "bannerAssetbundleName": "banner_news_Valentine2021_en_VLwa028t4naG"
+  },
+  {
+    "id": 383,
+    "seq": 1,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, drop pop candy, now available!",
+    "path": "information/index.html?id=info_music_droppopcandy_20210215_DPC0wf9aw9gn37",
+    "startAt": 1644274800000,
+    "endAt": 1644534000000
+  },
+  {
+    "id": 385,
+    "seq": 103,
     "informationType": "bug",
     "informationTag": "bug",
     "browseType": "internal",
     "platform": "all",
-    "title": "一時的に発生していたアクセス障害について",
-    "path": "information/index.html?id=bug_access_fix_20201216_Ac18aaW9",
-    "startAt": 1608062400000,
-    "endAt": 1608263999000
+    "title": "Issue with Galaxy S21 series (Updated: Jan. 26, 21:00 PST)",
+    "path": "information/index.html?id=info_galaxy_1224_S21sss",
+    "startAt": 1643259600000,
+    "endAt": 1643875199000
+  },
+  {
+    "id": 386,
+    "seq": 102,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Issue regarding \"Mad Skillz\" and \"Madder Skillz\" Titles",
+    "path": "information/index.html?id=info_bug_1227_AE4kNBww",
+    "startAt": 1640588400000,
+    "endAt": 1641283199000
+  },
+  {
+    "id": 387,
+    "seq": 101,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "(Important) Issue with viewing Virtual Shows",
+    "path": "information/index.html?id=bug_virtuallive_error_summary_20211228_awia-nSE8gZ",
+    "startAt": 32503705200000,
+    "endAt": 1641283199000
+  },
+  {
+    "id": 388,
+    "seq": 100,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Issue accessing Virtual Show Lobbies",
+    "path": "information/index.html?id=bug_virtuallive_lobbieserror_20211228_Ah43a1",
+    "startAt": 1640682000000
+  },
+  {
+    "id": 389,
+    "seq": 99,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Issues with some Android devices (Updated: Jan. 26, 21:00 PST)",
+    "path": "information/index.html?id=bug_androiddevice_20220107_KAkay3",
+    "startAt": 1643259600000,
+    "endAt": 1643875199000
+  },
+  {
+    "id": 390,
+    "seq": 98,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Issue with SUPER FEVER not displaying during certain songs in Co-op Shows",
+    "path": "information/index.html?id=bug_superfever_20220107_Iasn43",
+    "startAt": 1641549600000
+  },
+  {
+    "id": 391,
+    "seq": 97,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Changes to Virtual Show Sessions (Updated: Jan. 14, 03:00 PST)",
+    "path": "information/index.html?id=info_virtiallive_timechange_20220112_JAgi21a",
+    "startAt": 1642158000000,
+    "endAt": 1643270399000
+  },
+  {
+    "id": 392,
+    "seq": 96,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Ver.1.0.2 Update (Updated: Jan. 25, 18:00 PST)",
+    "path": "information/index.html?id=info_update_v102_JIM21KGF",
+    "startAt": 1643162400000,
+    "endAt": 1643788799000
+  },
+  {
+    "id": 393,
+    "seq": 97,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Issues Regarding the song, \"Time Machine\" (Updated: Feb. 1, 04:00 PST)",
+    "path": "information/index.html?id=bug_fullcombo_20220107_TM21",
+    "startAt": 1643716800000,
+    "endAt": 1644393599000
+  },
+  {
+    "id": 394,
+    "seq": 58,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Maintenance Notification (02/07) (Updated: 02/07, 04:00 am PST)",
+    "path": "information/index.html?id=info_maintenanse_0207_servlow",
+    "startAt": 1644235200000,
+    "endAt": 1644825599000
+  },
+  {
+    "id": 395,
+    "seq": 1,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "KAITO's Birthday Show",
+    "path": "information/index.html?id=virtualLive58_KITwosme0akics",
+    "startAt": 1644966000000,
+    "endAt": 1645311599000,
+    "bannerAssetbundleName": "banner_news_virtualLive58_en_KITwosme0akics"
+  },
+  {
+    "id": 396,
+    "seq": 2986,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Kohane's Birthday Show ",
+    "path": "information/index.html?id=virtualLive60_KHNw0smaw9gED",
+    "startAt": 1646089200000,
+    "endAt": 1646434799000,
+    "bannerAssetbundleName": "banner_news_virtualLive60_en_KHNw0smaw9gED"
+  },
+  {
+    "id": 397,
+    "seq": 5937,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Brand New Day, now available!",
+    "path": "information/index.html?id=info_music_brandnewday_20210222_BND0zw8nva0",
+    "startAt": 1644879600000,
+    "endAt": 1645138799000
+  },
+  {
+    "id": 398,
+    "seq": 5934,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Positive☆Dance Time, now available!",
+    "path": "information/index.html?id=info_music_positivedancetime_20210219_PDTw020g8a2aF",
+    "startAt": 1646089200000,
+    "endAt": 1646348399000
+  },
+  {
+    "id": 399,
+    "seq": 55,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Ver.1.0.3 Update (Updated: Feb. 14, 18:00 PST)",
+    "path": "information/index.html?id=info_update_v103_hbd214ndC",
+    "startAt": 1644890400000,
+    "endAt": 1645516799000
+  },
+  {
+    "id": 436,
+    "seq": 5938,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, Bocca della Verità, now available!",
+    "path": "information/index.html?id=info_music_bokkaderaberita_20210306_BRsogmrAKd86Amhk",
+    "startAt": 1644620400000,
+    "endAt": 1644879599000
+  },
+  {
+    "id": 9298,
+    "seq": 6820,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "「人数拡張βテスト版」バーチャルライブの実施について",
+    "path": "information/index.html?id=info_virtualLive_update_20201231_SK193VFFc",
+    "startAt": 32503600800000,
+    "endAt": 1609973999000
+  },
+  {
+    "id": 20001,
+    "seq": 100,
+    "informationType": "content",
+    "informationTag": "update",
+    "browseType": "external",
+    "platform": "all",
+    "title": "Instagram",
+    "path": "https://www.instagram.com/colorful_stage_en/",
+    "startAt": 1641974400000,
+    "bannerAssetbundleName": "GAASCS-63_In-game SNS Icons_IG2"
+  },
+  {
+    "id": 20002,
+    "seq": 110,
+    "informationType": "content",
+    "informationTag": "update",
+    "browseType": "external",
+    "platform": "all",
+    "title": "Facebook",
+    "path": "https://www.facebook.com/ColorfulStageEN/",
+    "startAt": 1641974400000,
+    "bannerAssetbundleName": "GAASCS-63_In-game SNS Icons_FB2"
+  },
+  {
+    "id": 20003,
+    "seq": 120,
+    "informationType": "content",
+    "informationTag": "update",
+    "browseType": "external",
+    "platform": "all",
+    "title": "Discord",
+    "path": "https://discord.com/invite/rSVafFv8HU",
+    "startAt": 1641974400000,
+    "bannerAssetbundleName": "GAASCS-63_In-game SNS Icons_Discord2"
+  },
+  {
+    "id": 20004,
+    "seq": 130,
+    "informationType": "content",
+    "informationTag": "update",
+    "browseType": "external",
+    "platform": "all",
+    "title": "Twitch",
+    "path": "https://t.co/raBRhiSYHs",
+    "startAt": 1641974400000,
+    "bannerAssetbundleName": "GAASCS-63_In-game SNS Icons_Twitch2"
   }
 ]
