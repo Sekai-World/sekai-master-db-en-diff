@@ -1,15 +1,5 @@
 [
   {
-    "homeBannerId": 44,
-    "seq": 300,
-    "name": "Premium Mission Pass",
-    "assetbundleName": "banner_premiummissionpass_en_2022_02",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 179,
-    "startAt": 1643702400000,
-    "endAt": 1646121599000
-  },
-  {
     "homeBannerId": 48,
     "seq": 9998,
     "name": "Welcome Show Banner",
@@ -20,44 +10,54 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 58,
-    "seq": 100,
-    "name": "New Year's Event",
-    "assetbundleName": "event_newyear_2020",
+    "homeBannerId": 75,
+    "seq": 300,
+    "name": "Premium Mission Pass",
+    "assetbundleName": "banner_premiummissionpass_en_2022_03",
+    "transitionDestinationType": "information",
+    "transitionDestinationId": 272,
+    "startAt": 1646121600000,
+    "endAt": 1648796399000
+  },
+  {
+    "homeBannerId": 77,
+    "seq": 99,
+    "name": "[Event] My Color!",
+    "assetbundleName": "event_color_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 9,
-    "startAt": 1644534000000,
-    "endAt": 1645225199000
+    "transitionDestinationId": 11,
+    "startAt": 1645916400000,
+    "endAt": 1646607599000
   },
   {
-    "homeBannerId": 59,
+    "homeBannerId": 78,
+    "seq": 100,
+    "name": "MMJ Event 2nd Tour_Regular Gacha Banner",
+    "assetbundleName": "banner_gacha42",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 42,
+    "startAt": 1645916400000,
+    "endAt": 1646607599000
+  },
+  {
+    "homeBannerId": 79,
     "seq": 120,
-    "name": "[Hello 2022] Colorful Festival Gacha",
-    "assetbundleName": "banner_gacha26",
+    "name": "MMJ Event 2nd Tour_Event Character Boosted Rate Gacha Banner",
+    "assetbundleName": "banner_gacha44",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 26,
-    "startAt": 1644534000000,
-    "endAt": 1645225199000
+    "transitionDestinationId": 44,
+    "startAt": 1646089200000,
+    "endAt": 1646456399000
   },
   {
-    "homeBannerId": 60,
+    "homeBannerId": 106,
     "seq": 140,
-    "name": "New Year's Event Gacha",
-    "assetbundleName": "banner_gacha28",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 28,
-    "startAt": 1644534000000,
-    "endAt": 1645225199000
-  },
-  {
-    "homeBannerId": 94,
-    "seq": 180,
-    "name": "KAITO's Anniversary Show",
-    "assetbundleName": "banner_virtuallive58",
+    "name": "Kohane's Birthday Show",
+    "assetbundleName": "banner_virtuallive60",
     "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 58,
-    "startAt": 1644966000000,
-    "endAt": 1645311599000
+    "transitionDestinationId": 60,
+    "startAt": 1646089200000,
+    "endAt": 1646434799000
   },
   {
     "homeBannerId": 1001,
