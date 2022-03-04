@@ -871,6 +871,19 @@
     "effectExpressionType": "throw_effect"
   },
   {
+    "id": 72,
+    "virtualItemCategory": "normal",
+    "seq": 720,
+    "priority": 720,
+    "name": "Violin Accompaniment",
+    "assetbundleName": "event_nocturne",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_nocturne",
+    "effectExpressionType": "throw_effect"
+  },
+  {
     "id": 73,
     "virtualItemCategory": "normal",
     "seq": 730,
@@ -910,16 +923,55 @@
     "effectExpressionType": "throw_effect"
   },
   {
+    "id": 76,
+    "virtualItemCategory": "normal",
+    "seq": 760,
+    "priority": 760,
+    "name": "The Sky After the Rain",
+    "assetbundleName": "event_infinitelygray",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_infinitelygray",
+    "effectExpressionType": "throw_effect"
+  },
+  {
     "id": 77,
     "virtualItemCategory": "normal",
     "seq": 770,
     "priority": 770,
-    "name": "HAPPY BIRTHDAY こはね",
+    "name": "Happy Birthday, Kohane!",
     "assetbundleName": "chara_kohane_birthday",
     "costVirtualCoin": 3000,
     "costJewel": 3000,
     "cheerPoint": 3000,
     "effectAssetbundleName": "chara_kohane_birthday",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 80,
+    "virtualItemCategory": "normal",
+    "seq": 800,
+    "priority": 800,
+    "name": "Happy White Day",
+    "assetbundleName": "event_whiteday_2021",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_whiteday_2021",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 81,
+    "virtualItemCategory": "normal",
+    "seq": 810,
+    "priority": 810,
+    "name": "Happy Birthday, Airi!",
+    "assetbundleName": "chara_airi_birthday",
+    "costVirtualCoin": 3000,
+    "costJewel": 3000,
+    "cheerPoint": 3000,
+    "effectAssetbundleName": "chara_airi_birthday",
     "effectExpressionType": "throw_effect"
   }
 ]

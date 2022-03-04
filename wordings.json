@@ -169,7 +169,7 @@
   },
   {
     "wordingKey": "MSG_CONDITION_GET_CARD",
-    "value": "Obtained {0} {1}"
+    "value": "Obtained [{0}] {1}"
   },
   {
     "wordingKey": "MSG_CONFIRM_DATA_LINK",
@@ -420,16 +420,12 @@
     "value": "Set as default Miku in 3D MV."
   },
   {
-    "wordingKey": "MSG_GACHA_CEIL_TICKET_CONVERT_CONFIRM",
-    "value": "Trade {0}\nfor {1}?"
-  },
-  {
     "wordingKey": "MSG_GACHA_CEIL_TICKET_EXCHANGE_CONFIRM",
     "value": "Trade {0} x<color=#FF55AA>{1}</color>\nfor this item?"
   },
   {
     "wordingKey": "MSG_GACHA_EXCHANGE_NUMBER_OF_PURCHASE",
-    "value": "{0} left"
+    "value": "x{0} left"
   },
   {
     "wordingKey": "MSG_GACHA_ITEM_EXCHANGE_EXPIRED",
@@ -461,7 +457,7 @@
   },
   {
     "wordingKey": "MSG_HIGH_SCORE_UPDATE_REWARD",
-    "value": "+<color=#FF55AA>{0}</color>Pts Score Reward"
+    "value": "=+<color=#FF55AA>{0}</color>Pts Score Reward"
   },
   {
     "wordingKey": "MSG_INHERIT_INVALID_TOKEN",
@@ -522,6 +518,10 @@
   {
     "wordingKey": "MSG_LIVE_BONUS_MAX",
     "value": "Bonus Energy MAX"
+  },
+  {
+    "wordingKey": "MSG_LIVE_BONUS_RECEIVE_LIMIT_COUNT",
+    "value": "Receivable limit reached."
   },
   {
     "wordingKey": "MSG_LIVE_BOOST_AUTO_USE_CONFIRMATION",
@@ -1121,7 +1121,7 @@
   },
   {
     "wordingKey": "MSG_SHOP_NUMBER_OF_PURCHASE",
-    "value": "{0} left"
+    "value": "x{0} left"
   },
   {
     "wordingKey": "MSG_SHOP_PRODUCT_UPDATE",
@@ -1313,7 +1313,7 @@
   },
   {
     "wordingKey": "MSG_UPDATE",
-    "value": "+{0} ↑"
+    "value": "=+{0} ↑"
   },
   {
     "wordingKey": "MSG_UPDATE_BONUS_INFO",
@@ -1425,7 +1425,7 @@
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
-    "value": " to have that character wear the costume."
+    "value": "to have that character wear the costume."
   },
   {
     "wordingKey": "MSG_WEAR_COSTUME_BOUGHT",
@@ -1653,7 +1653,7 @@
   },
   {
     "wordingKey": "WORD_AUTO_LIVE_NUMBER_OF_PLAY",
-    "value": "{0} left"
+    "value": "x{0} left"
   },
   {
     "wordingKey": "WORD_AVATAR_COSTUME",
@@ -1670,6 +1670,10 @@
   {
     "wordingKey": "WORD_BATTERY_ALERT",
     "value": "Battery Alert"
+  },
+  {
+    "wordingKey": "WORD_BEGINNER_MISSION",
+    "value": "Beginner's Debut Missions"
   },
   {
     "wordingKey": "WORD_BGM",
@@ -1869,7 +1873,7 @@
   },
   {
     "wordingKey": "WORD_CHEERFULCARNIVAL_HOLDING_PERIOD",
-    "value": "{0:00}~{1:00}"
+    "value": "{0:00}-{1:00}"
   },
   {
     "wordingKey": "WORD_CHEER_MESSAGE",
@@ -2552,6 +2556,14 @@
     "value": "To Character Rank"
   },
   {
+    "wordingKey": "WORD_GO_CHEERFUL_CARNIVAL_LIVE",
+    "value": "Cheerful Show"
+  },
+  {
+    "wordingKey": "WORD_GO_CHEERFUL_CARNIVAL_TEAM_AREA",
+    "value": "Crew Area"
+  },
+  {
     "wordingKey": "WORD_GO_COSTUME_LIVE_SHOP",
     "value": "To Costumes"
   },
@@ -2628,8 +2640,8 @@
     "value": "Training"
   },
   {
-    "wordingKey": "WORD_HAIR",
-    "value": "Hairstyle"
+    "wordingKey": "WORD_HAIR_DETAIL_ACCESSORIES_DELIMITER",
+    "value": ", "
   },
   {
     "wordingKey": "WORD_HATED_FOOD",
@@ -3049,7 +3061,7 @@
   },
   {
     "wordingKey": "WORD_MASTER_LESSON_MATERIAL_EXCHANGE_REMAINING_NUM",
-    "value": "{0} left"
+    "value": "x{0} left"
   },
   {
     "wordingKey": "WORD_MASTER_LESSON_NL",
