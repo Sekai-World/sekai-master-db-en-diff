@@ -464,15 +464,22 @@
   {
     "id": 105,
     "title": "Challenge Shows - EX Levels",
-    "description": "「チャレンジライブ」のステージが100に到達すると、\n EXステージになります。",
-    "fromUserRank": 150,
-    "toUserRank": 200
+    "description": "Once a Challenge Show's Stage reaches 100,\nit becomes an EX Level.",
+    "fromUserRank": 250,
+    "toUserRank": 999
   },
   {
     "id": 106,
     "title": "Challenge Shows - EX Levels",
-    "description": "「チャレンジライブ」のEXステージを上げると、\n 毎回クリスタルを獲得できます。",
-    "fromUserRank": 150,
+    "description": "You can earn Crystals every day by\nincreasing your Challenge Shows' EX Levels.",
+    "fromUserRank": 250,
+    "toUserRank": 999
+  },
+  {
+    "id": 108,
+    "title": "Friends",
+    "description": "You can send a friend request to another\n player from their profile or from a Co-op Show.",
+    "fromUserRank": 1,
     "toUserRank": 200
   },
   {

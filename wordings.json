@@ -8,12 +8,24 @@
     "value": "Rank: {0}"
   },
   {
+    "wordingKey": "MEG_VERSUS_MATCH_TIMEOUT",
+    "value": "No opponents found. Returning to Show screen."
+  },
+  {
+    "wordingKey": "MEG_VERSUS_MATCH_TIMEOUT_PRIVATE",
+    "value": "No opponents found. Return to matchmaking screen?"
+  },
+  {
     "wordingKey": "MSG_ABOUT_LIVE_POINT",
     "value": "Show Missions"
   },
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT",
     "value": "Collect Show Pts to earn rewards.\n\n■ Solo Show/Co-op Show ■\n You will earn　<color=#ff55AA>1</color> Show Point for every song cleared.\nUsing Bonus Energy will increase Show Points earned.\n\n■ Challenge Show ■\nYou will earn <color=#ff55AA>30</color> Show Points for every challenge cleared."
+  },
+  {
+    "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
+    "value": "({0}) {1} to unlock.\nThis is a Hairstyle specific Accessory. Unlock the Hairstyle to equip."
   },
   {
     "wordingKey": "MSG_ADJUST_WITH_TAP",
@@ -26,6 +38,10 @@
   {
     "wordingKey": "MSG_ADJUST_WITH_TAP_RESULT_BODY",
     "value": "Use results to automatically adjust settings?"
+  },
+  {
+    "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
+    "value": "This app does not have permission to access your albums.\nPlease open your device's settings to allow access."
   },
   {
     "wordingKey": "MSG_ALL_UNLOCK_STORY",
@@ -136,6 +152,30 @@
     "value": "You can now play Challenge\nShows with {0}."
   },
   {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_GET",
+    "value": "Reward Earned"
+  },
+  {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_INFO",
+    "value": "<color=#ff5599>*Stamps reset every Monday at 4:00 (PDT).</color>"
+  },
+  {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_RESET",
+    "value": "Resets on Monday at 4:00 PDT"
+  },
+  {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT",
+    "value": "Select a reward."
+  },
+  {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_CONFIRM",
+    "value": "Receive {0} x{1}.\nContinue?"
+  },
+  {
+    "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_INFO",
+    "value": "Select a reward when x{0} Stamps are used."
+  },
+  {
     "wordingKey": "MSG_CHANGE_DAY",
     "value": "The date has changed.\nReturning to title screen."
   },
@@ -150,6 +190,18 @@
   {
     "wordingKey": "MSG_CHEAT_MULTILIVE",
     "value": "Unfair practices detected.\nCurrent show results have been nullified.\n\nIf unfair practices are detected again,\nyour account may be suspended."
+  },
+  {
+    "wordingKey": "MSG_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
+    "value": "Selected <color=#ff5588>{0}</color> Crew.\nContinue?"
+  },
+  {
+    "wordingKey": "MSG_CHEERFUL_CARNIVAL_TEAM_CHANGE_FIRST",
+    "value": "*Whimper* Are...are y-you lost too?\nI'm going back to my Crew where my friends should be. Do you want to come with me?"
+  },
+  {
+    "wordingKey": "MSG_CHEERFUL_CARNIVAL_TEAM_CHANGE_SECOND",
+    "value": "I think you can only change your Crew once.\nAre your sure you want join {0} Crew?"
   },
   {
     "wordingKey": "MSG_CHEER_POINT_FORMAT",
@@ -316,6 +368,18 @@
     "value": "Update"
   },
   {
+    "wordingKey": "MSG_EMPTY_STAMP_DEFAULT",
+    "value": "No displayable Stamps."
+  },
+  {
+    "wordingKey": "MSG_EMPTY_STAMP_FAVORITE",
+    "value": "No Stamps have been added to Favorites."
+  },
+  {
+    "wordingKey": "MSG_EMPTY_STAMP_HISTORY",
+    "value": "No record of Stamps used."
+  },
+  {
     "wordingKey": "MSG_ENTRY_CONFIRMATION",
     "value": "You have already seen this show.\nNo rewards will be obtained and Fan Pts and related missions will not be applicable.\n\nJoin Virtual Show?"
   },
@@ -360,6 +424,10 @@
     "value": "An error occurred. Returning to title screen."
   },
   {
+    "wordingKey": "MSG_EVENT_INITIALIZE_ERROR",
+    "value": "An issue with accessing event data has occured or this event has ended."
+  },
+  {
     "wordingKey": "MSG_EVENT_LIVE_BOOST_EXCEPTION",
     "value": "You may set this to a <color=#ff55AA>maximum of {0}</color> during events."
   },
@@ -368,12 +436,28 @@
     "value": "No items available to trade.\nReturning to home screen."
   },
   {
+    "wordingKey": "MSG_EXCHANGE_GACHA_CIEL_1",
+    "value": "Trade using Gacha Stickers"
+  },
+  {
+    "wordingKey": "MSG_EXCHANGE_GACHA_CIEL_2",
+    "value": "Trade using Gacha Stickers and {0}"
+  },
+  {
+    "wordingKey": "MSG_EXCHANGE_GACHA_CIEL_3",
+    "value": "Trade using Gacha Stickers and Limited Gacha Sticker Vouchers"
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_JEWEL",
     "value": "Use Crystals"
   },
   {
     "wordingKey": "MSG_EXCHANGE_JEWEL_TO_VIRTUAL_COIN",
     "value": "Use <color={0}>{1}</color> Crystals\nand <color={0}>{2}</color> Virtual Coins?"
+  },
+  {
+    "wordingKey": "MSG_EXCHANGE_MATERIAL",
+    "value": "Trade for {0}"
   },
   {
     "wordingKey": "MSG_EXCHANGE_VIRTUAL_COIN",
@@ -420,6 +504,46 @@
     "value": "Set as default Miku in 3D MV."
   },
   {
+    "wordingKey": "MSG_FRIEND_DEFAULT_REQUEST",
+    "value": "  "
+  },
+  {
+    "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_OTHER",
+    "value": "This player's friends list is full."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_SELF",
+    "value": "Your friends list is full."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_RELEASE",
+    "value": "Remove this friend.\nContinue?"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_REQUEST",
+    "value": "Friend request sent."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_REQUEST_COMPLETE",
+    "value": "Friend request sent."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_REQUEST_MESSAGE",
+    "value": "Send friend request with this message?"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_REQUEST_REJECT",
+    "value": "Reject this friend request.\nContinue?"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_UNDEFINED_ERROR",
+    "value": "A connection error has occurred."
+  },
+  {
+    "wordingKey": "MSG_GACHA_CEIL_TICKET_CONVERT_CONFIRM",
+    "value": "Trade {0}\nfor {1}?\n*Trade up to 10 per gacha (100 total)."
+  },
+  {
     "wordingKey": "MSG_GACHA_CEIL_TICKET_EXCHANGE_CONFIRM",
     "value": "Trade {0} x<color=#FF55AA>{1}</color>\nfor this item?"
   },
@@ -452,12 +576,20 @@
     "value": "<size=32>Pull (Paid)</size> x{0}"
   },
   {
+    "wordingKey": "MSG_GIVE_LIVE_BONUS",
+    "value": "Received Bonus Energy x{1}\nfrom <color=#ff5599>{0}</color>."
+  },
+  {
     "wordingKey": "MSG_HIGH_SCORE_COMPLETE_REWARD",
     "value": "<color=#FF55AA>{0}</color>Pts High Score Reward"
   },
   {
     "wordingKey": "MSG_HIGH_SCORE_UPDATE_REWARD",
     "value": "=+<color=#FF55AA>{0}</color>Pts Score Reward"
+  },
+  {
+    "wordingKey": "MSG_ID_NOT_FOUND",
+    "value": "No matching Player ID found."
   },
   {
     "wordingKey": "MSG_INHERIT_INVALID_TOKEN",
@@ -492,8 +624,16 @@
     "value": "Please enter at least 1 character."
   },
   {
+    "wordingKey": "MSG_INPUT_PLAYER_ID",
+    "value": "Enter Player ID."
+  },
+  {
     "wordingKey": "MSG_IN_SESSION",
     "value": "Live Now!"
+  },
+  {
+    "wordingKey": "MSG_JOINED_GROUP_REWARD",
+    "value": "Obtained the Crew's Avatar Costume."
   },
   {
     "wordingKey": "MSG_LANE_ALPHA",
@@ -502,6 +642,10 @@
   {
     "wordingKey": "MSG_LATEST_LIVE",
     "value": "Latest Shows"
+  },
+  {
+    "wordingKey": "MSG_LB_RECEIVE_LIMIT",
+    "value": "The player you are trying to give Bonus Energy to has reached their receivable limit."
   },
   {
     "wordingKey": "MSG_LEADER_SETTING",
@@ -518,6 +662,10 @@
   {
     "wordingKey": "MSG_LIVE_BONUS_MAX",
     "value": "Bonus Energy MAX"
+  },
+  {
+    "wordingKey": "MSG_LIVE_BONUS_PRESENT_SELECT_PLAYER",
+    "value": "Select a player to give Bonus Energy to."
   },
   {
     "wordingKey": "MSG_LIVE_BONUS_RECEIVE_LIMIT_COUNT",
@@ -640,6 +788,14 @@
     "value": "Displayed stats are maxed."
   },
   {
+    "wordingKey": "MSG_MEMBER_DUPLICATE_CONFIRM",
+    "value": "You already own the above character(s).\nContinue?"
+  },
+  {
+    "wordingKey": "MSG_MEMBER_DUPLICATE_CONFIRM_TIPS",
+    "value": "*If you obtain characters you already own, they will be sent to the Green Room."
+  },
+  {
     "wordingKey": "MSG_MEMBER_NOTHING",
     "value": "No applicable characters."
   },
@@ -650,6 +806,10 @@
   {
     "wordingKey": "MSG_MEMBER_NOT_ENOUGH_CAUTION",
     "value": "You need 5 members in your group to begin a show."
+  },
+  {
+    "wordingKey": "MSG_MEMBER_OUT_RESTART_MATCHING",
+    "value": "Connection lost. Returning to matchmaking screen."
   },
   {
     "wordingKey": "MSG_MEMBER_SCORE",
@@ -712,6 +872,10 @@
     "value": "Room disbanded."
   },
   {
+    "wordingKey": "MSG_MULTI_LIVE_RESULT_ADJUST_SCORE_BY_DISCONNECTED_USER",
+    "value": "Score Rank adjusted to account for disconnected player."
+  },
+  {
     "wordingKey": "MSG_MULTI_MUSIC_SELECTING_PLAYER",
     "value": "Players currently selecting songs..."
   },
@@ -754,6 +918,10 @@
   {
     "wordingKey": "MSG_NEAR_RANKING",
     "value": "Close Pos."
+  },
+  {
+    "wordingKey": "MSG_NEED_SELECT_LIST_SETTING",
+    "value": "Your picks must be selected to pull this gacha.\n\n<color=#ff5599>*All characters must be selected first.</color>"
   },
   {
     "wordingKey": "MSG_NGWORD_BALLOON",
@@ -860,6 +1028,10 @@
     "value": "No ongoing Events."
   },
   {
+    "wordingKey": "MSG_NOT_PLAYABLE_EVENT",
+    "value": "Event has ended."
+  },
+  {
     "wordingKey": "MSG_NOT_RESULT_CONFIRM_NOW",
     "value": "No results found."
   },
@@ -876,12 +1048,28 @@
     "value": "No event found."
   },
   {
+    "wordingKey": "MSG_NO_CONTEST_REASON_CHEET",
+    "value": "Unfair practices detected.\nCurrent show results have been nullified.\n\nIf unfair practices are detected again,\nyour account may be suspended."
+  },
+  {
+    "wordingKey": "MSG_NO_CONTEST_REASON_DISSCONECT",
+    "value": "Insufficient players cleared the show due to a disconnection.\nCurrent show results have been nullified."
+  },
+  {
+    "wordingKey": "MSG_NO_CONTEST_REASON_INVALID",
+    "value": "Unfair practices detected from another player.\nCurrent show results have been nullified."
+  },
+  {
     "wordingKey": "MSG_NO_FILTERING_RESULT",
     "value": "No results found."
   },
   {
     "wordingKey": "MSG_NO_VIRTUAL_LIVE",
     "value": "No upcoming Virtual Shows found."
+  },
+  {
+    "wordingKey": "MSG_ONCE_AGAIN_LIVE",
+    "value": "Play again with these players?"
   },
   {
     "wordingKey": "MSG_ONCE_A_DAY",
@@ -1013,7 +1201,7 @@
   },
   {
     "wordingKey": "MSG_RESET_AT_HOUR",
-    "value": "Resets at {0}:00 PST"
+    "value": "Resets at {0}:00 PDT"
   },
   {
     "wordingKey": "MSG_RESTRICT_MULTILIVE",
@@ -1026,6 +1214,10 @@
   {
     "wordingKey": "MSG_REST_VALUE",
     "value": "{0} left"
+  },
+  {
+    "wordingKey": "MSG_RESULT_ALREADY_DISCONNECT_HOME",
+    "value": "Connection lost.\nReturning to home screen."
   },
   {
     "wordingKey": "MSG_REWARD_SCALE",
@@ -1054,6 +1246,10 @@
   {
     "wordingKey": "MSG_SELECT_ACTION_FROM_BELOW",
     "value": "Select your favorite Actions from those available below."
+  },
+  {
+    "wordingKey": "MSG_SELECT_LIST",
+    "value": "Select 10 Characters from the following."
   },
   {
     "wordingKey": "MSG_SEND_WAIT_ROOM",
@@ -1117,7 +1313,7 @@
   },
   {
     "wordingKey": "MSG_SHOP_MONTHLY_RESET_PERIOD",
-    "value": "Resets day {0} of every month at 00:00 PST"
+    "value": "Resets day {0} of every month at 00:00 PDT"
   },
   {
     "wordingKey": "MSG_SHOP_NUMBER_OF_PURCHASE",
@@ -1149,7 +1345,7 @@
   },
   {
     "wordingKey": "MSG_SHOP_RESET",
-    "value": "Resets on the last day of every month at 00:00 PST."
+    "value": "Resets on the last day of every month at 00:00 PDT."
   },
   {
     "wordingKey": "MSG_SHOP_RE_REFLECT_CONFIRM",
@@ -1206,6 +1402,10 @@
   {
     "wordingKey": "MSG_STAMP_SETTING",
     "value": "Select your favorite Stamps from those available below."
+  },
+  {
+    "wordingKey": "MSG_START_CHEERFUL_CARNIVAL_EVENT_ANNOUNCE",
+    "value": "A new event has started.\nCo-op Show has changed to Cheerful Show.\nReturning to home screen."
   },
   {
     "wordingKey": "MSG_STORY_SKIP_BODY",
@@ -1368,6 +1568,10 @@
     "value": "No shows currently on."
   },
   {
+    "wordingKey": "MSG_VIRTUAL_LIVE_SCREEN_SHOT_REQUIRED_RESON",
+    "value": "In order to use the screen shot function, please allow this app to access your media files."
+  },
+  {
     "wordingKey": "MSG_VIRTUAL_LIVE_TO_BE_HELD_SOON",
     "value": "Virtual Show Begins Soon!"
   },
@@ -1416,6 +1620,14 @@
     "value": "Received {0} x{1}.\n"
   },
   {
+    "wordingKey": "MSG_WAIT_MATCH_START",
+    "value": "Now matchmaking, please wait."
+  },
+  {
+    "wordingKey": "MSG_WAIT_PRIVATE_ROOM_MATCH_START",
+    "value": "Please get ready and wait for the show to begin."
+  },
+  {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
     "value": "-<color=#00CCBB>{1}</color> can wear <color=#00CCBB>{2}</color>\nonce you obtain <color=#00CCBB>{0} {1}</color>."
   },
@@ -1436,6 +1648,22 @@
     "value": "Costume changed."
   },
   {
+    "wordingKey": "MSG_WISH_LIST_CONFIRM",
+    "value": "Unselected characters remaining.\n10 characters must be selected to pull Your Pick Gacha.\nSelect remaining characters at random?"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_CONFIRM_TIPS",
+    "value": "*Characters may be changed until you pull Your Pick Gacha."
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_GACHA_RATE_NOTICE",
+    "value": "1 of the 4★ characters from your Pick List guaranteed!"
+  },
+  {
+    "wordingKey": "MSG_WISH_ONCE_LIMITED",
+    "value": "1 Time Only"
+  },
+  {
     "wordingKey": "MSG_YOUR_CHEER_POINT",
     "value": "Your Fan Pts"
   },
@@ -1454,6 +1682,10 @@
   {
     "wordingKey": "MUSIC_ACHIEVEMENTS_REWARD_CLEAR",
     "value": "Clear Rewards"
+  },
+  {
+    "wordingKey": "TITLE_PERMISSION_NOT_GRANTED",
+    "value": "Access Required"
   },
   {
     "wordingKey": "WORD_\bEXCHANGE_NUM",
@@ -1500,6 +1732,22 @@
     "value": "Quit"
   },
   {
+    "wordingKey": "WORD_ACCESSORIES_CHANGE_CONFIRM_MESSAGE_1",
+    "value": "Your current hairstyle is not compatible\nwith the accessory you have selected."
+  },
+  {
+    "wordingKey": "WORD_ACCESSORIES_CHANGE_CONFIRM_MESSAGE_2",
+    "value": "Reset your hairstyle to default\nand equip this accessory?"
+  },
+  {
+    "wordingKey": "WORD_ACCESSORIES_CHANGE_CONFIRM_TITLE",
+    "value": "Change Accessory"
+  },
+  {
+    "wordingKey": "WORD_ACCESSORY_DEFAULT_HAIR",
+    "value": "Usage Requirements"
+  },
+  {
     "wordingKey": "WORD_ACHIEVED",
     "value": "Cleared"
   },
@@ -1536,6 +1784,10 @@
     "value": "{0} Combo"
   },
   {
+    "wordingKey": "WORD_ADD_FRIEND",
+    "value": "Add Friend"
+  },
+  {
     "wordingKey": "WORD_AFTER_LIVE",
     "value": "After Show"
   },
@@ -1545,7 +1797,7 @@
   },
   {
     "wordingKey": "WORD_AGGREGATION_PERIOD_FORMAT",
-    "value": "Until {0}/{1} {2}:{3:00}"
+    "value": "Until {0} {1} {2}:{3:00}"
   },
   {
     "wordingKey": "WORD_ALL",
@@ -1626,6 +1878,10 @@
   {
     "wordingKey": "WORD_AREA_SHOP",
     "value": "Shop"
+  },
+  {
+    "wordingKey": "WORD_AROUND_DATE_TIME",
+    "value": "{0:00}/{1:00}\nAround {2}:00"
   },
   {
     "wordingKey": "WORD_ARRANGER",
@@ -1780,6 +2036,14 @@
     "value": "Challenge Shows Unlocked"
   },
   {
+    "wordingKey": "WORD_CHALLENGE_PLAY_DAY_REWARD",
+    "value": "This week's Challenge Stamp reward"
+  },
+  {
+    "wordingKey": "WORD_CHALLENGE_PLAY_DAY_REWARD_TITLE",
+    "value": "This week's Challenge Stamp"
+  },
+  {
     "wordingKey": "WORD_CHALLENGE_STAGE",
     "value": "Challenge Level"
   },
@@ -1874,6 +2138,46 @@
   {
     "wordingKey": "WORD_CHEERFULCARNIVAL_HOLDING_PERIOD",
     "value": "{0:00}-{1:00}"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
+    "value": "Select Crew"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_FREE_MATCH",
+    "value": "Random Match"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_FREE_MATCH_DESC",
+    "value": "Players from the same Crew are split into teams to play in a 5 vs 5 Show."
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_LIVE",
+    "value": "Cheerful\nShow"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_TEAM_CHANGE",
+    "value": "Change Crew"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_TEAM_CHANGE_EXPIRED",
+    "value": "Crew change option has expired."
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_TEAM_CHANGE_OBJECT",
+    "value": "Lost Plushie"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_VETERAN_MATCH",
+    "value": "Veteran Match"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_VETERAN_MATCH_DESC",
+    "value": "Players with a high Talent score play in a 5 vs 5 Show."
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_MATCHING",
+    "value": "Cheerful Show Matchmaking"
   },
   {
     "wordingKey": "WORD_CHEER_MESSAGE",
@@ -2100,6 +2404,10 @@
     "value": "Event Period"
   },
   {
+    "wordingKey": "WORD_DAYS_LEFT",
+    "value": "{0} days left"
+  },
+  {
     "wordingKey": "WORD_DDECK_EDIT_AUTO_EDIT",
     "value": "Recommended"
   },
@@ -2126,6 +2434,10 @@
   {
     "wordingKey": "WORD_DEFAULT_MUSIC_SELECT",
     "value": "Default Song Select"
+  },
+  {
+    "wordingKey": "WORD_DEFAULT_TEAM_FORMAT",
+    "value": "Team {0}"
   },
   {
     "wordingKey": "WORD_DEFAULT_USER_NAME",
@@ -2176,6 +2488,10 @@
     "value": "Disconnected"
   },
   {
+    "wordingKey": "WORD_DISSCONNECTED",
+    "value": "Disconnected"
+  },
+  {
     "wordingKey": "WORD_DISSOLUSION",
     "value": "Disband"
   },
@@ -2202,6 +2518,10 @@
   {
     "wordingKey": "WORD_DO_NOT_CHANGE",
     "value": "No"
+  },
+  {
+    "wordingKey": "WORD_DO_SETTING",
+    "value": "Select"
   },
   {
     "wordingKey": "WORD_DURING_SHOW",
@@ -2448,6 +2768,10 @@
     "value": "Guaranteed Drop Rates"
   },
   {
+    "wordingKey": "WORD_FREE",
+    "value": "Free"
+  },
+  {
     "wordingKey": "WORD_FREE_JEWEL",
     "value": "Crystals (Free)"
   },
@@ -2456,8 +2780,60 @@
     "value": "Solo Show"
   },
   {
+    "wordingKey": "WORD_FREND_SORT_TITLE",
+    "value": "Sort Friends"
+  },
+  {
+    "wordingKey": "WORD_FRIEND",
+    "value": "Friends"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_COUNT",
+    "value": "Friends"
+  },
+  {
     "wordingKey": "WORD_FRIEND_COUNT_NUMBER",
     "value": "{0}/{1}"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_LIST",
+    "value": "Friends List"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_NOTICE_APPROVE",
+    "value": "Friend request approved."
+  },
+  {
+    "wordingKey": "WORD_FRIEND_NOTICE_REJECT",
+    "value": "Friend request rejected."
+  },
+  {
+    "wordingKey": "WORD_FRIEND_NOTICE_REQUEST",
+    "value": "Friend request from {0}"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_NOTICE_REQUEST_MESSAGE",
+    "value": "{0}"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_RELEASE",
+    "value": "Remove Friend"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST",
+    "value": "Friend Request"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST_DEFAULT_MESSAGE",
+    "value": "Hi there! Nice to meet you!"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST_MESSAGE_BODY",
+    "value": "You can include a message when sending a friend request."
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST_REJECT",
+    "value": "Reject Friend Request"
   },
   {
     "wordingKey": "WORD_FULLSET",
@@ -2490,6 +2866,10 @@
   {
     "wordingKey": "WORD_GACHA_EXPLANATION",
     "value": "Details"
+  },
+  {
+    "wordingKey": "WORD_GACHA_SELECT_LIST",
+    "value": "Your Pick Gacha"
   },
   {
     "wordingKey": "WORD_GACHA_SUMMARY",
@@ -2636,12 +3016,52 @@
     "value": "To Virtual Show"
   },
   {
+    "wordingKey": "WORD_GROUP_POINT_TOTAL",
+    "value": "Total Crew Pts"
+  },
+  {
     "wordingKey": "WORD_GROWTH",
     "value": "Training"
   },
   {
+    "wordingKey": "WORD_HAIR",
+    "value": "Hairstyle"
+  },
+  {
+    "wordingKey": "WORD_HAIR_CHANGE_CONFIRM_MESSAGE_1",
+    "value": "Your current accessory is not compatible\nwith the hairstyle you have selected."
+  },
+  {
+    "wordingKey": "WORD_HAIR_CHANGE_CONFIRM_MESSAGE_2",
+    "value": "Remove accessory and change hairstyle?"
+  },
+  {
+    "wordingKey": "WORD_HAIR_CHANGE_CONFIRM_TITLE",
+    "value": "Change Hairstyle"
+  },
+  {
+    "wordingKey": "WORD_HAIR_DETAIL",
+    "value": "Hairstyle Unlock Requirements"
+  },
+  {
     "wordingKey": "WORD_HAIR_DETAIL_ACCESSORIES_DELIMITER",
     "value": ", "
+  },
+  {
+    "wordingKey": "WORD_HAIR_DETAIL_ACCESSORIES_TITLE",
+    "value": "Incompatible Accessories"
+  },
+  {
+    "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_1",
+    "value": "・Increase <color=#3FD5C8>{0}'s</color> Mastery Rank to {1} to unlock <color=#3FD5C8>{2}</color>."
+  },
+  {
+    "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_2",
+    "value": "・<color=#3FD5C8>{0}</color> can only set hairstyle to <color=#3FD5C8>{1}</color>."
+  },
+  {
+    "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_3",
+    "value": "・<color=#3FD5C8>{0}</color> is incompatible with some accessories."
   },
   {
     "wordingKey": "WORD_HATED_FOOD",
@@ -2670,6 +3090,10 @@
   {
     "wordingKey": "WORD_HIDDEN",
     "value": "Hide"
+  },
+  {
+    "wordingKey": "WORD_HIDE_MUSIC_NAME",
+    "value": "???"
   },
   {
     "wordingKey": "WORD_HIGH_SCORE",
@@ -2772,6 +3196,10 @@
     "value": "Title Settings"
   },
   {
+    "wordingKey": "WORD_HOURS_LEFT",
+    "value": "{0} hours left"
+  },
+  {
     "wordingKey": "WORD_ID",
     "value": "ID"
   },
@@ -2814,6 +3242,14 @@
   {
     "wordingKey": "WORD_JOIN",
     "value": "Join"
+  },
+  {
+    "wordingKey": "WORD_JOINED_GROUP",
+    "value": "Crew"
+  },
+  {
+    "wordingKey": "WORD_JOINED_GROUP_REWARD_TITLE",
+    "value": "Reward Earned"
   },
   {
     "wordingKey": "WORD_JOIN_PRIVATE_ROOM",
@@ -2860,6 +3296,10 @@
     "value": "Show"
   },
   {
+    "wordingKey": "WORD_LIVE_BONUS_PRESENT",
+    "value": "Give Bonus Energy"
+  },
+  {
     "wordingKey": "WORD_LIVE_BONUS_TEXT",
     "value": "{0}/{1}"
   },
@@ -2874,6 +3314,18 @@
   {
     "wordingKey": "WORD_LIVE_BOOST_NOT_ENOUGH_JEWEL",
     "value": "Not enough Crystals to restore Bonus Energy."
+  },
+  {
+    "wordingKey": "WORD_LIVE_BOOST_PRESENT_COST",
+    "value": "x{0}"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BOOST_PRESENT_REMAINING_NUM",
+    "value": "x{0} left"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BOOST_PRESENT_RESET",
+    "value": "Resets at 4:00 PDT"
   },
   {
     "wordingKey": "WORD_LIVE_BOOST_RECOVER",
@@ -2898,6 +3350,10 @@
   {
     "wordingKey": "WORD_LIVE_COSTUME_GET",
     "value": "Costume Obtained"
+  },
+  {
+    "wordingKey": "WORD_LIVE_COSTUME_HAIR_GET",
+    "value": "Hairstyle Obtained"
   },
   {
     "wordingKey": "WORD_LIVE_COUNT",
@@ -3108,6 +3564,10 @@
     "value": "Ready"
   },
   {
+    "wordingKey": "WORD_MATCHING_WINS_COUNT",
+    "value": "{0} Win Streak!"
+  },
+  {
     "wordingKey": "WORD_MAX",
     "value": "MAX"
   },
@@ -3122,6 +3582,10 @@
   {
     "wordingKey": "WORD_MEMBER_DETAIL",
     "value": "Character Details"
+  },
+  {
+    "wordingKey": "WORD_MEMBER_DUPLICATE_CONFIRM_TITLE",
+    "value": "Confirm Character Settings"
   },
   {
     "wordingKey": "WORD_MEMBER_EDIT",
@@ -3160,8 +3624,20 @@
     "value": "Menu Costume"
   },
   {
+    "wordingKey": "WORD_MESSAGE",
+    "value": "Message"
+  },
+  {
     "wordingKey": "WORD_MIGRATION_NL",
     "value": "Account Transfer"
+  },
+  {
+    "wordingKey": "WORD_MISSING_ADD_FRIEND",
+    "value": "No friend requests found."
+  },
+  {
+    "wordingKey": "WORD_MISSING_FRIEND",
+    "value": "No friends."
   },
   {
     "wordingKey": "WORD_MISSION",
@@ -3344,6 +3820,10 @@
     "value": "Next High Score Bonus"
   },
   {
+    "wordingKey": "WORD_NO",
+    "value": "No"
+  },
+  {
     "wordingKey": "WORD_NO EVALUTE",
     "value": "No Thanks"
   },
@@ -3444,8 +3924,20 @@
     "value": "ON"
   },
   {
+    "wordingKey": "WORD_ONCE_AGAIN_LIVE",
+    "value": "Play again"
+  },
+  {
+    "wordingKey": "WORD_ONCE_CHECK_AGAIN_LIVE",
+    "value": "Play Again"
+  },
+  {
     "wordingKey": "WORD_OPEN",
     "value": "Unlock"
+  },
+  {
+    "wordingKey": "WORD_OPEN_WINDOW",
+    "value": "Open"
   },
   {
     "wordingKey": "WORD_OPTION",
@@ -3712,6 +4204,10 @@
     "value": "Decoration Trade"
   },
   {
+    "wordingKey": "WORD_PURCHASE_JEWEL",
+    "value": "Purchase with Crystals (Paid)"
+  },
+  {
     "wordingKey": "WORD_PURCHASE_LIMIT",
     "value": "Purchase Limit"
   },
@@ -3800,6 +4296,10 @@
     "value": "Matchmaking..."
   },
   {
+    "wordingKey": "WORD_REJECT",
+    "value": "Reject"
+  },
+  {
     "wordingKey": "WORD_RELATION_SIDE_STORY",
     "value": "Related Side Story"
   },
@@ -3826,6 +4326,10 @@
   {
     "wordingKey": "WORD_RELEASE_SKILL_UP",
     "value": "Skill Up Unlocked"
+  },
+  {
+    "wordingKey": "WORD_REQUEST",
+    "value": "Send"
   },
   {
     "wordingKey": "WORD_REQUIRE",
@@ -3916,6 +4420,18 @@
     "value": "SE"
   },
   {
+    "wordingKey": "WORD_SEARCH",
+    "value": "Search"
+  },
+  {
+    "wordingKey": "WORD_SEARCH_ID",
+    "value": "Search ID"
+  },
+  {
+    "wordingKey": "WORD_SEARCH_PLAYER_ID",
+    "value": "Search for Player ID"
+  },
+  {
     "wordingKey": "WORD_SEKAI_VERSION",
     "value": "SEKAI ver."
   },
@@ -3926,6 +4442,10 @@
   {
     "wordingKey": "WORD_SELECT",
     "value": "Select"
+  },
+  {
+    "wordingKey": "WORD_SELECTED_MEMBER",
+    "value": "Selected Character"
   },
   {
     "wordingKey": "WORD_SELECTING",
@@ -3956,8 +4476,16 @@
     "value": "Next"
   },
   {
+    "wordingKey": "WORD_SELECT_LIST",
+    "value": "Pick List"
+  },
+  {
     "wordingKey": "WORD_SELECT_LIVE_COSTUME",
     "value": "Costume Select"
+  },
+  {
+    "wordingKey": "WORD_SELECT_MEMBER",
+    "value": "Select characters!"
   },
   {
     "wordingKey": "WORD_SELECT_RANK",
@@ -3986,6 +4514,10 @@
   {
     "wordingKey": "WORD_SETTING_UP",
     "value": "Selected"
+  },
+  {
+    "wordingKey": "WORD_SET_IT_LATER",
+    "value": "Select later"
   },
   {
     "wordingKey": "WORD_SHOP_AD",
@@ -4136,6 +4668,22 @@
     "value": "Sort Order"
   },
   {
+    "wordingKey": "WORD_SORT_PLAYER_NAME",
+    "value": "Player Name"
+  },
+  {
+    "wordingKey": "WORD_SORT_PLAYER_NAME_LABEL",
+    "value": "Player Name"
+  },
+  {
+    "wordingKey": "WORD_SORT_REGISTRATION",
+    "value": "Date Added"
+  },
+  {
+    "wordingKey": "WORD_SORT_REGISTRATION_LABEL",
+    "value": "Date Registered"
+  },
+  {
     "wordingKey": "WORD_SPECIAL_SKILL",
     "value": "Specialty"
   },
@@ -4198,6 +4746,10 @@
   {
     "wordingKey": "WORD_STARTDASH",
     "value": "Debut"
+  },
+  {
+    "wordingKey": "WORD_START_CHEERFUL_CARNIVAL_EVENT_ANNOUNCE_TITLE",
+    "value": "Cheerful Carnival Event"
   },
   {
     "wordingKey": "WORD_START_LIVE",
@@ -4488,6 +5040,10 @@
     "value": "+{0} High Score"
   },
   {
+    "wordingKey": "WORD_USE_COUNT",
+    "value": "Uses"
+  },
+  {
     "wordingKey": "WORD_USE_WITH",
     "value": "Use"
   },
@@ -4582,6 +5138,10 @@
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SCHEDULE_START_TIME",
     "value": "Show {0} {1}-"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_LIVE_SCREEN_SHOT_REQUIRED_RESON_TITLE",
+    "value": "Using the screenshot function"
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS",
@@ -4772,6 +5332,10 @@
     "value": "Selected"
   },
   {
+    "wordingKey": "WORD_WAIT_APPROVAL_LIST",
+    "value": "Pending Approvals"
+  },
+  {
     "wordingKey": "WORD_WARERABLE_MEMBER",
     "value": "Wearable by"
   },
@@ -4816,6 +5380,10 @@
     "value": "(Wed)"
   },
   {
+    "wordingKey": "WORD_WISH_LIST_CONFIRM_TITLE",
+    "value": "Unselected Characters Remaining"
+  },
+  {
     "wordingKey": "WORD_WITHOUT_COSTUME",
     "value": "No Costume"
   },
@@ -4826,5 +5394,9 @@
   {
     "wordingKey": "WORD_WITH_LIVE_COSTUME",
     "value": "Incl. Costume"
+  },
+  {
+    "wordingKey": "WORD_YES",
+    "value": "Yes"
   }
 ]

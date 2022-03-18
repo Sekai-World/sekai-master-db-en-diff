@@ -301,7 +301,7 @@
     "startAt": 1633384800000,
     "endAt": 1634680799000,
     "assetbundleName": "obt_special_loginbonus",
-    "closeAt": 1633694400000,
+    "closeAt": 1633690800000,
     "limitedLoginBonusDetails": [
       {
         "id": 1001,
@@ -439,6 +439,77 @@
         "limitedLoginBonusId": 1002,
         "day": 8,
         "resourceBoxId": 1021
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "seq": 1003,
+    "name": "1 Million Players Login Campaign",
+    "startAt": 1647028800000,
+    "endAt": 1648983599000,
+    "assetbundleName": "100_anniversary",
+    "closeAt": 1648206000000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1022,
+        "limitedLoginBonusId": 1003,
+        "day": 1,
+        "resourceBoxId": 1022
+      },
+      {
+        "id": 1023,
+        "limitedLoginBonusId": 1003,
+        "day": 2,
+        "resourceBoxId": 1023
+      },
+      {
+        "id": 1024,
+        "limitedLoginBonusId": 1003,
+        "day": 3,
+        "resourceBoxId": 1024
+      },
+      {
+        "id": 1025,
+        "limitedLoginBonusId": 1003,
+        "day": 4,
+        "resourceBoxId": 1025
+      },
+      {
+        "id": 1026,
+        "limitedLoginBonusId": 1003,
+        "day": 5,
+        "resourceBoxId": 1026
+      },
+      {
+        "id": 1027,
+        "limitedLoginBonusId": 1003,
+        "day": 6,
+        "resourceBoxId": 1027
+      },
+      {
+        "id": 1028,
+        "limitedLoginBonusId": 1003,
+        "day": 7,
+        "resourceBoxId": 1028
+      },
+      {
+        "id": 1029,
+        "limitedLoginBonusId": 1003,
+        "day": 8,
+        "resourceBoxId": 1029
+      },
+      {
+        "id": 1030,
+        "limitedLoginBonusId": 1003,
+        "day": 9,
+        "resourceBoxId": 1030
+      },
+      {
+        "id": 1031,
+        "limitedLoginBonusId": 1003,
+        "day": 10,
+        "resourceBoxId": 1031
       }
     ]
   }
