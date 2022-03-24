@@ -44172,35 +44172,6 @@
   },
   {
     "resourceBoxPurpose": "gift_detail",
-    "id": 1043,
-    "resourceBoxType": "expand",
-    "details": [
-      {
-        "resourceBoxPurpose": "gift_detail",
-        "resourceBoxId": 1043,
-        "seq": 1,
-        "resourceType": "jewel",
-        "resourceQuantity": 500
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "gift_detail",
-    "id": 1044,
-    "resourceBoxType": "expand",
-    "details": [
-      {
-        "resourceBoxPurpose": "gift_detail",
-        "resourceBoxId": 1044,
-        "seq": 1,
-        "resourceType": "boost_item",
-        "resourceId": 2,
-        "resourceQuantity": 1
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "gift_detail",
     "id": 1045,
     "resourceBoxType": "expand",
     "details": [
@@ -44210,6 +44181,21 @@
         "seq": 1,
         "resourceType": "music",
         "resourceId": 90,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 1053,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 1053,
+        "seq": 1,
+        "resourceType": "music_vocal",
+        "resourceId": 72,
         "resourceQuantity": 1
       }
     ]
