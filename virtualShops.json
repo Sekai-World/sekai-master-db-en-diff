@@ -1015,6 +1015,39 @@
     ]
   },
   {
+    "id": 29,
+    "seq": 29,
+    "name": "15th Event Merch",
+    "virtualShopItems": [
+      {
+        "id": 84,
+        "virtualShopId": 29,
+        "virtualShopItemType": "accessory",
+        "seq": 199974,
+        "resourceBoxId": 84,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1648677600000
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "seq": 30,
+    "name": "16th Event Merch",
+    "virtualShopItems": [
+      {
+        "id": 85,
+        "virtualShopId": 30,
+        "virtualShopItemType": "penlight",
+        "seq": 199973,
+        "resourceBoxId": 85,
+        "costPaidJewel": 1000,
+        "startAt": 1649368800000
+      }
+    ]
+  },
+  {
     "id": 31,
     "seq": 31,
     "name": "White Day",
@@ -1045,6 +1078,39 @@
         "costPaidJewel": 1000,
         "startAt": 1647554400000,
         "endAt": 1647899999000
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "seq": 33,
+    "name": "17th Event Merch",
+    "virtualShopItems": [
+      {
+        "id": 88,
+        "virtualShopId": 33,
+        "virtualShopItemType": "penlight",
+        "seq": 199972,
+        "resourceBoxId": 88,
+        "costPaidJewel": 1000,
+        "startAt": 1650060000000
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "seq": 36,
+    "name": "Minori's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 93,
+        "virtualShopId": 36,
+        "virtualShopItemType": "coordinate",
+        "seq": 99978,
+        "resourceBoxId": 93,
+        "costPaidJewel": 1000,
+        "startAt": 1649800800000,
+        "endAt": 1650146399000
       }
     ]
   }

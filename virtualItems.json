@@ -949,6 +949,32 @@
     "effectExpressionType": "throw_effect"
   },
   {
+    "id": 78,
+    "virtualItemCategory": "normal",
+    "seq": 780,
+    "priority": 780,
+    "name": "Wonder Ferris Wheel",
+    "assetbundleName": "event_dream",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_dream",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 79,
+    "virtualItemCategory": "normal",
+    "seq": 790,
+    "priority": 790,
+    "name": "Tenma Family Doll Festival",
+    "assetbundleName": "event_hinamatsuri",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_hinamatsuri",
+    "effectExpressionType": "throw_effect"
+  },
+  {
     "id": 80,
     "virtualItemCategory": "normal",
     "seq": 800,
@@ -972,6 +998,32 @@
     "costJewel": 3000,
     "cheerPoint": 3000,
     "effectAssetbundleName": "chara_airi_birthday",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 82,
+    "virtualItemCategory": "normal",
+    "seq": 820,
+    "priority": 820,
+    "name": "Angelic Flight",
+    "assetbundleName": "event_angelclover",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_angelclover",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 85,
+    "virtualItemCategory": "normal",
+    "seq": 850,
+    "priority": 850,
+    "name": "Happy Birthday, Minori!",
+    "assetbundleName": "chara_minori_birthday",
+    "costVirtualCoin": 3000,
+    "costJewel": 3000,
+    "cheerPoint": 3000,
+    "effectAssetbundleName": "chara_minori_birthday",
     "effectExpressionType": "throw_effect"
   }
 ]

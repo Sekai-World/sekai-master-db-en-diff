@@ -275,7 +275,7 @@
   {
     "id": 72,
     "title": "Show Mission Points Reset",
-    "description": "Show Missions reset at 00:00 PST\non the 1st day of every month.",
+    "description": "Show Missions reset at 00:00 PDT\non the 1st day of every month.",
     "fromUserRank": 30,
     "toUserRank": 60
   },
@@ -480,6 +480,13 @@
     "title": "Friends",
     "description": "You can send a friend request to another\n player from their profile or from a Co-op Show.",
     "fromUserRank": 1,
+    "toUserRank": 200
+  },
+  {
+    "id": 109,
+    "title": "Purchasing Song Covers",
+    "description": "Cover Cards can be traded in\n at the Cover Card Exchange.",
+    "fromUserRank": 30,
     "toUserRank": 200
   },
   {
