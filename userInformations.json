@@ -4394,6 +4394,48 @@
     "bannerAssetbundleName": "banner_news_event17_en_THSsokmva-9gn4a"
   },
   {
+    "id": 463,
+    "seq": 1,
+    "displayOrder": 31580,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "An Angel Spreads Its Wings Gacha, available now!",
+    "path": "information/index.html?id=info_gacha63_KEmzg5asi9na",
+    "startAt": 1650060000000,
+    "endAt": 1650751199000,
+    "bannerAssetbundleName": "banner_news_gacha63_en_KEmzg5asi9na"
+  },
+  {
+    "id": 465,
+    "seq": 1,
+    "displayOrder": 31590,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Event Character Boosted Rate Gacha, available now!",
+    "path": "information/index.html?id=info_gacha65_THsaom96",
+    "startAt": 1650232800000,
+    "endAt": 1650578399000,
+    "bannerAssetbundleName": "banner_news_gacha65_en_THsaom96"
+  },
+  {
+    "id": 534,
+    "seq": 1,
+    "displayOrder": 31550,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Minori's Birthday Show ",
+    "path": "information/index.html?id=info_virtualLive68_6fi5few2",
+    "startAt": 1649804400000,
+    "endAt": 1650146399000,
+    "bannerAssetbundleName": "banner_news_virtuallive68_en_Let13srg"
+  },
+  {
     "id": 607,
     "seq": 1,
     "displayOrder": 31475,
@@ -4434,14 +4476,15 @@
   {
     "id": 657,
     "seq": 1,
-    "displayOrder": 99999,
+    "displayOrder": 31455,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
     "title": "(Updated: Mar. 31, 03:45 PDT) Emergency maintenance",
     "path": "information/index.html?id=info_emergencymaintenance_20220331cks",
-    "startAt": 1648723500000
+    "startAt": 1648723500000,
+    "endAt": 1649329199000
   },
   {
     "id": 10001,
@@ -4683,7 +4726,32 @@
     "platform": "all",
     "title": "Issue Regarding the Incorrect Completion Period Displayed for the New \"Event Missions\" Feature",
     "path": "information/index.html?id=bug_eventmission_day_has9Rw",
-    "startAt": 1648711800000
+    "startAt": 1648711800000,
+    "endAt": 1649177999000
+  },
+  {
+    "id": 10019,
+    "seq": 1,
+    "displayOrder": 32540,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Regarding Gacha Sticker Vouchers",
+    "path": "information/index.html?id=info_gachaseal_sakldfh3",
+    "startAt": 1648832400000
+  },
+  {
+    "id": 10020,
+    "seq": 1,
+    "displayOrder": 15,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "(redistribution)Issue Regarding the Incorrect Completion Period Displayed for the New \"Event Missions\" Feature",
+    "path": "information/index.html?id=bug_eventmission_day_has9Rw",
+    "startAt": 1649178000000
   },
   {
     "id": 20001,
