@@ -558,5 +558,25 @@
   {
     "configKey": "trial_banner_enable",
     "value": "TRUE"
+  },
+  {
+    "configKey": "collectable_material",
+    "value": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,44,45"
+  },
+  {
+    "configKey": "collectable_practice_ticket",
+    "value": "1,2,3"
+  },
+  {
+    "configKey": "collectable_skill_practice_ticket",
+    "value": "1,2,3"
+  },
+  {
+    "configKey": "collectable_gacha_ticket",
+    "value": "1,2"
+  },
+  {
+    "configKey": "collectable_boost_item",
+    "value": "1,2"
   }
 ]

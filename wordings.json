@@ -340,6 +340,10 @@
     "value": "*The default selection can be changed from the Options screen.\n*Other versions can be played at any time."
   },
   {
+    "wordingKey": "MSG_DEFERRED_PURCHASE",
+    "value": "商品は、お支払い完了後ショップ画面にて反映されます。\n商品の反映には時間がかかる場合があります。"
+  },
+  {
     "wordingKey": "MSG_DISCONNECT_LEFT_ROOM",
     "value": "Connection lost. Returning to home screen."
   },
@@ -1120,6 +1124,10 @@
     "value": "Playback paused.\nResume playback?"
   },
   {
+    "wordingKey": "MSG_PAYMENT_WAIT_RECEIPT",
+    "value": "お支払いが完了していない商品があります。"
+  },
+  {
     "wordingKey": "MSG_PIN_THE_LEADER",
     "value": "Set as Leader"
   },
@@ -1142,6 +1150,10 @@
   {
     "wordingKey": "MSG_PRESENT_COUNT",
     "value": "x{0}"
+  },
+  {
+    "wordingKey": "MSG_PRODUCT_IS_PENDING",
+    "value": "お支払いが完了していない商品があるため、商品を購入できません。"
   },
   {
     "wordingKey": "MSG_PUBLISH_ROOM",
@@ -1198,6 +1210,10 @@
   {
     "wordingKey": "MSG_REQUIRE_MEMBER_LV",
     "value": "Character Lv. {0} or higher required."
+  },
+  {
+    "wordingKey": "MSG_REREFLECT_PRODUCT_HOME",
+    "value": "クリスタルショップにて受け取り可能な商品があります。"
   },
   {
     "wordingKey": "MSG_RESET_AT_HOUR",
@@ -1890,6 +1906,10 @@
   {
     "wordingKey": "WORD_ASC_ORDER",
     "value": "Ascending"
+  },
+  {
+    "wordingKey": "WORD_ATTENTION",
+    "value": "Attention"
   },
   {
     "wordingKey": "WORD_ATTRIBUTE",
