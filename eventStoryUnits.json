@@ -172,7 +172,7 @@
     "seq": 25,
     "eventStoryId": 13,
     "unit": "light_sound",
-    "eventStoryUnitRelation": "sub"
+    "eventStoryUnitRelation": "main"
   },
   {
     "id": 26,
@@ -228,6 +228,55 @@
     "seq": 33,
     "eventStoryId": 17,
     "unit": "idol",
+    "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 34,
+    "seq": 34,
+    "eventStoryId": 18,
+    "unit": "light_sound",
+    "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 35,
+    "seq": 35,
+    "eventStoryId": 18,
+    "unit": "idol",
+    "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 36,
+    "seq": 36,
+    "eventStoryId": 18,
+    "unit": "street",
+    "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 37,
+    "seq": 37,
+    "eventStoryId": 18,
+    "unit": "theme_park",
+    "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 38,
+    "seq": 38,
+    "eventStoryId": 18,
+    "unit": "school_refusal",
+    "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 39,
+    "seq": 39,
+    "eventStoryId": 19,
+    "unit": "school_refusal",
+    "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 40,
+    "seq": 40,
+    "eventStoryId": 20,
+    "unit": "light_sound",
     "eventStoryUnitRelation": "main"
   }
 ]

@@ -1098,6 +1098,38 @@
     ]
   },
   {
+    "id": 34,
+    "seq": 34,
+    "name": "18th Event Merch",
+    "virtualShopItems": [
+      {
+        "id": 89,
+        "virtualShopId": 34,
+        "virtualShopItemType": "penlight",
+        "seq": 199971,
+        "resourceBoxId": 89,
+        "costPaidJewel": 1000,
+        "startAt": 1650751200000
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "seq": 35,
+    "name": "19th Event Merch",
+    "virtualShopItems": [
+      {
+        "id": 92,
+        "virtualShopId": 35,
+        "virtualShopItemType": "penlight",
+        "seq": 199968,
+        "resourceBoxId": 92,
+        "costPaidJewel": 1000,
+        "startAt": 1651442400000
+      }
+    ]
+  },
+  {
     "id": 36,
     "seq": 36,
     "name": "Minori's Birthday",
@@ -1111,6 +1143,73 @@
         "costPaidJewel": 1000,
         "startAt": 1649800800000,
         "endAt": 1650146399000
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "seq": 37,
+    "name": "20th Event Merch",
+    "virtualShopItems": [
+      {
+        "id": 94,
+        "virtualShopId": 37,
+        "virtualShopItemType": "penlight",
+        "seq": 199967,
+        "resourceBoxId": 94,
+        "costPaidJewel": 1000,
+        "startAt": 1652133600000
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "seq": 38,
+    "name": "Ena's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 95,
+        "virtualShopId": 38,
+        "virtualShopItemType": "coordinate",
+        "seq": 99977,
+        "resourceBoxId": 95,
+        "costPaidJewel": 1000,
+        "startAt": 1651183200000,
+        "endAt": 1651528799000
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "seq": 40,
+    "name": "Saki's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 98,
+        "virtualShopId": 40,
+        "virtualShopItemType": "coordinate",
+        "seq": 99976,
+        "resourceBoxId": 98,
+        "costPaidJewel": 1000,
+        "startAt": 1651960800000,
+        "endAt": 1652306399000
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "seq": 42,
+    "name": "Tsukasa's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 100,
+        "virtualShopId": 42,
+        "virtualShopItemType": "coordinate",
+        "seq": 99975,
+        "resourceBoxId": 100,
+        "costPaidJewel": 1000,
+        "startAt": 1652652000000,
+        "endAt": 1652997599000
       }
     ]
   }
