@@ -406,5 +406,19 @@
     "resourceBoxId": 32,
     "bonusResourceBoxId": 21,
     "startAt": 1609488000000
+  },
+  {
+    "id": 10100,
+    "seq": 120,
+    "billingShopItemType": "value_set",
+    "name": "Restaurant Costume All Colors",
+    "description": "Costume - Tre Stella Cook (F) (20 Costumes x 4 colors)\nCostume - Song to taste. (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10100",
+    "resourceBoxId": 10100,
+    "startAt": 1652738400000,
+    "purchaseOption": "exchange"
   }
 ]

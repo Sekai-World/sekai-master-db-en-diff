@@ -1180,6 +1180,22 @@
     ]
   },
   {
+    "id": 39,
+    "seq": 39,
+    "name": "21st Event Merch",
+    "virtualShopItems": [
+      {
+        "id": 96,
+        "virtualShopId": 39,
+        "virtualShopItemType": "penlight",
+        "seq": 199966,
+        "resourceBoxId": 96,
+        "costPaidJewel": 1000,
+        "startAt": 1652824800000
+      }
+    ]
+  },
+  {
     "id": 40,
     "seq": 40,
     "name": "Saki's Birthday",
@@ -1193,6 +1209,23 @@
         "costPaidJewel": 1000,
         "startAt": 1651960800000,
         "endAt": 1652306399000
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "seq": 41,
+    "name": "22nd Event Merch",
+    "virtualShopItems": [
+      {
+        "id": 99,
+        "virtualShopId": 41,
+        "virtualShopItemType": "accessory",
+        "seq": 199964,
+        "resourceBoxId": 99,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1653516000000
       }
     ]
   },
@@ -1212,5 +1245,45 @@
         "endAt": 1652997599000
       }
     ]
+  },
+  {
+    "id": 43,
+    "seq": 43,
+    "name": "23rd Event Merch",
+    "virtualShopItems": [
+      {
+        "id": 101,
+        "virtualShopId": 43,
+        "virtualShopItemType": "accessory",
+        "seq": 199963,
+        "resourceBoxId": 101,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1654207200000
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "seq": 44,
+    "name": "Toya's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 102,
+        "virtualShopId": 44,
+        "virtualShopItemType": "coordinate",
+        "seq": 99974,
+        "resourceBoxId": 102,
+        "costPaidJewel": 1000,
+        "startAt": 1653343200000,
+        "endAt": 1653688799000
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "seq": 45,
+    "name": "24th Event Merch",
+    "virtualShopItems": []
   }
 ]

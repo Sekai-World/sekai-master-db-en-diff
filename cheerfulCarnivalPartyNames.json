@@ -8546,7 +8546,8 @@
     "gameCharacterUnitId1": 29,
     "gameCharacterUnitId2": 49,
     "gameCharacterUnitId3": 34,
-    "gameCharacterUnitId4": 39
+    "gameCharacterUnitId4": 39,
+    "gameCharacterUnitId5": 54
   },
   {
     "id": 1076,
@@ -8554,7 +8555,8 @@
     "gameCharacterUnitId1": 29,
     "gameCharacterUnitId2": 49,
     "gameCharacterUnitId3": 34,
-    "gameCharacterUnitId4": 39
+    "gameCharacterUnitId4": 39,
+    "gameCharacterUnitId5": 54
   },
   {
     "id": 1077,
@@ -8586,13 +8588,15 @@
     "id": 1080,
     "partyName": "Team Empty SEKAI",
     "gameCharacterUnitId1": 31,
-    "gameCharacterUnitId2": 36
+    "gameCharacterUnitId2": 36,
+    "gameCharacterUnitId3": 51
   },
   {
     "id": 1081,
     "partyName": "Team No Longer Alone",
     "gameCharacterUnitId1": 31,
-    "gameCharacterUnitId2": 36
+    "gameCharacterUnitId2": 36,
+    "gameCharacterUnitId3": 51
   },
   {
     "id": 1082,
@@ -8607,27 +8611,31 @@
     "id": 1083,
     "partyName": "Team We are Luka!",
     "gameCharacterUnitId1": 42,
-    "gameCharacterUnitId2": 43
+    "gameCharacterUnitId2": 43,
+    "gameCharacterUnitId3": 45
   },
   {
     "id": 1084,
     "partyName": "Team SEKAI: Luka",
     "gameCharacterUnitId1": 42,
-    "gameCharacterUnitId2": 43
+    "gameCharacterUnitId2": 43,
+    "gameCharacterUnitId3": 45
   },
   {
     "id": 1085,
     "partyName": "Team We are MEIKO!",
     "gameCharacterUnitId1": 47,
     "gameCharacterUnitId2": 49,
-    "gameCharacterUnitId3": 50
+    "gameCharacterUnitId3": 50,
+    "gameCharacterUnitId4": 51
   },
   {
     "id": 1086,
     "partyName": "Team SEKAI: MEIKO",
     "gameCharacterUnitId1": 47,
     "gameCharacterUnitId2": 49,
-    "gameCharacterUnitId3": 50
+    "gameCharacterUnitId3": 50,
+    "gameCharacterUnitId4": 51
   },
   {
     "id": 1087,
@@ -8648,5 +8656,639 @@
     "partyName": "Team SEKAI: Len",
     "gameCharacterUnitId1": 39,
     "gameCharacterUnitId2": 40
+  },
+  {
+    "id": 1091,
+    "partyName": "Team Cool Dance Moves",
+    "gameCharacterUnitId1": 13,
+    "gameCharacterUnitId2": 40,
+    "gameCharacterUnitId3": 16
+  },
+  {
+    "id": 1092,
+    "partyName": "Team From a Tearful Smile",
+    "gameCharacterUnitId1": 14,
+    "gameCharacterUnitId2": 40
+  },
+  {
+    "id": 1093,
+    "partyName": "Team Holy Night Melody",
+    "gameCharacterUnitId1": 15,
+    "gameCharacterUnitId2": 16,
+    "gameCharacterUnitId3": 50,
+    "gameCharacterUnitId4": 55
+  },
+  {
+    "id": 1094,
+    "partyName": "Team Good to Know You",
+    "gameCharacterUnitId1": 17,
+    "gameCharacterUnitId2": 20,
+    "gameCharacterUnitId3": 31
+  },
+  {
+    "id": 1095,
+    "partyName": "Team We Have Color Samples",
+    "gameCharacterUnitId1": 18,
+    "gameCharacterUnitId2": 19,
+    "gameCharacterUnitId3": 31
+  },
+  {
+    "id": 1096,
+    "partyName": "Team Off to Meet Miku",
+    "gameCharacterUnitId1": 18,
+    "gameCharacterUnitId2": 20,
+    "gameCharacterUnitId3": 31
+  },
+  {
+    "id": 1097,
+    "partyName": "Team Let's Sing In SEKAI♪",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9,
+    "gameCharacterUnitId4": 13,
+    "gameCharacterUnitId5": 17
+  },
+  {
+    "id": 1098,
+    "partyName": "Team Let's Sing In SEKAI♪",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9,
+    "gameCharacterUnitId4": 13,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1099,
+    "partyName": "Team Let's Sing In SEKAI♪",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1100,
+    "partyName": "Team Let's Sing In SEKAI♪",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 13,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1101,
+    "partyName": "Team Let's Sing In SEKAI♪",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 9,
+    "gameCharacterUnitId3": 13,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1102,
+    "partyName": "Team Let's Sing In SEKAI♪",
+    "gameCharacterUnitId1": 5,
+    "gameCharacterUnitId2": 9,
+    "gameCharacterUnitId3": 13,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1103,
+    "partyName": "Team Let's Sing Together!",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9,
+    "gameCharacterUnitId4": 13,
+    "gameCharacterUnitId5": 17
+  },
+  {
+    "id": 1104,
+    "partyName": "Team Let's Sing Together!",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9,
+    "gameCharacterUnitId4": 13,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1105,
+    "partyName": "Team Let's Sing Together!",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1106,
+    "partyName": "Team Let's Sing Together!",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 13,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1107,
+    "partyName": "Team Let's Sing Together!",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 9,
+    "gameCharacterUnitId3": 13,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1108,
+    "partyName": "Team Let's Sing Together!",
+    "gameCharacterUnitId1": 5,
+    "gameCharacterUnitId2": 9,
+    "gameCharacterUnitId3": 13,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1109,
+    "partyName": "Team Hear Our Song!",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9,
+    "gameCharacterUnitId4": 13,
+    "gameCharacterUnitId5": 17
+  },
+  {
+    "id": 1110,
+    "partyName": "Team Hear Our Song!",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9,
+    "gameCharacterUnitId4": 13,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1111,
+    "partyName": "Team Hear Our Song!",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1112,
+    "partyName": "Team Hear Our Song!",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 13,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1113,
+    "partyName": "Team Hear Our Song!",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 9,
+    "gameCharacterUnitId3": 13,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1114,
+    "partyName": "Team Hear Our Song!",
+    "gameCharacterUnitId1": 5,
+    "gameCharacterUnitId2": 9,
+    "gameCharacterUnitId3": 13,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 21
+  },
+  {
+    "id": 1115,
+    "partyName": "Team Smile of a Dreamer",
+    "gameCharacterUnitId1": 13,
+    "gameCharacterUnitId2": 14,
+    "gameCharacterUnitId3": 15,
+    "gameCharacterUnitId4": 16
+  },
+  {
+    "id": 1116,
+    "partyName": "Team Smile of a Dreamer",
+    "gameCharacterUnitId1": 13,
+    "gameCharacterUnitId2": 14,
+    "gameCharacterUnitId3": 15,
+    "gameCharacterUnitId4": 16,
+    "gameCharacterUnitId5": 40
+  },
+  {
+    "id": 1117,
+    "partyName": "Team Repaying with a Smile",
+    "gameCharacterUnitId1": 13,
+    "gameCharacterUnitId2": 14,
+    "gameCharacterUnitId3": 15,
+    "gameCharacterUnitId4": 16
+  },
+  {
+    "id": 1118,
+    "partyName": "Team Keeping Warm While Sleeping",
+    "gameCharacterUnitId1": 13,
+    "gameCharacterUnitId2": 45
+  },
+  {
+    "id": 1119,
+    "partyName": "Team Get Along with Your Li'l Sis",
+    "gameCharacterUnitId1": 13,
+    "gameCharacterUnitId2": 45
+  },
+  {
+    "id": 1120,
+    "partyName": "Team Onomatopoeia",
+    "gameCharacterUnitId1": 14,
+    "gameCharacterUnitId2": 45,
+    "gameCharacterUnitId3": 30
+  },
+  {
+    "id": 1121,
+    "partyName": "Team Kids That Sleep Grow Big",
+    "gameCharacterUnitId1": 14,
+    "gameCharacterUnitId2": 45
+  },
+  {
+    "id": 1122,
+    "partyName": "Team Doll Festival at the Tenma's",
+    "gameCharacterUnitId1": 2,
+    "gameCharacterUnitId2": 13,
+    "gameCharacterUnitId3": 12,
+    "gameCharacterUnitId4": 3
+  },
+  {
+    "id": 1123,
+    "partyName": "Team Doll Festival at the Tenma's",
+    "gameCharacterUnitId1": 2,
+    "gameCharacterUnitId2": 13,
+    "gameCharacterUnitId3": 12,
+    "gameCharacterUnitId4": 3,
+    "gameCharacterUnitId5": 45
+  },
+  {
+    "id": 1124,
+    "partyName": "Team An Angel Spreads Its Wings",
+    "gameCharacterUnitId1": 5,
+    "gameCharacterUnitId2": 6,
+    "gameCharacterUnitId3": 7,
+    "gameCharacterUnitId4": 8
+  },
+  {
+    "id": 1125,
+    "partyName": "Team An Angel Spreads Its Wings",
+    "gameCharacterUnitId1": 5,
+    "gameCharacterUnitId2": 6,
+    "gameCharacterUnitId3": 7,
+    "gameCharacterUnitId4": 8,
+    "gameCharacterUnitId5": 43
+  },
+  {
+    "id": 1126,
+    "partyName": "Team You'll Always Be an Idol",
+    "gameCharacterUnitId1": 5,
+    "gameCharacterUnitId2": 6
+  },
+  {
+    "id": 1127,
+    "partyName": "Team Plenty Of Firsts, Together",
+    "gameCharacterUnitId1": 5,
+    "gameCharacterUnitId2": 6,
+    "gameCharacterUnitId3": 7,
+    "gameCharacterUnitId4": 8
+  },
+  {
+    "id": 1128,
+    "partyName": "Team Singing Among the Cherry Blossoms",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 9,
+    "gameCharacterUnitId3": 5,
+    "gameCharacterUnitId4": 17
+  },
+  {
+    "id": 1129,
+    "partyName": "Team Singing Among the Cherry Blossoms",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 9,
+    "gameCharacterUnitId3": 5,
+    "gameCharacterUnitId4": 17,
+    "gameCharacterUnitId5": 27
+  },
+  {
+    "id": 1130,
+    "partyName": "Team Meeting in a Petal Blizzard",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9,
+    "gameCharacterUnitId4": 13,
+    "gameCharacterUnitId5": 17
+  },
+  {
+    "id": 1131,
+    "partyName": "Team Intersecting Singing Voices",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9,
+    "gameCharacterUnitId4": 13,
+    "gameCharacterUnitId5": 17
+  },
+  {
+    "id": 1132,
+    "partyName": "Team Cherry Blossoms, Songs & Friends",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9
+  },
+  {
+    "id": 1133,
+    "partyName": "Team Wanting to Be Closer Friends",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 5,
+    "gameCharacterUnitId3": 9
+  },
+  {
+    "id": 1134,
+    "partyName": "Team Street Show Veterans",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 9
+  },
+  {
+    "id": 1135,
+    "partyName": "Team We're the Same",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 9
+  },
+  {
+    "id": 1136,
+    "partyName": "Team Secret Dressing Room",
+    "gameCharacterUnitId1": 17,
+    "gameCharacterUnitId2": 18,
+    "gameCharacterUnitId3": 19,
+    "gameCharacterUnitId4": 20
+  },
+  {
+    "id": 1137,
+    "partyName": "Team Secret Dressing Room",
+    "gameCharacterUnitId1": 17,
+    "gameCharacterUnitId2": 18,
+    "gameCharacterUnitId3": 19,
+    "gameCharacterUnitId4": 20,
+    "gameCharacterUnitId5": 51
+  },
+  {
+    "id": 1138,
+    "partyName": "Team The Words That Started It All",
+    "gameCharacterUnitId1": 20,
+    "gameCharacterUnitId2": 51
+  },
+  {
+    "id": 1139,
+    "partyName": "Team Under Observation",
+    "gameCharacterUnitId1": 20,
+    "gameCharacterUnitId2": 51
+  },
+  {
+    "id": 1140,
+    "partyName": "Team Going on a Mystery Tour!",
+    "gameCharacterUnitId1": 17,
+    "gameCharacterUnitId2": 18,
+    "gameCharacterUnitId3": 19,
+    "gameCharacterUnitId4": 20
+  },
+  {
+    "id": 1141,
+    "partyName": "Team So Beautiful That It's Unfair",
+    "gameCharacterUnitId1": 17,
+    "gameCharacterUnitId2": 18,
+    "gameCharacterUnitId3": 19,
+    "gameCharacterUnitId4": 20
+  },
+  {
+    "id": 1142,
+    "partyName": "Team 4=1",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 2,
+    "gameCharacterUnitId3": 3,
+    "gameCharacterUnitId4": 4
+  },
+  {
+    "id": 1143,
+    "partyName": "Team 4=1",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 2,
+    "gameCharacterUnitId3": 3,
+    "gameCharacterUnitId4": 4,
+    "gameCharacterUnitId5": 47
+  },
+  {
+    "id": 1144,
+    "partyName": "Team Dream Chaser",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 2,
+    "gameCharacterUnitId3": 3,
+    "gameCharacterUnitId4": 4
+  },
+  {
+    "id": 1145,
+    "partyName": "Team Let's Walk the Same Path",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 2,
+    "gameCharacterUnitId3": 3,
+    "gameCharacterUnitId4": 4
+  },
+  {
+    "id": 1146,
+    "partyName": "Team I Won't Have Any Regrets!",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 2,
+    "gameCharacterUnitId3": 3,
+    "gameCharacterUnitId4": 4
+  },
+  {
+    "id": 1147,
+    "partyName": "Team Unfamiliar Faces",
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 17
+  },
+  {
+    "id": 1148,
+    "partyName": "Team STRAY BAD DOG",
+    "gameCharacterUnitId1": 9,
+    "gameCharacterUnitId2": 10,
+    "gameCharacterUnitId3": 11,
+    "gameCharacterUnitId4": 12
+  },
+  {
+    "id": 1149,
+    "partyName": "Team STRAY BAD DOG",
+    "gameCharacterUnitId1": 9,
+    "gameCharacterUnitId2": 10,
+    "gameCharacterUnitId3": 11,
+    "gameCharacterUnitId4": 12,
+    "gameCharacterUnitId5": 54
+  },
+  {
+    "id": 1150,
+    "partyName": "Team Vivid BAD SQUAD",
+    "gameCharacterUnitId1": 9,
+    "gameCharacterUnitId2": 10,
+    "gameCharacterUnitId3": 11,
+    "gameCharacterUnitId4": 12
+  },
+  {
+    "id": 1151,
+    "partyName": "Team You've Still Got This, Right?",
+    "gameCharacterUnitId1": 9,
+    "gameCharacterUnitId2": 10,
+    "gameCharacterUnitId3": 11,
+    "gameCharacterUnitId4": 12
+  },
+  {
+    "id": 1152,
+    "partyName": "Team It's My Turn Now",
+    "gameCharacterUnitId1": 12,
+    "gameCharacterUnitId2": 11
+  },
+  {
+    "id": 1153,
+    "partyName": "Team First Impressions Are Important",
+    "gameCharacterUnitId1": 11,
+    "gameCharacterUnitId2": 54
+  },
+  {
+    "id": 1154,
+    "partyName": "Team Just Depend on Me",
+    "gameCharacterUnitId1": 12,
+    "gameCharacterUnitId2": 54
+  },
+  {
+    "id": 1155,
+    "partyName": "Team We are KAITO!",
+    "gameCharacterUnitId1": 54,
+    "gameCharacterUnitId2": 55
+  },
+  {
+    "id": 1156,
+    "partyName": "Team SEKAI: KAITO",
+    "gameCharacterUnitId1": 54,
+    "gameCharacterUnitId2": 55
+  },
+  {
+    "id": 1157,
+    "partyName": "Team Master & Apprentice",
+    "gameCharacterUnitId1": 39,
+    "gameCharacterUnitId2": 54
+  },
+  {
+    "id": 1158,
+    "partyName": "Team My Name Is Mine",
+    "gameCharacterUnitId1": 39,
+    "gameCharacterUnitId2": 54,
+    "gameCharacterUnitId3": 34
+  },
+  {
+    "id": 1159,
+    "partyName": "Team Cool Despite Being KAITO",
+    "gameCharacterUnitId1": 39,
+    "gameCharacterUnitId2": 34,
+    "gameCharacterUnitId3": 54
+  },
+  {
+    "id": 1160,
+    "partyName": "Team Bad Examples?!",
+    "gameCharacterUnitId1": 54,
+    "gameCharacterUnitId2": 13
+  },
+  {
+    "id": 1161,
+    "partyName": "Team Wonderland SEKAI",
+    "gameCharacterUnitId1": 30,
+    "gameCharacterUnitId2": 35,
+    "gameCharacterUnitId3": 40,
+    "gameCharacterUnitId4": 50,
+    "gameCharacterUnitId5": 45
+  },
+  {
+    "id": 1162,
+    "partyName": "Team Wonderland SEKAI",
+    "gameCharacterUnitId1": 30,
+    "gameCharacterUnitId2": 35,
+    "gameCharacterUnitId3": 40,
+    "gameCharacterUnitId4": 55,
+    "gameCharacterUnitId5": 45
+  },
+  {
+    "id": 1163,
+    "partyName": "Team Wonderland SEKAI",
+    "gameCharacterUnitId1": 30,
+    "gameCharacterUnitId2": 35,
+    "gameCharacterUnitId3": 50,
+    "gameCharacterUnitId4": 55,
+    "gameCharacterUnitId5": 45
+  },
+  {
+    "id": 1164,
+    "partyName": "Team Wonderland SEKAI",
+    "gameCharacterUnitId1": 30,
+    "gameCharacterUnitId2": 40,
+    "gameCharacterUnitId3": 50,
+    "gameCharacterUnitId4": 55,
+    "gameCharacterUnitId5": 45
+  },
+  {
+    "id": 1165,
+    "partyName": "Team Wonderland SEKAI",
+    "gameCharacterUnitId1": 35,
+    "gameCharacterUnitId2": 40,
+    "gameCharacterUnitId3": 50,
+    "gameCharacterUnitId4": 55,
+    "gameCharacterUnitId5": 45
+  },
+  {
+    "id": 1166,
+    "partyName": "Team It's Showtime",
+    "gameCharacterUnitId1": 30,
+    "gameCharacterUnitId2": 35,
+    "gameCharacterUnitId3": 40,
+    "gameCharacterUnitId4": 50,
+    "gameCharacterUnitId5": 45
+  },
+  {
+    "id": 1167,
+    "partyName": "Team It's Showtime",
+    "gameCharacterUnitId1": 30,
+    "gameCharacterUnitId2": 35,
+    "gameCharacterUnitId3": 40,
+    "gameCharacterUnitId4": 55,
+    "gameCharacterUnitId5": 45
+  },
+  {
+    "id": 1168,
+    "partyName": "Team It's Showtime",
+    "gameCharacterUnitId1": 30,
+    "gameCharacterUnitId2": 35,
+    "gameCharacterUnitId3": 50,
+    "gameCharacterUnitId4": 55,
+    "gameCharacterUnitId5": 45
+  },
+  {
+    "id": 1169,
+    "partyName": "Team It's Showtime",
+    "gameCharacterUnitId1": 30,
+    "gameCharacterUnitId2": 40,
+    "gameCharacterUnitId3": 50,
+    "gameCharacterUnitId4": 55,
+    "gameCharacterUnitId5": 45
+  },
+  {
+    "id": 1170,
+    "partyName": "Team It's Showtime",
+    "gameCharacterUnitId1": 35,
+    "gameCharacterUnitId2": 40,
+    "gameCharacterUnitId3": 50,
+    "gameCharacterUnitId4": 55,
+    "gameCharacterUnitId5": 45
   }
 ]

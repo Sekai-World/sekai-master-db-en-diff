@@ -3834,6 +3834,25 @@
     "assetbundleName": "vs_0100_01"
   },
   {
+    "id": 150,
+    "musicId": 102,
+    "musicVocalType": "original_song",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "VIRTUAL SINGER ver.",
+    "characters": [
+      {
+        "id": 280,
+        "musicId": 102,
+        "musicVocalId": 150,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 1020
+      }
+    ],
+    "assetbundleName": "vs_0102_01"
+  },
+  {
     "id": 151,
     "musicId": 103,
     "musicVocalType": "original_song",
@@ -5585,6 +5604,57 @@
     "assetbundleName": "vs_0125_01"
   },
   {
+    "id": 217,
+    "musicId": 126,
+    "musicVocalType": "sekai",
+    "seq": 2,
+    "releaseConditionId": 5,
+    "caption": "SEKAI ver.",
+    "characters": [
+      {
+        "id": 425,
+        "musicId": 126,
+        "musicVocalId": 217,
+        "characterType": "game_character",
+        "characterId": 11,
+        "seq": 1260
+      },
+      {
+        "id": 426,
+        "musicId": 126,
+        "musicVocalId": 217,
+        "characterType": "game_character",
+        "characterId": 26,
+        "seq": 1261
+      },
+      {
+        "id": 427,
+        "musicId": 126,
+        "musicVocalId": 217,
+        "characterType": "game_character",
+        "characterId": 9,
+        "seq": 1262
+      },
+      {
+        "id": 428,
+        "musicId": 126,
+        "musicVocalId": 217,
+        "characterType": "game_character",
+        "characterId": 10,
+        "seq": 1263
+      },
+      {
+        "id": 429,
+        "musicId": 126,
+        "musicVocalId": 217,
+        "characterType": "game_character",
+        "characterId": 12,
+        "seq": 1264
+      }
+    ],
+    "assetbundleName": "se_0126_01"
+  },
+  {
     "id": 218,
     "musicId": 8,
     "musicVocalType": "another_vocal",
@@ -6498,6 +6568,25 @@
     "assetbundleName": "an_0116_04"
   },
   {
+    "id": 268,
+    "musicId": 139,
+    "musicVocalType": "virtual_singer",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "VIRTUAL SINGER ver.",
+    "characters": [
+      {
+        "id": 521,
+        "musicId": 139,
+        "musicVocalId": 268,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 1390
+      }
+    ],
+    "assetbundleName": "vs_0139_01"
+  },
+  {
     "id": 269,
     "musicId": 132,
     "musicVocalType": "another_vocal",
@@ -6553,6 +6642,201 @@
       }
     ],
     "assetbundleName": "an_0132_03"
+  },
+  {
+    "id": 275,
+    "musicId": 102,
+    "musicVocalType": "sekai",
+    "seq": 2,
+    "releaseConditionId": 5,
+    "caption": "SEKAI ver.",
+    "characters": [
+      {
+        "id": 532,
+        "musicId": 102,
+        "musicVocalId": 275,
+        "characterType": "game_character",
+        "characterId": 11,
+        "seq": 1022
+      },
+      {
+        "id": 533,
+        "musicId": 102,
+        "musicVocalId": 275,
+        "characterType": "game_character",
+        "characterId": 12,
+        "seq": 1023
+      },
+      {
+        "id": 534,
+        "musicId": 102,
+        "musicVocalId": 275,
+        "characterType": "game_character",
+        "characterId": 26,
+        "seq": 1021
+      }
+    ],
+    "assetbundleName": "se_0102_01"
+  },
+  {
+    "id": 276,
+    "musicId": 102,
+    "musicVocalType": "another_vocal",
+    "seq": 3,
+    "releaseConditionId": 9,
+    "caption": "Cover ver.",
+    "characters": [
+      {
+        "id": 535,
+        "musicId": 102,
+        "musicVocalId": 276,
+        "characterType": "game_character",
+        "characterId": 12,
+        "seq": 1024
+      }
+    ],
+    "assetbundleName": "an_0102_01"
+  },
+  {
+    "id": 277,
+    "musicId": 139,
+    "musicVocalType": "sekai",
+    "seq": 2,
+    "releaseConditionId": 5,
+    "caption": "SEKAI ver.",
+    "characters": [
+      {
+        "id": 536,
+        "musicId": 139,
+        "musicVocalId": 277,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 1391
+      },
+      {
+        "id": 537,
+        "musicId": 139,
+        "musicVocalId": 277,
+        "characterType": "game_character",
+        "characterId": 17,
+        "seq": 1392
+      }
+    ],
+    "assetbundleName": "se_0139_01"
+  },
+  {
+    "id": 278,
+    "musicId": 139,
+    "musicVocalType": "another_vocal",
+    "seq": 3,
+    "releaseConditionId": 9,
+    "caption": "Cover ver.",
+    "characters": [
+      {
+        "id": 539,
+        "musicId": 139,
+        "musicVocalId": 278,
+        "characterType": "game_character",
+        "characterId": 1,
+        "seq": 1393
+      }
+    ],
+    "assetbundleName": "an_0139_01"
+  },
+  {
+    "id": 279,
+    "musicId": 139,
+    "musicVocalType": "another_vocal",
+    "seq": 4,
+    "releaseConditionId": 9,
+    "caption": "Cover ver.",
+    "characters": [
+      {
+        "id": 540,
+        "musicId": 139,
+        "musicVocalId": 279,
+        "characterType": "game_character",
+        "characterId": 8,
+        "seq": 1394
+      }
+    ],
+    "assetbundleName": "an_0139_02"
+  },
+  {
+    "id": 280,
+    "musicId": 139,
+    "musicVocalType": "another_vocal",
+    "seq": 5,
+    "releaseConditionId": 9,
+    "caption": "Cover ver.",
+    "characters": [
+      {
+        "id": 541,
+        "musicId": 139,
+        "musicVocalId": 280,
+        "characterType": "game_character",
+        "characterId": 9,
+        "seq": 1395
+      }
+    ],
+    "assetbundleName": "an_0139_03"
+  },
+  {
+    "id": 281,
+    "musicId": 139,
+    "musicVocalType": "another_vocal",
+    "seq": 6,
+    "releaseConditionId": 9,
+    "caption": "Cover ver.",
+    "characters": [
+      {
+        "id": 542,
+        "musicId": 139,
+        "musicVocalId": 281,
+        "characterType": "game_character",
+        "characterId": 15,
+        "seq": 1396
+      }
+    ],
+    "assetbundleName": "an_0139_04"
+  },
+  {
+    "id": 282,
+    "musicId": 139,
+    "musicVocalType": "another_vocal",
+    "seq": 7,
+    "releaseConditionId": 9,
+    "caption": "Cover ver.",
+    "characters": [
+      {
+        "id": 538,
+        "musicId": 139,
+        "musicVocalId": 282,
+        "characterType": "game_character",
+        "characterId": 17,
+        "seq": 1397
+      }
+    ],
+    "assetbundleName": "an_0139_05"
+  },
+  {
+    "id": 284,
+    "musicId": 126,
+    "musicVocalType": "another_vocal",
+    "seq": 4,
+    "releaseConditionId": 9,
+    "caption": "Cover ver.",
+    "characters": [
+      {
+        "id": 544,
+        "musicId": 126,
+        "musicVocalId": 284,
+        "characterType": "game_character",
+        "characterId": 11,
+        "seq": 1266
+      }
+    ],
+    "assetbundleName": "an_0126_02"
   },
   {
     "id": 287,
@@ -6685,6 +6969,103 @@
     "assetbundleName": "an_0013_02"
   },
   {
+    "id": 293,
+    "musicId": 144,
+    "musicVocalType": "virtual_singer",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "VIRTUAL SINGER ver.",
+    "characters": [
+      {
+        "id": 559,
+        "musicId": 144,
+        "musicVocalId": 293,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 1440
+      },
+      {
+        "id": 560,
+        "musicId": 144,
+        "musicVocalId": 293,
+        "characterType": "game_character",
+        "characterId": 22,
+        "seq": 1441
+      }
+    ],
+    "assetbundleName": "vs_0144_01"
+  },
+  {
+    "id": 294,
+    "musicId": 144,
+    "musicVocalType": "sekai",
+    "seq": 2,
+    "releaseConditionId": 5,
+    "caption": "SEKAI ver.",
+    "characters": [
+      {
+        "id": 561,
+        "musicId": 144,
+        "musicVocalId": 294,
+        "characterType": "game_character",
+        "characterId": 6,
+        "seq": 1442
+      },
+      {
+        "id": 562,
+        "musicId": 144,
+        "musicVocalId": 294,
+        "characterType": "game_character",
+        "characterId": 8,
+        "seq": 1443
+      },
+      {
+        "id": 563,
+        "musicId": 144,
+        "musicVocalId": 294,
+        "characterType": "game_character",
+        "characterId": 25,
+        "seq": 1444
+      },
+      {
+        "id": 564,
+        "musicId": 144,
+        "musicVocalId": 294,
+        "characterType": "game_character",
+        "characterId": 5,
+        "seq": 1445
+      },
+      {
+        "id": 565,
+        "musicId": 144,
+        "musicVocalId": 294,
+        "characterType": "game_character",
+        "characterId": 7,
+        "seq": 1446
+      }
+    ],
+    "assetbundleName": "se_0144_01"
+  },
+  {
+    "id": 295,
+    "musicId": 144,
+    "musicVocalType": "another_vocal",
+    "seq": 3,
+    "releaseConditionId": 9,
+    "caption": "Cover ver.",
+    "characters": [
+      {
+        "id": 566,
+        "musicId": 144,
+        "musicVocalId": 295,
+        "characterType": "game_character",
+        "characterId": 5,
+        "seq": 1447
+      }
+    ],
+    "assetbundleName": "an_0144_01"
+  },
+  {
     "id": 297,
     "musicId": 120,
     "musicVocalType": "sekai",
@@ -6718,6 +7099,25 @@
       }
     ],
     "assetbundleName": "se_0120_01"
+  },
+  {
+    "id": 316,
+    "musicId": 126,
+    "musicVocalType": "virtual_singer",
+    "seq": 1,
+    "releaseConditionId": 5,
+    "caption": "VIRTUAL SINGER ver.",
+    "characters": [
+      {
+        "id": 602,
+        "musicId": 126,
+        "musicVocalId": 316,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 1267
+      }
+    ],
+    "assetbundleName": "vs_0126_01"
   },
   {
     "id": 324,
