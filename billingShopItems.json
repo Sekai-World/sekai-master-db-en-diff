@@ -294,7 +294,7 @@
     "resourceBoxId": 25,
     "bonusResourceBoxId": 14,
     "startAt": 1640332800000,
-    "endAt": 1640505540000
+    "endAt": 1640505599000
   },
   {
     "id": 26,
@@ -310,7 +310,7 @@
     "resourceBoxId": 26,
     "bonusResourceBoxId": 15,
     "startAt": 1640332800000,
-    "endAt": 1640505540000
+    "endAt": 1640505599000
   },
   {
     "id": 27,
@@ -326,7 +326,7 @@
     "resourceBoxId": 27,
     "bonusResourceBoxId": 16,
     "startAt": 1641024000000,
-    "endAt": 1641887940000
+    "endAt": 1641887999000
   },
   {
     "id": 28,
@@ -342,7 +342,7 @@
     "resourceBoxId": 28,
     "bonusResourceBoxId": 17,
     "startAt": 1641024000000,
-    "endAt": 1641887940000
+    "endAt": 1641887999000
   },
   {
     "id": 29,
@@ -358,7 +358,7 @@
     "resourceBoxId": 29,
     "bonusResourceBoxId": 18,
     "startAt": 1641024000000,
-    "endAt": 1641887940000
+    "endAt": 1641887999000
   },
   {
     "id": 30,
@@ -374,7 +374,7 @@
     "resourceBoxId": 30,
     "bonusResourceBoxId": 19,
     "startAt": 1641024000000,
-    "endAt": 1641887940000
+    "endAt": 1641887999000
   },
   {
     "id": 31,
@@ -390,7 +390,7 @@
     "resourceBoxId": 31,
     "bonusResourceBoxId": 20,
     "startAt": 1641024000000,
-    "endAt": 1641887940000
+    "endAt": 1641887999000
   },
   {
     "id": 32,
@@ -406,6 +406,142 @@
     "resourceBoxId": 32,
     "bonusResourceBoxId": 21,
     "startAt": 1609488000000
+  },
+  {
+    "id": 34,
+    "seq": 13,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 37,
+    "name": "[Half Anniversary Sale] Crystals (D)",
+    "description": "Crystals x1,800\nFree Crystals x300",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_18",
+    "resourceBoxId": 18,
+    "bonusResourceBoxId": 11,
+    "label": "Limited Time",
+    "startAt": 1654671600000,
+    "endAt": 1655449199000
+  },
+  {
+    "id": 35,
+    "seq": 12,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 38,
+    "name": "[Half Anniversary Sale] Crystals (F)",
+    "description": "Crystals x5,000\nFree Crystals x850",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_19",
+    "resourceBoxId": 19,
+    "bonusResourceBoxId": 12,
+    "label": "Limited Time",
+    "startAt": 1654671600000,
+    "endAt": 1655449199000
+  },
+  {
+    "id": 36,
+    "seq": 11,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 39,
+    "name": "[Half Anniversary Sale] Crystals (G)",
+    "description": "Crystals x10,500\nFree Crystals x1,800",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_20",
+    "resourceBoxId": 20,
+    "bonusResourceBoxId": 13,
+    "label": "Limited Time",
+    "startAt": 1654671600000,
+    "endAt": 1655449199000
+  },
+  {
+    "id": 37,
+    "seq": 170,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 40,
+    "name": "Half Anniversary Costume Bundle (A)",
+    "description": "Crystals x1,800\nCostume - Hummingbird (F) (20 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_37",
+    "resourceBoxId": 34,
+    "bonusResourceBoxId": 25,
+    "label": "1 Time Only",
+    "startAt": 1654671600000,
+    "endAt": 1655449199000
+  },
+  {
+    "id": 38,
+    "seq": 160,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 41,
+    "name": "Half Anniversary Costume Bundle (B)",
+    "description": "Crystals x1,800\nCostume - Hummingbird (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_38",
+    "resourceBoxId": 35,
+    "bonusResourceBoxId": 26,
+    "label": "1 Time Only",
+    "startAt": 1654671600000,
+    "endAt": 1655449199000
+  },
+  {
+    "id": 39,
+    "seq": 200,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 34,
+    "name": "Half Anniversary Bundle (A)",
+    "description": "3★ or Higher Guaranteed Ticket x1\nPractice Score (Intermediate) x25",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_39",
+    "resourceBoxId": 36,
+    "bonusResourceBoxId": 22,
+    "label": "1 Time Only",
+    "startAt": 1654671600000,
+    "endAt": 1655449199000
+  },
+  {
+    "id": 40,
+    "seq": 190,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 35,
+    "name": "Half Anniversary Bundle (B)",
+    "description": "Cute Gem x300\nCool Gem x300\nPure Gem x300\nHappy Gem x300\nMysterious Gem x300\nMiracle Gem x150",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_40",
+    "resourceBoxId": 37,
+    "bonusResourceBoxId": 23,
+    "label": "1 Time Only",
+    "startAt": 1654671600000,
+    "endAt": 1655449199000
+  },
+  {
+    "id": 41,
+    "seq": 180,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 36,
+    "name": "Half Anniversary Bundle (C)",
+    "description": "Wish Jewel x1\nCover Card Voucher x1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_41",
+    "resourceBoxId": 38,
+    "bonusResourceBoxId": 24,
+    "label": "1 Time Only",
+    "startAt": 1654671600000,
+    "endAt": 1655449199000
   },
   {
     "id": 10100,
