@@ -10,43 +10,33 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 108,
+    "homeBannerId": 125,
     "seq": 300,
-    "name": "Premium Mission Pass",
-    "assetbundleName": "banner_premiummissionpass_en_2022_05",
+    "name": "[April 2021] Premium Mission Pass",
+    "assetbundleName": "banner_premiummissionpass_en_2022_06",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1651388400000,
-    "endAt": 1654066799000
+    "startAt": 1654066800000,
+    "endAt": 1656658799000
   },
   {
-    "homeBannerId": 126,
+    "homeBannerId": 142,
     "seq": 100,
-    "name": "[Event] Secret Distance.",
-    "assetbundleName": "event_secret_2021",
+    "name": "[Event] What's on your mind? Exciting Picnic!",
+    "assetbundleName": "event_picnic_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 19,
-    "startAt": 1651442400000,
-    "endAt": 1652133599000
+    "transitionDestinationId": 22,
+    "startAt": 1653516000000,
+    "endAt": 1654207199000
   },
   {
-    "homeBannerId": 127,
+    "homeBannerId": 143,
     "seq": 110,
-    "name": "N25 Event 3rd Tour_Regular Gacha Banner",
-    "assetbundleName": "banner_gacha72",
+    "name": "Shuffle Picnic Event_Regular Gacha Banner",
+    "assetbundleName": "banner_gacha82",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 72,
-    "startAt": 1651442400000,
-    "endAt": 1652133599000
-  },
-  {
-    "homeBannerId": 133,
-    "seq": 140,
-    "name": "Ena's Birthday Show",
-    "assetbundleName": "banner_virtuallive70",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 70,
-    "startAt": 1651183200000,
-    "endAt": 1651528799000
+    "transitionDestinationId": 82,
+    "startAt": 1653516000000,
+    "endAt": 1654207199000
   },
   {
     "homeBannerId": 1001,
@@ -57,5 +47,15 @@
     "transitionDestinationId": 1,
     "startAt": 1633118400000,
     "endAt": 4102473540000
+  },
+  {
+    "homeBannerId": 1011,
+    "seq": 150,
+    "name": "3日目ハーフアニバーサリー記念 1日1回限定！無料10連ガチャ",
+    "assetbundleName": "banner_gacha1007",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1009,
+    "startAt": 1654167600000,
+    "endAt": 1654253999000
   }
 ]
