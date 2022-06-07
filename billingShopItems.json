@@ -556,5 +556,19 @@
     "resourceBoxId": 10100,
     "startAt": 1652738400000,
     "purchaseOption": "exchange"
+  },
+  {
+    "id": 10101,
+    "seq": 120,
+    "billingShopItemType": "value_set",
+    "name": "Pirates Costume All Colors",
+    "description": "Costume - Pirates of Penguance (F) (20 Costumes x 4 colors)\nCostume - Elegant Pirates (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10101",
+    "resourceBoxId": 10101,
+    "startAt": 1656885600000,
+    "purchaseOption": "exchange"
   }
 ]
