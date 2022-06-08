@@ -10,6 +10,25 @@
     "endAt": 4102473599000
   },
   {
+    "homeBannerId": 119,
+    "seq": 80,
+    "name": "Colorful Festival Gacha",
+    "assetbundleName": "banner_gacha66",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 66,
+    "startAt": 1654639200000,
+    "endAt": 1655157599000
+  },
+  {
+    "homeBannerId": 124,
+    "seq": 90,
+    "name": "Half Anniversary Shop Banner",
+    "assetbundleName": "banner_shop_half_anniversary_2021",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1654671600000,
+    "endAt": 1655449199000
+  },
+  {
     "homeBannerId": 125,
     "seq": 300,
     "name": "[April 2021] Premium Mission Pass",
@@ -57,15 +76,5 @@
     "transitionDestinationId": 1,
     "startAt": 1633118400000,
     "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1016,
-    "seq": 150,
-    "name": "8日目ハーフアニバーサリー記念 1日1回限定！無料10連ガチャ",
-    "assetbundleName": "banner_gacha1007",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1014,
-    "startAt": 1654599600000,
-    "endAt": 1654685999000
   }
 ]
