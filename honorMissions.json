@@ -80,6 +80,22 @@
     ]
   },
   {
+    "id": 204,
+    "seq": 4,
+    "honorMissionType": "player_rank",
+    "requirement": 300,
+    "sentence": "Reach Player Rank 300.",
+    "rewards": [
+      {
+        "id": 1233,
+        "missionType": "honor_mission",
+        "missionId": 204,
+        "seq": 1,
+        "resourceBoxId": 1154
+      }
+    ]
+  },
+  {
     "id": 301,
     "seq": 1,
     "honorMissionType": "login_continued",
@@ -240,6 +256,86 @@
     ]
   },
   {
+    "id": 904,
+    "seq": 4,
+    "honorMissionType": "clear_live_difficulty_all",
+    "requirement": 30,
+    "sentence": "Clear 30 songs on all difficulty levels.",
+    "rewards": [
+      {
+        "id": 1096,
+        "missionType": "honor_mission",
+        "missionId": 904,
+        "seq": 1,
+        "resourceBoxId": 1147
+      }
+    ]
+  },
+  {
+    "id": 905,
+    "seq": 5,
+    "honorMissionType": "clear_live_difficulty_all",
+    "requirement": 40,
+    "sentence": "Clear 40 songs on all difficulty levels.",
+    "rewards": [
+      {
+        "id": 1097,
+        "missionType": "honor_mission",
+        "missionId": 905,
+        "seq": 1,
+        "resourceBoxId": 1148
+      }
+    ]
+  },
+  {
+    "id": 906,
+    "seq": 6,
+    "honorMissionType": "clear_live_difficulty_all",
+    "requirement": 50,
+    "sentence": "Clear 50 songs on all difficulty levels.",
+    "rewards": [
+      {
+        "id": 1098,
+        "missionType": "honor_mission",
+        "missionId": 906,
+        "seq": 1,
+        "resourceBoxId": 1149
+      }
+    ]
+  },
+  {
+    "id": 907,
+    "seq": 7,
+    "honorMissionType": "clear_live_difficulty_all",
+    "requirement": 60,
+    "sentence": "Clear 60 songs on all difficulty levels.",
+    "rewards": [
+      {
+        "id": 1238,
+        "missionType": "honor_mission",
+        "missionId": 907,
+        "seq": 1,
+        "resourceBoxId": 1159
+      }
+    ]
+  },
+  {
+    "id": 908,
+    "seq": 8,
+    "honorMissionType": "clear_live_difficulty_all",
+    "requirement": 70,
+    "sentence": "Clear 70 songs on all difficulty levels.",
+    "rewards": [
+      {
+        "id": 1239,
+        "missionType": "honor_mission",
+        "missionId": 908,
+        "seq": 1,
+        "resourceBoxId": 1160
+      }
+    ]
+  },
+  {
     "id": 1004,
     "seq": 4,
     "honorMissionType": "master_full_combo",
@@ -256,6 +352,70 @@
     ]
   },
   {
+    "id": 1005,
+    "seq": 5,
+    "honorMissionType": "master_full_combo",
+    "requirement": 40,
+    "sentence": "Clear 40 songs with a Full Combo on Master difficulty.",
+    "rewards": [
+      {
+        "id": 490,
+        "missionType": "honor_mission",
+        "missionId": 1005,
+        "seq": 1,
+        "resourceBoxId": 1062
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "seq": 6,
+    "honorMissionType": "master_full_combo",
+    "requirement": 50,
+    "sentence": "Clear 50 songs with a Full Combo on Master difficulty.",
+    "rewards": [
+      {
+        "id": 491,
+        "missionType": "honor_mission",
+        "missionId": 1006,
+        "seq": 1,
+        "resourceBoxId": 1063
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "seq": 7,
+    "honorMissionType": "master_full_combo",
+    "requirement": 60,
+    "sentence": "Clear 60 songs with a Full Combo on Master difficulty.",
+    "rewards": [
+      {
+        "id": 1234,
+        "missionType": "honor_mission",
+        "missionId": 1007,
+        "seq": 1,
+        "resourceBoxId": 1155
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "seq": 8,
+    "honorMissionType": "master_full_combo",
+    "requirement": 70,
+    "sentence": "Clear 70 songs with a Full Combo on Master difficulty.",
+    "rewards": [
+      {
+        "id": 1235,
+        "missionType": "honor_mission",
+        "missionId": 1008,
+        "seq": 1,
+        "resourceBoxId": 1156
+      }
+    ]
+  },
+  {
     "id": 1104,
     "seq": 4,
     "honorMissionType": "master_full_perfect",
@@ -268,6 +428,70 @@
         "missionId": 1104,
         "seq": 1,
         "resourceBoxId": 1064
+      }
+    ]
+  },
+  {
+    "id": 1105,
+    "seq": 5,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 40,
+    "sentence": "Clear 40 songs on Master difficulty with All Perfects.",
+    "rewards": [
+      {
+        "id": 493,
+        "missionType": "honor_mission",
+        "missionId": 1105,
+        "seq": 1,
+        "resourceBoxId": 1065
+      }
+    ]
+  },
+  {
+    "id": 1106,
+    "seq": 6,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 50,
+    "sentence": "Clear 50 songs on Master difficulty with All Perfects.",
+    "rewards": [
+      {
+        "id": 494,
+        "missionType": "honor_mission",
+        "missionId": 1106,
+        "seq": 1,
+        "resourceBoxId": 1066
+      }
+    ]
+  },
+  {
+    "id": 1107,
+    "seq": 7,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 60,
+    "sentence": "Clear 60 songs on Master difficulty with All Perfects.",
+    "rewards": [
+      {
+        "id": 1236,
+        "missionType": "honor_mission",
+        "missionId": 1107,
+        "seq": 1,
+        "resourceBoxId": 1157
+      }
+    ]
+  },
+  {
+    "id": 1108,
+    "seq": 8,
+    "honorMissionType": "master_full_perfect",
+    "requirement": 70,
+    "sentence": "Clear 70 songs on Master difficulty with All Perfects.",
+    "rewards": [
+      {
+        "id": 1237,
+        "missionType": "honor_mission",
+        "missionId": 1108,
+        "seq": 1,
+        "resourceBoxId": 1158
       }
     ]
   },
