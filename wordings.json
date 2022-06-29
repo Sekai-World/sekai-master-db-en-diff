@@ -56,6 +56,10 @@
     "value": "All stories have been unlocked."
   },
   {
+    "wordingKey": "MSG_ALREADY_CLEARED_LIVE_RETRY",
+    "value": "A disconnection was detected. Returning to Title screen.\nThe Show scores will be reflected correctly."
+  },
+  {
     "wordingKey": "MSG_ANDROID_RATING",
     "value": "Thank you for playing.\nIf you are enjoying this game,\nplease take a moment to rate it."
   },
@@ -200,6 +204,22 @@
     "value": "Unfair practices detected.\nCurrent show results have been nullified.\n\nIf unfair practices are detected again,\nyour account may be suspended."
   },
   {
+    "wordingKey": "MSG_CHECK_BACK_SCREEN_NOT_SAVED",
+    "value": "Your profile has not been saved.\nWould you like to save and exit?"
+  },
+  {
+    "wordingKey": "MSG_CHECK_DELETE_CARD",
+    "value": "Delete selected profile.\nAre you sure you want to proceed?"
+  },
+  {
+    "wordingKey": "MSG_CHECK_REVERT_BEFORE_EDIT",
+    "value": "Progress will be reset to its pre-edited state.\nAre you sure you want to proceed?"
+  },
+  {
+    "wordingKey": "MSG_CHECK_REVERT_INITIAL_STATE",
+    "value": "現在の編集内容を破棄して、白紙の状態に戻します。 \nよろしいですか？"
+  },
+  {
     "wordingKey": "MSG_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
     "value": "Selected <color=#ff5588>{0}</color> Crew.\nContinue?"
   },
@@ -281,7 +301,7 @@
   },
   {
     "wordingKey": "MSG_CRYSTAL_CONSUME",
-    "value": "*Crystals (Free) will be used first."
+    "value": "*Crystals (Free) will be used first.\n*Some gacha will allow you to use Crystals (Paid) first."
   },
   {
     "wordingKey": "MSG_CRYSTAL_SHOP_CAN_MAKE_PAYMENTS",
@@ -298,6 +318,10 @@
   {
     "wordingKey": "MSG_CRYSTAL_SHOP_PURCHASE_ERROR",
     "value": "Purchase failed.\nPlease wait a while and try again."
+  },
+  {
+    "wordingKey": "MSG_CUSTOMPROFILE_HONOR_EMPTY",
+    "value": "You have no Titles available for display."
   },
   {
     "wordingKey": "MSG_DATA_LINK_RELEASE",
@@ -354,6 +378,10 @@
   {
     "wordingKey": "MSG_DISCONNECT_LEFT_ROOM",
     "value": "Connection lost. Returning to home screen."
+  },
+  {
+    "wordingKey": "MSG_DISCONNECT_LEFT_ROOM_CODE",
+    "value": "Connection lost. Returning to home screen. <size=28>({0})</size>"
   },
   {
     "wordingKey": "MSG_DOWNLOAD_CONFIRM_1",
@@ -568,6 +596,10 @@
     "value": "Exchange has ended."
   },
   {
+    "wordingKey": "MSG_GACHA_PAID_JEWEL_PRIORITY_USE",
+    "value": "Use Paid Crystals first.\n(Gacha Bonus only doubled for Paid Crystals used.)"
+  },
+  {
     "wordingKey": "MSG_GACHA_RATE_NOTICE",
     "value": "All displayed values are rounded to 3 decimal places.\nAs a result, values may not add up to exactly 100%."
   },
@@ -581,11 +613,23 @@
   },
   {
     "wordingKey": "MSG_GACHA_SPIN_COUNT",
-    "value": "<size=32>Pull</size> x{0}"
+    "value": "<size=28>Pull</size> x{0}"
   },
   {
     "wordingKey": "MSG_GACHA_SPIN_COUNT_PAID",
     "value": "<size=32>Pull (Paid)</size> x{0}"
+  },
+  {
+    "wordingKey": "MSG_GACHA_SPIN_ERROR",
+    "value": "A connection error has occurred. Returning to title screen.\n*Please check if gacha results are displaying correctly once you have logged in.\n*If the gacha results are not displaying correctly, please contact customer support."
+  },
+  {
+    "wordingKey": "MSG_GACHA_SPIN_LIMIT",
+    "value": "x{0} left"
+  },
+  {
+    "wordingKey": "MSG_GACHA_TOP_SEAL_ON",
+    "value": "Includes {0}"
   },
   {
     "wordingKey": "MSG_GIVE_LIVE_BONUS",
@@ -780,6 +824,10 @@
     "value": "Matchmaking failed."
   },
   {
+    "wordingKey": "MSG_MATCHING_ERROR_WITH_ERROR_CODE",
+    "value": "Matchmaking failed. ({0})"
+  },
+  {
     "wordingKey": "MSG_MATCHING_NOW_DESCRIPTION",
     "value": "Searching for room..."
   },
@@ -794,6 +842,10 @@
   {
     "wordingKey": "MSG_MAX_ANOUNCE",
     "value": "*Max of {0}."
+  },
+  {
+    "wordingKey": "MSG_MAX_PLACE_COUNT",
+    "value": "You have exceeded the max amount of layers."
   },
   {
     "wordingKey": "MSG_MEMBER_DETAIL_EXPLANATION_NL",
@@ -844,6 +896,10 @@
     "value": "Skip the movie?"
   },
   {
+    "wordingKey": "MSG_MULTIPLAY_AUTH_FAILED_WITH_ERROR_CODE",
+    "value": "Authentication error. ({0})"
+  },
+  {
     "wordingKey": "MSG_MULTIPLAY_ERROR_AUTH",
     "value": "Authentication error."
   },
@@ -860,6 +916,10 @@
     "value": "Unable to create room."
   },
   {
+    "wordingKey": "MSG_MULTIPLAY_ERROR_CREATE_ROOM_WITH_ERROR_CODE",
+    "value": "Unable to create room. ({0})"
+  },
+  {
     "wordingKey": "MSG_MULTIPLAY_ERROR_DISCONNECT",
     "value": "Connection lost.\nReturning to Show screen."
   },
@@ -868,20 +928,56 @@
     "value": "Connection lost.\nReturning to home screen."
   },
   {
+    "wordingKey": "MSG_MULTIPLAY_ERROR_DISCONNECT_WITH_ERROR_CODE",
+    "value": "Connection lost. ({0})\nReturning to Show screen."
+  },
+  {
     "wordingKey": "MSG_MULTIPLAY_ERROR_JOIN_ROOM",
     "value": "Unable to join room."
+  },
+  {
+    "wordingKey": "MSG_MULTIPLAY_ERROR_JOIN_ROOM_WITH_ERROR_CODE",
+    "value": "Unable to join room. ({0})"
   },
   {
     "wordingKey": "MSG_MULTIPLAY_ERROR_LACK_POWER",
     "value": "Insufficient Talent."
   },
   {
+    "wordingKey": "MSG_MULTIPLAY_ERROR_LACK_POWER_WITH_ERROR_CODE",
+    "value": "Insufficient Talent. ({0})"
+  },
+  {
     "wordingKey": "MSG_MULTIPLAY_ERROR_NOTFOUND",
     "value": "Unable to join the specified room."
   },
   {
+    "wordingKey": "MSG_MULTIPLAY_ERROR_NOTFOUND_WITH_ERROR_CODE",
+    "value": "Unable to join the specified room. ({0})"
+  },
+  {
+    "wordingKey": "MSG_MULTIPLAY_NETWORK_UNREACHABLE_WITH_ERROR_CODE",
+    "value": "A connection error has occurred. ({0})"
+  },
+  {
+    "wordingKey": "MSG_MULTIPLAY_PRIVATE_ROOM_NOT_FOUND_WITH_ERROR_CODE",
+    "value": "Unable to join the specified room. ({0})"
+  },
+  {
+    "wordingKey": "MSG_MULTIPLAY_ROOM_FULL_WITH_ERROR_CODE",
+    "value": "The room is full. ({0})"
+  },
+  {
+    "wordingKey": "MSG_MULTIPLAY_ROOM_NOT_FOUND_WITH_ERROR_CODE",
+    "value": "Unable to find room. ({0})"
+  },
+  {
     "wordingKey": "MSG_MULTI_DISSOLUSION",
     "value": "Room disbanded."
+  },
+  {
+    "wordingKey": "MSG_MULTI_DISSOLUSION_WITH_ERROR_CODE",
+    "value": "Room disbanded. ({0})"
   },
   {
     "wordingKey": "MSG_MULTI_LIVE_RESULT_ADJUST_SCORE_BY_DISCONNECTED_USER",
@@ -934,6 +1030,10 @@
   {
     "wordingKey": "MSG_NEED_SELECT_LIST_SETTING",
     "value": "Your picks must be selected to pull this gacha.\n\n<color=#ff5599>*All characters must be selected first.</color>"
+  },
+  {
+    "wordingKey": "MSG_NETWORK_CONNECTION_ERROR",
+    "value": "A connection error has occurred."
   },
   {
     "wordingKey": "MSG_NGWORD_BALLOON",
@@ -1080,6 +1180,10 @@
     "value": "No upcoming Virtual Shows found."
   },
   {
+    "wordingKey": "MSG_OFFLINE_AREA",
+    "value": "Some areas have been closed to restrict the number of Lobbies. Returning to home screen."
+  },
+  {
     "wordingKey": "MSG_ONCE_AGAIN_LIVE",
     "value": "Play again with these players?"
   },
@@ -1152,6 +1256,10 @@
     "value": "No members able to Practice."
   },
   {
+    "wordingKey": "MSG_PRACTICE_TICKET_ERROR",
+    "value": "Previous Practice results interrupted.\nPractice will be cancelled to retrieve results.\n\nPlease check the level of your character and the number of Practice Scores that will be used before conducting Practice."
+  },
+  {
     "wordingKey": "MSG_PREMIUM_BEFORE_SALE",
     "value": "Premium Mission Pass on sale tomorrow!"
   },
@@ -1198,6 +1306,10 @@
   {
     "wordingKey": "MSG_RECONNCT",
     "value": "Reconnecting."
+  },
+  {
+    "wordingKey": "MSG_RECONNECT_CODE",
+    "value": "Reconnecting. <size=28>({0})</size>"
   },
   {
     "wordingKey": "MSG_RELEASE_ATTRIBUTE_AREA_SHOP",
@@ -1270,6 +1382,10 @@
   {
     "wordingKey": "MSG_SELECT_ACTION_FROM_BELOW",
     "value": "Select your favorite Actions from those available below."
+  },
+  {
+    "wordingKey": "MSG_SELECT_CLEANUP",
+    "value": "Your profile has not been saved.\nSave and exit?"
   },
   {
     "wordingKey": "MSG_SELECT_LIST",
@@ -1828,6 +1944,14 @@
     "value": "All"
   },
   {
+    "wordingKey": "WORD_ALL_PERFECT",
+    "value": "All Perfect"
+  },
+  {
+    "wordingKey": "WORD_ALREADY_CLEARED_LIVE_RETRY",
+    "value": "Connection Results"
+  },
+  {
     "wordingKey": "WORD_ALREADY_DOWNLOADED",
     "value": "Downloaded"
   },
@@ -1986,6 +2110,10 @@
   {
     "wordingKey": "WORD_BOOST_RECOVER_METHOD_JEWEL",
     "value": "Crystals"
+  },
+  {
+    "wordingKey": "WORD_BORDER_TRANSPARENCY",
+    "value": "Outline Transparency"
   },
   {
     "wordingKey": "WORD_BOUNS_DETAIL",
@@ -2162,6 +2290,18 @@
   {
     "wordingKey": "WORD_CHARA_TICKET_STAR_THREE",
     "value": "3★ Character"
+  },
+  {
+    "wordingKey": "WORD_CHECK_CARD_IMAGE_TYPE",
+    "value": "Confirm Display Card"
+  },
+  {
+    "wordingKey": "WORD_CHECK_DELTE",
+    "value": "Confirm Delete Profile"
+  },
+  {
+    "wordingKey": "WORD_CHECK_PROFILE",
+    "value": "Preview"
   },
   {
     "wordingKey": "WORD_CHEERFULCARNIVAL_HOLDING_PERIOD",
@@ -2404,6 +2544,58 @@
     "value": "Current High Score"
   },
   {
+    "wordingKey": "WORD_CUSTOM_PROFILE",
+    "value": "Custom Profile"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_ALIGN_LABEL",
+    "value": "Display"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_BORDER_COLOR_LABEL",
+    "value": "Outline Color"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_BORDER_SIZE_LABEL",
+    "value": "Outline Size"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_EDIT_CARD",
+    "value": "Edit Custom Profile"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_FONT_LABEL",
+    "value": "Font"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_FONT_SELECTOR_TITLE",
+    "value": "Select Font"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_INPUT_TEXT_LABEL",
+    "value": "Insert Text"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_LINE_SPACING_LABEL",
+    "value": "Line Spacing"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_FORMAT",
+    "value": "<color=#ff5588>{0}</color>"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_TEXT_BUTTON_LABEL",
+    "value": "ABC\nabc"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_TEXT_COLOR_LABEL",
+    "value": "Text Color"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_TEXT_SIZE_LABEL",
+    "value": "Text Size"
+  },
+  {
     "wordingKey": "WORD_CUTIN_EFFECT",
     "value": "Cut-in Effect"
   },
@@ -2464,6 +2656,10 @@
     "value": "Default Song Select"
   },
   {
+    "wordingKey": "WORD_DEFAULT_PROFILE_NAME",
+    "value": "Profile"
+  },
+  {
     "wordingKey": "WORD_DEFAULT_TEAM_FORMAT",
     "value": "Team {0}"
   },
@@ -2472,12 +2668,20 @@
     "value": "SEKAI Player"
   },
   {
+    "wordingKey": "WORD_DELETE",
+    "value": "Delete"
+  },
+  {
     "wordingKey": "WORD_DESC_ORDER",
     "value": "Descending"
   },
   {
     "wordingKey": "WORD_DESIGNE",
     "value": "Designer"
+  },
+  {
+    "wordingKey": "WORD_DESIGN_EDIT",
+    "value": "Edit"
   },
   {
     "wordingKey": "WORD_DETAIL",
@@ -2568,6 +2772,22 @@
     "value": "x{0}"
   },
   {
+    "wordingKey": "WORD_EMPTY_BACKGROUND",
+    "value": "There are no Backgrounds available for display."
+  },
+  {
+    "wordingKey": "WORD_EMPTY_COLLECTION",
+    "value": "You have no Memorabilia available for display."
+  },
+  {
+    "wordingKey": "WORD_EMPTY_MEMBER",
+    "value": "There are no Characters available for display."
+  },
+  {
+    "wordingKey": "WORD_EMPTY_SHAPE",
+    "value": "There are no Shapes available for display."
+  },
+  {
     "wordingKey": "WORD_ENTER_LIMIT",
     "value": "Venue Restrictions"
   },
@@ -2596,12 +2816,24 @@
     "value": "All Viewed"
   },
   {
+    "wordingKey": "WORD_EPISODE_CHARACTER",
+    "value": "Side Story Characters"
+  },
+  {
     "wordingKey": "WORD_EPISODE_FIRST_UNREAD",
     "value": "Part 1 Not Viewed"
   },
   {
     "wordingKey": "WORD_EPISODE_LAST_UNREAD",
     "value": "Part 2 Not Viewed"
+  },
+  {
+    "wordingKey": "WORD_EPISODE_PART1",
+    "value": "Part 1"
+  },
+  {
+    "wordingKey": "WORD_EPISODE_PART2",
+    "value": "Part 2"
   },
   {
     "wordingKey": "WORD_EPISODE_READ",
@@ -2796,6 +3028,14 @@
     "value": "Guaranteed Drop Rates"
   },
   {
+    "wordingKey": "WORD_FONT_COLOR_SELECT",
+    "value": "Select Text Color"
+  },
+  {
+    "wordingKey": "WORD_FONT_OUTLINE_COLOR_SELECT",
+    "value": "Select Outline Color"
+  },
+  {
     "wordingKey": "WORD_FREE",
     "value": "Free"
   },
@@ -2876,6 +3116,10 @@
     "value": "Full Combo"
   },
   {
+    "wordingKey": "WORD_FULL_HONOR_SIZE",
+    "value": "Main"
+  },
+  {
     "wordingKey": "WORD_GACHA",
     "value": "Gacha"
   },
@@ -2906,6 +3150,10 @@
   {
     "wordingKey": "WORD_GACHA_TICKET",
     "value": "Gacha Ticket"
+  },
+  {
+    "wordingKey": "WORD_GENERAL",
+    "value": "General"
   },
   {
     "wordingKey": "WORD_GET",
@@ -3120,6 +3368,10 @@
     "value": "Hide"
   },
   {
+    "wordingKey": "WORD_HIDE",
+    "value": "Hide"
+  },
+  {
     "wordingKey": "WORD_HIDE_MUSIC_NAME",
     "value": "???"
   },
@@ -3236,6 +3488,10 @@
     "value": "Account Transfer Settings"
   },
   {
+    "wordingKey": "WORD_INIT_TEMPLATE_TEXT",
+    "value": "Hi!"
+  },
+  {
     "wordingKey": "WORD_INPUT_NAME",
     "value": "Input Name"
   },
@@ -3282,6 +3538,22 @@
   {
     "wordingKey": "WORD_JOIN_PRIVATE_ROOM",
     "value": "Join Private Room"
+  },
+  {
+    "wordingKey": "WORD_LAYER_BACK",
+    "value": "Back"
+  },
+  {
+    "wordingKey": "WORD_LAYER_DOWN",
+    "value": "Backward"
+  },
+  {
+    "wordingKey": "WORD_LAYER_FRONT",
+    "value": "Front"
+  },
+  {
+    "wordingKey": "WORD_LAYER_UP",
+    "value": "Forward"
   },
   {
     "wordingKey": "WORD_LEFT_ROOM",
@@ -3624,6 +3896,10 @@
     "value": "Confirmation"
   },
   {
+    "wordingKey": "WORD_MEMBER_INFO",
+    "value": "Character Information"
+  },
+  {
     "wordingKey": "WORD_MEMBER_LEVEL",
     "value": "Character Lv."
   },
@@ -3658,6 +3934,14 @@
   {
     "wordingKey": "WORD_MIGRATION_NL",
     "value": "Account Transfer"
+  },
+  {
+    "wordingKey": "WORD_MINI_CHARACTER",
+    "value": "Mini Characters"
+  },
+  {
+    "wordingKey": "WORD_MINI_HONOR_SIZE",
+    "value": "Sub"
   },
   {
     "wordingKey": "WORD_MISSING_ADD_FRIEND",
@@ -3904,6 +4188,10 @@
     "value": "Not satisfied"
   },
   {
+    "wordingKey": "WORD_NOT_SAVE_RETURN",
+    "value": "Exit without saving"
+  },
+  {
     "wordingKey": "WORD_NOT_SCORE_S",
     "value": "No S-Rank Score"
   },
@@ -3918,6 +4206,10 @@
   {
     "wordingKey": "WORD_NO_CHARGE",
     "value": "Free"
+  },
+  {
+    "wordingKey": "WORD_NO_PLACE_CONTENT",
+    "value": "Nothing has been placed yet."
   },
   {
     "wordingKey": "WORD_NO_SELECTING",
@@ -4172,6 +4464,10 @@
     "value": "This Gift has expired."
   },
   {
+    "wordingKey": "WORD_PREVIEW",
+    "value": "Preview"
+  },
+  {
     "wordingKey": "WORD_PRE_DOWNLOAD",
     "value": "Pre-Download"
   },
@@ -4190,6 +4486,10 @@
   {
     "wordingKey": "WORD_PROFILE",
     "value": "Profile"
+  },
+  {
+    "wordingKey": "WORD_PROFILE_CARD",
+    "value": "Profile Card"
   },
   {
     "wordingKey": "WORD_PROVISION_RATIO",
@@ -4352,6 +4652,10 @@
     "value": "Unlock Requirements"
   },
   {
+    "wordingKey": "WORD_RELEASE_PROFILE",
+    "value": "Remove as Profile"
+  },
+  {
     "wordingKey": "WORD_RELEASE_SKILL_UP",
     "value": "Skill Up Unlocked"
   },
@@ -4396,6 +4700,14 @@
     "value": "Resume"
   },
   {
+    "wordingKey": "WORD_REVERT_BEFORE_EDIT",
+    "value": "Reset"
+  },
+  {
+    "wordingKey": "WORD_REVERT_INITIAL_STATE",
+    "value": "白紙"
+  },
+  {
     "wordingKey": "WORD_REWARD",
     "value": "Rewards"
   },
@@ -4418,6 +4730,18 @@
   {
     "wordingKey": "WORD_SATISFIED",
     "value": "Satisfied"
+  },
+  {
+    "wordingKey": "WORD_SAVE",
+    "value": "Save"
+  },
+  {
+    "wordingKey": "WORD_SAVED",
+    "value": "Saved"
+  },
+  {
+    "wordingKey": "WORD_SAVE_RETURN",
+    "value": "Save and exit"
   },
   {
     "wordingKey": "WORD_SCHEDULE",
@@ -4496,6 +4820,10 @@
     "value": "Select All"
   },
   {
+    "wordingKey": "WORD_SELECT_CLEANUP_TITLE",
+    "value": "Confirm Clear Canvas"
+  },
+  {
     "wordingKey": "WORD_SELECT_COLOR",
     "value": "Color Select"
   },
@@ -4517,7 +4845,11 @@
   },
   {
     "wordingKey": "WORD_SELECT_RANK",
-    "value": "Rank Select"
+    "value": "Confirm Display Rank"
+  },
+  {
+    "wordingKey": "WORD_SELECT_TEMPLATE",
+    "value": "Select Template"
   },
   {
     "wordingKey": "WORD_SELF_INTRO_READ",
@@ -4546,6 +4878,26 @@
   {
     "wordingKey": "WORD_SET_IT_LATER",
     "value": "Select later"
+  },
+  {
+    "wordingKey": "WORD_SET_PROFILE",
+    "value": "Set as Profile"
+  },
+  {
+    "wordingKey": "WORD_SHAPE_COLOR",
+    "value": "Shape Color"
+  },
+  {
+    "wordingKey": "WORD_SHAPE_MAIN_COLOR_SELECT",
+    "value": "Select Shape Color"
+  },
+  {
+    "wordingKey": "WORD_SHAPE_OUTLINE_COLOR_SELECT",
+    "value": "Select Outline Color"
+  },
+  {
+    "wordingKey": "WORD_SHAPE_TRANSPARENCY",
+    "value": "Shape Transparency"
   },
   {
     "wordingKey": "WORD_SHOP_AD",
@@ -4642,6 +4994,10 @@
   {
     "wordingKey": "WORD_SINGER",
     "value": "Vocals:"
+  },
+  {
+    "wordingKey": "WORD_SIZE",
+    "value": "Display"
   },
   {
     "wordingKey": "WORD_SKILL_LEVEL",
@@ -4764,6 +5120,10 @@
     "value": "Normal"
   },
   {
+    "wordingKey": "WORD_STAND_IMAGE",
+    "value": "Full-Length"
+  },
+  {
     "wordingKey": "WORD_START",
     "value": "Start"
   },
@@ -4856,11 +5216,23 @@
     "value": "Chat Log"
   },
   {
+    "wordingKey": "WORD_TEMPLATE_LAYOUT",
+    "value": "Template"
+  },
+  {
+    "wordingKey": "WORD_TEMPLATE_LAYOUT_WHITE",
+    "value": "No Template (Blank Canvas)"
+  },
+  {
     "wordingKey": "WORD_TERM",
     "value": "{0} - {1}"
   },
   {
     "wordingKey": "WORD_TEXT",
+    "value": "Text"
+  },
+  {
+    "wordingKey": "WORD_TEXT_NAME",
     "value": "Text"
   },
   {
@@ -5076,6 +5448,10 @@
     "value": "Use"
   },
   {
+    "wordingKey": "WORD_VALUE_SET_GACHA_TICKET",
+    "value": "(Will be used first instead of Crystals (Free) for each Gacha Pull)"
+  },
+  {
     "wordingKey": "WORD_VALUE_SHOP_NL",
     "value": "Special Bundle"
   },
@@ -5266,6 +5642,10 @@
   {
     "wordingKey": "WORD_VIRTUAL_SINGER_VERSION",
     "value": "VIRTUAL SINGER ver."
+  },
+  {
+    "wordingKey": "WORD_VISIBLE",
+    "value": "Display"
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_LABEL_ALL",

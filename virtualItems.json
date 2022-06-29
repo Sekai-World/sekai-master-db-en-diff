@@ -1207,5 +1207,70 @@
     "cheerPoint": 3000,
     "effectAssetbundleName": "chara_rui_birthday",
     "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 98,
+    "virtualItemCategory": "normal",
+    "seq": 980,
+    "priority": 980,
+    "name": "Synthesizer",
+    "assetbundleName": "event_unnamed",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_unnamed",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 99,
+    "virtualItemCategory": "normal",
+    "seq": 990,
+    "priority": 990,
+    "name": "Star Festival",
+    "assetbundleName": "event_tanabata",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_tanabata",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 100,
+    "virtualItemCategory": "normal",
+    "seq": 1000,
+    "priority": 1000,
+    "name": "Beast on Stage",
+    "assetbundleName": "event_awakening",
+    "costVirtualCoin": 1500,
+    "costJewel": 1500,
+    "cheerPoint": 1500,
+    "effectAssetbundleName": "event_awakening",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 101,
+    "virtualItemCategory": "normal",
+    "seq": 1010,
+    "priority": 1010,
+    "name": "Happy Birthday, Nene!",
+    "assetbundleName": "chara_nene_birthday",
+    "costVirtualCoin": 3000,
+    "costJewel": 3000,
+    "cheerPoint": 3000,
+    "effectAssetbundleName": "chara_nene_birthday",
+    "effectExpressionType": "throw_effect"
+  },
+  {
+    "id": 102,
+    "virtualItemCategory": "normal",
+    "seq": 1020,
+    "priority": 1020,
+    "name": "Happy Birthday, An!",
+    "assetbundleName": "chara_an_birthday",
+    "costVirtualCoin": 3000,
+    "costJewel": 3000,
+    "cheerPoint": 3000,
+    "effectAssetbundleName": "chara_an_birthday",
+    "effectExpressionType": "throw_effect"
   }
 ]

@@ -190,10 +190,10 @@
   },
   {
     "id": 16,
-    "seq": 1,
+    "seq": 10,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 12,
-    "name": "Buy Show Pts",
+    "name": "Show Pts x100",
     "description": "Show Pts x100",
     "billableLimitType": "live_point",
     "billableLimitValue": 8000,
@@ -406,6 +406,20 @@
     "resourceBoxId": 32,
     "bonusResourceBoxId": 21,
     "startAt": 1609488000000
+  },
+  {
+    "id": 33,
+    "seq": 20,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 33,
+    "name": "Show Pts x1,000",
+    "description": "Show Pts x1,000",
+    "billableLimitType": "live_point",
+    "billableLimitValue": 8000,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_33",
+    "resourceBoxId": 33,
+    "startAt": 1655762400000
   },
   {
     "id": 34,

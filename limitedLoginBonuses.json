@@ -770,5 +770,58 @@
         "resourceBoxId": 1038
       }
     ]
+  },
+  {
+    "id": 1005,
+    "seq": 1005,
+    "name": "2 Million Players Login Campaign",
+    "startAt": 1657911600000,
+    "endAt": 1658919599000,
+    "assetbundleName": "200_anniversary",
+    "closeAt": 1658401200000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1044,
+        "limitedLoginBonusId": 1005,
+        "day": 1,
+        "resourceBoxId": 1049
+      },
+      {
+        "id": 1045,
+        "limitedLoginBonusId": 1005,
+        "day": 2,
+        "resourceBoxId": 1050
+      },
+      {
+        "id": 1046,
+        "limitedLoginBonusId": 1005,
+        "day": 3,
+        "resourceBoxId": 1051
+      },
+      {
+        "id": 1047,
+        "limitedLoginBonusId": 1005,
+        "day": 4,
+        "resourceBoxId": 1052
+      },
+      {
+        "id": 1048,
+        "limitedLoginBonusId": 1005,
+        "day": 5,
+        "resourceBoxId": 1053
+      },
+      {
+        "id": 1049,
+        "limitedLoginBonusId": 1005,
+        "day": 6,
+        "resourceBoxId": 1054
+      },
+      {
+        "id": 1050,
+        "limitedLoginBonusId": 1005,
+        "day": 7,
+        "resourceBoxId": 1055
+      }
+    ]
   }
 ]
