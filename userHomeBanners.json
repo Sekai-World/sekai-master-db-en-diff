@@ -2,6 +2,7 @@
   {
     "homeBannerId": 48,
     "seq": 9998,
+    "homeBannerType": "general",
     "name": "Welcome Show Banner",
     "assetbundleName": "banner_virtuallive1",
     "transitionDestinationType": "virtual_live",
@@ -10,67 +11,41 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 125,
-    "seq": 300,
-    "name": "[April 2021] Premium Mission Pass",
-    "assetbundleName": "banner_premiummissionpass_en_2022_06",
+    "homeBannerId": 141,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[May 2021] Premium Mission Pass",
+    "assetbundleName": "banner_premiummissionpass_en_2022_07",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1654066800000,
-    "endAt": 1656658799000
+    "startAt": 1656658800000,
+    "endAt": 1659337199000
   },
   {
-    "homeBannerId": 150,
-    "seq": 80,
-    "name": "4★ Guaranteed Gacha",
-    "assetbundleName": "banner_gacha88",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 88,
-    "startAt": 1655848800000,
-    "endAt": 1656453599000
-  },
-  {
-    "homeBannerId": 162,
+    "homeBannerId": 167,
     "seq": 100,
-    "name": "[Event] Wonder Magical Showtime!",
-    "assetbundleName": "event_wonders_2021",
+    "homeBannerType": "event",
+    "name": "[Event] Carnation Recollection",
+    "assetbundleName": "event_carnation_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 25,
-    "startAt": 1655589600000,
-    "endAt": 1656280799000
+    "transitionDestinationId": 26,
+    "startAt": 1656280800000,
+    "endAt": 1656971999000
   },
   {
-    "homeBannerId": 163,
+    "homeBannerId": 168,
     "seq": 110,
-    "name": "WXS Event 4th Tour_Regular Gacha Banner",
-    "assetbundleName": "banner_gacha92",
+    "homeBannerType": "general",
+    "name": "N25 Event 4th Tour_Regular Gacha Banner",
+    "assetbundleName": "banner_gacha96",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 92,
-    "startAt": 1655589600000,
-    "endAt": 1656280799000
-  },
-  {
-    "homeBannerId": 164,
-    "seq": 120,
-    "name": "WXS Event 4th Tour_Event Character Boosted Rate Gacha Banner",
-    "assetbundleName": "banner_gacha94",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 94,
-    "startAt": 1655762400000,
-    "endAt": 1656129599000
-  },
-  {
-    "homeBannerId": 172,
-    "seq": 130,
-    "name": "Rui's Birthday Show",
-    "assetbundleName": "banner_virtuallive80",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 80,
-    "startAt": 1655935200000,
-    "endAt": 1656280799000
+    "transitionDestinationId": 96,
+    "startAt": 1656280800000,
+    "endAt": 1656971999000
   },
   {
     "homeBannerId": 1001,
     "seq": 200,
+    "homeBannerType": "general",
     "name": "Colorful++(サブスクリプション)",
     "assetbundleName": "banner_subscription",
     "transitionDestinationType": "subscription",
