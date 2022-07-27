@@ -5432,14 +5432,15 @@
   {
     "id": 695,
     "seq": 1,
-    "displayOrder": 10,
+    "displayOrder": 20,
     "informationType": "bug",
     "informationTag": "bug",
     "browseType": "internal",
     "platform": "all",
     "title": "Issue with Custom Profile on iPad Pro",
     "path": "information/index.html?id=info_customprofile_bug_hg2oIA1ldsa",
-    "startAt": 1656570600000
+    "startAt": 1656570600000,
+    "endAt": 1659524399000
   },
   {
     "id": 696,
@@ -5703,7 +5704,7 @@
   {
     "id": 715,
     "seq": 1,
-    "displayOrder": 33830,
+    "displayOrder": 32970,
     "informationType": "normal",
     "informationTag": "gacha",
     "browseType": "internal",
@@ -5713,6 +5714,33 @@
     "startAt": 1659391200000,
     "endAt": 1660168799000,
     "bannerAssetbundleName": "banner_news_en_gacha107"
+  },
+  {
+    "id": 716,
+    "seq": 1,
+    "displayOrder": 32980,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Event Character Boosted Rate Gacha, available now!",
+    "path": "information/index.html?id=info_gacha108",
+    "startAt": 1659564000000,
+    "endAt": 1660017540000,
+    "bannerAssetbundleName": "banner_news_en_gacha108"
+  },
+  {
+    "id": 717,
+    "seq": 1,
+    "displayOrder": 32950,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New Covers Added",
+    "path": "information/index.html?id=info_add_cover_5akjaEa",
+    "startAt": 1658912400000,
+    "endAt": 1659218399000
   },
   {
     "id": 718,
