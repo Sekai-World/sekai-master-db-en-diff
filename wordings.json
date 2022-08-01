@@ -384,6 +384,10 @@
     "value": "Connection lost. Returning to home screen. <size=28>({0})</size>"
   },
   {
+    "wordingKey": "MSG_DONT_SHOW_ME_THIS_AGAIN",
+    "value": "Don't show me this again."
+  },
+  {
     "wordingKey": "MSG_DOWNLOAD_CONFIRM_1",
     "value": "Download necessary game data."
   },
@@ -418,6 +422,22 @@
   {
     "wordingKey": "MSG_EMPTY_STAMP_HISTORY",
     "value": "No record of Stamps used."
+  },
+  {
+    "wordingKey": "MSG_ENDS_IN_DHMS",
+    "value": "Ends in: {0} days, {1} hrs {2} min {3} sec"
+  },
+  {
+    "wordingKey": "MSG_ENDS_IN_HMS",
+    "value": "Ends in: {0} hrs {1} min {2} sec"
+  },
+  {
+    "wordingKey": "MSG_ENDS_IN_MS",
+    "value": "Ends in: hrs {0} min {1} sec"
+  },
+  {
+    "wordingKey": "MSG_ENDS_IN_S",
+    "value": "Ends in: {0} sec"
   },
   {
     "wordingKey": "MSG_ENTRY_CONFIRMATION",
@@ -1180,6 +1200,18 @@
     "value": "No upcoming Virtual Shows found."
   },
   {
+    "wordingKey": "MSG_OFFER_APPEAL",
+    "value": "Just for you"
+  },
+  {
+    "wordingKey": "MSG_OFFER_LIMITED_SET_PERIOD",
+    "value": "Until {0}"
+  },
+  {
+    "wordingKey": "MSG_OFFER_NUMBER_OF_PURCHASE",
+    "value": "x{0} left"
+  },
+  {
     "wordingKey": "MSG_OFFLINE_AREA",
     "value": "Some areas have been closed to restrict the number of Lobbies. Returning to home screen."
   },
@@ -1586,6 +1618,10 @@
   {
     "wordingKey": "MSG_SUBSCRIPTION_USE",
     "value": "Use COLORFUL+"
+  },
+  {
+    "wordingKey": "MSG_THIS_SALE_HAS_ENDED",
+    "value": "This sale has ended."
   },
   {
     "wordingKey": "MSG_TICKET_EXCHANGE_EXPIRED",
@@ -4236,6 +4272,10 @@
     "value": "OFF"
   },
   {
+    "wordingKey": "WORD_OFFER",
+    "value": "Just for you"
+  },
+  {
     "wordingKey": "WORD_OK",
     "value": "OK"
   },
@@ -5350,6 +5390,10 @@
   {
     "wordingKey": "WORD_TOTAL_POWER_HONOR_BONUS",
     "value": "Title Bonus"
+  },
+  {
+    "wordingKey": "WORD_TO_SHOP",
+    "value": "To Shop"
   },
   {
     "wordingKey": "WORD_TUTORIAL_GAME_DESCRIPTION_END_CONFIRM_MESSAGE",
