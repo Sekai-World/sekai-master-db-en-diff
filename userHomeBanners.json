@@ -11,50 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 191,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "Your Pick Gacha Banner",
-    "assetbundleName": "banner_gacha106",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 106,
-    "startAt": 1659132000000,
-    "endAt": 1659909599000
-  },
-  {
-    "homeBannerId": 195,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[Event] The BEST Summer Ever!",
-    "assetbundleName": "event_summer_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 30,
-    "startAt": 1659391200000,
-    "endAt": 1660168799000
-  },
-  {
-    "homeBannerId": 196,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "Shuffle The Seaside School Event_Regular Gacha Banner",
-    "assetbundleName": "banner_gacha107",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 107,
-    "startAt": 1659391200000,
-    "endAt": 1660168799000
-  },
-  {
-    "homeBannerId": 197,
-    "seq": 120,
-    "homeBannerType": "general",
-    "name": "Shuffle The Seaside School Event_Event Character Boosted Rate Gacha Banner",
-    "assetbundleName": "banner_gacha108",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 108,
-    "startAt": 1659564000000,
-    "endAt": 1660017599000
-  },
-  {
     "homeBannerId": 199,
     "seq": 200,
     "homeBannerType": "general",
@@ -63,6 +19,39 @@
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
     "startAt": 1659337200000,
     "endAt": 1662015599000
+  },
+  {
+    "homeBannerId": 200,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[Event] Happy Lovely Everyday!",
+    "assetbundleName": "event_everyday_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 31,
+    "startAt": 1660168800000,
+    "endAt": 1661032799000
+  },
+  {
+    "homeBannerId": 201,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "MMJ Event 5th Tour_Regular Gacha Banner",
+    "assetbundleName": "banner_gacha110",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 110,
+    "startAt": 1660168800000,
+    "endAt": 1661032799000
+  },
+  {
+    "homeBannerId": 202,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "MMJ Event 5th Tour_Event Character Boosted Rate Gacha Banner",
+    "assetbundleName": "banner_gacha111",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 111,
+    "startAt": 1660341600000,
+    "endAt": 1660881599000
   },
   {
     "homeBannerId": 1001,
