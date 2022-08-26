@@ -433,7 +433,7 @@
   },
   {
     "wordingKey": "MSG_ENDS_IN_MS",
-    "value": "Ends in: hrs {0} min {1} sec"
+    "value": "Ends in: {0} min {1} sec"
   },
   {
     "wordingKey": "MSG_ENDS_IN_S",
@@ -661,7 +661,7 @@
   },
   {
     "wordingKey": "MSG_HIGH_SCORE_UPDATE_REWARD",
-    "value": "=+<color=#FF55AA>{0}</color>Pts Score Reward"
+    "value": "+<color=#FF55AA>{0}</color>Pts Score Reward"
   },
   {
     "wordingKey": "MSG_ID_NOT_FOUND",
@@ -1201,7 +1201,7 @@
   },
   {
     "wordingKey": "MSG_OFFER_APPEAL",
-    "value": "Just for you"
+    "value": "<color=#54ff54><b>Just for you</b></color>"
   },
   {
     "wordingKey": "MSG_OFFER_LIMITED_SET_PERIOD",
@@ -1689,7 +1689,7 @@
   },
   {
     "wordingKey": "MSG_UPDATE",
-    "value": "=+{0} ↑"
+    "value": "+{0} ↑"
   },
   {
     "wordingKey": "MSG_UPDATE_BONUS_INFO",
@@ -2169,7 +2169,7 @@
   },
   {
     "wordingKey": "WORD_BUY_LIVE_POINT",
-    "value": "Buy Show Pts"
+    "value": "Purchase Show Pts"
   },
   {
     "wordingKey": "WORD_BUY_PREMIUM",
@@ -3849,7 +3849,7 @@
   },
   {
     "wordingKey": "WORD_MASTER_LESSON_MATERIAL_EXCHANGE_NEXT_REFRESH",
-    "value": "Resets: {0}/{1} {2}:{3}"
+    "value": "Resets: {0} {1} {2}:{3}"
   },
   {
     "wordingKey": "WORD_MASTER_LESSON_MATERIAL_EXCHANGE_REMAINING_NUM",
