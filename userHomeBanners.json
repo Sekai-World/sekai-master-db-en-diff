@@ -21,26 +21,48 @@
     "endAt": 1662015599000
   },
   {
-    "homeBannerId": 200,
+    "homeBannerId": 208,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[Event] Happy Lovely Everyday!",
-    "assetbundleName": "event_everyday_2021",
+    "name": "[Event] Mermaid Admiration",
+    "assetbundleName": "event_mermaid_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 31,
-    "startAt": 1660168800000,
-    "endAt": 1661032799000
+    "transitionDestinationId": 32,
+    "startAt": 1661032800000,
+    "endAt": 1661896799000
   },
   {
-    "homeBannerId": 201,
+    "homeBannerId": 210,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "MMJ Event 5th Tour_Regular Gacha Banner",
-    "assetbundleName": "banner_gacha110",
+    "name": "WXS Event 5th Tour_Regular Gacha Banner",
+    "assetbundleName": "banner_gacha112",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 110,
-    "startAt": 1660168800000,
-    "endAt": 1661032799000
+    "transitionDestinationId": 112,
+    "startAt": 1661032800000,
+    "endAt": 1661896799000
+  },
+  {
+    "homeBannerId": 212,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "4★ Character Guaranteed Gacha",
+    "assetbundleName": "banner_gacha114",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 114,
+    "startAt": 1661551200000,
+    "endAt": 1662155999000
+  },
+  {
+    "homeBannerId": 213,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "Mizuki's Birthday Show",
+    "assetbundleName": "banner_virtuallive91",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 91,
+    "startAt": 1661464800000,
+    "endAt": 1661810399000
   },
   {
     "homeBannerId": 1001,
