@@ -3846,6 +3846,34 @@
     ]
   },
   {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 20100,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 20100,
+        "seq": 1,
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 110
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item",
+    "id": 20101,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item",
+        "resourceBoxId": 20101,
+        "seq": 1,
+        "resourceType": "paid_jewel",
+        "resourceQuantity": 2810
+      }
+    ]
+  },
+  {
     "resourceBoxPurpose": "billing_shop_item_bonus",
     "id": 1,
     "resourceBoxType": "expand",
@@ -9729,6 +9757,93 @@
         "resourceType": "costume_3d",
         "resourceId": 83048,
         "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "id": 20100,
+    "resourceBoxType": "expand",
+    "description": "Just for you Bundle A",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 20100,
+        "seq": 1,
+        "resourceType": "gacha_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "billing_shop_item_bonus",
+    "id": 20101,
+    "resourceBoxType": "expand",
+    "description": "Just for you Bundle B",
+    "details": [
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 20101,
+        "seq": 1,
+        "resourceType": "jewel",
+        "resourceQuantity": 190
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 20101,
+        "seq": 2,
+        "resourceType": "practice_ticket",
+        "resourceId": 2,
+        "resourceQuantity": 70
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 20101,
+        "seq": 3,
+        "resourceType": "material",
+        "resourceId": 6,
+        "resourceQuantity": 200
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 20101,
+        "seq": 4,
+        "resourceType": "material",
+        "resourceId": 7,
+        "resourceQuantity": 200
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 20101,
+        "seq": 5,
+        "resourceType": "material",
+        "resourceId": 8,
+        "resourceQuantity": 200
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 20101,
+        "seq": 6,
+        "resourceType": "material",
+        "resourceId": 9,
+        "resourceQuantity": 200
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 20101,
+        "seq": 7,
+        "resourceType": "material",
+        "resourceId": 10,
+        "resourceQuantity": 200
+      },
+      {
+        "resourceBoxPurpose": "billing_shop_item_bonus",
+        "resourceBoxId": 20101,
+        "seq": 8,
+        "resourceType": "material",
+        "resourceId": 14,
+        "resourceQuantity": 100
       }
     ]
   },
