@@ -11,38 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 199,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "[August 2022] Premium Mission Pass",
-    "assetbundleName": "banner_premiummissionpass_en_2022_08",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1659337200000,
-    "endAt": 1662015599000
-  },
-  {
-    "homeBannerId": 208,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[Event] Mermaid Admiration",
-    "assetbundleName": "event_mermaid_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 32,
-    "startAt": 1661032800000,
-    "endAt": 1661896799000
-  },
-  {
-    "homeBannerId": 210,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "WXS Event 5th Tour_Regular Gacha Banner",
-    "assetbundleName": "banner_gacha112",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 112,
-    "startAt": 1661032800000,
-    "endAt": 1661896799000
-  },
-  {
     "homeBannerId": 212,
     "seq": 80,
     "homeBannerType": "general",
@@ -63,6 +31,49 @@
     "transitionDestinationId": 92,
     "startAt": 1661810400000,
     "endAt": 1662155999000
+  },
+  {
+    "homeBannerId": 219,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[Event] The Moon Rabbit & Us",
+    "assetbundleName": "event_moonrabbit_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 33,
+    "startAt": 1661896800000,
+    "endAt": 1662760799000
+  },
+  {
+    "homeBannerId": 221,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "Shuffle The Moon Rabbit & Us Event_Regular Gacha Banner",
+    "assetbundleName": "banner_gacha115",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 115,
+    "startAt": 1661896800000,
+    "endAt": 1662760799000
+  },
+  {
+    "homeBannerId": 222,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "Shuffle The Moon Rabbit & Us Event_Event Character Boosted Rate Gacha Banner",
+    "assetbundleName": "banner_gacha116",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 116,
+    "startAt": 1662069600000,
+    "endAt": 1662609599000
+  },
+  {
+    "homeBannerId": 225,
+    "seq": 300,
+    "homeBannerType": "general",
+    "name": "[September 2022] Premium Mission Pass",
+    "assetbundleName": "banner_premiummissionpass_en_2022_09",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1662015600000,
+    "endAt": 1664607599000
   },
   {
     "homeBannerId": 1001,
