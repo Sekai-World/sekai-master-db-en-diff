@@ -8,7 +8,7 @@
     "description": "Crystals x110",
     "billableLimitType": "unlimited",
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "jewel",
+    "assetbundleName": "jewel_A_gl",
     "resourceBoxId": 2
   },
   {
@@ -20,7 +20,7 @@
     "description": "Crystals x350",
     "billableLimitType": "unlimited",
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "jewel",
+    "assetbundleName": "jewel_B_gl",
     "resourceBoxId": 3
   },
   {
@@ -32,7 +32,7 @@
     "description": "Crystals x950",
     "billableLimitType": "unlimited",
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "jewel",
+    "assetbundleName": "jewel_C_gl",
     "resourceBoxId": 4
   },
   {
@@ -44,7 +44,7 @@
     "description": "Crystals x1,800",
     "billableLimitType": "unlimited",
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "jewel",
+    "assetbundleName": "jewel_D_gl",
     "resourceBoxId": 5
   },
   {
@@ -56,7 +56,7 @@
     "description": "Crystals x3,060",
     "billableLimitType": "unlimited",
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "jewel",
+    "assetbundleName": "jewel_E_gl",
     "resourceBoxId": 6
   },
   {
@@ -68,7 +68,7 @@
     "description": "Crystals x5,000",
     "billableLimitType": "unlimited",
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "jewel",
+    "assetbundleName": "jewel_F_gl",
     "resourceBoxId": 7
   },
   {
@@ -80,7 +80,7 @@
     "description": "Crystals x10,500",
     "billableLimitType": "unlimited",
     "billableLimitResetIntervalType": "none",
-    "assetbundleName": "jewel",
+    "assetbundleName": "jewel_G_gl",
     "resourceBoxId": 8
   },
   {
@@ -96,7 +96,8 @@
     "assetbundleName": "shop_8",
     "resourceBoxId": 9,
     "bonusResourceBoxId": 1,
-    "label": "1 Time Only"
+    "label": "1 Time Only",
+    "endAt": 1664521199000
   },
   {
     "id": 9,
@@ -111,7 +112,8 @@
     "assetbundleName": "shop_9",
     "resourceBoxId": 10,
     "bonusResourceBoxId": 2,
-    "label": "1 Time Only"
+    "label": "1 Time Only",
+    "endAt": 1664521199000
   },
   {
     "id": 10,
@@ -126,7 +128,8 @@
     "assetbundleName": "shop_10",
     "resourceBoxId": 11,
     "bonusResourceBoxId": 3,
-    "label": "1 Time Only"
+    "label": "1 Time Only",
+    "endAt": 1664521199000
   },
   {
     "id": 11,
@@ -141,7 +144,8 @@
     "assetbundleName": "shop_15",
     "resourceBoxId": 15,
     "bonusResourceBoxId": 6,
-    "startAt": 1601539200000
+    "startAt": 1601539200000,
+    "endAt": 1664175599000
   },
   {
     "id": 12,
@@ -156,7 +160,8 @@
     "assetbundleName": "shop_14",
     "resourceBoxId": 14,
     "bonusResourceBoxId": 5,
-    "startAt": 1601539200000
+    "startAt": 1601539200000,
+    "endAt": 1664175599000
   },
   {
     "id": 13,
@@ -171,7 +176,8 @@
     "assetbundleName": "shop_11",
     "resourceBoxId": 12,
     "bonusResourceBoxId": 4,
-    "startAt": 1601539200000
+    "startAt": 1601539200000,
+    "endAt": 1664175599000
   },
   {
     "id": 15,
@@ -186,7 +192,8 @@
     "assetbundleName": "shop_21",
     "resourceBoxId": 22,
     "bonusResourceBoxId": 8,
-    "startAt": 1601539200000
+    "startAt": 1601539200000,
+    "endAt": 1664175599000
   },
   {
     "id": 16,
@@ -262,7 +269,8 @@
     "assetbundleName": "shop_23",
     "resourceBoxId": 23,
     "bonusResourceBoxId": 9,
-    "startAt": 1604217600000
+    "startAt": 1604217600000,
+    "endAt": 1664607599000
   },
   {
     "id": 24,
@@ -405,7 +413,8 @@
     "assetbundleName": "shop_17",
     "resourceBoxId": 32,
     "bonusResourceBoxId": 21,
-    "startAt": 1609488000000
+    "startAt": 1609488000000,
+    "endAt": 1664175599000
   },
   {
     "id": 33,
@@ -558,6 +567,227 @@
     "endAt": 1655449199000
   },
   {
+    "id": 42,
+    "seq": 100,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 42,
+    "name": "[JP 1st Anniv.] Crystals D",
+    "description": "Crystals x1,800\nFree Crystals x300",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_18",
+    "resourceBoxId": 18,
+    "bonusResourceBoxId": 11,
+    "label": "Limited Time",
+    "startAt": 1664521200000,
+    "endAt": 1665525599000
+  },
+  {
+    "id": 43,
+    "seq": 100,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 43,
+    "name": "[JP 1st Anniv.] Crystals F",
+    "description": "Crystals x5,000\nFree Crystals x850",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_19",
+    "resourceBoxId": 19,
+    "bonusResourceBoxId": 12,
+    "label": "Limited Time",
+    "startAt": 1664521200000,
+    "endAt": 1665525599000
+  },
+  {
+    "id": 44,
+    "seq": 100,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 44,
+    "name": "[JP 1st Anniv.] Crystals G",
+    "description": "Crystals x10,500\nFree Crystals x1,800",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_20",
+    "resourceBoxId": 20,
+    "bonusResourceBoxId": 13,
+    "label": "Limited Time",
+    "startAt": 1664521200000,
+    "endAt": 1665525599000
+  },
+  {
+    "id": 45,
+    "seq": 200,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 45,
+    "name": "JP 1st Anniv. Bundle (A)",
+    "description": "Paid Crystals x110\n3★ or Higher Guaranteed Ticket x1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_45",
+    "resourceBoxId": 39,
+    "bonusResourceBoxId": 27,
+    "label": "Limited Time",
+    "startAt": 1664521200000,
+    "endAt": 1665525599000
+  },
+  {
+    "id": 46,
+    "seq": 200,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 46,
+    "name": "JP 1st Anniv. Bundle (B)",
+    "description": "Paid Crystals x450\nWish Piece x300\nMiracle Gem x50\nCute Gem x100\nCool Gem x100\nPure Gem x100\nHappy Gem x100\nMysterious Gem x100\nPractice Score (Intermediate) x25",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_46",
+    "resourceBoxId": 40,
+    "bonusResourceBoxId": 28,
+    "label": "Limited Time",
+    "startAt": 1664521200000,
+    "endAt": 1665525599000
+  },
+  {
+    "id": 47,
+    "seq": 200,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 47,
+    "name": "JP 1st Anniv. Bundle (C)",
+    "description": "Paid Crystals x2,810\nCover Card Voucher x2\nStamp Voucher x3\nMagic Cloth x300\nMagic Thread x30",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_47",
+    "resourceBoxId": 41,
+    "bonusResourceBoxId": 29,
+    "label": "Limited Time",
+    "startAt": 1664521200000,
+    "endAt": 1665525599000
+  },
+  {
+    "id": 48,
+    "seq": 200,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 48,
+    "name": "JP 1st Anniv. Bundle (D)",
+    "description": "Paid Crystals x9,200\nWish Jewel x2\nSkill Up Score (Advanced) x3\nMagical Seed x50\nCoins x500,000",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_48",
+    "resourceBoxId": 42,
+    "bonusResourceBoxId": 30,
+    "label": "Limited Time",
+    "startAt": 1664521200000,
+    "endAt": 1665525599000
+  },
+  {
+    "id": 10001,
+    "seq": 80,
+    "billingShopItemType": "value_set",
+    "name": "Sewing Bundle",
+    "description": "Gacha Ticket x5\nMagic Cloth x300\nMagic Thread x30",
+    "billableLimitType": "count",
+    "billableLimitValue": 3,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_10001",
+    "resourceBoxId": 43,
+    "startAt": 1664175600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10002,
+    "seq": 70,
+    "billingShopItemType": "value_set",
+    "name": "Music Card Bundle",
+    "description": "Gacha Ticket x1\nMusic Card x10",
+    "billableLimitType": "count",
+    "billableLimitValue": 10,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_10002",
+    "resourceBoxId": 44,
+    "startAt": 1664175600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10003,
+    "seq": 60,
+    "billingShopItemType": "value_set",
+    "name": "Stamp Voucher Bundle",
+    "description": "Gacha Ticket x1\nStamp Voucher x3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_10003",
+    "resourceBoxId": 45,
+    "startAt": 1664175600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10004,
+    "seq": 50,
+    "billingShopItemType": "value_set",
+    "name": "Training Bundle",
+    "description": "Gacha Ticket x10\nMiracle Gem x100\nCute Gem x100\nCool Gem x100\nPure Gem x100\nHappy Gem x100\nMysterious Gem x100\nCute Gem x200\nCool Gem x200\nPure Gem x200\nHappy Gem x200\nMysterious Gem x200\nPractice Score (Intermediate) x50",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_10004",
+    "resourceBoxId": 46,
+    "startAt": 1664175600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10005,
+    "seq": 40,
+    "billingShopItemType": "value_set",
+    "name": "Coin Bundle",
+    "description": "Gacha Ticket x5\nCoins x100,000",
+    "billableLimitType": "count",
+    "billableLimitValue": 3,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_10005",
+    "resourceBoxId": 47,
+    "startAt": 1664175600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10011,
+    "seq": 70,
+    "billingShopItemType": "costume_3d",
+    "name": "2022 Halloween Costume Bundle (A)",
+    "description": "2022 Halloween Costume Bundle (A)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10011",
+    "resourceBoxId": 53,
+    "label": "Limited Time",
+    "startAt": 1667080800000,
+    "endAt": 1667512799000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10012,
+    "seq": 60,
+    "billingShopItemType": "costume_3d",
+    "name": "2022 Halloween Costume Bundle (B)",
+    "description": "2022 Halloween Costume Bundle (B)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10012",
+    "resourceBoxId": 54,
+    "label": "Limited Time",
+    "startAt": 1667080800000,
+    "endAt": 1667512799000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 10100,
     "seq": 120,
     "billingShopItemType": "value_set",
@@ -612,5 +842,114 @@
     "resourceBoxId": 20101,
     "bonusResourceBoxId": 20101,
     "startAt": 1661911200000
+  },
+  {
+    "id": 50000,
+    "seq": 100,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 50000,
+    "name": "Special Bundle Crystals (D)",
+    "description": "Crystals x1,800\nFree Crystals x300",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_18",
+    "resourceBoxId": 18,
+    "bonusResourceBoxId": 11,
+    "startAt": 1665525600000
+  },
+  {
+    "id": 50001,
+    "seq": 100,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 50001,
+    "name": "Special Bundle Crystals (F)",
+    "description": "Crystals x5,000\nFree Crystals x850",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_19",
+    "resourceBoxId": 19,
+    "bonusResourceBoxId": 12,
+    "startAt": 1665525600000
+  },
+  {
+    "id": 50002,
+    "seq": 100,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 50002,
+    "name": "Special Bundle Crystals (G)",
+    "description": "Crystals x10,500\nFree Crystals x1,800",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_20",
+    "resourceBoxId": 20,
+    "bonusResourceBoxId": 13,
+    "startAt": 1665525600000
+  },
+  {
+    "id": 50003,
+    "seq": 200,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50003,
+    "name": "Welcome Bundle (A)",
+    "description": "Paid Crystals x110\n3★ or Higher Guaranteed Ticket x1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_45_v2",
+    "resourceBoxId": 39,
+    "bonusResourceBoxId": 27,
+    "label": "1 Time Only",
+    "startAt": 1665525600000
+  },
+  {
+    "id": 50005,
+    "seq": 200,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50004,
+    "name": "Welcome Bundle (B)",
+    "description": "Paid Crystals x450\nWish Piece x300\nMiracle Gem x50\nCute Gem x100\nCool Gem x100\nPure Gem x100\nHappy Gem x100\nMysterious Gem x100\nPractice Score (Intermediate) x25",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_46_v2",
+    "resourceBoxId": 40,
+    "bonusResourceBoxId": 28,
+    "label": "1 Time Only",
+    "startAt": 1665525600000
+  },
+  {
+    "id": 50006,
+    "seq": 200,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50005,
+    "name": "Welcome Bundle (C)",
+    "description": "Paid Crystals x2,810\nCover Card Voucher x2\nStamp Voucher x3\nMagic Cloth x300\nMagic Thread x30",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_47_v2",
+    "resourceBoxId": 41,
+    "bonusResourceBoxId": 29,
+    "label": "1 Time Only",
+    "startAt": 1665525600000
+  },
+  {
+    "id": 50007,
+    "seq": 200,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50006,
+    "name": "Welcome Bundle (D)",
+    "description": "Paid Crystals x9,200\nWish Jewel x2\nSkill Up Score (Advanced) x3\nMagical Seed x50\nCoins x500,000",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_48_v2",
+    "resourceBoxId": 42,
+    "bonusResourceBoxId": 30,
+    "label": "1 Time Only",
+    "startAt": 1665525600000
   }
 ]

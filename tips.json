@@ -226,7 +226,7 @@
   {
     "id": 64,
     "title": "Wishes - Acquisition & Use",
-    "description": "Receive Wish Pieces by trading\n 3★ or lower characters in the Green Room.",
+    "description": "Receive Wish Pieces by trading 3★, 2★ or Birthday Characters in the Green Room.",
     "fromUserRank": 25,
     "toUserRank": 50
   },
@@ -528,6 +528,55 @@
     "id": 115,
     "title": "Profile",
     "description": "Custom Profile allows you to design your own original profile.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 116,
+    "title": "Birthday Character",
+    "description": "Birthday Characters are special Characters with the Birthday rarity.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 117,
+    "title": "Character Exchange",
+    "description": "Trade for previously featured General Characters at the Character Exchange.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 118,
+    "title": "Event Bonus",
+    "description": "Increasing Mastery Rank will also earn Event Bonuses.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 119,
+    "title": "Trust Rank",
+    "description": "Increasing Trust Rank will earn special Titles and rewards between certain Characters.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 120,
+    "title": "Trust Rank",
+    "description": "Playing shows will earn Trust EXP between the Leader and the other 4 Characters within the group.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 121,
+    "title": "Friends",
+    "description": "You can invite Friends to a private room for Co-op Shows and Virtual Shows.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 122,
+    "title": "Auto-Play",
+    "description": "In the Auto-Play settings, you can set your Bonus Energy to restore automatically and play Shows continuously.",
     "fromUserRank": 1,
     "toUserRank": 999
   },

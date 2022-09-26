@@ -124,6 +124,10 @@
     "value": "10"
   },
   {
+    "configKey": "auto_live_available_boost_item_ids",
+    "value": "1,2"
+  },
+  {
     "configKey": "multi_live_power_range_upper_limit_init",
     "value": "10000"
   },
@@ -160,12 +164,16 @@
     "value": "168"
   },
   {
+    "configKey": "beginner_material_exchangeable_hour",
+    "value": "720"
+  },
+  {
     "configKey": "challenge_point_calc_value",
-    "value": "5000"
+    "value": "8000"
   },
   {
     "configKey": "challenge_base_point",
-    "value": "50"
+    "value": "200"
   },
   {
     "configKey": "notes_slide_width_collision",
@@ -512,6 +520,26 @@
     "value": "60"
   },
   {
+    "configKey": "event_piapro_point_bonus",
+    "value": "15"
+  },
+  {
+    "configKey": "multi_live_fever_progress",
+    "value": "0.7"
+  },
+  {
+    "configKey": "multi_live_super_fever_progress",
+    "value": "1"
+  },
+  {
+    "configKey": "virtual_live_group_message_sync_count",
+    "value": "1"
+  },
+  {
+    "configKey": "custom_profile_text_line_spacing_factor",
+    "value": "1.325"
+  },
+  {
     "configKey": "friend_request_expire_hour",
     "value": "168"
   },
@@ -522,6 +550,34 @@
   {
     "configKey": "friend_count_limit",
     "value": "100"
+  },
+  {
+    "configKey": "login_status_online_expire_sec",
+    "value": "600"
+  },
+  {
+    "configKey": "login_status_solo_live_expire_sec",
+    "value": "600"
+  },
+  {
+    "configKey": "login_status_multi_live_expire_sec",
+    "value": "600"
+  },
+  {
+    "configKey": "login_status_virtual_live_expire_sec",
+    "value": "600"
+  },
+  {
+    "configKey": "invitation_polling_period_sec",
+    "value": "10"
+  },
+  {
+    "configKey": "invitation_expire_sec",
+    "value": "60"
+  },
+  {
+    "configKey": "omikuji_should_draw_ratio",
+    "value": "0.2"
   },
   {
     "configKey": "custom_profile_can_snap_delta_rotation_deg",
@@ -578,6 +634,14 @@
   {
     "configKey": "custom_profile_max_text_size",
     "value": "96"
+  },
+  {
+    "configKey": "custom_profile_max_creatable",
+    "value": "10"
+  },
+  {
+    "configKey": "profile_honor_max_size",
+    "value": "3"
   },
   {
     "configKey": "debug_auth_disable",
@@ -654,5 +718,13 @@
   {
     "configKey": "collectable_boost_item",
     "value": "1,2"
+  },
+  {
+    "configKey": "streaming_virtual_live_ui_sound_volume",
+    "value": "0.2"
+  },
+  {
+    "configKey": "default_ui_sound_volume",
+    "value": "0.85"
   }
 ]
