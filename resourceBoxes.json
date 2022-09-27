@@ -143024,93 +143024,6 @@
     ]
   },
   {
-    "resourceBoxPurpose": "mission_reward",
-    "id": 100001,
-    "resourceBoxType": "expand",
-    "details": [
-      {
-        "resourceBoxPurpose": "mission_reward",
-        "resourceBoxId": 100001,
-        "seq": 1,
-        "resourceType": "jewel",
-        "resourceQuantity": 200
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "mission_reward",
-    "id": 100002,
-    "resourceBoxType": "expand",
-    "details": [
-      {
-        "resourceBoxPurpose": "mission_reward",
-        "resourceBoxId": 100002,
-        "seq": 1,
-        "resourceType": "jewel",
-        "resourceQuantity": 300
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "mission_reward",
-    "id": 100003,
-    "resourceBoxType": "expand",
-    "details": [
-      {
-        "resourceBoxPurpose": "mission_reward",
-        "resourceBoxId": 100003,
-        "seq": 1,
-        "resourceType": "material",
-        "resourceId": 13,
-        "resourceQuantity": 5
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "mission_reward",
-    "id": 100004,
-    "resourceBoxType": "expand",
-    "details": [
-      {
-        "resourceBoxPurpose": "mission_reward",
-        "resourceBoxId": 100004,
-        "seq": 1,
-        "resourceType": "material",
-        "resourceId": 17,
-        "resourceQuantity": 10
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "mission_reward",
-    "id": 100005,
-    "resourceBoxType": "expand",
-    "details": [
-      {
-        "resourceBoxPurpose": "mission_reward",
-        "resourceBoxId": 100005,
-        "seq": 1,
-        "resourceType": "coin",
-        "resourceQuantity": 100000
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "mission_reward",
-    "id": 100006,
-    "resourceBoxType": "expand",
-    "details": [
-      {
-        "resourceBoxPurpose": "mission_reward",
-        "resourceBoxId": 100006,
-        "seq": 1,
-        "resourceType": "material",
-        "resourceId": 44,
-        "resourceQuantity": 1
-      }
-    ]
-  },
-  {
     "resourceBoxPurpose": "multi_score_rank_reward_detail",
     "id": 1,
     "resourceBoxType": "expand",
@@ -162203,6 +162116,21 @@
         "seq": 1,
         "resourceType": "stamp",
         "resourceId": 489,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "shop_item",
+    "id": 100001,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "shop_item",
+        "resourceBoxId": 100001,
+        "seq": 1,
+        "resourceType": "music",
+        "resourceId": 160,
         "resourceQuantity": 1
       }
     ]
