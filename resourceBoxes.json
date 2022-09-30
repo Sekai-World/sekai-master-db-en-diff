@@ -98270,6 +98270,21 @@
   },
   {
     "resourceBoxPurpose": "gift_detail",
+    "id": 1103,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 1103,
+        "seq": 1,
+        "resourceType": "music",
+        "resourceId": 160,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
     "id": 1106,
     "resourceBoxType": "expand",
     "details": [
@@ -98279,6 +98294,21 @@
         "seq": 1,
         "resourceType": "music",
         "resourceId": 187,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 1113,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 1113,
+        "seq": 1,
+        "resourceType": "music_vocal",
+        "resourceId": 345,
         "resourceQuantity": 1
       }
     ]
@@ -162116,21 +162146,6 @@
         "seq": 1,
         "resourceType": "stamp",
         "resourceId": 489,
-        "resourceQuantity": 1
-      }
-    ]
-  },
-  {
-    "resourceBoxPurpose": "shop_item",
-    "id": 100001,
-    "resourceBoxType": "expand",
-    "details": [
-      {
-        "resourceBoxPurpose": "shop_item",
-        "resourceBoxId": 100001,
-        "seq": 1,
-        "resourceType": "music",
-        "resourceId": 160,
         "resourceQuantity": 1
       }
     ]
