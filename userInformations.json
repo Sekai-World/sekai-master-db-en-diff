@@ -7300,8 +7300,8 @@
     "platform": "all",
     "title": "Honami Mochizuki Happy Birthday Gacha, available now!",
     "path": "information/index.html?id=info_gacha141",
-    "startAt": 1666857600000,
-    "endAt": 1667462399000,
+    "startAt": 1666854000000,
+    "endAt": 1667458799000,
     "bannerAssetbundleName": "banner_news_en_gacha141"
   },
   {
@@ -7316,7 +7316,7 @@
     "path": "information/index.html?id=info_gacha1021_notice",
     "startAt": 1666648800000,
     "endAt": 1666681199000,
-    "bannerAssetbundleName": "banner_news_en_gacha1021"
+    "bannerAssetbundleName": "banner_news_en_gacha1017"
   },
   {
     "id": 835,
@@ -7330,7 +7330,7 @@
     "path": "information/index.html?id=info_gacha1021_held",
     "startAt": 1666681200000,
     "endAt": 1666940399000,
-    "bannerAssetbundleName": "banner_news_en_gacha1021"
+    "bannerAssetbundleName": "banner_news_en_gacha1017"
   },
   {
     "id": 836,
@@ -7372,6 +7372,59 @@
     "path": "information/index.html?id=info_132update_hzi2W4Pj",
     "startAt": 1666231200000,
     "bannerAssetbundleName": "banner_patch_note"
+  },
+  {
+    "id": 839,
+    "seq": 1,
+    "displayOrder": 33750,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "[Announcement] What lies behind. What lies ahead.",
+    "path": "information/index.html?id=info_event39_notice",
+    "startAt": 1666908000000,
+    "endAt": 1666994399000,
+    "bannerAssetbundleName": "banner_news_en_event39"
+  },
+  {
+    "id": 840,
+    "seq": 1,
+    "displayOrder": 33770,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Event, What lies behind. What lies ahead. now on!",
+    "path": "information/index.html?id=info_event39_held",
+    "startAt": 1666994400000,
+    "endAt": 1667797199000,
+    "bannerAssetbundleName": "banner_news_en_event39"
+  },
+  {
+    "id": 841,
+    "seq": 1,
+    "displayOrder": 33695,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Special Missions!",
+    "path": "information/index.html?id=info_specialmission_1019",
+    "startAt": 1666724400000,
+    "endAt": 1667300399000
+  },
+  {
+    "id": 842,
+    "seq": 1,
+    "displayOrder": 90,
+    "informationType": "bug",
+    "informationTag": "bug",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Issue Regarding The Notification Badge on Event Missions Not Displaying Properly",
+    "path": "information/index.html?id=info_bug_event_badge_hsju23VXZ",
+    "startAt": 1666323000000
   },
   {
     "id": 10001,
