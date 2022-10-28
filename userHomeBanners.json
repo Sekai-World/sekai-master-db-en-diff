@@ -22,17 +22,6 @@
     "endAt": 1667253599000
   },
   {
-    "homeBannerId": 240,
-    "seq": 140,
-    "homeBannerType": "general",
-    "name": "[1周年記念]無料10連チケットガチャ",
-    "assetbundleName": "banner_gacha123",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 123,
-    "startAt": 1664622000000,
-    "endAt": 1666421999000
-  },
-  {
     "homeBannerId": 255,
     "seq": 300,
     "homeBannerType": "general",
@@ -65,6 +54,28 @@
     "endAt": 1666994399000
   },
   {
+    "homeBannerId": 264,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "Honami Mochizuki Happy Birthday Gacha",
+    "assetbundleName": "banner_gacha141",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 141,
+    "startAt": 1666854000000,
+    "endAt": 1667458799000
+  },
+  {
+    "homeBannerId": 265,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "[望月穂波]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive102",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 102,
+    "startAt": 1666735200000,
+    "endAt": 1667080799000
+  },
+  {
     "homeBannerId": 1001,
     "seq": 200,
     "homeBannerType": "general",
@@ -74,5 +85,16 @@
     "transitionDestinationId": 1,
     "startAt": 1633118400000,
     "endAt": 4102473540000
+  },
+  {
+    "homeBannerId": 1022,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "4★ Guaranteed Gacha",
+    "assetbundleName": "banner_gacha1020",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1020,
+    "startAt": 1666821600000,
+    "endAt": 1667426399000
   }
 ]
