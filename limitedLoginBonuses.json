@@ -1245,5 +1245,82 @@
         "resourceBoxId": 1101
       }
     ]
+  },
+  {
+    "id": 1010,
+    "seq": 1010,
+    "name": "Fall Login Campaign",
+    "startAt": 1667415600000,
+    "endAt": 1669118399000,
+    "assetbundleName": "fall_login_bonus_2022",
+    "closeAt": 1668254400000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1097,
+        "limitedLoginBonusId": 1010,
+        "day": 1,
+        "resourceBoxId": 1102
+      },
+      {
+        "id": 1098,
+        "limitedLoginBonusId": 1010,
+        "day": 2,
+        "resourceBoxId": 1103
+      },
+      {
+        "id": 1099,
+        "limitedLoginBonusId": 1010,
+        "day": 3,
+        "resourceBoxId": 1104
+      },
+      {
+        "id": 1100,
+        "limitedLoginBonusId": 1010,
+        "day": 4,
+        "resourceBoxId": 1105
+      },
+      {
+        "id": 1101,
+        "limitedLoginBonusId": 1010,
+        "day": 5,
+        "resourceBoxId": 1106
+      },
+      {
+        "id": 1102,
+        "limitedLoginBonusId": 1010,
+        "day": 6,
+        "resourceBoxId": 1107
+      },
+      {
+        "id": 1103,
+        "limitedLoginBonusId": 1010,
+        "day": 7,
+        "resourceBoxId": 1108
+      },
+      {
+        "id": 1104,
+        "limitedLoginBonusId": 1010,
+        "day": 8,
+        "resourceBoxId": 1109
+      },
+      {
+        "id": 1105,
+        "limitedLoginBonusId": 1010,
+        "day": 9,
+        "resourceBoxId": 1110
+      },
+      {
+        "id": 1106,
+        "limitedLoginBonusId": 1010,
+        "day": 10,
+        "resourceBoxId": 1111
+      },
+      {
+        "id": 1107,
+        "limitedLoginBonusId": 1010,
+        "day": 11,
+        "resourceBoxId": 1112
+      }
+    ]
   }
 ]
