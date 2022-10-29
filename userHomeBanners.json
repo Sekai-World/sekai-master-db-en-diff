@@ -32,28 +32,6 @@
     "endAt": 1667285999000
   },
   {
-    "homeBannerId": 256,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]Bout for Beside You",
-    "assetbundleName": "event_besideyou_2021",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 37,
-    "startAt": 1665784800000,
-    "endAt": 1666994399000
-  },
-  {
-    "homeBannerId": 258,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "ビビバス5巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha136",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 136,
-    "startAt": 1665784800000,
-    "endAt": 1666994399000
-  },
-  {
     "homeBannerId": 264,
     "seq": 40,
     "homeBannerType": "general",
@@ -74,6 +52,28 @@
     "transitionDestinationId": 102,
     "startAt": 1666735200000,
     "endAt": 1667080799000
+  },
+  {
+    "homeBannerId": 269,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ボクのあしあと キミのゆくさき",
+    "assetbundleName": "event_ashiato_2021",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 39,
+    "startAt": 1666994400000,
+    "endAt": 1667948399000
+  },
+  {
+    "homeBannerId": 271,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "ニーゴ6巡目_定常ガチャ",
+    "assetbundleName": "banner_gacha142",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 142,
+    "startAt": 1666994400000,
+    "endAt": 1667948399000
   },
   {
     "homeBannerId": 1001,
