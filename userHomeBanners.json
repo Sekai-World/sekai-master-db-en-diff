@@ -43,17 +43,6 @@
     "endAt": 1667458799000
   },
   {
-    "homeBannerId": 265,
-    "seq": 160,
-    "homeBannerType": "general",
-    "name": "[望月穂波]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive102",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 102,
-    "startAt": 1666735200000,
-    "endAt": 1667080799000
-  },
-  {
     "homeBannerId": 269,
     "seq": 100,
     "homeBannerType": "event",
@@ -74,6 +63,27 @@
     "transitionDestinationId": 142,
     "startAt": 1666994400000,
     "endAt": 1667948399000
+  },
+  {
+    "homeBannerId": 275,
+    "seq": 180,
+    "homeBannerType": "general",
+    "name": "Halloween Show 2021",
+    "assetbundleName": "banner_virtuallive103",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 103,
+    "startAt": 1667080800000,
+    "endAt": 1667512799000
+  },
+  {
+    "homeBannerId": 277,
+    "seq": 190,
+    "homeBannerType": "general",
+    "name": "ハロウィン衣装販売",
+    "assetbundleName": "banner_shop_halloween_costume_2021",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1667080800000,
+    "endAt": 1667512799000
   },
   {
     "homeBannerId": 1001,
