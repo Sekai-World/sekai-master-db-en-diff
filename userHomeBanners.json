@@ -11,27 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 237,
-    "seq": 50,
-    "homeBannerType": "general",
-    "name": "Celebrate the anniversary of the JP version Memorial Select Gacha",
-    "assetbundleName": "banner_gacha124",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 124,
-    "startAt": 1664521200000,
-    "endAt": 1667253599000
-  },
-  {
-    "homeBannerId": 255,
-    "seq": 300,
-    "homeBannerType": "general",
-    "name": "[2021/10]プレミアムミッションパス",
-    "assetbundleName": "banner_premiummissionpass_en_2022_10",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1664607600000,
-    "endAt": 1667285999000
-  },
-  {
     "homeBannerId": 264,
     "seq": 40,
     "homeBannerType": "general",
@@ -41,6 +20,16 @@
     "transitionDestinationId": 141,
     "startAt": 1666854000000,
     "endAt": 1667458799000
+  },
+  {
+    "homeBannerId": 267,
+    "seq": 300,
+    "homeBannerType": "general",
+    "name": "[2021/11]プレミアムミッションパス（月初優先度UP用）",
+    "assetbundleName": "banner_premiummissionpass_en_2022_11",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1667286000000,
+    "endAt": 1669881599000
   },
   {
     "homeBannerId": 269,
@@ -63,6 +52,17 @@
     "transitionDestinationId": 142,
     "startAt": 1666994400000,
     "endAt": 1667948399000
+  },
+  {
+    "homeBannerId": 272,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "ニーゴ6巡目_イベントメンバーガチャ",
+    "assetbundleName": "banner_gacha143",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 143,
+    "startAt": 1667167200000,
+    "endAt": 1667797199000
   },
   {
     "homeBannerId": 275,
