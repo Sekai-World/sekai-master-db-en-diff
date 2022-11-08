@@ -54,17 +54,6 @@
     "endAt": 1668239999000
   },
   {
-    "homeBannerId": 274,
-    "seq": 160,
-    "homeBannerType": "general",
-    "name": "[MEIKO]HAPPY ANNIVERSARYライブ",
-    "assetbundleName": "banner_virtuallive105",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 105,
-    "startAt": 1667512800000,
-    "endAt": 1667861999000
-  },
-  {
     "homeBannerId": 1001,
     "seq": 200,
     "homeBannerType": "general",
@@ -74,5 +63,16 @@
     "transitionDestinationId": 1,
     "startAt": 1633118400000,
     "endAt": 4102473540000
+  },
+  {
+    "homeBannerId": 1026,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "4★Guaranteed Fall Gacha",
+    "assetbundleName": "banner_gacha1024",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1024,
+    "startAt": 1667862000000,
+    "endAt": 1669071599000
   }
 ]
