@@ -21,37 +21,37 @@
     "endAt": 1669881599000
   },
   {
-    "homeBannerId": 269,
+    "homeBannerId": 285,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]ボクのあしあと キミのゆくさき",
-    "assetbundleName": "event_ashiato_2021",
+    "name": "[イベント]バディ・ファニー・スペンドタイム♪",
+    "assetbundleName": "event_buddy_2021",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 39,
-    "startAt": 1666994400000,
-    "endAt": 1667948399000
+    "transitionDestinationId": 41,
+    "startAt": 1668812400000,
+    "endAt": 1669762799000
   },
   {
-    "homeBannerId": 271,
+    "homeBannerId": 286,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "ニーゴ6巡目_定常ガチャ",
-    "assetbundleName": "banner_gacha142",
+    "name": "シャッフルバディ_定常ガチャ",
+    "assetbundleName": "banner_gacha150",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 142,
-    "startAt": 1666994400000,
-    "endAt": 1667948399000
+    "transitionDestinationId": 150,
+    "startAt": 1668812400000,
+    "endAt": 1669762799000
   },
   {
-    "homeBannerId": 273,
-    "seq": 80,
+    "homeBannerId": 287,
+    "seq": 120,
     "homeBannerType": "general",
-    "name": "MEIKO Happy Anniversary Gacha",
-    "assetbundleName": "banner_gacha144",
+    "name": "シャッフルバディ_イベントメンバーガチャ",
+    "assetbundleName": "banner_gacha151",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 144,
-    "startAt": 1667631600000,
-    "endAt": 1668239999000
+    "transitionDestinationId": 151,
+    "startAt": 1668985200000,
+    "endAt": 1669611599000
   },
   {
     "homeBannerId": 1001,
@@ -65,14 +65,35 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1026,
+    "homeBannerId": 1024,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "Thanksgiving Celebration Free 10x Gacha",
+    "assetbundleName": "banner_gacha1021",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1022,
+    "startAt": 1669276800000,
+    "endAt": 1669363199000
+  },
+  {
+    "homeBannerId": 1025,
     "seq": 30,
     "homeBannerType": "general",
-    "name": "4★Guaranteed Fall Gacha",
-    "assetbundleName": "banner_gacha1024",
+    "name": "4★ Guaranteed Gacha",
+    "assetbundleName": "banner_gacha1023",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1024,
-    "startAt": 1667862000000,
-    "endAt": 1669071599000
+    "transitionDestinationId": 1023,
+    "startAt": 1669244400000,
+    "endAt": 1670281199000
+  },
+  {
+    "homeBannerId": 1027,
+    "seq": 190,
+    "homeBannerType": "general",
+    "name": "Black Friday Sale",
+    "assetbundleName": "banner_shop_blackfridaysale2022",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1669233600000,
+    "endAt": 1669967999000
   }
 ]

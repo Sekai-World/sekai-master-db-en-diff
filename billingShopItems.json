@@ -844,6 +844,34 @@
     "startAt": 1661911200000
   },
   {
+    "id": 20102,
+    "seq": 100,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 20102,
+    "name": "Just for you Bundle A",
+    "description": "Special value bundle (A). Limited time.",
+    "billableLimitType": "unlimited",
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_20100",
+    "resourceBoxId": 20100,
+    "bonusResourceBoxId": 20100,
+    "startAt": 1669244400000
+  },
+  {
+    "id": 20103,
+    "seq": 100,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 20103,
+    "name": "Just for you Bundle B",
+    "description": "Special value bundle (B). Limited time.",
+    "billableLimitType": "unlimited",
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_20101",
+    "resourceBoxId": 20101,
+    "bonusResourceBoxId": 20101,
+    "startAt": 1669244400000
+  },
+  {
     "id": 50000,
     "seq": 100,
     "billingShopItemType": "jewel",
