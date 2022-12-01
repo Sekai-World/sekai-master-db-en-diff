@@ -194,5 +194,28 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 9,
+    "seq": 1,
+    "title": "The Aku no Taizai Series Introduction Movie",
+    "assetbundleName": "collaboration-akuno-story",
+    "startAt": 1671058800000,
+    "endAt": 1672181999000,
+    "episodes": [
+      {
+        "id": 14,
+        "specialStoryId": 9,
+        "episodeNo": 1,
+        "title": "遷移テスト用ストーリー_コラボのセカイ",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 14,
+        "assetbundleName": "story_collaboration_akuno",
+        "scenarioId": "collaboration_akuno_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]
