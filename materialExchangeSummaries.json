@@ -285,13 +285,12 @@
   },
   {
     "id": 2,
-    "seq": 2,
+    "seq": 30,
     "exchangeCategory": "card_ticket",
+    "materialExchangeType": "normal",
     "name": "3★ Character",
     "assetbundleName": "icon_memberTicket_star3",
-    "startAt": 1638914400000,
-    "endAt": 1670450399000,
-    "notificationRemainHour": 24,
+    "startAt": 1607382000000,
     "materialExchanges": [
       {
         "id": 17,
@@ -2163,11 +2162,12 @@
   },
   {
     "id": 4,
+    "seq": 4,
     "exchangeCategory": "vocal_card_ticket",
+    "materialExchangeType": "normal",
     "name": "Cover Card",
     "assetbundleName": "icon_vocalTicket",
-    "startAt": 1638914400000,
-    "endAt": 1670450399000,
+    "startAt": 1612134000000,
     "materialExchanges": [
       {
         "id": 40001,
