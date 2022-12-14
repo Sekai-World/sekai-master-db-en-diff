@@ -5,10 +5,10 @@
     "name": "Release Celebration Gacha",
     "seq": 1,
     "assetbundleName": "ab_gacha_1",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1636099200000,
     "endAt": 1639695599000,
@@ -32,7 +32,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -530,10 +530,10 @@
     "name": "3★ or Higher Guaranteed Ticket Gacha",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "rarity1Rate": 0.0,
+    "rarity2Rate": 0.0,
+    "rarity3Rate": 97.0,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 2,
     "startAt": 1633647600000,
     "endAt": 1642067999000,
@@ -544,13 +544,13 @@
         "id": 4,
         "groupId": 2,
         "cardRarityType": "rarity_3",
-        "rate": 97
+        "rate": 97.0
       },
       {
         "id": 5,
         "groupId": 2,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -823,10 +823,10 @@
     "name": "VIRTUAL SINGER Limited Gacha",
     "seq": 10,
     "assetbundleName": "ab_gacha_3",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1638918000000,
     "endAt": 1639695599000,
@@ -849,7 +849,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -1052,10 +1052,10 @@
     "name": "Starry Night Memories Gacha",
     "seq": 1,
     "assetbundleName": "ab_gacha_4",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1639004400000,
     "endAt": 1639695599000,
@@ -1079,7 +1079,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -1522,10 +1522,10 @@
     "name": "Ball of the Marionettes Gacha",
     "seq": 1,
     "assetbundleName": "ab_gacha_5",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1639695600000,
     "endAt": 1640386799000,
@@ -1549,7 +1549,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -2013,10 +2013,10 @@
     "name": "Gentle★Potato Star Gacha",
     "seq": 2,
     "assetbundleName": "ab_gacha_6",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1640386800000,
     "endAt": 1641077999000,
@@ -2040,7 +2040,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -2525,10 +2525,10 @@
     "name": "(1 Time Only) Gentle★Potato Star Gacha",
     "seq": 1,
     "assetbundleName": "ab_gacha_7",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1640386800000,
     "endAt": 1641077999000,
@@ -2551,7 +2551,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -3016,10 +3016,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 3,
     "assetbundleName": "ab_gacha_8",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1640559600000,
     "endAt": 1640926799000,
@@ -3042,7 +3042,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -3527,10 +3527,10 @@
     "name": "Ever Energetic♪ Cheer Squad Gacha",
     "seq": 10,
     "assetbundleName": "ab_gacha_9",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1641769200000,
     "endAt": 1642460399000,
@@ -3554,7 +3554,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -4081,10 +4081,10 @@
     "name": "(1 Time Only) Ever Energetic♪ Cheer Squad Gacha",
     "seq": 20,
     "assetbundleName": "ab_gacha_10",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1641769200000,
     "endAt": 1642460399000,
@@ -4107,7 +4107,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -4614,10 +4614,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 30,
     "assetbundleName": "ab_gacha_11",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1641942000000,
     "endAt": 1642309199000,
@@ -4640,7 +4640,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -5167,10 +5167,10 @@
     "name": "MORE MORE SMILE! Gacha",
     "seq": 50,
     "assetbundleName": "ab_gacha_12",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1642460400000,
     "endAt": 1643151599000,
@@ -5194,7 +5194,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -5742,10 +5742,10 @@
     "name": "(1 Time Only) MORE MORE SMILE! Gacha",
     "seq": 60,
     "assetbundleName": "ab_gacha_13",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1642460400000,
     "endAt": 1643151599000,
@@ -5768,7 +5768,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -6296,10 +6296,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 70,
     "assetbundleName": "ab_gacha_14",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1642633200000,
     "endAt": 1643000399000,
@@ -6322,7 +6322,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -6870,10 +6870,10 @@
     "name": "4★ Guaranteed Gacha",
     "seq": 40,
     "assetbundleName": "ab_gacha_15",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1642114800000,
     "endAt": 1642633199000,
@@ -6896,7 +6896,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -7379,10 +7379,10 @@
     "name": "Rookie Partner Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_17",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1641078000000,
     "endAt": 1641769199000,
@@ -7406,7 +7406,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -7912,10 +7912,10 @@
     "name": "(1 Time Only) Rookie Partner Gacha",
     "seq": 90,
     "assetbundleName": "ab_gacha_18",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1641078000000,
     "endAt": 1641769199000,
@@ -7938,7 +7938,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -8424,10 +8424,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 100,
     "assetbundleName": "ab_gacha_19",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1641250800000,
     "endAt": 1641617999000,
@@ -8450,7 +8450,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -8956,10 +8956,10 @@
     "name": "High School Carnival Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_20",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1643151600000,
     "endAt": 1643842799000,
@@ -8983,7 +8983,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -9552,10 +9552,10 @@
     "name": "(1 Time Only) High School Carnival Gacha",
     "seq": 90,
     "assetbundleName": "ab_gacha_21",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1643151600000,
     "endAt": 1643842799000,
@@ -9578,7 +9578,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -10127,10 +10127,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 100,
     "assetbundleName": "ab_gacha_22",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1643324400000,
     "endAt": 1643691599000,
@@ -10153,7 +10153,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -10722,10 +10722,10 @@
     "name": "Wonder Carol Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_23",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1643842800000,
     "endAt": 1644533999000,
@@ -10749,7 +10749,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -11339,10 +11339,10 @@
     "name": "(1 Time Only) Wonder Carol Gacha",
     "seq": 90,
     "assetbundleName": "ab_gacha_24",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1643842800000,
     "endAt": 1644533999000,
@@ -11365,7 +11365,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -11935,10 +11935,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 100,
     "assetbundleName": "ab_gacha_25",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1644015600000,
     "endAt": 1644382799000,
@@ -11961,7 +11961,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -12551,10 +12551,10 @@
     "name": "[Hello 2022] Colorful Festival Gacha",
     "seq": 90,
     "assetbundleName": "ab_gacha_26",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 85.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "rarity4Rate": 6.0,
     "gachaCardRarityRateGroupId": 3,
     "startAt": 1644534000000,
     "endAt": 1645225199000,
@@ -12578,7 +12578,7 @@
         "id": 8,
         "groupId": 3,
         "cardRarityType": "rarity_4",
-        "rate": 6
+        "rate": 6.0
       }
     ],
     "gachaDetails": [
@@ -13190,10 +13190,10 @@
     "name": "(Goodbye 2021) Colorful Festival Gacha",
     "seq": 100,
     "assetbundleName": "ab_gacha_27",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 85.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "rarity4Rate": 6.0,
     "gachaCardRarityRateGroupId": 3,
     "startAt": 1644534000000,
     "endAt": 1645225199000,
@@ -13217,7 +13217,7 @@
         "id": 8,
         "groupId": 3,
         "cardRarityType": "rarity_4",
-        "rate": 6
+        "rate": 6.0
       }
     ],
     "gachaDetails": [
@@ -13801,10 +13801,10 @@
     "name": "SEKAI Thrilling New Year Gacha",
     "seq": 110,
     "assetbundleName": "ab_gacha_28",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1644534000000,
     "endAt": 1645225199000,
@@ -13828,7 +13828,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -14452,10 +14452,10 @@
     "name": "(1 Time Only) SEKAI Thrilling New Year Gacha",
     "seq": 120,
     "assetbundleName": "ab_gacha_29",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1644534000000,
     "endAt": 1645225199000,
@@ -14479,7 +14479,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -15083,10 +15083,10 @@
     "name": "Spring Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1609488000000,
     "endAt": 1609574399000,
@@ -15109,7 +15109,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -15655,10 +15655,10 @@
     "name": "Spring Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1609574400000,
     "endAt": 1609660799000,
@@ -15681,7 +15681,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -16227,10 +16227,10 @@
     "name": "Spring Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1609660800000,
     "endAt": 1609747199000,
@@ -16253,7 +16253,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -16799,10 +16799,10 @@
     "name": "Spring Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1609747200000,
     "endAt": 1609833599000,
@@ -16825,7 +16825,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -17371,10 +17371,10 @@
     "name": "Spring Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1609833600000,
     "endAt": 1609919999000,
@@ -17397,7 +17397,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -17943,10 +17943,10 @@
     "name": "Spring Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1609920000000,
     "endAt": 1610006399000,
@@ -17969,7 +17969,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -18515,10 +18515,10 @@
     "name": "Spring Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1610006400000,
     "endAt": 1610092799000,
@@ -18541,7 +18541,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -19087,10 +19087,10 @@
     "name": "Spring Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_30",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1610092800000,
     "endAt": 1610179199000,
@@ -19113,7 +19113,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -19659,10 +19659,10 @@
     "name": "3★ or Higher Guaranteed Ticket Gacha",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "rarity1Rate": 0.0,
+    "rarity2Rate": 0.0,
+    "rarity3Rate": 97.0,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 2,
     "startAt": 1642068000000,
     "endAt": 1646647199000,
@@ -19673,13 +19673,13 @@
         "id": 4,
         "groupId": 2,
         "cardRarityType": "rarity_3",
-        "rate": 97
+        "rate": 97.0
       },
       {
         "id": 5,
         "groupId": 2,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -20015,10 +20015,10 @@
     "name": "A Little Courage Goes a Long Way Gacha",
     "seq": 100,
     "assetbundleName": "ab_gacha_39",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1645225200000,
     "endAt": 1645916399000,
@@ -20042,7 +20042,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -20681,10 +20681,10 @@
     "name": "(1 Time Only) A Little Courage Goes a Long Way Gacha",
     "seq": 110,
     "assetbundleName": "ab_gacha_40",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1645225200000,
     "endAt": 1645916399000,
@@ -20708,7 +20708,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -21327,10 +21327,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 120,
     "assetbundleName": "ab_gacha_41",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1645398000000,
     "endAt": 1645765199000,
@@ -21354,7 +21354,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -21776,10 +21776,10 @@
     "name": "A Rainbow Follows the Rain Gacha",
     "seq": 130,
     "assetbundleName": "ab_gacha_42",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1645916400000,
     "endAt": 1646607599000,
@@ -21803,7 +21803,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -22463,10 +22463,10 @@
     "name": "(1 Time Only) A Rainbow Follows the Rain Gacha",
     "seq": 140,
     "assetbundleName": "ab_gacha_43",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1645916400000,
     "endAt": 1646607599000,
@@ -22490,7 +22490,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -23130,10 +23130,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 150,
     "assetbundleName": "ab_gacha_44",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1646089200000,
     "endAt": 1646456399000,
@@ -23157,7 +23157,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -23607,10 +23607,10 @@
     "name": "Classical Memories Gacha",
     "seq": 160,
     "assetbundleName": "ab_gacha_45",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1646607600000,
     "endAt": 1647295199000,
@@ -23634,7 +23634,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -24315,10 +24315,10 @@
     "name": "(1 Time Only) Classical Memories Gacha",
     "seq": 170,
     "assetbundleName": "ab_gacha_46",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1646607600000,
     "endAt": 1647295199000,
@@ -24342,7 +24342,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -25003,10 +25003,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 180,
     "assetbundleName": "ab_gacha_47",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1646780400000,
     "endAt": 1647147599000,
@@ -25030,7 +25030,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -25515,10 +25515,10 @@
     "name": "Rockin' Parade Gacha",
     "seq": 190,
     "assetbundleName": "ab_gacha_48",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1647295200000,
     "endAt": 1647986399000,
@@ -25542,7 +25542,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -26244,10 +26244,10 @@
     "name": "(1 Time Only) Rockin' Parade Gacha",
     "seq": 200,
     "assetbundleName": "ab_gacha_49",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1647295200000,
     "endAt": 1647986399000,
@@ -26271,7 +26271,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -26953,10 +26953,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 210,
     "assetbundleName": "ab_gacha_50",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1647468000000,
     "endAt": 1647835199000,
@@ -26980,7 +26980,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -27465,10 +27465,10 @@
     "name": "3★ or Higher Guaranteed Ticket Gacha",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "rarity1Rate": 0.0,
+    "rarity2Rate": 0.0,
+    "rarity3Rate": 97.0,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 2,
     "startAt": 1646647200000,
     "endAt": 1650751199000,
@@ -27479,13 +27479,13 @@
         "id": 4,
         "groupId": 2,
         "cardRarityType": "rarity_3",
-        "rate": 97
+        "rate": 97.0
       },
       {
         "id": 5,
         "groupId": 2,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -27975,10 +27975,10 @@
     "name": "Illuminated Canvas Gacha",
     "seq": 220,
     "assetbundleName": "ab_gacha_52",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1647986400000,
     "endAt": 1648677599000,
@@ -28002,7 +28002,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -28725,10 +28725,10 @@
     "name": "(1 Time Only) Illuminated Canvas Gacha",
     "seq": 230,
     "assetbundleName": "ab_gacha_53",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1647986400000,
     "endAt": 1648677599000,
@@ -28752,7 +28752,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -29455,10 +29455,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 240,
     "assetbundleName": "ab_gacha_54",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1648159200000,
     "endAt": 1648526399000,
@@ -29482,7 +29482,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -29982,10 +29982,10 @@
     "name": "Your Pick Gacha",
     "seq": 200,
     "assetbundleName": "ab_gacha_55",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1648245600000,
     "endAt": 1648850399000,
@@ -30008,7 +30008,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -30633,10 +30633,10 @@
     "name": "Fluffy☆ Dreamland Gacha",
     "seq": 250,
     "assetbundleName": "ab_gacha_56",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1648677600000,
     "endAt": 1649368799000,
@@ -30660,7 +30660,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -31404,10 +31404,10 @@
     "name": "(1 Time Only) Fluffy☆ Dreamland Gacha",
     "seq": 260,
     "assetbundleName": "ab_gacha_57",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1648677600000,
     "endAt": 1649368799000,
@@ -31431,7 +31431,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -32155,10 +32155,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 270,
     "assetbundleName": "ab_gacha_58",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1648850400000,
     "endAt": 1649217599000,
@@ -32182,7 +32182,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -32716,10 +32716,10 @@
     "name": "Heavenly Happy Doll Festival☆ Gacha",
     "seq": 280,
     "assetbundleName": "ab_gacha_60",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1649368800000,
     "endAt": 1650059999000,
@@ -32743,7 +32743,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -33494,10 +33494,10 @@
     "name": "(1 Time Only) Heavenly Happy Doll Festival☆ Gacha",
     "seq": 290,
     "assetbundleName": "ab_gacha_61",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1649368800000,
     "endAt": 1650059999000,
@@ -33521,7 +33521,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -34252,10 +34252,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 300,
     "assetbundleName": "ab_gacha_62",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1649541600000,
     "endAt": 1649908799000,
@@ -34279,7 +34279,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -34807,10 +34807,10 @@
     "name": "An Angel Spreads Its Wings Gacha",
     "seq": 310,
     "assetbundleName": "ab_gacha_63",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1650060000000,
     "endAt": 1650751199000,
@@ -34834,7 +34834,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -35606,10 +35606,10 @@
     "name": "(1 Time Only) An Angel Spreads Its Wings Gacha",
     "seq": 320,
     "assetbundleName": "ab_gacha_64",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1650060000000,
     "endAt": 1650751199000,
@@ -35633,7 +35633,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -36385,10 +36385,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 330,
     "assetbundleName": "ab_gacha_65",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1650232800000,
     "endAt": 1650599999000,
@@ -36412,7 +36412,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -36974,10 +36974,10 @@
     "name": "Half Anniversary Colorful Festival Gacha",
     "seq": 290,
     "assetbundleName": "ab_gacha_66",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 85.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "rarity4Rate": 6.0,
     "gachaCardRarityRateGroupId": 3,
     "startAt": 1654639200000,
     "endAt": 1655157599000,
@@ -37001,7 +37001,7 @@
         "id": 8,
         "groupId": 3,
         "cardRarityType": "rarity_4",
-        "rate": 6
+        "rate": 6.0
       }
     ],
     "gachaDetails": [
@@ -37851,10 +37851,10 @@
     "name": "(1 Time Only) Half Anniversary Colorful Festival Gacha",
     "seq": 300,
     "assetbundleName": "ab_gacha_67",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 85.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "rarity4Rate": 6.0,
     "gachaCardRarityRateGroupId": 3,
     "startAt": 1654639200000,
     "endAt": 1655157599000,
@@ -37878,7 +37878,7 @@
         "id": 8,
         "groupId": 3,
         "cardRarityType": "rarity_4",
-        "rate": 6
+        "rate": 6.0
       }
     ],
     "gachaDetails": [
@@ -38708,10 +38708,10 @@
     "name": "Cherry Blossom Lane Gacha",
     "seq": 360,
     "assetbundleName": "ab_gacha_68",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1650751200000,
     "endAt": 1651442399000,
@@ -38735,7 +38735,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -39598,10 +39598,10 @@
     "name": "(1 Time Only) Cherry Blossom Lane Gacha",
     "seq": 370,
     "assetbundleName": "ab_gacha_69",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1650751200000,
     "endAt": 1651442399000,
@@ -39625,7 +39625,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -40468,10 +40468,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 380,
     "assetbundleName": "ab_gacha_70",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1650924000000,
     "endAt": 1651291199000,
@@ -40495,7 +40495,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -41099,10 +41099,10 @@
     "name": "Secret Dressing Room Gacha",
     "seq": 390,
     "assetbundleName": "ab_gacha_72",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1651442400000,
     "endAt": 1652133599000,
@@ -41126,7 +41126,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -42010,10 +42010,10 @@
     "name": "(1 Time Only) Secret Dressing Room Gacha",
     "seq": 400,
     "assetbundleName": "ab_gacha_73",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1651442400000,
     "endAt": 1652133599000,
@@ -42037,7 +42037,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -42901,10 +42901,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 410,
     "assetbundleName": "ab_gacha_74",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1651615200000,
     "endAt": 1651982399000,
@@ -42928,7 +42928,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -43539,10 +43539,10 @@
     "name": "4=1 Gacha",
     "seq": 420,
     "assetbundleName": "ab_gacha_75",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1652133600000,
     "endAt": 1652824799000,
@@ -43566,7 +43566,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -44471,10 +44471,10 @@
     "name": "(1 Time Only) 4=1 Gacha",
     "seq": 430,
     "assetbundleName": "ab_gacha_76",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1652133600000,
     "endAt": 1652824799000,
@@ -44498,7 +44498,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -45383,10 +45383,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 440,
     "assetbundleName": "ab_gacha_77",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1652306400000,
     "endAt": 1652673599000,
@@ -45410,7 +45410,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -46042,10 +46042,10 @@
     "name": "One With My Crew Gacha",
     "seq": 450,
     "assetbundleName": "ab_gacha_78",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1652824800000,
     "endAt": 1653515999000,
@@ -46069,7 +46069,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -46995,10 +46995,10 @@
     "name": "(1 Time Only) One With My Crew Gacha",
     "seq": 460,
     "assetbundleName": "ab_gacha_79",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1652824800000,
     "endAt": 1653515999000,
@@ -47022,7 +47022,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -47928,10 +47928,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 470,
     "assetbundleName": "ab_gacha_80",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1652997600000,
     "endAt": 1653364799000,
@@ -47955,7 +47955,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -48615,10 +48615,10 @@
     "name": "3★ or Higher Guaranteed Ticket Gacha",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "rarity1Rate": 0.0,
+    "rarity2Rate": 0.0,
+    "rarity3Rate": 97.0,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 2,
     "startAt": 1650751200000,
     "endAt": 1655589599000,
@@ -48629,13 +48629,13 @@
         "id": 4,
         "groupId": 2,
         "cardRarityType": "rarity_3",
-        "rate": 97
+        "rate": 97.0
       },
       {
         "id": 5,
         "groupId": 2,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -49216,10 +49216,10 @@
     "name": "Forest Fairy Gacha",
     "seq": 480,
     "assetbundleName": "ab_gacha_82",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1653516000000,
     "endAt": 1654207199000,
@@ -49243,7 +49243,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -50176,10 +50176,10 @@
     "name": "(1 Time Only) Forest Fairy Gacha",
     "seq": 490,
     "assetbundleName": "ab_gacha_83",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1653516000000,
     "endAt": 1654207199000,
@@ -50203,7 +50203,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -51116,10 +51116,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 500,
     "assetbundleName": "ab_gacha_84",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1653688800000,
     "endAt": 1654055999000,
@@ -51143,7 +51143,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -51796,10 +51796,10 @@
     "name": "Welcome to the Penguin Cafe♪ Gacha",
     "seq": 510,
     "assetbundleName": "ab_gacha_85",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654207200000,
     "endAt": 1654898399000,
@@ -51823,7 +51823,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -52777,10 +52777,10 @@
     "name": "(1 Time Only) Welcome to the Penguin Cafe♪ Gacha",
     "seq": 520,
     "assetbundleName": "ab_gacha_86",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654207200000,
     "endAt": 1654898399000,
@@ -52804,7 +52804,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -53738,10 +53738,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 530,
     "assetbundleName": "ab_gacha_87",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654380000000,
     "endAt": 1654747199000,
@@ -53765,7 +53765,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -54454,10 +54454,10 @@
     "name": "4★ Guaranteed Gacha",
     "seq": 505,
     "assetbundleName": "ab_gacha_88",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1655848800000,
     "endAt": 1656453599000,
@@ -54480,7 +54480,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -55383,10 +55383,10 @@
     "name": "Romantic Bride Gacha",
     "seq": 550,
     "assetbundleName": "ab_gacha_89",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654898400000,
     "endAt": 1655589599000,
@@ -55410,7 +55410,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -56385,10 +56385,10 @@
     "name": "(1 Time Only) Romantic Bride Gacha",
     "seq": 560,
     "assetbundleName": "ab_gacha_90",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654898400000,
     "endAt": 1655589599000,
@@ -56412,7 +56412,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -57367,10 +57367,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 570,
     "assetbundleName": "ab_gacha_91",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1655071200000,
     "endAt": 1655438399000,
@@ -57394,7 +57394,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -58096,10 +58096,10 @@
     "name": "Welcome♪ Wonderland Gacha",
     "seq": 580,
     "assetbundleName": "ab_gacha_92",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1655589600000,
     "endAt": 1656280799000,
@@ -58123,7 +58123,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -59105,10 +59105,10 @@
     "name": "(1 Time Only) Welcome♪ Wonderland Gacha",
     "seq": 590,
     "assetbundleName": "ab_gacha_93",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1655589600000,
     "endAt": 1656280799000,
@@ -59132,7 +59132,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -60094,10 +60094,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 600,
     "assetbundleName": "ab_gacha_94",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1655762400000,
     "endAt": 1656129599000,
@@ -60121,7 +60121,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -60830,10 +60830,10 @@
     "name": "Memories Melody Gacha",
     "seq": 610,
     "assetbundleName": "ab_gacha_96",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1656280800000,
     "endAt": 1656971999000,
@@ -60857,7 +60857,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -61872,10 +61872,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 620,
     "assetbundleName": "ab_gacha_97",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1656453600000,
     "endAt": 1656820799000,
@@ -61899,7 +61899,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -62636,10 +62636,10 @@
     "name": "Colorful Festival Gacha",
     "seq": 630,
     "assetbundleName": "ab_gacha_98",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 85.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "rarity4Rate": 6.0,
     "gachaCardRarityRateGroupId": 3,
     "startAt": 1656972000000,
     "endAt": 1657403999000,
@@ -62663,7 +62663,7 @@
         "id": 8,
         "groupId": 3,
         "cardRarityType": "rarity_4",
-        "rate": 6
+        "rate": 6.0
       }
     ],
     "gachaDetails": [
@@ -63721,10 +63721,10 @@
     "name": "Rainbow Harmony Gacha",
     "seq": 640,
     "assetbundleName": "ab_gacha_99",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1656972000000,
     "endAt": 1657663199000,
@@ -63749,7 +63749,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -64785,10 +64785,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 650,
     "assetbundleName": "ab_gacha_100",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1657144800000,
     "endAt": 1657511999000,
@@ -64812,7 +64812,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -65570,10 +65570,10 @@
     "name": "The Beast Inside Gacha",
     "seq": 670,
     "assetbundleName": "ab_gacha_102",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1657663200000,
     "endAt": 1658440799000,
@@ -65598,7 +65598,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -66655,10 +66655,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 680,
     "assetbundleName": "ab_gacha_103",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1657836000000,
     "endAt": 1658289599000,
@@ -66682,7 +66682,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -67461,10 +67461,10 @@
     "name": "Summer Night Memories Gacha",
     "seq": 690,
     "assetbundleName": "ab_gacha_104",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1658440800000,
     "endAt": 1659391199000,
@@ -67489,7 +67489,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -68567,10 +68567,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 700,
     "assetbundleName": "ab_gacha_105",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1658613600000,
     "endAt": 1659239999000,
@@ -68594,7 +68594,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -69401,10 +69401,10 @@
     "name": "Your Pick Gacha",
     "seq": 100,
     "assetbundleName": "ab_gacha_106",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1659132000000,
     "endAt": 1659909599000,
@@ -69427,7 +69427,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -70449,10 +70449,10 @@
     "name": "Let's Enjoy Summer! Gacha",
     "seq": 720,
     "assetbundleName": "ab_gacha_107",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1659391200000,
     "endAt": 1660168799000,
@@ -70476,7 +70476,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -71575,10 +71575,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 730,
     "assetbundleName": "ab_gacha_108",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1659564000000,
     "endAt": 1660017599000,
@@ -71602,7 +71602,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -72423,10 +72423,10 @@
     "name": "3★ or Higher Guaranteed Ticket Gacha",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "rarity1Rate": 0.0,
+    "rarity2Rate": 0.0,
+    "rarity3Rate": 97.0,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 2,
     "startAt": 1655589600000,
     "endAt": 1659391199000,
@@ -72437,13 +72437,13 @@
         "id": 4,
         "groupId": 2,
         "cardRarityType": "rarity_3",
-        "rate": 97
+        "rate": 97.0
       },
       {
         "id": 5,
         "groupId": 2,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -73157,10 +73157,10 @@
     "name": "Lovely Messenger Gacha",
     "seq": 740,
     "assetbundleName": "ab_gacha_110",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1660168800000,
     "endAt": 1661032799000,
@@ -73185,7 +73185,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -74284,10 +74284,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 750,
     "assetbundleName": "ab_gacha_111",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1660341600000,
     "endAt": 1660881599000,
@@ -74311,7 +74311,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -75146,10 +75146,10 @@
     "name": "Hear My Song! Dreaming Mermaid Gacha",
     "seq": 760,
     "assetbundleName": "ab_gacha_112",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1661032800000,
     "endAt": 1661896799000,
@@ -75174,7 +75174,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -76301,10 +76301,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 770,
     "assetbundleName": "ab_gacha_113",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1661205600000,
     "endAt": 1661745599000,
@@ -76328,7 +76328,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -77163,10 +77163,10 @@
     "name": "4★ Guaranteed Gacha",
     "seq": 100,
     "assetbundleName": "ab_gacha_114",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1661551200000,
     "endAt": 1662155999000,
@@ -77189,7 +77189,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -78260,10 +78260,10 @@
     "name": "Moonlit Night's Sister Rabbits Gacha",
     "seq": 780,
     "assetbundleName": "ab_gacha_115",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1661896800000,
     "endAt": 1662760799000,
@@ -78287,7 +78287,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -79435,10 +79435,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 790,
     "assetbundleName": "ab_gacha_116",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1662069600000,
     "endAt": 1662609599000,
@@ -79462,7 +79462,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -80311,10 +80311,10 @@
     "name": "3★ or Higher Guaranteed Ticket Gacha",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "rarity1Rate": 0.0,
+    "rarity2Rate": 0.0,
+    "rarity3Rate": 97.0,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 2,
     "startAt": 1659391200000,
     "endAt": 1664661599000,
@@ -80325,13 +80325,13 @@
         "id": 4,
         "groupId": 2,
         "cardRarityType": "rarity_3",
-        "rate": 97
+        "rate": 97.0
       },
       {
         "id": 5,
         "groupId": 2,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -81136,10 +81136,10 @@
     "name": "No More Doubts Full Metal Gacha",
     "seq": 800,
     "assetbundleName": "ab_gacha_118",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1662760800000,
     "endAt": 1663711199000,
@@ -81164,7 +81164,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -82319,10 +82319,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 810,
     "assetbundleName": "ab_gacha_119",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1662933600000,
     "endAt": 1663559999000,
@@ -82346,7 +82346,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -83223,10 +83223,10 @@
     "name": "Forgotten Snow White Gacha",
     "seq": 820,
     "assetbundleName": "ab_gacha_120",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1663711200000,
     "endAt": 1664661599000,
@@ -83251,7 +83251,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -84449,10 +84449,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 830,
     "assetbundleName": "ab_gacha_121",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1663884000000,
     "endAt": 1664510399000,
@@ -84476,7 +84476,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -85396,10 +85396,10 @@
     "name": "Celebrate the anniversary of the JP version 10x Free Gacha",
     "seq": 90000,
     "assetbundleName": "ab_gacha_123",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1664622000000,
     "endAt": 1666421999000,
@@ -85422,7 +85422,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -86702,10 +86702,10 @@
     "name": "Celebrate the anniversary of the JP version Memorial Select Gacha",
     "seq": 300,
     "assetbundleName": "ab_gacha_124",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1664521200000,
     "endAt": 1667253599000,
@@ -86728,7 +86728,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -88087,10 +88087,10 @@
     "name": "Celebrate the anniversary of the JP version Colorful Festival Gacha",
     "seq": 200,
     "assetbundleName": "ab_gacha_125",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 85.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "rarity4Rate": 6.0,
     "gachaCardRarityRateGroupId": 3,
     "startAt": 1664661600000,
     "endAt": 1665007199000,
@@ -88114,7 +88114,7 @@
         "id": 8,
         "groupId": 3,
         "cardRarityType": "rarity_4",
-        "rate": 6
+        "rate": 6.0
       }
     ],
     "gachaDetails": [
@@ -89625,10 +89625,10 @@
     "name": "VIRTUAL SINGER Premium Gift Gacha.",
     "seq": 200,
     "assetbundleName": "ab_gacha_126",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1664661600000,
     "endAt": 1664920799000,
@@ -89651,7 +89651,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -90072,10 +90072,10 @@
     "name": "Leo/need Premium Gift Gacha",
     "seq": 200,
     "assetbundleName": "ab_gacha_127",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1664748000000,
     "endAt": 1665007199000,
@@ -90098,7 +90098,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -90360,10 +90360,10 @@
     "name": "MORE MORE JUMP! Premium Gift Gacha",
     "seq": 200,
     "assetbundleName": "ab_gacha_128",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1664834400000,
     "endAt": 1665093599000,
@@ -90386,7 +90386,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -90634,10 +90634,10 @@
     "name": "Vivid BAD SQUAD Premium Gift Gacha",
     "seq": 200,
     "assetbundleName": "ab_gacha_129",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1664920800000,
     "endAt": 1665179999000,
@@ -90660,7 +90660,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -90873,10 +90873,10 @@
     "name": "Wonderlands×Showtime Premium Gift Gacha.",
     "seq": 200,
     "assetbundleName": "ab_gacha_130",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1665007200000,
     "endAt": 1665266399000,
@@ -90899,7 +90899,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -91168,10 +91168,10 @@
     "name": "Nightcord at 25:00 Premium Gift Gacha.",
     "seq": 200,
     "assetbundleName": "ab_gacha_131",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1665093600000,
     "endAt": 1665352799000,
@@ -91194,7 +91194,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -91435,10 +91435,10 @@
     "name": "Scramble Flower Gacha",
     "seq": 840,
     "assetbundleName": "ab_gacha_132",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1665007200000,
     "endAt": 1665784799000,
@@ -91462,7 +91462,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -92919,10 +92919,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 850,
     "assetbundleName": "ab_gacha_133",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1665007200000,
     "endAt": 1665633599000,
@@ -92946,7 +92946,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -93964,10 +93964,10 @@
     "name": "Haruka Kiritani Happy Birthday Gacha",
     "seq": 400,
     "assetbundleName": "ab_gacha_134",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 0,
+    "rarity4Rate": 0.0,
     "gachaCardRarityRateGroupId": 4,
     "startAt": 1664953200000,
     "endAt": 1665557999000,
@@ -93992,7 +93992,7 @@
         "id": 11,
         "groupId": 4,
         "cardRarityType": "rarity_birthday",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -94097,10 +94097,10 @@
     "name": "Break The Fence! Gacha",
     "seq": 860,
     "assetbundleName": "ab_gacha_136",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1665784800000,
     "endAt": 1666994399000,
@@ -94125,7 +94125,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -95582,10 +95582,10 @@
     "name": "Event Character Boosted Rate Gacha",
     "seq": 870,
     "assetbundleName": "ab_gacha_137",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1665957600000,
     "endAt": 1666756799000,
@@ -95609,7 +95609,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -96641,10 +96641,10 @@
     "name": "Honami Mochizuki Happy Birthday Gacha",
     "seq": 80000,
     "assetbundleName": "ab_gacha_141",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 0,
+    "rarity4Rate": 0.0,
     "gachaCardRarityRateGroupId": 4,
     "startAt": 1666854000000,
     "endAt": 1667458799000,
@@ -96669,7 +96669,7 @@
         "id": 11,
         "groupId": 4,
         "cardRarityType": "rarity_birthday",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -96774,10 +96774,10 @@
     "name": "Wanderer's Journey Gacha",
     "seq": 910,
     "assetbundleName": "ab_gacha_142",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1666994400000,
     "endAt": 1667948399000,
@@ -96801,7 +96801,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -98279,10 +98279,10 @@
     "name": "Event Character Gacha",
     "seq": 920,
     "assetbundleName": "ab_gacha_143",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1667167200000,
     "endAt": 1667797199000,
@@ -98306,7 +98306,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -98883,10 +98883,10 @@
     "name": "MEIKO Happy Anniversary Gacha",
     "seq": 400,
     "assetbundleName": "ab_gacha_144",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 0,
+    "rarity4Rate": 0.0,
     "gachaCardRarityRateGroupId": 4,
     "startAt": 1667631600000,
     "endAt": 1668239999000,
@@ -98911,7 +98911,7 @@
         "id": 11,
         "groupId": 4,
         "cardRarityType": "rarity_birthday",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -99009,10 +99009,10 @@
     "name": "Beginner's Memorial Select Gacha",
     "seq": 10,
     "assetbundleName": "ab_gacha_145",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1667253600000,
     "endAt": 4102473599000,
@@ -99036,7 +99036,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -100395,10 +100395,10 @@
     "name": "3★ or Higher Guaranteed Ticket Gacha",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "rarity1Rate": 0.0,
+    "rarity2Rate": 0.0,
+    "rarity3Rate": 97.0,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 2,
     "startAt": 1664661600000,
     "endAt": 1670713199000,
@@ -100409,13 +100409,13 @@
         "id": 4,
         "groupId": 2,
         "cardRarityType": "rarity_3",
-        "rate": 97
+        "rate": 97.0
       },
       {
         "id": 5,
         "groupId": 2,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -101458,10 +101458,10 @@
     "name": "Kind-hearted Words Gacha",
     "seq": 930,
     "assetbundleName": "ab_gacha_147",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1667948400000,
     "endAt": 1668812399000,
@@ -101486,7 +101486,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -103013,10 +103013,10 @@
     "name": "Event Character Gacha",
     "seq": 940,
     "assetbundleName": "ab_gacha_148",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1668121200000,
     "endAt": 1668661199000,
@@ -103040,7 +103040,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -103681,10 +103681,10 @@
     "name": "Akito Shinonome Happy Birthday Gacha",
     "seq": 400,
     "assetbundleName": "ab_gacha_149",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 0,
+    "rarity4Rate": 0.0,
     "gachaCardRarityRateGroupId": 4,
     "startAt": 1668240000000,
     "endAt": 1668844799000,
@@ -103709,7 +103709,7 @@
         "id": 11,
         "groupId": 4,
         "cardRarityType": "rarity_birthday",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -103800,10 +103800,10 @@
     "name": "Secret Illumination Gacha",
     "seq": 930,
     "assetbundleName": "ab_gacha_150",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1668812400000,
     "endAt": 1669762799000,
@@ -103828,7 +103828,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -105376,10 +105376,10 @@
     "name": "Event Character Gacha",
     "seq": 940,
     "assetbundleName": "ab_gacha_151",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1668985200000,
     "endAt": 1669611599000,
@@ -105403,7 +105403,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -105959,10 +105959,10 @@
     "name": "Your Pick Gacha",
     "seq": 400,
     "assetbundleName": "ab_gacha_152",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1668553200000,
     "endAt": 1669071599000,
@@ -105985,7 +105985,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -107357,10 +107357,10 @@
     "name": "Growing Feelings, Words in the Snow Gacha",
     "seq": 950,
     "assetbundleName": "ab_gacha_153",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1669762800000,
     "endAt": 1670713199000,
@@ -107384,7 +107384,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -108953,10 +108953,10 @@
     "name": "Event Character Gacha",
     "seq": 960,
     "assetbundleName": "ab_gacha_154",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1669935600000,
     "endAt": 1670561999000,
@@ -108980,7 +108980,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -109578,10 +109578,10 @@
     "name": "Shizuku Hinomori Happy Birthday Gacha",
     "seq": 3000,
     "assetbundleName": "ab_gacha_155",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 0,
+    "rarity4Rate": 0.0,
     "gachaCardRarityRateGroupId": 4,
     "startAt": 1670313600000,
     "endAt": 1670918399000,
@@ -109606,7 +109606,7 @@
         "id": 11,
         "groupId": 4,
         "cardRarityType": "rarity_birthday",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -109704,10 +109704,10 @@
     "name": "Christmas Eve Checkmate Gacha",
     "seq": 970,
     "assetbundleName": "ab_gacha_157",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1670713200000,
     "endAt": 1671577199000,
@@ -109732,7 +109732,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -111350,10 +111350,10 @@
     "name": "Event Character Gacha",
     "seq": 990,
     "assetbundleName": "ab_gacha_158",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1670886000000,
     "endAt": 1671425999000,
@@ -111377,7 +111377,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -112018,10 +112018,10 @@
     "name": "Memoirs of Wrongdoings Gacha",
     "seq": 400,
     "assetbundleName": "ab_gacha_159",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1671058800000,
     "endAt": 1672181999000,
@@ -112045,7 +112045,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -113710,10 +113710,10 @@
     "name": "Embarking on a Winter Railway Gacha",
     "seq": 220,
     "assetbundleName": "ab_gacha_160",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1671577200000,
     "endAt": 1672527599000,
@@ -113738,7 +113738,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -115377,10 +115377,10 @@
     "name": "Event Character Gacha",
     "seq": 230,
     "assetbundleName": "ab_gacha_161",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1671750000000,
     "endAt": 1672376399000,
@@ -115404,7 +115404,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -116031,10 +116031,10 @@
     "name": "Kagamine Rin Happy Anniversary Gacha",
     "seq": 200,
     "assetbundleName": "ab_gacha_162",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 0,
+    "rarity4Rate": 0.0,
     "gachaCardRarityRateGroupId": 4,
     "startAt": 1672128000000,
     "endAt": 1672732799000,
@@ -116059,7 +116059,7 @@
         "id": 11,
         "groupId": 4,
         "cardRarityType": "rarity_birthday",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -116157,10 +116157,10 @@
     "name": "Kagamine Len Happy Anniversary Gacha",
     "seq": 210,
     "assetbundleName": "ab_gacha_163",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 0,
+    "rarity4Rate": 0.0,
     "gachaCardRarityRateGroupId": 4,
     "startAt": 1672128000000,
     "endAt": 1672732799000,
@@ -116185,7 +116185,7 @@
         "id": 11,
         "groupId": 4,
         "cardRarityType": "rarity_birthday",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -116290,10 +116290,10 @@
     "name": "2023 New Year Colorful Festival Gacha",
     "seq": 100,
     "assetbundleName": "ab_gacha_164",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 85.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "rarity4Rate": 6.0,
     "gachaCardRarityRateGroupId": 3,
     "startAt": 1672527600000,
     "endAt": 1672873199000,
@@ -116317,7 +116317,7 @@
         "id": 8,
         "groupId": 3,
         "cardRarityType": "rarity_4",
-        "rate": 6
+        "rate": 6.0
       }
     ],
     "gachaDetails": [
@@ -118045,10 +118045,10 @@
     "name": "A Maiden's Hope For The New Year Gacha",
     "seq": 120,
     "assetbundleName": "ab_gacha_165",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1672873200000,
     "endAt": 1673564399000,
@@ -118072,7 +118072,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -119732,10 +119732,10 @@
     "name": "Event Character Gacha",
     "seq": 140,
     "assetbundleName": "ab_gacha_166",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1672873200000,
     "endAt": 1673413199000,
@@ -119759,7 +119759,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -120364,10 +120364,10 @@
     "name": "2023 New Year Premium Gift Gacha",
     "seq": 110,
     "assetbundleName": "ab_gacha_167",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1672527600000,
     "endAt": 1673564399000,
@@ -120390,7 +120390,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -121875,10 +121875,10 @@
     "name": "2023 New Year 10x Free Gacha",
     "seq": 90000,
     "assetbundleName": "ab_gacha_168",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1672574400000,
     "endAt": 1675238399000,
@@ -121901,7 +121901,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -123384,10 +123384,10 @@
     "name": "3★ or Higher Guaranteed Ticket Gacha",
     "seq": 99999,
     "assetbundleName": "ab_gacha_2",
-    "rarity1Rate": 0,
-    "rarity2Rate": 0,
-    "rarity3Rate": 97,
-    "rarity4Rate": 3,
+    "rarity1Rate": 0.0,
+    "rarity2Rate": 0.0,
+    "rarity3Rate": 97.0,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 2,
     "startAt": 1670713200000,
     "endAt": 4102473599000,
@@ -123398,13 +123398,13 @@
         "id": 4,
         "groupId": 2,
         "cardRarityType": "rarity_3",
-        "rate": 97
+        "rate": 97.0
       },
       {
         "id": 5,
         "groupId": 2,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -124601,10 +124601,10 @@
     "name": "1 Million Players! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1002",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1647846000000,
     "endAt": 1647932399000,
@@ -124627,7 +124627,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -125192,10 +125192,10 @@
     "name": "1 Million Players! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1002",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1647932400000,
     "endAt": 1648018799000,
@@ -125218,7 +125218,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -125783,10 +125783,10 @@
     "name": "1 Million Players! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1002",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1648018800000,
     "endAt": 1648105199000,
@@ -125809,7 +125809,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -126374,10 +126374,10 @@
     "name": "4★ Guaranteed Gacha",
     "seq": 40,
     "assetbundleName": "ab_gacha_1005",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1650405600000,
     "endAt": 1650923999000,
@@ -126400,7 +126400,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -127100,10 +127100,10 @@
     "name": "Your Pick Gacha",
     "seq": 200,
     "assetbundleName": "ab_gacha_1006",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1653170400000,
     "endAt": 1653688799000,
@@ -127126,7 +127126,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -127847,10 +127847,10 @@
     "name": "Half Anniversary Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1007",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654016400000,
     "endAt": 1654081199000,
@@ -127873,7 +127873,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -128643,10 +128643,10 @@
     "name": "Half Anniversary Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1007",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654081200000,
     "endAt": 1654167599000,
@@ -128669,7 +128669,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -129439,10 +129439,10 @@
     "name": "Half Anniversary Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1007",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654167600000,
     "endAt": 1654253999000,
@@ -129465,7 +129465,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -130235,10 +130235,10 @@
     "name": "Half Anniversary Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1007",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654254000000,
     "endAt": 1654340399000,
@@ -130261,7 +130261,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -131031,10 +131031,10 @@
     "name": "Half Anniversary Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1007",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654340400000,
     "endAt": 1654426799000,
@@ -131057,7 +131057,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -131827,10 +131827,10 @@
     "name": "Half Anniversary Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1007",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654426800000,
     "endAt": 1654513199000,
@@ -131853,7 +131853,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -132623,10 +132623,10 @@
     "name": "Half Anniversary Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1007",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654513200000,
     "endAt": 1654599599000,
@@ -132649,7 +132649,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -133419,10 +133419,10 @@
     "name": "Half Anniversary Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1007",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1654599600000,
     "endAt": 1654685999000,
@@ -133445,7 +133445,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -134215,10 +134215,10 @@
     "name": "Hatsune Miku Anniversary Celebration Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1008",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1661929200000,
     "endAt": 1662015599000,
@@ -134241,7 +134241,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -135133,10 +135133,10 @@
     "name": "Your Pick Gacha",
     "seq": 200,
     "assetbundleName": "ab_gacha_1016",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1663279200000,
     "endAt": 1664143199000,
@@ -135159,7 +135159,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -136223,10 +136223,10 @@
     "name": "Fall 2022 Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1017",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1666681200000,
     "endAt": 1666767599000,
@@ -136249,7 +136249,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -137622,10 +137622,10 @@
     "name": "Fall 2022 Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1017",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1666767600000,
     "endAt": 1666853999000,
@@ -137648,7 +137648,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -139021,10 +139021,10 @@
     "name": "Fall 2022 Special! Once Daily Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1017",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1666854000000,
     "endAt": 1666940399000,
@@ -139047,7 +139047,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -140420,10 +140420,10 @@
     "name": "4★ Guaranteed Gacha",
     "seq": 40,
     "assetbundleName": "ab_gacha_1020",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1666821600000,
     "endAt": 1667426399000,
@@ -140446,7 +140446,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -141825,10 +141825,10 @@
     "name": "Thanksgiving Celebration Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1021",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1669190400000,
     "endAt": 1669276799000,
@@ -141851,7 +141851,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -143218,10 +143218,10 @@
     "name": "Thanksgiving Celebration Free 10x Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1021",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1669276800000,
     "endAt": 1669363199000,
@@ -143244,7 +143244,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -144611,10 +144611,10 @@
     "name": "4★ Guaranteed Gacha",
     "seq": 40,
     "assetbundleName": "ab_gacha_1023",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1669244400000,
     "endAt": 1670281199000,
@@ -144637,7 +144637,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -146004,10 +146004,10 @@
     "name": "4★Guaranteed Fall Gacha",
     "seq": 40,
     "assetbundleName": "ab_gacha_1024",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1667862000000,
     "endAt": 1669071599000,
@@ -146030,7 +146030,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -147311,10 +147311,10 @@
     "name": "[It's Back] Colorful Festival Gacha",
     "seq": 200,
     "assetbundleName": "ab_gacha_1025",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 85.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 6,
+    "rarity4Rate": 6.0,
     "gachaCardRarityRateGroupId": 3,
     "startAt": 1670454000000,
     "endAt": 1671490799000,
@@ -147338,7 +147338,7 @@
         "id": 8,
         "groupId": 3,
         "cardRarityType": "rarity_4",
-        "rate": 6
+        "rate": 6.0
       }
     ],
     "gachaDetails": [
@@ -148418,10 +148418,10 @@
     "name": "1st Anniversary 10x Free Gacha",
     "seq": 80,
     "assetbundleName": "ab_gacha_1026",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1670414400000,
     "endAt": 1672041599000,
@@ -148444,7 +148444,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
@@ -149724,10 +149724,10 @@
     "name": "4★ Guaranteed Gacha",
     "seq": 40,
     "assetbundleName": "ab_gacha_1027",
-    "rarity1Rate": 0,
+    "rarity1Rate": 0.0,
     "rarity2Rate": 88.5,
     "rarity3Rate": 8.5,
-    "rarity4Rate": 3,
+    "rarity4Rate": 3.0,
     "gachaCardRarityRateGroupId": 1,
     "startAt": 1671404400000,
     "endAt": 1672268399000,
@@ -149750,7 +149750,7 @@
         "id": 3,
         "groupId": 1,
         "cardRarityType": "rarity_4",
-        "rate": 3
+        "rate": 3.0
       }
     ],
     "gachaDetails": [
