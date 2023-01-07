@@ -11,58 +11,112 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 289,
+    "homeBannerId": 318,
     "seq": 300,
     "homeBannerType": "general",
-    "name": "[2021/12]プレミアムミッションパス",
-    "assetbundleName": "banner_premiummissionpass_en_2022_12",
+    "name": "[2022/01]プレミアムミッションパス（優先度落とし用）",
+    "assetbundleName": "banner_premiummissionpass_en_2023_01",
     "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1669881600000,
-    "endAt": 1672559999000
+    "startAt": 1672560000000,
+    "endAt": 1675238399000
   },
   {
-    "homeBannerId": 297,
+    "homeBannerId": 320,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]MOREMOREMakingXmas",
-    "assetbundleName": "event_makingxmas_2021",
+    "name": "[イベント]祈りの先 願う明日は",
+    "assetbundleName": "event_prayer_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 43,
-    "startAt": 1670713200000,
-    "endAt": 1671577199000
+    "transitionDestinationId": 45,
+    "startAt": 1672527600000,
+    "endAt": 1673564399000
   },
   {
-    "homeBannerId": 299,
+    "homeBannerId": 322,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "[2022新春]プレミアムプレゼントガチャ（優先度UP用）",
+    "assetbundleName": "banner_gacha167",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 167,
+    "startAt": 1672527600000,
+    "endAt": 1673564399000
+  },
+  {
+    "homeBannerId": 324,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "モモジャン6巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha157",
+    "name": "A Maiden's Hope For The New Year Gacha",
+    "assetbundleName": "banner_gacha165",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 157,
-    "startAt": 1670713200000,
-    "endAt": 1671577199000
+    "transitionDestinationId": 165,
+    "startAt": 1672873200000,
+    "endAt": 1673564399000
   },
   {
-    "homeBannerId": 300,
+    "homeBannerId": 325,
     "seq": 120,
     "homeBannerType": "general",
-    "name": "モモジャン6巡目_メンバー出現率UPガチャバナー",
-    "assetbundleName": "banner_gacha158",
+    "name": "Event Character Gacha",
+    "assetbundleName": "banner_gacha166",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 158,
-    "startAt": 1670886000000,
-    "endAt": 1671425999000
+    "transitionDestinationId": 166,
+    "startAt": 1672873200000,
+    "endAt": 1673413199000
   },
   {
-    "homeBannerId": 302,
-    "seq": 20,
+    "homeBannerId": 326,
+    "seq": 140,
     "homeBannerType": "general",
-    "name": "悪ノ大罪シリーズコラボガチャ（優先度UP用）",
-    "assetbundleName": "banner_gacha159",
+    "name": "2023 New Year 10x Free Gacha",
+    "assetbundleName": "banner_gacha168",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 159,
-    "startAt": 1671058800000,
-    "endAt": 1672181999000
+    "transitionDestinationId": 168,
+    "startAt": 1672574400000,
+    "endAt": 1675238399000
+  },
+  {
+    "homeBannerId": 327,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "お正月ショップ2022",
+    "assetbundleName": "banner_shop_newyear2022",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1672527600000,
+    "endAt": 1673564399000
+  },
+  {
+    "homeBannerId": 333,
+    "seq": 175,
+    "homeBannerType": "general",
+    "name": "Happy New Year 2023 Show Nightcord at 25:00",
+    "assetbundleName": "banner_virtuallive119",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 123,
+    "startAt": 1672873200000,
+    "endAt": 1673132399000
+  },
+  {
+    "homeBannerId": 334,
+    "seq": 180,
+    "homeBannerType": "general",
+    "name": "Shiho's Birthday Show",
+    "assetbundleName": "banner_virtuallive124",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 124,
+    "startAt": 1673046000000,
+    "endAt": 1673391599000
+  },
+  {
+    "homeBannerId": 335,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "セカイ神社訴求用バナー",
+    "assetbundleName": "banner_sekai_jinja_2022",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 117,
+    "startAt": 1672527600000,
+    "endAt": 1673564399000
   },
   {
     "homeBannerId": 1001,
@@ -76,45 +130,13 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1029,
-    "seq": 50,
+    "homeBannerId": 1033,
+    "seq": 220,
     "homeBannerType": "general",
-    "name": "[It's Back] Colorful Festival Gacha",
-    "assetbundleName": "banner_gacha1025",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1025,
-    "startAt": 1670454000000,
-    "endAt": 1671490799000
-  },
-  {
-    "homeBannerId": 1030,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "1st Anniversary 10x Free Gacha",
-    "assetbundleName": "banner_gacha1026",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1026,
-    "startAt": 1670414400000,
-    "endAt": 1672041599000
-  },
-  {
-    "homeBannerId": 1032,
-    "seq": 160,
-    "homeBannerType": "general",
-    "name": "「サブカルボーイスタイル」再販売",
-    "assetbundleName": "banner_shop_costume_resale_en_2022_12",
+    "name": "「もこもこスノーコート」再販売",
+    "assetbundleName": "banner_shop_costume_resale_en_2023_01",
     "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1669881600000,
-    "endAt": 1672559999000
-  },
-  {
-    "homeBannerId": 1034,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "1周年記念クリスタルショップ",
-    "assetbundleName": "banner_1st_anniversary_shop_gl",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1670400000000,
-    "endAt": 1672354799000
+    "startAt": 1672560000000,
+    "endAt": 1675238399000
   }
 ]

@@ -1095,7 +1095,8 @@
     "seq": 1504101,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Chururira Chururira Daddadda!",
     "lyricist": "WADATAKEAKI / KurageP",
@@ -1171,7 +1172,8 @@
     "seq": 1604501,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      "original",
+      "mv_2d"
     ],
     "title": "Otome Dissection",
     "lyricist": "DECO*27",
@@ -1798,7 +1800,7 @@
     "seq": 1605401,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "mv_2d"
     ],
     "title": "Bocca della Verità",
     "lyricist": "Hiiragi Kirai",
@@ -2141,7 +2143,8 @@
     "seq": 1411801,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      "original",
+      "mv_2d"
     ],
     "title": "Traffic jam",
     "lyricist": "NILFRUITS",
@@ -2347,6 +2350,25 @@
     "fillerSec": 8.142000198364258
   },
   {
+    "id": 155,
+    "seq": 1217801,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Heartbeat #0822",
+    "lyricist": "papiyon",
+    "composer": "papiyon",
+    "arranger": "papiyon",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_155",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1674687600000,
+    "liveStageId": 1,
+    "fillerSec": 9.0
+  },
+  {
     "id": 156,
     "seq": 2412201,
     "releaseConditionId": 10,
@@ -2458,7 +2480,8 @@
     "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
     "publishedAt": 1673218800000,
     "liveStageId": 1,
-    "fillerSec": 9.0
+    "fillerSec": 9.0,
+    "musicCollaborationId": 1
   },
   {
     "id": 163,
@@ -2477,7 +2500,8 @@
     "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
     "publishedAt": 1673305200000,
     "liveStageId": 1,
-    "fillerSec": 9.0
+    "fillerSec": 9.0,
+    "musicCollaborationId": 1
   },
   {
     "id": 164,
@@ -2496,7 +2520,8 @@
     "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
     "publishedAt": 1673391600000,
     "liveStageId": 1,
-    "fillerSec": 9.0
+    "fillerSec": 9.0,
+    "musicCollaborationId": 1
   },
   {
     "id": 165,
@@ -2704,6 +2729,25 @@
     "assetbundleName": "jacket_s_177",
     "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
     "publishedAt": 1665525600000,
+    "liveStageId": 1,
+    "fillerSec": 9.0
+  },
+  {
+    "id": 178,
+    "seq": 2117601,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "Theme of Niccori Survey Team",
+    "lyricist": "Jizasu-P",
+    "composer": "Jizasu-P",
+    "arranger": "Wonderful★Opportunity!",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_178",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1674198300000,
     "liveStageId": 1,
     "fillerSec": 9.0
   },
@@ -2973,6 +3017,101 @@
     "publishedAt": 1672786800000,
     "liveStageId": 1,
     "fillerSec": 7.709700107574463
+  },
+  {
+    "id": 203,
+    "seq": 2617701,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv_2d"
+    ],
+    "title": "Tricologe",
+    "lyricist": "NILFRUITS",
+    "composer": "NILFRUITS",
+    "arranger": "NILFRUITS",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_203",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1674342000000,
+    "liveStageId": 1,
+    "fillerSec": 8.307700157165527
+  },
+  {
+    "id": 204,
+    "seq": 1617901,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "Usseewa",
+    "lyricist": "syudou",
+    "composer": "syudou",
+    "arranger": "syudou",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_204",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1674946800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0
+  },
+  {
+    "id": 205,
+    "seq": 1418101,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "Odo",
+    "lyricist": "DECO*27",
+    "composer": "Giga, TeddyLoid",
+    "arranger": "Giga, TeddyLoid",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_205",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1675378800000,
+    "liveStageId": 1,
+    "fillerSec": 8.51449966430664
+  },
+  {
+    "id": 206,
+    "seq": 1118201,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Colorful Marine Snow",
+    "lyricist": "Carlos Hakamada Saize P",
+    "composer": "Carlos Hakamada Saize P",
+    "arranger": "Carlos Hakamada Saize P",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_206",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1675551600000,
+    "liveStageId": 1,
+    "fillerSec": 8.405900001525879
+  },
+  {
+    "id": 216,
+    "seq": 1118001,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Luka Luka★Night Fever",
+    "lyricist": "SAM(samfree)",
+    "composer": "SAM(samfree)",
+    "arranger": "SAM(samfree)",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_216",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1675119600000,
+    "liveStageId": 1,
+    "fillerSec": 7.875
   },
   {
     "id": 228,

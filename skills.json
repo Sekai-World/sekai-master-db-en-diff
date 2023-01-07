@@ -4,6 +4,7 @@
     "shortDescription": "Score +{{1;v}}%.",
     "description": "Score +{{1;v}}% for {{1;d}}s.",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 1,
@@ -47,6 +48,7 @@
     "shortDescription": "Score +{{2;v}}%.",
     "description": "Score +{{2;v}}% for {{2;d}}s.",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 2,
@@ -90,6 +92,7 @@
     "shortDescription": "Score +{{3;v}}%.",
     "description": "Score +{{3;v}}% for {{3;d}}s.",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 3,
@@ -133,6 +136,7 @@
     "shortDescription": "Score +{{4;v}}%.",
     "description": "Score +{{4;v}}% for {{4;d}}s.",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 1,
     "skillEffects": [
       {
         "id": 4,
@@ -176,6 +180,7 @@
     "shortDescription": "Accuracy Up (S)\\n& Score +{{5;v}}%.",
     "description": "GREAT taps change to PERFECT taps for {{8;d}}s and Score +{{5;v}}% for {{5;d}}s.",
     "descriptionSpriteName": "judgment_up",
+    "skillFilterId": 3,
     "skillEffects": [
       {
         "id": 5,
@@ -254,6 +259,7 @@
     "shortDescription": "Accuracy Up (M)\\n& Score +{{6;v}}%.",
     "description": "GOOD or better taps change to PERFECT taps for {{9;d}}s and Score +{{6;v}}% for {{6;d}}s.",
     "descriptionSpriteName": "judgment_up",
+    "skillFilterId": 3,
     "skillEffects": [
       {
         "id": 6,
@@ -332,6 +338,7 @@
     "shortDescription": "Accuracy Up (L)\\n& Score +{{7;v}}%.",
     "description": "BAD or better taps change to PERFECT taps for {{10;d}}s and Score +{{7;v}}% for {{7;d}}s.",
     "descriptionSpriteName": "judgment_up",
+    "skillFilterId": 3,
     "skillEffects": [
       {
         "id": 7,
@@ -410,6 +417,7 @@
     "shortDescription": "Life Recovery +{{14;v}}\\n& Score +{{11;v}}%.",
     "description": "Life Recovery +{{14;v}} and Score +{{11;v}}% for {{11;d}}s.",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 11,
@@ -487,6 +495,7 @@
     "shortDescription": "Life Recovery +{{15;v}}\\n& Score +{{12;v}}%.",
     "description": "Life Recovery +{{15;v}} and Score +{{12;v}}% for {{12;d}}s.",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 12,
@@ -564,6 +573,7 @@
     "shortDescription": "Life Recovery +{{16;v}}\\n& Score +{{13;v}}%.",
     "description": "Life Recovery +{{16;v}} and Score +{{13;v}}% for {{13;d}}s.",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 13,
@@ -641,6 +651,7 @@
     "shortDescription": "Score +{{17;v}}%\\nfor PERFECT taps.",
     "description": "Score +{{17;v}}% for PERFECT taps for {{17;d}}s.",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 17,
@@ -684,6 +695,7 @@
     "shortDescription": "Score +{{39;v}}% if your Life is below 800 upon activating or Score +{{38;v}}% if above 800, and +1% every time your Life increases by 10 (max {{18;v}}%).",
     "description": "Score +{{39;v}}% for {{38;d}}s if your Life is below 800 upon activating or Score +{{38;v}}% if above 800, and +1% every time your Life increases by 10 (max {{18;v}}%).",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 18,
@@ -1484,6 +1496,7 @@
     "shortDescription": "Score +{{41;v}}% and Score +{{40;v}}% until a GREAT or worse tap is recorded.",
     "description": "Score +{{41;v}}% for {{40;d}}s and Score +{{40;v}}% until a GREAT or worse tap is recorded.",
     "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 40,
@@ -1562,6 +1575,7 @@
     "shortDescription": "Life Recovery +{{42;v}}\\n and Score +{{43;v}}% for PERFECT taps.",
     "description": "Life Recovery +{{42;v}} and Score +{{43;v}}% for PERFECT taps for {{43;d}}s.",
     "descriptionSpriteName": "life_recovery",
+    "skillFilterId": 4,
     "skillEffects": [
       {
         "id": 42,
@@ -1631,6 +1645,281 @@
             "activateEffectValue": 80
           }
         ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "shortDescription": "Score +{{44;v}}% and Score +{{44;e}}% for every Leo/need Character, excluding self, plus an extra {{44;e}}% when all Characters are from Leo/need.",
+    "description": "Score +{{44;v}}% for {{44;d}}s.\nScore +{{44;e}}% for every Leo/need Character, excluding self, plus an extra {{44;e}}% (up to +{{44;m}}%) when all Characters are from Leo/need.",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 44,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 173,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 174,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 175,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 176,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ],
+        "skillEnhance": {
+          "id": 1,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 1,
+            "seq": 1,
+            "unit": "light_sound"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "shortDescription": "Score +{{45;v}}% and Score +{{45;e}}% for every MORE MORE JUMP! Character, excluding self, plus an extra {{45;e}}% (up to +{{45;m}}%) when all Characters are from MORE MORE JUMP!",
+    "description": "Score +{{45;v}}% for {{45;d}}s.\nScore +{{45;e}}% for every MORE MORE JUMP! Character, excluding self, plus an extra {{45;e}}% (up to +{{45;m}}%) when all Characters are from MORE MORE JUMP!",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 45,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 177,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 178,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 179,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 180,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ],
+        "skillEnhance": {
+          "id": 2,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 2,
+            "seq": 2,
+            "unit": "idol"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "shortDescription": "Score +{{46;v}}% and Score +{{46;e}}% for every Vivid BAD SQUAD Character, excluding self, plus an extra {{46;e}}% (up to +{{46;m}}%) when all Characters are from Vivid BAD SQUAD.",
+    "description": "Score +{{46;v}}% for {{46;d}}s.\nScore +{{46;e}}% for every Vivid BAD SQUAD Character, excluding self, plus an extra {{46;e}}% (up to +{{46;m}}%) when all Characters are from Vivid BAD SQUAD.",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 46,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 181,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 182,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 183,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 184,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ],
+        "skillEnhance": {
+          "id": 3,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 3,
+            "seq": 3,
+            "unit": "street"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "shortDescription": "Score +{{47;v}}% and Score +{{47;e}}% for every Wonderlands×Showtime Character, excluding self, plus an extra {{47;e}}% (up to +{{47;m}}%) when all Characters are from Wonderlands×Showtime.",
+    "description": "Score +{{47;v}}% for {{47;d}}s.\nScore +{{47;e}}% for every Wonderlands×Showtime Character, excluding self, plus an extra {{47;e}}% (up to +{{47;m}}%) when all Characters are from Wonderlands×Showtime.",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 47,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 185,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 186,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 187,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 188,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ],
+        "skillEnhance": {
+          "id": 4,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 4,
+            "seq": 4,
+            "unit": "theme_park"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "shortDescription": "Score +{{48;v}}% and Score +{{48;e}}% for every Nightcord at 25:00 Character, excluding self, plus an extra {{48;e}}% (up to +{{48;m}}%) when all Characters are from Nightcord at 25:00.",
+    "description": "Score +{{48;v}}% for {{48;d}}s.\nScore +{{48;e}}% for every Nightcord at 25:00 Character, excluding self, plus an extra {{48;e}}% (up to +{{48;m}}%) when all Characters are from Nightcord at 25:00.",
+    "descriptionSpriteName": "score_up",
+    "skillFilterId": 2,
+    "skillEffects": [
+      {
+        "id": 48,
+        "skillEffectType": "score_up",
+        "activateNotesJudgmentType": "good",
+        "skillEffectDetails": [
+          {
+            "id": 189,
+            "level": 1,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 80
+          },
+          {
+            "id": 190,
+            "level": 2,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 85
+          },
+          {
+            "id": 191,
+            "level": 3,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 90
+          },
+          {
+            "id": 192,
+            "level": 4,
+            "activateEffectDuration": 5.0,
+            "activateEffectValueType": "rate",
+            "activateEffectValue": 100
+          }
+        ],
+        "skillEnhance": {
+          "id": 5,
+          "skillEnhanceType": "sub_unit_score_up",
+          "activateEffectValueType": "rate",
+          "activateEffectValue": 10,
+          "skillEnhanceCondition": {
+            "id": 5,
+            "seq": 5,
+            "unit": "school_refusal"
+          }
+        }
       }
     ]
   }

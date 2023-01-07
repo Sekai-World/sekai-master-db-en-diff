@@ -1,273 +1,358 @@
 [
   {
-    "id": 23,
-    "seq": 23,
-    "specialMissionPeriodId": 2,
+    "id": 39,
+    "seq": 39,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "clear_all_special_mission",
-    "requirement": 15,
+    "requirement": 20,
     "sentence": "Clear all Special Missions.",
     "rewards": [
       {
-        "id": 100023,
+        "id": 100039,
         "missionType": "special_mission",
-        "missionId": 23,
+        "missionId": 39,
         "seq": 1,
-        "resourceBoxId": 100016
+        "resourceBoxId": 100024
       }
     ]
   },
   {
-    "id": 24,
-    "seq": 24,
-    "specialMissionPeriodId": 2,
-    "specialMissionType": "special_mission",
-    "requirement": 5,
-    "sentence": "Clear 5 Special Missions.",
-    "rewards": [
-      {
-        "id": 100024,
-        "missionType": "special_mission",
-        "missionId": 24,
-        "seq": 1,
-        "resourceBoxId": 100003
-      }
-    ]
-  },
-  {
-    "id": 25,
-    "seq": 25,
-    "specialMissionPeriodId": 2,
+    "id": 40,
+    "seq": 40,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "special_mission",
     "requirement": 10,
     "sentence": "Clear 10 Special Missions.",
     "rewards": [
       {
-        "id": 100025,
+        "id": 100040,
         "missionType": "special_mission",
-        "missionId": 25,
+        "missionId": 40,
         "seq": 1,
-        "resourceBoxId": 100012
+        "resourceBoxId": 100024
       }
     ]
   },
   {
-    "id": 26,
-    "seq": 26,
-    "specialMissionPeriodId": 2,
+    "id": 41,
+    "seq": 41,
+    "specialMissionPeriodId": 3,
+    "specialMissionType": "special_mission",
+    "requirement": 15,
+    "sentence": "Clear 15 Special Missions.",
+    "rewards": [
+      {
+        "id": 100041,
+        "missionType": "special_mission",
+        "missionId": 41,
+        "seq": 1,
+        "resourceBoxId": 100024
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "seq": 42,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "inherit",
     "requirement": 1,
     "sentence": "Link an account.",
     "rewards": [
       {
-        "id": 100026,
+        "id": 100042,
         "missionType": "special_mission",
-        "missionId": 26,
+        "missionId": 42,
         "seq": 1,
         "resourceBoxId": 100016
       }
     ]
   },
   {
-    "id": 27,
-    "seq": 27,
-    "specialMissionPeriodId": 2,
+    "id": 43,
+    "seq": 43,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "clear_live",
     "requirement": 1,
     "sentence": "Clear 1 show.",
     "rewards": [
       {
-        "id": 100027,
+        "id": 100043,
         "missionType": "special_mission",
-        "missionId": 27,
+        "missionId": 43,
         "seq": 1,
-        "resourceBoxId": 100017
+        "resourceBoxId": 100025
       }
     ]
   },
   {
-    "id": 28,
-    "seq": 28,
-    "specialMissionPeriodId": 2,
+    "id": 44,
+    "seq": 44,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "clear_live",
     "requirement": 5,
     "sentence": "Clear 5 shows.",
     "rewards": [
       {
-        "id": 100028,
+        "id": 100044,
         "missionType": "special_mission",
-        "missionId": 28,
+        "missionId": 44,
         "seq": 1,
         "resourceBoxId": 100003
       }
     ]
   },
   {
-    "id": 29,
-    "seq": 29,
-    "specialMissionPeriodId": 2,
+    "id": 45,
+    "seq": 45,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "clear_live",
     "requirement": 10,
     "sentence": "Clear 10 shows.",
     "rewards": [
       {
-        "id": 100029,
+        "id": 100045,
         "missionType": "special_mission",
-        "missionId": 29,
+        "missionId": 45,
         "seq": 1,
         "resourceBoxId": 100018
       }
     ]
   },
   {
-    "id": 30,
-    "seq": 30,
-    "specialMissionPeriodId": 2,
+    "id": 46,
+    "seq": 46,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "clear_live",
     "requirement": 15,
     "sentence": "Clear 15 shows.",
     "rewards": [
       {
-        "id": 100030,
+        "id": 100046,
         "missionType": "special_mission",
-        "missionId": 30,
+        "missionId": 46,
         "seq": 1,
-        "resourceBoxId": 100012
+        "resourceBoxId": 100026
       }
     ]
   },
   {
-    "id": 31,
-    "seq": 31,
-    "specialMissionPeriodId": 2,
+    "id": 47,
+    "seq": 47,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "clear_live",
     "requirement": 20,
     "sentence": "Clear 20 shows.",
     "rewards": [
       {
-        "id": 100031,
+        "id": 100047,
         "missionType": "special_mission",
-        "missionId": 31,
+        "missionId": 47,
         "seq": 1,
         "resourceBoxId": 100003
       }
     ]
   },
   {
-    "id": 32,
-    "seq": 32,
-    "specialMissionPeriodId": 2,
+    "id": 48,
+    "seq": 48,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "clear_live",
     "requirement": 25,
     "sentence": "Clear 25 shows.",
     "rewards": [
       {
-        "id": 100032,
+        "id": 100048,
         "missionType": "special_mission",
-        "missionId": 32,
+        "missionId": 48,
         "seq": 1,
         "resourceBoxId": 100013
       }
     ]
   },
   {
-    "id": 33,
-    "seq": 33,
-    "specialMissionPeriodId": 2,
+    "id": 49,
+    "seq": 49,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "clear_live",
     "requirement": 30,
     "sentence": "Clear 30 shows.",
     "rewards": [
       {
-        "id": 100033,
+        "id": 100049,
         "missionType": "special_mission",
-        "missionId": 33,
+        "missionId": 49,
         "seq": 1,
-        "resourceBoxId": 100016
+        "resourceBoxId": 100024
       }
     ]
   },
   {
-    "id": 34,
-    "seq": 34,
-    "specialMissionPeriodId": 2,
-    "specialMissionType": "live_bonus",
-    "requirement": 10,
-    "sentence": "Use 10 Bonus Energy.",
+    "id": 50,
+    "seq": 50,
+    "specialMissionPeriodId": 3,
+    "specialMissionType": "clear_live",
+    "requirement": 40,
+    "sentence": "Clear 40 shows.",
     "rewards": [
       {
-        "id": 100034,
+        "id": 100050,
         "missionType": "special_mission",
-        "missionId": 34,
+        "missionId": 50,
         "seq": 1,
-        "resourceBoxId": 100019
+        "resourceBoxId": 100027
       }
     ]
   },
   {
-    "id": 35,
-    "seq": 35,
-    "specialMissionPeriodId": 2,
-    "specialMissionType": "live_bonus",
-    "requirement": 20,
-    "sentence": "Use 20 Bonus Energy.",
+    "id": 51,
+    "seq": 51,
+    "specialMissionPeriodId": 3,
+    "specialMissionType": "clear_live",
+    "requirement": 50,
+    "sentence": "Clear 50 shows.",
     "rewards": [
       {
-        "id": 100035,
+        "id": 100051,
         "missionType": "special_mission",
-        "missionId": 35,
+        "missionId": 51,
         "seq": 1,
         "resourceBoxId": 100020
       }
     ]
   },
   {
-    "id": 36,
-    "seq": 36,
-    "specialMissionPeriodId": 2,
+    "id": 52,
+    "seq": 52,
+    "specialMissionPeriodId": 3,
+    "specialMissionType": "clear_live",
+    "requirement": 60,
+    "sentence": "Clear 60 shows.",
+    "rewards": [
+      {
+        "id": 100052,
+        "missionType": "special_mission",
+        "missionId": 52,
+        "seq": 1,
+        "resourceBoxId": 100024
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "seq": 53,
+    "specialMissionPeriodId": 3,
+    "specialMissionType": "clear_live",
+    "requirement": 70,
+    "sentence": "Clear 70 shows.",
+    "rewards": [
+      {
+        "id": 100053,
+        "missionType": "special_mission",
+        "missionId": 53,
+        "seq": 1,
+        "resourceBoxId": 100026
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "seq": 54,
+    "specialMissionPeriodId": 3,
+    "specialMissionType": "clear_live",
+    "requirement": 80,
+    "sentence": "Clear 80 shows.",
+    "rewards": [
+      {
+        "id": 100054,
+        "missionType": "special_mission",
+        "missionId": 54,
+        "seq": 1,
+        "resourceBoxId": 100024
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "seq": 55,
+    "specialMissionPeriodId": 3,
+    "specialMissionType": "live_bonus",
+    "requirement": 10,
+    "sentence": "Use 10 Bonus Energy.",
+    "rewards": [
+      {
+        "id": 100055,
+        "missionType": "special_mission",
+        "missionId": 55,
+        "seq": 1,
+        "resourceBoxId": 100003
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "seq": 56,
+    "specialMissionPeriodId": 3,
+    "specialMissionType": "live_bonus",
+    "requirement": 20,
+    "sentence": "Use 20 Bonus Energy.",
+    "rewards": [
+      {
+        "id": 100056,
+        "missionType": "special_mission",
+        "missionId": 56,
+        "seq": 1,
+        "resourceBoxId": 100003
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "seq": 57,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "live_bonus",
     "requirement": 30,
     "sentence": "Use 30 Bonus Energy.",
     "rewards": [
       {
-        "id": 100036,
+        "id": 100057,
         "missionType": "special_mission",
-        "missionId": 36,
+        "missionId": 57,
         "seq": 1,
         "resourceBoxId": 100021
       }
     ]
   },
   {
-    "id": 37,
-    "seq": 37,
-    "specialMissionPeriodId": 2,
+    "id": 58,
+    "seq": 58,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "live_bonus",
     "requirement": 40,
     "sentence": "Use 40 Bonus Energy.",
     "rewards": [
       {
-        "id": 100037,
+        "id": 100058,
         "missionType": "special_mission",
-        "missionId": 37,
+        "missionId": 58,
         "seq": 1,
         "resourceBoxId": 100022
       }
     ]
   },
   {
-    "id": 38,
-    "seq": 38,
-    "specialMissionPeriodId": 2,
+    "id": 59,
+    "seq": 59,
+    "specialMissionPeriodId": 3,
     "specialMissionType": "live_bonus",
     "requirement": 50,
     "sentence": "Use 50 Bonus Energy.",
     "rewards": [
       {
-        "id": 100038,
+        "id": 100059,
         "missionType": "special_mission",
-        "missionId": 38,
+        "missionId": 59,
         "seq": 1,
-        "resourceBoxId": 100023
+        "resourceBoxId": 100027
       }
     ]
   }
