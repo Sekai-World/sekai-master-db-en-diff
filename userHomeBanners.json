@@ -21,39 +21,6 @@
     "endAt": 1675238399000
   },
   {
-    "homeBannerId": 320,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]祈りの先 願う明日は",
-    "assetbundleName": "event_prayer_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 45,
-    "startAt": 1672527600000,
-    "endAt": 1673564399000
-  },
-  {
-    "homeBannerId": 322,
-    "seq": 60,
-    "homeBannerType": "general",
-    "name": "[2022新春]プレミアムプレゼントガチャ（優先度UP用）",
-    "assetbundleName": "banner_gacha167",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 167,
-    "startAt": 1672527600000,
-    "endAt": 1673564399000
-  },
-  {
-    "homeBannerId": 324,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "A Maiden's Hope For The New Year Gacha",
-    "assetbundleName": "banner_gacha165",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 165,
-    "startAt": 1672873200000,
-    "endAt": 1673564399000
-  },
-  {
     "homeBannerId": 326,
     "seq": 140,
     "homeBannerType": "general",
@@ -65,27 +32,6 @@
     "endAt": 1675238399000
   },
   {
-    "homeBannerId": 327,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "お正月ショップ2022",
-    "assetbundleName": "banner_shop_newyear2022",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1672527600000,
-    "endAt": 1673564399000
-  },
-  {
-    "homeBannerId": 335,
-    "seq": 160,
-    "homeBannerType": "general",
-    "name": "セカイ神社訴求用バナー",
-    "assetbundleName": "banner_sekai_jinja_2022",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 117,
-    "startAt": 1672527600000,
-    "endAt": 1673564399000
-  },
-  {
     "homeBannerId": 336,
     "seq": 80,
     "homeBannerType": "general",
@@ -95,6 +41,28 @@
     "transitionDestinationId": 169,
     "startAt": 1673164800000,
     "endAt": 1673769599000
+  },
+  {
+    "homeBannerId": 338,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ワンダショ箱イベ7巡目_イベントバナー",
+    "assetbundleName": "event_nikkori_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 46,
+    "startAt": 1673564400000,
+    "endAt": 1674341999000
+  },
+  {
+    "homeBannerId": 340,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワンダショ箱イベ7巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha171",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 171,
+    "startAt": 1673564400000,
+    "endAt": 1674341999000
   },
   {
     "homeBannerId": 1001,
