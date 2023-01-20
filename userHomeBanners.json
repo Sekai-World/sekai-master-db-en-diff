@@ -84,5 +84,16 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1672560000000,
     "endAt": 1675238399000
+  },
+  {
+    "homeBannerId": 1035,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "4★ Guaranteed Gacha",
+    "assetbundleName": "banner_gacha1028",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1028,
+    "startAt": 1674082800000,
+    "endAt": 1674601199000
   }
 ]
