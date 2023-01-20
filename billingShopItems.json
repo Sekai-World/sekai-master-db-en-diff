@@ -1589,5 +1589,21 @@
     "label": "Limited Time",
     "startAt": 1670400000000,
     "endAt": 1672354799000
+  },
+  {
+    "id": 100002,
+    "seq": 120,
+    "billingShopItemType": "costume_3d",
+    "name": "Festive Moon Costume All Colors",
+    "description": "Costume - Festive Moon Dress (F) (20 Costumes x 4 colors)\nCostume - Festive Moon Collared Suit (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_100002",
+    "resourceBoxId": 100002,
+    "label": "Limited Time",
+    "startAt": 1674428400000,
+    "endAt": 1675238399000,
+    "purchaseOption": "exchange"
   }
 ]
