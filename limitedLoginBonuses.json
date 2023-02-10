@@ -757,6 +757,23 @@
     ]
   },
   {
+    "id": 41,
+    "seq": 41,
+    "name": "Valentine's Login Campaign",
+    "startAt": 1676361600000,
+    "endAt": 1676534399000,
+    "assetbundleName": "valentine_2022",
+    "closeAt": 1676534399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 98,
+        "limitedLoginBonusId": 41,
+        "day": 1,
+        "resourceBoxId": 61
+      }
+    ]
+  },
+  {
     "id": 1001,
     "seq": 1001,
     "name": "OBT特別ログインボーナス",
@@ -1746,6 +1763,88 @@
         "limitedLoginBonusId": 1021,
         "day": 9,
         "resourceBoxId": 1132
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "seq": 1022,
+    "name": "Winter Login Campaign",
+    "startAt": 1676232000000,
+    "endAt": 1677671999000,
+    "assetbundleName": "winter_login_bonus_2023",
+    "closeAt": 1676980800000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1133,
+        "limitedLoginBonusId": 1022,
+        "day": 1,
+        "resourceBoxId": 1133
+      },
+      {
+        "id": 1134,
+        "limitedLoginBonusId": 1022,
+        "day": 2,
+        "resourceBoxId": 1134
+      },
+      {
+        "id": 1135,
+        "limitedLoginBonusId": 1022,
+        "day": 3,
+        "resourceBoxId": 1135
+      },
+      {
+        "id": 1136,
+        "limitedLoginBonusId": 1022,
+        "day": 4,
+        "resourceBoxId": 1136
+      },
+      {
+        "id": 1137,
+        "limitedLoginBonusId": 1022,
+        "day": 5,
+        "resourceBoxId": 1137
+      },
+      {
+        "id": 1138,
+        "limitedLoginBonusId": 1022,
+        "day": 6,
+        "resourceBoxId": 1138
+      },
+      {
+        "id": 1139,
+        "limitedLoginBonusId": 1022,
+        "day": 7,
+        "resourceBoxId": 1139
+      },
+      {
+        "id": 1140,
+        "limitedLoginBonusId": 1022,
+        "day": 8,
+        "resourceBoxId": 1140
+      },
+      {
+        "id": 1141,
+        "limitedLoginBonusId": 1022,
+        "day": 9,
+        "resourceBoxId": 1141
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "seq": 1023,
+    "name": "Miku Day Login Campaign",
+    "startAt": 1678348800000,
+    "endAt": 1679554799000,
+    "assetbundleName": "miku_day_login_bonus_2023",
+    "closeAt": 1679554799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1142,
+        "limitedLoginBonusId": 1023,
+        "day": 1,
+        "resourceBoxId": 1142
       }
     ]
   }

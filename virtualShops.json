@@ -2585,5 +2585,139 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 94,
+    "seq": 94,
+    "name": "Kanade's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 194,
+        "virtualShopId": 94,
+        "virtualShopItemType": "coordinate",
+        "seq": 99916,
+        "resourceBoxId": 79,
+        "costPaidJewel": 1000,
+        "startAt": 1675897200000,
+        "endAt": 1676242799000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 95,
+    "seq": 95,
+    "name": "第49回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 195,
+        "virtualShopId": 95,
+        "virtualShopItemType": "penlight",
+        "seq": 199935,
+        "resourceBoxId": 156,
+        "costPaidJewel": 1000,
+        "startAt": 1675983600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 96,
+    "seq": 96,
+    "name": "Valentine's Day Show",
+    "virtualShopItems": [
+      {
+        "id": 196,
+        "virtualShopId": 96,
+        "virtualShopItemType": "penlight",
+        "seq": 99915,
+        "resourceBoxId": 157,
+        "costPaidJewel": 1000,
+        "startAt": 1676242800000,
+        "endAt": 1676674799000
+      },
+      {
+        "id": 197,
+        "virtualShopId": 96,
+        "virtualShopItemType": "coordinate",
+        "seq": 99914,
+        "resourceBoxId": 81,
+        "costPaidJewel": 1000,
+        "startAt": 1676242800000,
+        "endAt": 1676674799000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 97,
+    "seq": 97,
+    "name": "KAITO's Anniversary",
+    "virtualShopItems": [
+      {
+        "id": 198,
+        "virtualShopId": 97,
+        "virtualShopItemType": "coordinate",
+        "seq": 99913,
+        "resourceBoxId": 80,
+        "costPaidJewel": 1000,
+        "startAt": 1676502000000,
+        "endAt": 1676847599000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 98,
+    "seq": 98,
+    "name": "第50回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 199,
+        "virtualShopId": 98,
+        "virtualShopItemType": "accessory",
+        "seq": 199934,
+        "resourceBoxId": 158,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1676761200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 99,
+    "seq": 99,
+    "name": "第51回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 200,
+        "virtualShopId": 99,
+        "virtualShopItemType": "coordinate",
+        "seq": 199933,
+        "resourceBoxId": 159,
+        "costPaidJewel": 1000,
+        "startAt": 1677625200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 100,
+    "seq": 100,
+    "name": "Kohane's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 201,
+        "virtualShopId": 100,
+        "virtualShopItemType": "coordinate",
+        "seq": 99912,
+        "resourceBoxId": 82,
+        "costPaidJewel": 1000,
+        "startAt": 1677625200000,
+        "endAt": 1677970799000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
