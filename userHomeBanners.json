@@ -21,28 +21,6 @@
     "endAt": 1677657599000
   },
   {
-    "homeBannerId": 359,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "[SNOW MIKU 2022]プレミアムプレゼントガチャ（優先度UP用）",
-    "assetbundleName": "banner_gacha179",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 179,
-    "startAt": 1675551600000,
-    "endAt": 1676242799000
-  },
-  {
-    "homeBannerId": 361,
-    "seq": 160,
-    "homeBannerType": "general",
-    "name": "[宵崎奏]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive130",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 130,
-    "startAt": 1675897200000,
-    "endAt": 1676242799000
-  },
-  {
     "homeBannerId": 362,
     "seq": 100,
     "homeBannerType": "event",
@@ -85,6 +63,17 @@
     "transitionDestinationId": 183,
     "startAt": 1676016000000,
     "endAt": 1676620799000
+  },
+  {
+    "homeBannerId": 370,
+    "seq": 170,
+    "homeBannerType": "general",
+    "name": "Valentine's Day Show 2022",
+    "assetbundleName": "banner_virtuallive132",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 132,
+    "startAt": 1676242800000,
+    "endAt": 1676674799000
   },
   {
     "homeBannerId": 1001,
