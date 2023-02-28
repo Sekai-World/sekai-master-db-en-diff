@@ -1416,8 +1416,8 @@
     "assetbundleName": "shop_20104",
     "resourceBoxId": 20104,
     "bonusResourceBoxId": 20104,
-    "startAt": 1675206000000,
-    "endAt": 1675983599000
+    "startAt": 1677625200000,
+    "endAt": 4102473599000
   },
   {
     "id": 20107,
@@ -1762,7 +1762,7 @@
   },
   {
     "id": 100002,
-    "seq": 120,
+    "seq": 130,
     "billingShopItemType": "costume_3d",
     "name": "Festive Moon Costume All Colors",
     "description": "Costume - Festive Moon Dress (F) (20 Costumes x 4 colors)\nCostume - Festive Moon Collared Suit (M) (6 Costumes x 4 colors)",
@@ -1774,6 +1774,22 @@
     "label": "Limited Time",
     "startAt": 1674428400000,
     "endAt": 1675238399000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 100003,
+    "seq": 130,
+    "billingShopItemType": "costume_3d",
+    "name": "Sugar Cookie Costume All Colors",
+    "description": "Costume - Sugar Cookie Sprinkle (F) (20 Costumes x 4 colors)\nCostume - Sugar Cookie Swirl (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_100003",
+    "resourceBoxId": 100003,
+    "label": "Limited Time",
+    "startAt": 1677625200000,
+    "endAt": 1680073199000,
     "purchaseOption": "exchange"
   }
 ]

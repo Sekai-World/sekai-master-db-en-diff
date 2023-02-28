@@ -109,5 +109,20 @@
     "seq": 1,
     "startAt": 1677585600000,
     "endAt": 4102473599000
+  },
+  {
+    "id": 13,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20106,
+    "offerType": "limited",
+    "offerDisplayCondition": "event_badge",
+    "requirement": 10000,
+    "param1": 51,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 15839,
+    "assetBundleName": "offer06",
+    "seq": 5,
+    "startAt": 1677625200000,
+    "endAt": 1678575599000
   }
 ]
