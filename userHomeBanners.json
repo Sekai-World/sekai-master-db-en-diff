@@ -11,36 +11,14 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 354,
-    "seq": 300,
+    "homeBannerId": 319,
+    "seq": 220,
     "homeBannerType": "general",
-    "name": "[2022\/02]プレミアムミッションパス（優先度DOWN用）",
-    "assetbundleName": "banner_premiummissionpass_en_2023_02",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1675238400000,
-    "endAt": 1677657599000
-  },
-  {
-    "homeBannerId": 372,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]レオ二箱イベ8巡目_イベントバナー",
-    "assetbundleName": "event_peaky_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 50,
-    "startAt": 1676761200000,
-    "endAt": 1677625199000
-  },
-  {
-    "homeBannerId": 374,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]レオ二箱イベ7巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha185",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 185,
-    "startAt": 1676761200000,
-    "endAt": 1677625199000
+    "name": "「モーモーニューイヤー」再販売",
+    "assetbundleName": "banner_shop_costume_resale_en_2023_03",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1677657600000,
+    "endAt": 1680332399000
   },
   {
     "homeBannerId": 376,
@@ -51,6 +29,49 @@
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 187,
     "startAt": 1677106800000,
+    "endAt": 1677970799000
+  },
+  {
+    "homeBannerId": 379,
+    "seq": 300,
+    "homeBannerType": "general",
+    "name": "[2022\/03]プレミアムミッションパス（優先度DOWN用）",
+    "assetbundleName": "banner_premiummissionpass_en_2023_03",
+    "transitionDestinationType": "billing_shop_for_live_mission_pass",
+    "startAt": 1677657600000,
+    "endAt": 1680332399000
+  },
+  {
+    "homeBannerId": 381,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルホワイトデーイベ_イベントバナー",
+    "assetbundleName": "event_whiteday_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 51,
+    "startAt": 1677625200000,
+    "endAt": 1678575599000
+  },
+  {
+    "homeBannerId": 382,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフルホワイトデーイベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha188",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 188,
+    "startAt": 1677625200000,
+    "endAt": 1678575599000
+  },
+  {
+    "homeBannerId": 385,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "[小豆沢こはね]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive136",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 136,
+    "startAt": 1677625200000,
     "endAt": 1677970799000
   },
   {
@@ -65,13 +86,13 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1037,
-    "seq": 220,
+    "homeBannerId": 1040,
+    "seq": 190,
     "homeBannerType": "general",
-    "name": "「クラシカルメイド・バトラー」再販売",
-    "assetbundleName": "banner_shop_costume_resale_en_2023_02",
+    "name": "「シュガークッキー」衣装 全カラー",
+    "assetbundleName": "banner_shop_costume_sale_en_02",
     "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1675238400000,
-    "endAt": 1677657599000
+    "startAt": 1677625200000,
+    "endAt": 1680073199000
   }
 ]
