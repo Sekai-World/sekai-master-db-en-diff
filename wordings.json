@@ -44,6 +44,22 @@
     "value": "No opponents found. Return to matchmaking screen?"
   },
   {
+    "wordingKey": "MESSAGE_RANK_MATCH_BANNED_PLAY_PENALTY_DIALOG",
+    "value": "Multiple disconnections or unfair practices have been detected.\nRanked Match feature has been temporarily disabled."
+  },
+  {
+    "wordingKey": "MESSAGE_RANK_MATCH_LIMIT_TIME_PENALTY_DIALOG",
+    "value": "Multiple disconnections or unfair practices have been detected.\nRanked Match feature has been temporarily disabled."
+  },
+  {
+    "wordingKey": "MESSAGE_RANK_MATCH_SEASON_BAN_PENALTY_DIALOG",
+    "value": "You have been banned from participating this season."
+  },
+  {
+    "wordingKey": "MESSAGE_RANK_MATCH_WARN_PENALTY_DIALOG",
+    "value": "Disconnections or unfair practices during Ranked Matches detected.\nThis show has been deemed a loss.\n\nIf any disconnections or unfair practices are detected again, you may be barred from participating in Ranked Matches or have your account suspended."
+  },
+  {
     "wordingKey": "MSG_ABOUT_LIVE_POINT",
     "value": "Show Missions"
   },
@@ -114,6 +130,10 @@
   {
     "wordingKey": "MSG_ANOTHER_VICAL_RELEASE_CONDITION",
     "value": "Obtain {0}\nto unlock."
+  },
+  {
+    "wordingKey": "MSG_APRIL_FOOL_2022_VOCAL_OUT_OF_PERIOD",
+    "value": "April Fools has ended.\nReturning to home screen."
   },
   {
     "wordingKey": "MSG_ARCHIVE_EVENT_STORY_ERROR",
@@ -225,11 +245,11 @@
   },
   {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_INFO",
-    "value": "<color=#ff5599>*Stamps reset every Monday at 4:00 (PST).<\/color>"
+    "value": "<color=#ff5599>*Stamps reset every Monday at 4:00 (PDT).<\/color>"
   },
   {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_RESET",
-    "value": "Resets on Monday at 4:00 PST"
+    "value": "Resets on Monday at 4:00 PDT"
   },
   {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT",
@@ -512,6 +532,10 @@
     "value": "Update"
   },
   {
+    "wordingKey": "MSG_EMPTY_HISTORY",
+    "value": "You have not participated in any seasons."
+  },
+  {
     "wordingKey": "MSG_EMPTY_STAMP_DEFAULT",
     "value": "No displayable Stamps."
   },
@@ -526,6 +550,10 @@
   {
     "wordingKey": "MSG_EMPTY_STAMP_HISTORY",
     "value": "No record of Stamps used."
+  },
+  {
+    "wordingKey": "MSG_EMPTY_WIN_RATE",
+    "value": "---%"
   },
   {
     "wordingKey": "MSG_ENDS_IN_DHMS",
@@ -1328,6 +1356,10 @@
     "value": "You are not participating in this event."
   },
   {
+    "wordingKey": "MSG_NOT_ENTRY_RANK_MATCH",
+    "value": "You are not participating in Ranked Matches."
+  },
+  {
     "wordingKey": "MSG_NOT_EVENT_INSESSION",
     "value": "No ongoing Events."
   },
@@ -1354,6 +1386,18 @@
   {
     "wordingKey": "MSG_NO_ARCHIVE_EVENT_FOUND",
     "value": "No event found."
+  },
+  {
+    "wordingKey": "MSG_NO_CONTEST_RANK_MATCH_CHEAT",
+    "value": "Unfair practices during Ranked Matches detected.\nThis show has been deemed a loss.\n\nIf disconnections or unfair practices are detected again, you may be barred from participating in Ranked Matches or have your account suspended."
+  },
+  {
+    "wordingKey": "MSG_NO_CONTEST_RANK_MATCH_HARASSMENT",
+    "value": "Disconnections during Ranked Matches detected.\nThis show has been marked for inappropriate conduct.\n\nIf disconnections or unfair practices are detected again, you may be barred from participating in Ranked Matches or have your account suspended."
+  },
+  {
+    "wordingKey": "MSG_NO_CONTEST_RANK_MATCH_TIMEOUT",
+    "value": "Disconnections during Ranked Matches detected.\nThis show has been deemed a loss.\n\nIf disconnections or unfair practices are detected again, you may be barred from participating in Ranked Matches or have your account suspended."
   },
   {
     "wordingKey": "MSG_NO_CONTEST_REASON_CHEET",
@@ -1416,6 +1460,10 @@
     "value": "Back"
   },
   {
+    "wordingKey": "MSG_OUT_OF_TERM_RANK_MATCH_DIALOG",
+    "value": "Currently off-season. Returning to Ranked Matches screen."
+  },
+  {
     "wordingKey": "MSG_OVER_RARITY_3_ONCE",
     "value": "1 Guaranteed 3★ or higher!"
   },
@@ -1460,6 +1508,10 @@
     "value": "{0} Pulls Limited"
   },
   {
+    "wordingKey": "MSG_PLACEMENT_MATCH_COUNT",
+    "value": "<color=#F45BA9><size=56> {0} <\/size><\/color> matches left to determine starting rank."
+  },
+  {
     "wordingKey": "MSG_PRACTICE_EXECUTE",
     "value": "Use {0} to Practice.\nContinue?"
   },
@@ -1474,6 +1526,10 @@
   {
     "wordingKey": "MSG_PRACTICE_TICKET_ERROR",
     "value": "Previous Practice results interrupted.\nPractice will be cancelled to retrieve results.\n\nPlease check the level of your character and the number of Practice Scores that will be used before conducting Practice."
+  },
+  {
+    "wordingKey": "MSG_PRELIMINARY_TOURNAMENT_ENDED",
+    "value": "Preliminaries have ended. Returning to home screen."
   },
   {
     "wordingKey": "MSG_PREMIUM_BEFORE_SALE",
@@ -1510,6 +1566,58 @@
   {
     "wordingKey": "MSG_RANK_FORMAT",
     "value": "Rank <size={0}>{1}<\/size>\/{2}"
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_END_SEASON",
+    "value": "This season has ended. Please wait until the next season."
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_INTERNET_NOT_REACHABLE",
+    "value": "Unable to find connection.\nPlease check your network connectivity."
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_MATCHING_ERROR_DISCONNECT",
+    "value": "Connection lost.\nReturning to Show screen."
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_MATCH_BEFORE_FIX_WAIT",
+    "value": "Preparing match."
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_MATCH_FIX_WAIT",
+    "value": "Waiting for opponent to reply..."
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_NOT_FIXED_BY_ME",
+    "value": "You failed to respond in time. Cancelling matchmaking."
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_NOT_FIXED_BY_OPPONENT",
+    "value": "Opponent did not respond. Restarting matchmaking."
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_NOT_FIX_BY_DISCONNECTING",
+    "value": "Opponent disconnected. Restarting matchmaking."
+  },
+  {
+    "wordingKey": "MSG_RANK_LIVE_PLACEMENT_REQUIRED_MATCH_COUNT_FORMAT",
+    "value": "<color>{0}<\/color> matches left\nto determine starting rank."
+  },
+  {
+    "wordingKey": "MSG_RANK_MATCH_CLOSE_NEXT_TIME_FORMAT",
+    "value": "Currently off-season.\nNext Season {0:00}:{1:00} - {2:00}:{3:00}"
+  },
+  {
+    "wordingKey": "MSG_RANK_MATCH_OUT_OF_SEASON",
+    "value": "This season has ended."
+  },
+  {
+    "wordingKey": "MSG_RANK_MATCH_OUT_OF_TIME_FORMAT",
+    "value": "Off-season period {0:00}:{1:00} - {2:00}:{3:00}"
+  },
+  {
+    "wordingKey": "MSG_RANK_MATCH_RELEASE_WAIT",
+    "value": "The Ranked Match feature is scheduled to be released on March 21, 2023 19:00 (PDT)."
   },
   {
     "wordingKey": "MSG_RATING",
@@ -1557,7 +1665,7 @@
   },
   {
     "wordingKey": "MSG_RESET_AT_HOUR",
-    "value": "Resets at {0}:00 PST"
+    "value": "Resets at {0}:00 PDT"
   },
   {
     "wordingKey": "MSG_RESTRICT_MULTILIVE",
@@ -1620,6 +1728,10 @@
     "value": "*Previously obtained members will be sent to the Green Room."
   },
   {
+    "wordingKey": "MSG_SERCH_MATCHING_OPPONENT",
+    "value": "Matchmaking..."
+  },
+  {
     "wordingKey": "MSG_SETTABLE_FROM_OPTION",
     "value": "*This can be changed from the Options screen."
   },
@@ -1673,7 +1785,7 @@
   },
   {
     "wordingKey": "MSG_SHOP_MONTHLY_RESET_PERIOD",
-    "value": "Resets day {0} of every month at 00:00 PST"
+    "value": "Resets day {0} of every month at 00:00 PDT"
   },
   {
     "wordingKey": "MSG_SHOP_NUMBER_OF_PURCHASE",
@@ -1705,7 +1817,7 @@
   },
   {
     "wordingKey": "MSG_SHOP_RESET",
-    "value": "Resets on the last day of every month at 00:00 PST."
+    "value": "Resets on the last day of every month at 00:00 PDT."
   },
   {
     "wordingKey": "MSG_SHOP_RE_REFLECT_CONFIRM",
@@ -1846,6 +1958,14 @@
   {
     "wordingKey": "MSG_TOTAL_LIVE_POINT",
     "value": "Total Monthly Show Pts♪"
+  },
+  {
+    "wordingKey": "MSG_TOURNAMENT_LIVE_FAILED",
+    "value": "You have run out of Life.\nContinue cannot be used in Tournament Mode."
+  },
+  {
+    "wordingKey": "MSG_TOURNAMENT_LIVE_NOTICE",
+    "value": "In order to record fair scores in Tournament Mode,\nTalents and Skills for your groups will be voided.\nFurthermore, Show Rewards will not be obtainable."
   },
   {
     "wordingKey": "MSG_TO_BE_HELD_SOON",
@@ -2084,6 +2204,10 @@
     "value": "Your Total Event Pts"
   },
   {
+    "wordingKey": "MSG_YOUR_TOTAL_RANK_POINT",
+    "value": "Your Total Rank Points"
+  },
+  {
     "wordingKey": "MUSIC_ACHIEVEMENTS_LIST",
     "value": "Song Rewards List"
   },
@@ -2102,6 +2226,18 @@
   {
     "wordingKey": "TITLE_PERMISSION_NOT_GRANTED",
     "value": "Access Required"
+  },
+  {
+    "wordingKey": "TITLE_PRELIMINARY_TOURNAMENT_ENDED",
+    "value": "Confirm"
+  },
+  {
+    "wordingKey": "TITLE_RANK_MATCH_WARN_PENALTY_DIALOG",
+    "value": "Warning"
+  },
+  {
+    "wordingKey": "TITLE_TOURNAMENT_LIVE_NOTICE",
+    "value": "Regarding Tournament Mode"
   },
   {
     "wordingKey": "WARD_BONDS_RANK_REWARD_ANOTHER_VOCAL",
@@ -2216,6 +2352,10 @@
     "value": "{0} Combo"
   },
   {
+    "wordingKey": "WORD_ADD_FORMAT",
+    "value": "+{0}"
+  },
+  {
     "wordingKey": "WORD_ADD_FRIEND",
     "value": "Add Friend"
   },
@@ -2294,6 +2434,10 @@
   {
     "wordingKey": "WORD_APPER_UNIT",
     "value": "Group"
+  },
+  {
+    "wordingKey": "WORD_APRIL_FOOL_TAB",
+    "value": "April Fools"
   },
   {
     "wordingKey": "WORD_AP_COMBO_EFFECT",
@@ -2400,6 +2544,10 @@
     "value": "{0}（{1}）"
   },
   {
+    "wordingKey": "WORD_A_SPACE_B_FORMAT",
+    "value": "{0} {1}"
+  },
+  {
     "wordingKey": "WORD_BACK",
     "value": "Back"
   },
@@ -2494,6 +2642,30 @@
   {
     "wordingKey": "WORD_BONUS",
     "value": "Bonus"
+  },
+  {
+    "wordingKey": "WORD_BONUS_POINT_ALL_PERFECT_FORMAT",
+    "value": "All Perfect {0}"
+  },
+  {
+    "wordingKey": "WORD_BONUS_POINT_CONSECUTIVE_WIN_FORMAT",
+    "value": "Win Bonus {0}"
+  },
+  {
+    "wordingKey": "WORD_BONUS_POINT_FORMAT",
+    "value": "{0}\/{1}"
+  },
+  {
+    "wordingKey": "WORD_BONUS_POINT_FULL_COMBO_FORMAT",
+    "value": "Full Combo {0}"
+  },
+  {
+    "wordingKey": "WORD_BONUS_POINT_HIGHER_CLASS_WIN_FORMAT",
+    "value": "Win vs higher Class {0}"
+  },
+  {
+    "wordingKey": "WORD_BONUS_POINT_LIFE_0_FORMAT",
+    "value": "０ Life {0}"
   },
   {
     "wordingKey": "WORD_BOOST_RECOVERY",
@@ -2758,6 +2930,10 @@
   {
     "wordingKey": "WORD_CHEER_RANKING",
     "value": "Fan Rankings"
+  },
+  {
+    "wordingKey": "WORD_CLASS",
+    "value": "Class {0}"
   },
   {
     "wordingKey": "WORD_CLEAR",
@@ -3172,6 +3348,10 @@
     "value": "Disband"
   },
   {
+    "wordingKey": "WORD_DIVIDE_FORMAT",
+    "value": "÷{0}"
+  },
+  {
     "wordingKey": "WORD_DOWNLOAD",
     "value": "Download"
   },
@@ -3442,6 +3622,10 @@
   {
     "wordingKey": "WORD_EXIST_3D_MV",
     "value": "3DMV Available"
+  },
+  {
+    "wordingKey": "WORD_EXPECTED_TIME",
+    "value": "予測時間"
   },
   {
     "wordingKey": "WORD_EXP_REWARD",
@@ -4185,7 +4369,7 @@
   },
   {
     "wordingKey": "WORD_LIVE_BOOST_PRESENT_RESET",
-    "value": "Resets at 4:00 PST"
+    "value": "Resets at 4:00 PDT"
   },
   {
     "wordingKey": "WORD_LIVE_BOOST_RECOVER",
@@ -4340,6 +4524,10 @@
     "value": "Ends on {0}"
   },
   {
+    "wordingKey": "WORD_LOSE",
+    "value": "Lose"
+  },
+  {
     "wordingKey": "WORD_LV",
     "value": "Lv."
   },
@@ -4434,6 +4622,10 @@
   {
     "wordingKey": "WORD_MAX",
     "value": "MAX"
+  },
+  {
+    "wordingKey": "WORD_MAX_WIN_STREAK",
+    "value": "Max Win Streak"
   },
   {
     "wordingKey": "WORD_MEMBER",
@@ -4616,6 +4808,10 @@
     "value": "Multi"
   },
   {
+    "wordingKey": "WORD_MULTIPLY_FORMAT",
+    "value": "×{0}"
+  },
+  {
     "wordingKey": "WORD_MULTI_LIVE",
     "value": "Co-op Show"
   },
@@ -4772,6 +4968,10 @@
     "value": "Don't Join"
   },
   {
+    "wordingKey": "WORD_NOT_JOINED",
+    "value": "No Record"
+  },
+  {
     "wordingKey": "WORD_NOT_PUBLISH_MUSIC_ERROR_TITLE",
     "value": "Error"
   },
@@ -4798,6 +4998,10 @@
   {
     "wordingKey": "WORD_NOW_LOADING",
     "value": "Now Loading..."
+  },
+  {
+    "wordingKey": "WORD_NOW_SEASON_BATTLE_RECORD",
+    "value": "Most Recent Season"
   },
   {
     "wordingKey": "WORD_NO_CHARGE",
@@ -4837,7 +5041,7 @@
   },
   {
     "wordingKey": "WORD_OFFER",
-    "value": "Just for you"
+    "value": "Special promotion!"
   },
   {
     "wordingKey": "WORD_OK",
@@ -4878,6 +5082,10 @@
   {
     "wordingKey": "WORD_OPERATION_MESSAGE_TITLE",
     "value": "From the Ops Team"
+  },
+  {
+    "wordingKey": "WORD_OPPONENT_NOT_FIXED_MESSAGE",
+    "value": "Opponent did not start in time. Restarting matchmaking."
   },
   {
     "wordingKey": "WORD_OPTION",
@@ -4962,6 +5170,10 @@
   {
     "wordingKey": "WORD_PENLIGHT",
     "value": "Glow Sticks"
+  },
+  {
+    "wordingKey": "WORD_PERCENT_VALUE",
+    "value": "{0}%"
   },
   {
     "wordingKey": "WORD_PERFORMER",
@@ -5188,8 +5400,32 @@
     "value": "Rankings"
   },
   {
+    "wordingKey": "WORD_RANKMATCH",
+    "value": "Ranked Match"
+  },
+  {
+    "wordingKey": "WORD_RANKMATCH_RANKING",
+    "value": "Ranked Match Rankings"
+  },
+  {
+    "wordingKey": "WORD_RANKMATCH_RECORD",
+    "value": "Season Record"
+  },
+  {
     "wordingKey": "WORD_RANKUP_REWARD",
     "value": "Rank Up Reward"
+  },
+  {
+    "wordingKey": "WORD_RANK_CLASS_POINT_FORMAT",
+    "value": "× <color=#bb44ff>{0}<\/color>"
+  },
+  {
+    "wordingKey": "WORD_RANK_LIVE_FIND_OPPONENT_FIX_BUTTON_LABEL",
+    "value": "Start"
+  },
+  {
+    "wordingKey": "WORD_RANK_POINT_BONUS",
+    "value": "Rank Point Bonus"
   },
   {
     "wordingKey": "WORD_RARITY",
@@ -5348,6 +5584,10 @@
     "value": "Resume"
   },
   {
+    "wordingKey": "WORD_RETURN_RANK_LIVE",
+    "value": "Returning to Ranked Matches."
+  },
+  {
     "wordingKey": "WORD_REVERT_BEFORE_EDIT",
     "value": "Reset"
   },
@@ -5416,6 +5656,10 @@
     "value": "Score Rank"
   },
   {
+    "wordingKey": "WORD_SCORE_REGISTER_DATE",
+    "value": "Acq. Score Date & Time"
+  },
+  {
     "wordingKey": "WORD_SCREEN_FIXED",
     "value": "Lock Screen"
   },
@@ -5434,6 +5678,10 @@
   {
     "wordingKey": "WORD_SEARCH_PLAYER_ID",
     "value": "Search for Player ID"
+  },
+  {
+    "wordingKey": "WORD_SEASON_RESULT",
+    "value": "Previous Season"
   },
   {
     "wordingKey": "WORD_SEE_CONTENT",
@@ -5908,6 +6156,10 @@
     "value": "COLORFUL+ Status"
   },
   {
+    "wordingKey": "WORD_SUBTRACT_FORMAT",
+    "value": "-{0}"
+  },
+  {
     "wordingKey": "WORD_SUB_UNIT",
     "value": "Subgroup"
   },
@@ -6044,6 +6296,10 @@
     "value": "EULA"
   },
   {
+    "wordingKey": "WORD_TOTAL_MATCH_COUNT",
+    "value": "Total Matches"
+  },
+  {
     "wordingKey": "WORD_TOTAL_POSSESSION",
     "value": "Total Owned"
   },
@@ -6094,6 +6350,18 @@
   {
     "wordingKey": "WORD_TOTAL_POWER_HONOR_BONUS",
     "value": "Title Bonus"
+  },
+  {
+    "wordingKey": "WORD_TOURNAMENT_HIGH_SCORE",
+    "value": "Tournament High Score"
+  },
+  {
+    "wordingKey": "WORD_TOURNAMENT_MUSIC",
+    "value": "Tournament-Applicable Songs"
+  },
+  {
+    "wordingKey": "WORD_TOURNAMENT_SCORE_DETAIL",
+    "value": "Details"
   },
   {
     "wordingKey": "WORD_TO_EXCHANGE_SHOP",
@@ -6562,6 +6830,18 @@
   {
     "wordingKey": "WORD_WEEK_WED",
     "value": "(Wed)"
+  },
+  {
+    "wordingKey": "WORD_WIN",
+    "value": "Win"
+  },
+  {
+    "wordingKey": "WORD_WIN_COUNT",
+    "value": "Wins"
+  },
+  {
+    "wordingKey": "WORD_WIN_RATE",
+    "value": "Win Rate"
   },
   {
     "wordingKey": "WORD_WISH_LIST_CONFIRM_TITLE",

@@ -278,7 +278,7 @@
         "id": 28,
         "virtualShopId": 1,
         "virtualShopItemType": "costume",
-        "seq": 10,
+        "seq": 200010,
         "resourceBoxId": 33,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
@@ -288,7 +288,7 @@
         "id": 29,
         "virtualShopId": 1,
         "virtualShopItemType": "costume",
-        "seq": 20,
+        "seq": 200020,
         "resourceBoxId": 28,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
@@ -298,7 +298,7 @@
         "id": 30,
         "virtualShopId": 1,
         "virtualShopItemType": "costume",
-        "seq": 30,
+        "seq": 200030,
         "resourceBoxId": 29,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
@@ -308,7 +308,7 @@
         "id": 31,
         "virtualShopId": 1,
         "virtualShopItemType": "costume",
-        "seq": 40,
+        "seq": 200040,
         "resourceBoxId": 30,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
@@ -318,7 +318,7 @@
         "id": 32,
         "virtualShopId": 1,
         "virtualShopItemType": "costume",
-        "seq": 50,
+        "seq": 200050,
         "resourceBoxId": 31,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
@@ -328,7 +328,7 @@
         "id": 33,
         "virtualShopId": 1,
         "virtualShopItemType": "costume",
-        "seq": 60,
+        "seq": 200060,
         "resourceBoxId": 32,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
@@ -338,7 +338,7 @@
         "id": 34,
         "virtualShopId": 1,
         "virtualShopItemType": "costume",
-        "seq": 70,
+        "seq": 200070,
         "resourceBoxId": 58,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
@@ -348,7 +348,7 @@
         "id": 35,
         "virtualShopId": 1,
         "virtualShopItemType": "costume",
-        "seq": 80,
+        "seq": 200080,
         "resourceBoxId": 59,
         "costVirtualCoin": 3000,
         "costJewel": 1000,
@@ -2719,5 +2719,105 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 101,
+    "seq": 101,
+    "name": "第52回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 202,
+        "virtualShopId": 101,
+        "virtualShopItemType": "penlight",
+        "seq": 199932,
+        "resourceBoxId": 160,
+        "costPaidJewel": 1000,
+        "startAt": 1678575600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 102,
+    "seq": 102,
+    "name": "ホワイトデーライブ",
+    "virtualShopItems": [
+      {
+        "id": 203,
+        "virtualShopId": 102,
+        "virtualShopItemType": "accessory",
+        "seq": 99911,
+        "resourceBoxId": 161,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1678658400000,
+        "endAt": 1679090399000
+      },
+      {
+        "id": 204,
+        "virtualShopId": 102,
+        "virtualShopItemType": "coordinate",
+        "seq": 99910,
+        "resourceBoxId": 86,
+        "costPaidJewel": 1000,
+        "startAt": 1678658400000,
+        "endAt": 1679090399000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 103,
+    "seq": 103,
+    "name": "Airi's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 205,
+        "virtualShopId": 103,
+        "virtualShopItemType": "coordinate",
+        "seq": 99909,
+        "resourceBoxId": 87,
+        "costPaidJewel": 1000,
+        "startAt": 1679090400000,
+        "endAt": 1679435999000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 104,
+    "seq": 104,
+    "name": "第53回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 206,
+        "virtualShopId": 104,
+        "virtualShopItemType": "accessory",
+        "seq": 199931,
+        "resourceBoxId": 162,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1679349600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 105,
+    "seq": 105,
+    "name": "第54回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 207,
+        "virtualShopId": 105,
+        "virtualShopItemType": "accessory",
+        "seq": 199930,
+        "resourceBoxId": 163,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1680213600000
+      }
+    ],
+    "virtualShopType": "event"
   }
 ]

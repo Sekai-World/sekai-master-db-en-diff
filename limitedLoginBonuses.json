@@ -774,6 +774,23 @@
     ]
   },
   {
+    "id": 42,
+    "seq": 42,
+    "name": "White Day Login Campaign",
+    "startAt": 1678777200000,
+    "endAt": 1678949999000,
+    "assetbundleName": "whiteday_2022",
+    "closeAt": 1678949999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 99,
+        "limitedLoginBonusId": 42,
+        "day": 1,
+        "resourceBoxId": 62
+      }
+    ]
+  },
+  {
     "id": 1001,
     "seq": 1001,
     "name": "OBT特別ログインボーナス",
@@ -1845,6 +1862,47 @@
         "limitedLoginBonusId": 1023,
         "day": 1,
         "resourceBoxId": 1142
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "seq": 1024,
+    "name": "JP1.5周年記念 login Campaign",
+    "startAt": 1680202800000,
+    "endAt": 1681469999000,
+    "assetbundleName": "jp_1.5th_anniv_2023",
+    "closeAt": 1681124400000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1143,
+        "limitedLoginBonusId": 1024,
+        "day": 1,
+        "resourceBoxId": 1143
+      },
+      {
+        "id": 1144,
+        "limitedLoginBonusId": 1024,
+        "day": 2,
+        "resourceBoxId": 1144
+      },
+      {
+        "id": 1145,
+        "limitedLoginBonusId": 1024,
+        "day": 3,
+        "resourceBoxId": 1145
+      },
+      {
+        "id": 1146,
+        "limitedLoginBonusId": 1024,
+        "day": 4,
+        "resourceBoxId": 1146
+      },
+      {
+        "id": 1147,
+        "limitedLoginBonusId": 1024,
+        "day": 5,
+        "resourceBoxId": 1147
       }
     ]
   }

@@ -275,7 +275,7 @@
   {
     "id": 72,
     "title": "Show Mission Points Reset",
-    "description": "Show Missions reset at 00:00 PST\non the 1st day of every month.",
+    "description": "Show Missions reset at 00:00 PDT\non the 1st day of every month.",
     "fromUserRank": 30,
     "toUserRank": 60
   },
@@ -570,6 +570,20 @@
     "id": 122,
     "title": "Auto-Play",
     "description": "In the Auto-Play settings, you can set your Bonus Energy to restore automatically and play Shows continuously.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 123,
+    "title": "Ranked Match",
+    "description": "In Ranked Matches, players will compete each season against one another in 1 vs 1 Shows.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 124,
+    "title": "Ranked Match",
+    "description": "In order to unlock Ranked Matches, players will need to reach Player Rank 20 and Full Combo at least 5 songs on EXPERT or higher.",
     "fromUserRank": 1,
     "toUserRank": 999
   },
