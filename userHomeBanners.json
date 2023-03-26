@@ -31,48 +31,37 @@
     "endAt": 1680332399000
   },
   {
-    "homeBannerId": 387,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]モモジャン箱イベ7巡目_イベントバナー",
-    "assetbundleName": "event_castspell_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 52,
-    "startAt": 1678575600000,
-    "endAt": 1679349599000
-  },
-  {
-    "homeBannerId": 389,
-    "seq": 110,
+    "homeBannerId": 393,
+    "seq": 130,
     "homeBannerType": "general",
-    "name": "[ガチャ]モモジャン箱イベ7巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha192",
+    "name": "Airi Momoi Happy Birthday Gacha",
+    "assetbundleName": "banner_gacha194",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 192,
-    "startAt": 1678575600000,
-    "endAt": 1679349599000
+    "transitionDestinationId": 194,
+    "startAt": 1679209200000,
+    "endAt": 1679813999000
   },
   {
-    "homeBannerId": 390,
+    "homeBannerId": 394,
     "seq": 120,
     "homeBannerType": "general",
-    "name": "[ガチャ]モモジャン箱イベ7巡目_イベントメンバーガチャバナー",
-    "assetbundleName": "banner_gacha193",
+    "name": "[ガチャ]ニーゴ箱イベ8巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha195",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 193,
-    "startAt": 1678744800000,
-    "endAt": 1679198399000
+    "transitionDestinationId": 195,
+    "startAt": 1679349600000,
+    "endAt": 1680213599000
   },
   {
-    "homeBannerId": 392,
-    "seq": 160,
-    "homeBannerType": "general",
-    "name": "[桃井愛莉]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive139",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 139,
-    "startAt": 1679090400000,
-    "endAt": 1679435999000
+    "homeBannerId": 395,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]ニーゴ箱イベ8巡目_イベントバナー",
+    "assetbundleName": "event_canvas_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 53,
+    "startAt": 1679349600000,
+    "endAt": 1680213599000
   },
   {
     "homeBannerId": 1001,
@@ -107,13 +96,13 @@
     "endAt": 1680073199000
   },
   {
-    "homeBannerId": 1043,
+    "homeBannerId": 1041,
     "seq": 190,
     "homeBannerType": "general",
-    "name": "「春節」衣装全カラー再販",
-    "assetbundleName": "banner_shop_costume_sale_en_04",
+    "name": "「ペルシャ猫」衣装 全カラー",
+    "assetbundleName": "banner_shop_costume_sale_en_03",
     "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1678942800000,
-    "endAt": 1679695199000
+    "startAt": 1679695200000,
+    "endAt": 1682405999000
   }
 ]

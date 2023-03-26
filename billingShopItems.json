@@ -1873,6 +1873,22 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 100004,
+    "seq": 200,
+    "billingShopItemType": "costume_3d",
+    "name": "Mouser Costume All Colors",
+    "description": "Costume - Majestic Mouser (F) (20 Costumes x 4 colors)\nCostume - Noble Mouser (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_100004",
+    "resourceBoxId": 100004,
+    "label": "Limited Time",
+    "startAt": 1679695200000,
+    "endAt": 1682405999000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 100007,
     "seq": 130,
     "billingShopItemType": "costume_3d",
