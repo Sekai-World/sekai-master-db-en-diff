@@ -11,26 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 319,
-    "seq": 220,
-    "homeBannerType": "general",
-    "name": "「モーモーニューイヤー」再販売",
-    "assetbundleName": "banner_shop_costume_resale_en_2023_03",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1677657600000,
-    "endAt": 1680332399000
-  },
-  {
-    "homeBannerId": 379,
-    "seq": 300,
-    "homeBannerType": "general",
-    "name": "[2022\/03]プレミアムミッションパス（優先度DOWN用）",
-    "assetbundleName": "banner_premiummissionpass_en_2023_03",
-    "transitionDestinationType": "billing_shop_for_live_mission_pass",
-    "startAt": 1677657600000,
-    "endAt": 1680332399000
-  },
-  {
     "homeBannerId": 399,
     "seq": 100,
     "homeBannerType": "event",
@@ -93,5 +73,15 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1679695200000,
     "endAt": 1682405999000
+  },
+  {
+    "homeBannerId": 1042,
+    "seq": 220,
+    "homeBannerType": "general",
+    "name": "「スイーツ」再販売",
+    "assetbundleName": "banner_shop_costume_resale_en_2023_04",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1680332400000,
+    "endAt": 1682924399000
   }
 ]
