@@ -22,17 +22,6 @@
     "endAt": 1681250399000
   },
   {
-    "homeBannerId": 400,
-    "seq": 50,
-    "homeBannerType": "general",
-    "name": "JP 1.5 Year Anniversary Colorful Festival Gacha",
-    "assetbundleName": "banner_gacha198",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 198,
-    "startAt": 1680213600000,
-    "endAt": 1680645599000
-  },
-  {
     "homeBannerId": 401,
     "seq": 80,
     "homeBannerType": "general",
@@ -51,6 +40,17 @@
     "assetbundleName": "banner_shop_1.5th-anniversary_shop",
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1680213600000,
+    "endAt": 1681250399000
+  },
+  {
+    "homeBannerId": 403,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "Yearning for Spring, A Moment in the Night Gacha",
+    "assetbundleName": "banner_gacha200",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 200,
+    "startAt": 1680645600000,
     "endAt": 1681250399000
   },
   {
