@@ -2819,5 +2819,111 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 107,
+    "seq": 107,
+    "name": "第55回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 209,
+        "virtualShopId": 107,
+        "virtualShopItemType": "accessory",
+        "seq": 199929,
+        "resourceBoxId": 165,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1681250400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 108,
+    "seq": 108,
+    "name": "Minori's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 210,
+        "virtualShopId": 108,
+        "virtualShopItemType": "coordinate",
+        "seq": 99908,
+        "resourceBoxId": 93,
+        "costPaidJewel": 1000,
+        "startAt": 1681336800000,
+        "endAt": 1681682399000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 109,
+    "seq": 109,
+    "name": "第56回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 211,
+        "virtualShopId": 109,
+        "virtualShopItemType": "penlight",
+        "seq": 199928,
+        "resourceBoxId": 166,
+        "costPaidJewel": 1000,
+        "startAt": 1682114400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 110,
+    "seq": 110,
+    "name": "Ena's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 212,
+        "virtualShopId": 110,
+        "virtualShopItemType": "coordinate",
+        "seq": 99907,
+        "resourceBoxId": 95,
+        "costPaidJewel": 1000,
+        "startAt": 1682719200000,
+        "endAt": 1683064799000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 111,
+    "seq": 111,
+    "name": "第57回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 213,
+        "virtualShopId": 111,
+        "virtualShopItemType": "penlight",
+        "seq": 199927,
+        "resourceBoxId": 167,
+        "costPaidJewel": 1000,
+        "startAt": 1682892000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 112,
+    "seq": 112,
+    "name": "Saki's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 214,
+        "virtualShopId": 112,
+        "virtualShopItemType": "coordinate",
+        "seq": 99906,
+        "resourceBoxId": 98,
+        "costPaidJewel": 1000,
+        "startAt": 1683496800000,
+        "endAt": 1683842399000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
