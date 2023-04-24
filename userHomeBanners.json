@@ -11,47 +11,26 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 399,
+    "homeBannerId": 409,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]シャッフルバチャシンイベ_イベントバナー",
-    "assetbundleName": "event_sakura_2022",
+    "name": "[イベント]レオ二箱イベ8巡目_イベントバナー",
+    "assetbundleName": "event_memories_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 54,
-    "startAt": 1680213600000,
-    "endAt": 1681250399000
+    "transitionDestinationId": 56,
+    "startAt": 1682114400000,
+    "endAt": 1682891999000
   },
   {
-    "homeBannerId": 401,
-    "seq": 80,
+    "homeBannerId": 410,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "JP 1.5 Year Anniversary 4★ Guaranteed Premium Gift Gacha",
-    "assetbundleName": "banner_gacha197",
+    "name": "[ガチャ]レオ二箱イベ8巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha203",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 197,
-    "startAt": 1680213600000,
-    "endAt": 1681250399000
-  },
-  {
-    "homeBannerId": 402,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "1.5周年記念クリスタルショップ",
-    "assetbundleName": "banner_shop_1.5th-anniversary_shop",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1680213600000,
-    "endAt": 1681250399000
-  },
-  {
-    "homeBannerId": 403,
-    "seq": 120,
-    "homeBannerType": "general",
-    "name": "Yearning for Spring, A Moment in the Night Gacha",
-    "assetbundleName": "banner_gacha200",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 200,
-    "startAt": 1680645600000,
-    "endAt": 1681250399000
+    "transitionDestinationId": 203,
+    "startAt": 1682103600000,
+    "endAt": 1682881199000
   },
   {
     "homeBannerId": 1001,
@@ -63,6 +42,17 @@
     "transitionDestinationId": 1,
     "startAt": 1633118400000,
     "endAt": 4102473540000
+  },
+  {
+    "homeBannerId": 1039,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "4★ Guaranteed Gacha",
+    "assetbundleName": "banner_gacha1030",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1030,
+    "startAt": 1681758000000,
+    "endAt": 1682967599000
   },
   {
     "homeBannerId": 1041,
