@@ -2134,5 +2134,21 @@
     "startAt": 1678942800000,
     "endAt": 1679695199000,
     "purchaseOption": "exchange"
+  },
+  {
+    "id": 100008,
+    "seq": 200,
+    "billingShopItemType": "costume_3d",
+    "name": "Canine Costume All Colors",
+    "description": "Costume - Luminous Canine (F) (20 Costumes x 4 colors)\nCostume - Neon Canine (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_100008",
+    "resourceBoxId": 100008,
+    "label": "Limited Time",
+    "startAt": 1682460000000,
+    "endAt": 1685084399000,
+    "purchaseOption": "exchange"
   }
 ]
