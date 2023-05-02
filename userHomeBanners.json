@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 409,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]レオ二箱イベ8巡目_イベントバナー",
-    "assetbundleName": "event_memories_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 56,
-    "startAt": 1682114400000,
-    "endAt": 1682891999000
-  },
-  {
     "homeBannerId": 414,
     "seq": 130,
     "homeBannerType": "general",
@@ -44,6 +33,17 @@
     "endAt": 1683745199000
   },
   {
+    "homeBannerId": 416,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]モモジャン箱イベ8巡目_イベントバナー",
+    "assetbundleName": "event_painful_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 57,
+    "startAt": 1682892000000,
+    "endAt": 1683755999000
+  },
+  {
     "homeBannerId": 1001,
     "seq": 200,
     "homeBannerType": "general",
@@ -55,25 +55,14 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1039,
-    "seq": 30,
-    "homeBannerType": "general",
-    "name": "4★ Guaranteed Gacha",
-    "assetbundleName": "banner_gacha1030",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1030,
-    "startAt": 1681758000000,
-    "endAt": 1682967599000
-  },
-  {
-    "homeBannerId": 1042,
+    "homeBannerId": 1044,
     "seq": 220,
     "homeBannerType": "general",
-    "name": "「スイーツ」再販売",
-    "assetbundleName": "banner_shop_costume_resale_en_2023_04",
+    "name": "「近未来衣装」再販売",
+    "assetbundleName": "banner_shop_costume_resale_en_2023_05",
     "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1680332400000,
-    "endAt": 1682924399000
+    "startAt": 1682924400000,
+    "endAt": 1685602799000
   },
   {
     "homeBannerId": 1045,
