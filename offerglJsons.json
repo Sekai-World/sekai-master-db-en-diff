@@ -111,18 +111,48 @@
     "endAt": 4102473599000
   },
   {
-    "id": 19,
+    "id": 20,
     "shopItemType": "billing_shop",
     "shopItemId": 20106,
     "offerType": "limited",
     "offerDisplayCondition": "event_badge",
     "requirement": 10000,
-    "param1": 57,
+    "param1": 58,
     "buyLimitCount": 1,
     "saleDurationMinutes": 14399,
     "assetBundleName": "offer06",
     "seq": 5,
-    "startAt": 1682892000000,
-    "endAt": 1683755998000
+    "startAt": 1683756000000,
+    "endAt": 1684619999000
+  },
+  {
+    "id": 21,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20106,
+    "offerType": "limited",
+    "offerDisplayCondition": "event_badge",
+    "requirement": 10000,
+    "param1": 59,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 15839,
+    "assetBundleName": "offer06",
+    "seq": 5,
+    "startAt": 1684620000000,
+    "endAt": 1685570399000
+  },
+  {
+    "id": 22,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20106,
+    "offerType": "limited",
+    "offerDisplayCondition": "event_badge",
+    "requirement": 10000,
+    "param1": 60,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 14399,
+    "assetBundleName": "offer06",
+    "seq": 5,
+    "startAt": 1685570400000,
+    "endAt": 1686434399000
   }
 ]

@@ -11,26 +11,37 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 415,
-    "seq": 110,
+    "homeBannerId": 419,
+    "seq": 130,
     "homeBannerType": "general",
-    "name": "[ガチャ]モモジャン箱イベ8巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha205",
+    "name": "Saki Tenma Happy Birthday Gacha",
+    "assetbundleName": "banner_gacha206",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 205,
-    "startAt": 1682881200000,
-    "endAt": 1683745199000
+    "transitionDestinationId": 206,
+    "startAt": 1683615600000,
+    "endAt": 1684220399000
   },
   {
-    "homeBannerId": 416,
+    "homeBannerId": 420,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフル体育祭_定常ガチャバナー",
+    "assetbundleName": "banner_gacha207",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 207,
+    "startAt": 1683745200000,
+    "endAt": 1684609199000
+  },
+  {
+    "homeBannerId": 421,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]モモジャン箱イベ8巡目_イベントバナー",
-    "assetbundleName": "event_painful_2022",
+    "name": "[イベント]シャッフル体育祭_イベントバナー",
+    "assetbundleName": "event_cheerteam_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 57,
-    "startAt": 1682892000000,
-    "endAt": 1683755999000
+    "transitionDestinationId": 58,
+    "startAt": 1683756000000,
+    "endAt": 1684619999000
   },
   {
     "homeBannerId": 422,
