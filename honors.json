@@ -3085,7 +3085,7 @@
         "honorId": 134,
         "level": 1,
         "bonus": 10,
-        "description": "Use 1,000 Stamps in Co-op\/Cheerful Show."
+        "description": "Use 1,000 Stamps in Co-op\/Cheerful Shows\/Ranked Matches."
       }
     ]
   },
@@ -7489,7 +7489,7 @@
         "honorId": 431,
         "level": 1,
         "bonus": 0,
-        "description": "Title given to the winner of RAGE HATSUNE MIKU: COLORFUL STAGE! Winter 2020 Powered by AQUOS."
+        "description": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」の優勝者に与えられる称号です。"
       }
     ]
   },
@@ -7505,7 +7505,7 @@
         "honorId": 432,
         "level": 1,
         "bonus": 0,
-        "description": "Title given to the runner-up of RAGE HATSUNE MIKU: COLORFUL STAGE! Winter 2020 Powered by AQUOS."
+        "description": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」の準優勝者に与えられる称号です。"
       }
     ]
   },
@@ -7521,7 +7521,7 @@
         "honorId": 433,
         "level": 1,
         "bonus": 0,
-        "description": "Title given to the semifinalist of RAGE HATSUNE MIKU: COLORFUL STAGE! Winter 2020 Powered by AQUOS."
+        "description": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」の準決勝出場者に与えられる称号です。"
       }
     ]
   },
@@ -7537,7 +7537,7 @@
         "honorId": 434,
         "level": 1,
         "bonus": 0,
-        "description": "Title given to the quarterfinalist of RAGE HATSUNE MIKU: COLORFUL STAGE! Winter 2020 Powered by AQUOS."
+        "description": "「RAGE プロジェクトセカイ 2020 Winter powered by AQUOS」の準々決勝出場者に与えられる称号です。"
       }
     ]
   },
@@ -27666,6 +27666,902 @@
         "level": 1,
         "bonus": 0,
         "description": "View all story episodes for the event: Wishing to the Blue Sky for Your Happiness!"
+      }
+    ]
+  },
+  {
+    "id": 1735,
+    "seq": 100124,
+    "groupId": 71,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1735,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: First Star After the Rain."
+      }
+    ]
+  },
+  {
+    "id": 1736,
+    "seq": 100224,
+    "groupId": 104,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1736,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Imprisoned Marionette."
+      }
+    ]
+  },
+  {
+    "id": 1737,
+    "seq": 100324,
+    "groupId": 105,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1737,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: It's On! Wonder Halloween!"
+      }
+    ]
+  },
+  {
+    "id": 1738,
+    "seq": 100424,
+    "groupId": 107,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1738,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Run! Sports Festival! Committee Rush."
+      }
+    ]
+  },
+  {
+    "id": 1739,
+    "seq": 100524,
+    "groupId": 108,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1739,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Time to RE:START!"
+      }
+    ]
+  },
+  {
+    "id": 1740,
+    "seq": 100624,
+    "groupId": 111,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1740,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Singing in Sync."
+      }
+    ]
+  },
+  {
+    "id": 1741,
+    "seq": 100724,
+    "groupId": 112,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1741,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: KAMIYAMA HIGH FESTIVAL!"
+      }
+    ]
+  },
+  {
+    "id": 1742,
+    "seq": 100824,
+    "groupId": 113,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1742,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: On This Holy Night, I Sing."
+      }
+    ]
+  },
+  {
+    "id": 1743,
+    "seq": 100924,
+    "groupId": 117,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1743,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: SEKAI Happy New Year!"
+      }
+    ]
+  },
+  {
+    "id": 1744,
+    "seq": 101024,
+    "groupId": 118,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1744,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Don't Let Doubts Hold You Back."
+      }
+    ]
+  },
+  {
+    "id": 1745,
+    "seq": 101124,
+    "groupId": 119,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1745,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: My Color!"
+      }
+    ]
+  },
+  {
+    "id": 1746,
+    "seq": 101225,
+    "groupId": 120,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1746,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Nocturne Interlude."
+      }
+    ]
+  },
+  {
+    "id": 1747,
+    "seq": 101325,
+    "groupId": 125,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1747,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Musical Twilight Parade."
+      }
+    ]
+  },
+  {
+    "id": 1748,
+    "seq": 101425,
+    "groupId": 126,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1748,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Insatiable Pale Color."
+      }
+    ]
+  },
+  {
+    "id": 1749,
+    "seq": 101525,
+    "groupId": 127,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1749,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Smile of a Dreamer."
+      }
+    ]
+  },
+  {
+    "id": 1750,
+    "seq": 101625,
+    "groupId": 129,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1750,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Doll Festival at the Tenma's."
+      }
+    ]
+  },
+  {
+    "id": 1751,
+    "seq": 101725,
+    "groupId": 130,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1751,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Hear Me! Hopeful Show♪."
+      }
+    ]
+  },
+  {
+    "id": 1752,
+    "seq": 101825,
+    "groupId": 131,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1752,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Singing Among the Cherry Blossoms."
+      }
+    ]
+  },
+  {
+    "id": 1753,
+    "seq": 101925,
+    "groupId": 132,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1753,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Secret Distance."
+      }
+    ]
+  },
+  {
+    "id": 1754,
+    "seq": 102025,
+    "groupId": 133,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1754,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Resonating with you."
+      }
+    ]
+  },
+  {
+    "id": 1755,
+    "seq": 102125,
+    "groupId": 135,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1755,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: STRAY BAD DOG."
+      }
+    ]
+  },
+  {
+    "id": 1756,
+    "seq": 102225,
+    "groupId": 136,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1756,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: What's on your mind? Exciting Picnic!"
+      }
+    ]
+  },
+  {
+    "id": 1757,
+    "seq": 102325,
+    "groupId": 137,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1757,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: You deserve it! Break Time!"
+      }
+    ]
+  },
+  {
+    "id": 1758,
+    "seq": 102425,
+    "groupId": 138,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1758,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: An Ode for the Pure of Heart."
+      }
+    ]
+  },
+  {
+    "id": 1759,
+    "seq": 102525,
+    "groupId": 139,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1759,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Wonder Magical Showtime!"
+      }
+    ]
+  },
+  {
+    "id": 1760,
+    "seq": 102625,
+    "groupId": 140,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1760,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Carnation Recollection."
+      }
+    ]
+  },
+  {
+    "id": 1761,
+    "seq": 114225,
+    "groupId": 142,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1761,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Unnamed Harmony."
+      }
+    ]
+  },
+  {
+    "id": 1762,
+    "seq": 114325,
+    "groupId": 143,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1762,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Awakening Beat."
+      }
+    ]
+  },
+  {
+    "id": 1763,
+    "seq": 114425,
+    "groupId": 144,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1763,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Sounds of a Summer Festival!"
+      }
+    ]
+  },
+  {
+    "id": 1764,
+    "seq": 114525,
+    "groupId": 145,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1764,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: BEST Summer Ever!"
+      }
+    ]
+  },
+  {
+    "id": 1765,
+    "seq": 114625,
+    "groupId": 146,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1765,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Happy Lovely Everyday!"
+      }
+    ]
+  },
+  {
+    "id": 1766,
+    "seq": 114725,
+    "groupId": 147,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1766,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Mermaid Admiration!"
+      }
+    ]
+  },
+  {
+    "id": 1767,
+    "seq": 114825,
+    "groupId": 148,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1767,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: The Moon Rabbit & Us."
+      }
+    ]
+  },
+  {
+    "id": 1768,
+    "seq": 114925,
+    "groupId": 149,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1768,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: A Bright Future!!"
+      }
+    ]
+  },
+  {
+    "id": 1769,
+    "seq": 115025,
+    "groupId": 150,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1769,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Mirage of Light."
+      }
+    ]
+  },
+  {
+    "id": 1770,
+    "seq": 115125,
+    "groupId": 152,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1770,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Scramble Fan Festival!"
+      }
+    ]
+  },
+  {
+    "id": 1771,
+    "seq": 118325,
+    "groupId": 183,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1771,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Bout for Beside You."
+      }
+    ]
+  },
+  {
+    "id": 1773,
+    "seq": 118525,
+    "groupId": 185,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1773,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: What lies behind. What lies ahead."
+      }
+    ]
+  },
+  {
+    "id": 1774,
+    "seq": 118625,
+    "groupId": 186,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1774,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Putting Feelings Into Words."
+      }
+    ]
+  },
+  {
+    "id": 1775,
+    "seq": 118725,
+    "groupId": 187,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1775,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Time to hang out♪."
+      }
+    ]
+  },
+  {
+    "id": 1776,
+    "seq": 118825,
+    "groupId": 188,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1776,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: The Warmth of Intersecting Melodies."
+      }
+    ]
+  },
+  {
+    "id": 1777,
+    "seq": 118925,
+    "groupId": 189,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1777,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: MORE MORE Making Xmas."
+      }
+    ]
+  },
+  {
+    "id": 1778,
+    "seq": 119025,
+    "groupId": 190,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1778,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Same Dreams, Same Colors."
+      }
+    ]
+  },
+  {
+    "id": 1779,
+    "seq": 119325,
+    "groupId": 193,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1779,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: The Tomorrow We Hope For."
+      }
+    ]
+  },
+  {
+    "id": 1780,
+    "seq": 119425,
+    "groupId": 194,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1780,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Popping in My Heart!"
+      }
+    ]
+  },
+  {
+    "id": 1781,
+    "seq": 119525,
+    "groupId": 195,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1781,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Someday, From the Depths of Despair."
+      }
+    ]
+  },
+  {
+    "id": 1782,
+    "seq": 119625,
+    "groupId": 196,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1782,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Secret Operation Valentine's Day."
+      }
+    ]
+  },
+  {
+    "id": 1783,
+    "seq": 119725,
+    "groupId": 197,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1783,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: The Legend Still Vivid."
+      }
+    ]
+  },
+  {
+    "id": 1784,
+    "seq": 119925,
+    "groupId": 199,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1784,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: That day, the Sky was Far Away."
+      }
+    ]
+  },
+  {
+    "id": 1785,
+    "seq": 120025,
+    "groupId": 200,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1785,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: A Gentleman Thief's Thrilling White Day?!"
+      }
+    ]
+  },
+  {
+    "id": 1786,
+    "seq": 120125,
+    "groupId": 201,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1786,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Cast a Spell on You."
+      }
+    ]
+  },
+  {
+    "id": 1787,
+    "seq": 120325,
+    "groupId": 203,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1787,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: On This Blank Canvas, I Paint."
+      }
+    ]
+  },
+  {
+    "id": 1788,
+    "seq": 120525,
+    "groupId": 205,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1788,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Connected Through SEKAI's Cherry Blossoms."
+      }
+    ]
+  },
+  {
+    "id": 1789,
+    "seq": 120625,
+    "groupId": 206,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1789,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: On the Stage of Dazzling Light."
+      }
+    ]
+  },
+  {
+    "id": 1790,
+    "seq": 120725,
+    "groupId": 207,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1790,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Live with Memories."
+      }
+    ]
+  },
+  {
+    "id": 1791,
+    "seq": 120825,
+    "groupId": 208,
+    "honorRarity": "low",
+    "name": "Memorial",
+    "assetbundleName": "honor_memorial",
+    "levels": [
+      {
+        "honorId": 1791,
+        "level": 1,
+        "bonus": 0,
+        "description": "View all story episodes for the event: Tied By Painful Hope."
       }
     ]
   }

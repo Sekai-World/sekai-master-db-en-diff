@@ -38,7 +38,7 @@
             "seq": 2,
             "resourceType": "material",
             "resourceId": 15,
-            "quantity": 25
+            "quantity": 100
           }
         ]
       },
@@ -55,7 +55,7 @@
             "seq": 3,
             "resourceType": "material",
             "resourceId": 15,
-            "quantity": 10
+            "quantity": 50
           }
         ]
       },
@@ -72,7 +72,7 @@
             "seq": 4,
             "resourceType": "material",
             "resourceId": 15,
-            "quantity": 5
+            "quantity": 50
           }
         ]
       },
@@ -106,7 +106,7 @@
             "seq": 6,
             "resourceType": "material",
             "resourceId": 15,
-            "quantity": 5
+            "quantity": 100
           }
         ]
       },
@@ -277,6 +277,41 @@
             "resourceType": "material",
             "resourceId": 15,
             "quantity": 5
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "materialExchangeSummaryId": 1,
+        "seq": 170,
+        "resourceBoxId": 17,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 43,
+            "costGroupId": 1,
+            "seq": 17,
+            "resourceType": "material",
+            "resourceId": 15,
+            "quantity": 200
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "materialExchangeSummaryId": 1,
+        "seq": 10,
+        "resourceBoxId": 18,
+        "refreshCycle": "monthly",
+        "exchangeLimit": 15,
+        "costs": [
+          {
+            "materialExchangeId": 44,
+            "costGroupId": 1,
+            "seq": 18,
+            "resourceType": "material",
+            "resourceId": 15,
+            "quantity": 300
           }
         ]
       }
@@ -8484,6 +8519,34 @@
             "seq": 61,
             "resourceType": "material",
             "resourceId": 56,
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "seq": 2,
+    "exchangeCategory": "master_crystal",
+    "materialExchangeType": "normal",
+    "name": "Wish Jewel",
+    "assetbundleName": "icon_heartCrystal",
+    "startAt": 1546329600000,
+    "materialExchanges": [
+      {
+        "id": 100001,
+        "materialExchangeSummaryId": 10,
+        "seq": 10,
+        "resourceBoxId": 100001,
+        "refreshCycle": "none",
+        "costs": [
+          {
+            "materialExchangeId": 100001,
+            "costGroupId": 1,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 16,
             "quantity": 1
           }
         ]

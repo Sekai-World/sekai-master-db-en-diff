@@ -24,8 +24,16 @@
     "value": "Memorabilia Details"
   },
   {
+    "wordingKey": "DIALOG_TITLE_NEWLY_WRITTEN_MUSIC_DETAIL_INFO",
+    "value": "Original Song"
+  },
+  {
     "wordingKey": "DIALOG_TITLE_VIRTUAL_SHOP_TIME_OVER",
     "value": "Notifications"
+  },
+  {
+    "wordingKey": "EVENT_RELATED_MV_INFO_BUTTON",
+    "value": "Song Info"
   },
   {
     "wordingKey": "FMT_EVENT_POINT",
@@ -34,6 +42,14 @@
   {
     "wordingKey": "FMT_RANKING",
     "value": "Rank: {0}"
+  },
+  {
+    "wordingKey": "FORMAT_RECEIVE_PRESENTED_MUSIC",
+    "value": "Claimed gift song\n{0}."
+  },
+  {
+    "wordingKey": "FORMAT_RELEASE_EVENT_RELATED_MUSIC_INFO",
+    "value": "View up to episode {0} to unlock."
   },
   {
     "wordingKey": "MEG_VERSUS_MATCH_TIMEOUT",
@@ -378,6 +394,22 @@
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_UNTILE_NOT_ENOUGH",
     "value": "Until Bonus Energy runs out."
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_SCENARIO_CONFIRM",
+    "value": "Continue viewing episode {0}\n{1}?"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_SCENARIO_PLAY",
+    "value": "Automatically view the next episode."
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_SCENARIO_RETURN_STORY_LIST",
+    "value": "Skip episode and return to episode list?"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_SCENARIO_WARNING",
+    "value": "Download voice files.\n(Approx. {0} MB)"
   },
   {
     "wordingKey": "MSG_CONSTUME_FITTING",
@@ -1296,6 +1328,10 @@
     "value": "No stamps available for trade."
   },
   {
+    "wordingKey": "MSG_NOTHING_IMPORTANT_ITEM",
+    "value": "No important items found."
+  },
+  {
     "wordingKey": "MSG_NOTHING_ITEM",
     "value": "No items found."
   },
@@ -1737,15 +1773,15 @@
   },
   {
     "wordingKey": "MSG_SHOP_AGE_CONFIRM",
-    "value": "You must set your date of birth in order to purchase items.\nMonthly purchase limits vary based on age."
+    "value": "有償アイテムを購入するには、生年月日の設定が必要です。\n年齢によって1ヶ月に購入できる金額がきまっています。"
   },
   {
     "wordingKey": "MSG_SHOP_AGE_DETAIL1",
-    "value": "5,000 yen (incl. tax) per month"
+    "value": "1ヶ月5,000円(税込)まで"
   },
   {
     "wordingKey": "MSG_SHOP_AGE_DETAIL2",
-    "value": "20,000 yen (incl. tax) per month"
+    "value": "1ヶ月20,000円(税込)まで"
   },
   {
     "wordingKey": "MSG_SHOP_AGE_DETAIL3",
@@ -1753,15 +1789,15 @@
   },
   {
     "wordingKey": "MSG_SHOP_AGE_FINAL_CONFIRM",
-    "value": "Your date of birth will be set to the following date.\nContinue?"
+    "value": "下記の生年月日で設定します。\nよろしいですか？"
   },
   {
     "wordingKey": "MSG_SHOP_AGE_UNDEFINED",
-    "value": "Date of Birth Not Set"
+    "value": "生年月日未設定"
   },
   {
     "wordingKey": "MSG_SHOP_AGE_WARNING",
-    "value": "*Once set, your date of birth cannot be changed."
+    "value": "※設定後は生年月日を変更することができません。"
   },
   {
     "wordingKey": "MSG_SHOP_DAY_RESET_PERIOD",
@@ -3020,6 +3056,10 @@
     "value": "Confirm Trade"
   },
   {
+    "wordingKey": "WORD_CONNECT_LIVE",
+    "value": "Connect Show"
+  },
+  {
     "wordingKey": "WORD_CONNECT_LIVE_GUIDE_LINE",
     "value": "Guidelines"
   },
@@ -3030,6 +3070,18 @@
   {
     "wordingKey": "WORD_CONSECUTIVE_AUTO_LIVE_NUMBER_OF_PLAY",
     "value": "x{0} left"
+  },
+  {
+    "wordingKey": "WORD_CONSECUTIVE_SCENARIO_NEXT_SCENARIO",
+    "value": "View Next Episode"
+  },
+  {
+    "wordingKey": "WORD_CONSECUTIVE_SCENARIO_PLAY",
+    "value": "Play All"
+  },
+  {
+    "wordingKey": "WORD_CONSECUTIVE_SCENARIO_RETURN_STORY_LIST",
+    "value": "Return to Episode List"
   },
   {
     "wordingKey": "WORD_CONSUME_NUM",
@@ -4184,6 +4236,10 @@
     "value": "ID"
   },
   {
+    "wordingKey": "WORD_IMPORTANT_ITEM",
+    "value": "Important\nItems"
+  },
+  {
     "wordingKey": "WORD_INHERIT_SETTING",
     "value": "Account Transfer Settings"
   },
@@ -4324,6 +4380,10 @@
     "value": "Level Up"
   },
   {
+    "wordingKey": "WORD_LIFE_RECOVER",
+    "value": "Your Bonus Energy has been fully restored!"
+  },
+  {
     "wordingKey": "WORD_LIMITED_TIME_RELEASE",
     "value": "Unlocked For Limited Time"
   },
@@ -4342,6 +4402,10 @@
   {
     "wordingKey": "WORD_LIVE_BONUS_PRESENT",
     "value": "Give Bonus Energy"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BONUS_SETTING",
+    "value": "\"Bonus Energy Fully Restored\" Notifications"
   },
   {
     "wordingKey": "WORD_LIVE_BONUS_TEXT",
@@ -4522,6 +4586,10 @@
   {
     "wordingKey": "WORD_LOGINBONUS_LIMIT",
     "value": "Ends on {0}"
+  },
+  {
+    "wordingKey": "WORD_LOOK_BUTTON",
+    "value": "View"
   },
   {
     "wordingKey": "WORD_LOSE",
@@ -4884,6 +4952,10 @@
     "value": "MVP"
   },
   {
+    "wordingKey": "WORD_MV_ON_JACKET",
+    "value": "Music Video"
+  },
+  {
     "wordingKey": "WORD_MV_SETTING",
     "value": "Music Video Settings"
   },
@@ -4894,6 +4966,10 @@
   {
     "wordingKey": "WORD_MV_VIEWING",
     "value": "Music Video\nViewer"
+  },
+  {
+    "wordingKey": "WORD_NEWLY_WRITTEN_MUSIC",
+    "value": "Original\nSong"
   },
   {
     "wordingKey": "WORD_NEWS",
@@ -5124,6 +5200,10 @@
     "value": "Standard"
   },
   {
+    "wordingKey": "WORD_ORIGINAL",
+    "value": "Default"
+  },
+  {
     "wordingKey": "WORD_ORIGINAL_MEMBER",
     "value": "Play MV with\nOriginal Members"
   },
@@ -5232,8 +5312,16 @@
     "value": "Fast Forward"
   },
   {
+    "wordingKey": "WORD_PLAY_FREE_LIVE_FROM_EVENT_STORY",
+    "value": "To Show"
+  },
+  {
     "wordingKey": "WORD_PLAY_LIST",
     "value": "Playlist"
+  },
+  {
+    "wordingKey": "WORD_PLAY_MUSIC_VIDEO_FROM_EVENT_STORY",
+    "value": "Music Video Viewer"
   },
   {
     "wordingKey": "WORD_PLAY_RESULT",
@@ -6116,6 +6204,14 @@
     "value": "Skip Story"
   },
   {
+    "wordingKey": "WORD_STREAMINGLIVE_SHOP_COLLECTION",
+    "value": "Memorabilia"
+  },
+  {
+    "wordingKey": "WORD_STREAMINGLIVE_SHOP_LIVEGOODS",
+    "value": "Show Merch"
+  },
+  {
     "wordingKey": "WORD_STREAMING_LIVE_ENTER_CONFIRM",
     "value": "Confirm Entry"
   },
@@ -6165,7 +6261,7 @@
   },
   {
     "wordingKey": "WORD_SUPER_STAR",
-    "value": "SUPER\nSTAR"
+    "value": "SUPER \nSTAR"
   },
   {
     "wordingKey": "WORD_SUPPORT_MEMBR",
@@ -6182,6 +6278,10 @@
   {
     "wordingKey": "WORD_SYSYTEM",
     "value": "System"
+  },
+  {
+    "wordingKey": "WORD_TAB_NEWLY_WRITTEN_MUSIC_DETAIL_INFO",
+    "value": "Song Info"
   },
   {
     "wordingKey": "WORD_TALK",

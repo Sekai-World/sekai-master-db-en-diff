@@ -3013,5 +3013,23 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 121,
+    "seq": 121,
+    "name": "第62回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 226,
+        "virtualShopId": 121,
+        "virtualShopItemType": "accessory",
+        "seq": 199924,
+        "resourceBoxId": 177,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1687298400000
+      }
+    ],
+    "virtualShopType": "event"
   }
 ]

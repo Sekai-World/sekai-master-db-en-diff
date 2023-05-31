@@ -7189,6 +7189,22 @@
           "resourceId": 1036
         },
         "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 10011,
+        "gachaCeilExchangeSummaryId": 1036,
+        "seq": 8,
+        "resourceBoxId": 9999,
+        "startAt": 1686164400000,
+        "endAt": 1689101999000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 10011,
+          "gachaCeilItemId": 1036,
+          "quantity": 1,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 1036
+        },
+        "gachaCeilExchangeSubstituteCosts": []
       }
     ],
     "gachaCeilItemId": 1036
