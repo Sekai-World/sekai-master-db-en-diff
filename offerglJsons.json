@@ -10,7 +10,7 @@
     "buyLimitCount": 1,
     "saleDurationMinutes": 10080,
     "assetBundleName": "offer01",
-    "seq": 7,
+    "seq": 11,
     "startAt": 1669244400000
   },
   {
@@ -24,7 +24,7 @@
     "buyLimitCount": 1,
     "saleDurationMinutes": 10080,
     "assetBundleName": "offer02",
-    "seq": 4,
+    "seq": 8,
     "startAt": 1669244400000
   },
   {
@@ -36,7 +36,7 @@
     "requirement": 1,
     "saleDurationMinutes": 10080,
     "assetBundleName": "offer03",
-    "seq": 9,
+    "seq": 12,
     "startAt": 1669244400000
   },
   {
@@ -49,7 +49,7 @@
     "buyLimitCount": 1,
     "saleDurationMinutes": 10080,
     "assetBundleName": "offer04",
-    "seq": 8,
+    "seq": 9,
     "startAt": 1675166400000,
     "endAt": 4102473599000
   },
@@ -64,7 +64,7 @@
     "buyLimitCount": 1,
     "saleDurationMinutes": 10080,
     "assetBundleName": "offer05",
-    "seq": 6,
+    "seq": 10,
     "startAt": 1675166400000,
     "endAt": 4102473599000
   },
@@ -124,5 +124,50 @@
     "seq": 5,
     "startAt": 1685570400000,
     "endAt": 1686434399000
+  },
+  {
+    "id": 23,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20106,
+    "offerType": "limited",
+    "offerDisplayCondition": "event_badge",
+    "requirement": 10000,
+    "param1": 61,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 14399,
+    "assetBundleName": "offer06",
+    "seq": 5,
+    "startAt": 1686434400000,
+    "endAt": 1687298398000
+  },
+  {
+    "id": 24,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20106,
+    "offerType": "limited",
+    "offerDisplayCondition": "event_badge",
+    "requirement": 10000,
+    "param1": 62,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 14399,
+    "assetBundleName": "offer06",
+    "seq": 5,
+    "startAt": 1687298400000,
+    "endAt": 1688162398000
+  },
+  {
+    "id": 25,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20106,
+    "offerType": "limited",
+    "offerDisplayCondition": "event_badge",
+    "requirement": 10000,
+    "param1": 63,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 15839,
+    "assetBundleName": "offer06",
+    "seq": 5,
+    "startAt": 1688162400000,
+    "endAt": 1689112798000
   }
 ]
