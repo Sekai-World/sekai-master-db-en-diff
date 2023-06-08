@@ -54,14 +54,36 @@
     "endAt": 1687589999000
   },
   {
-    "homeBannerId": 1047,
+    "homeBannerId": 1048,
     "seq": 150,
     "homeBannerType": "general",
     "name": "[1.5周年記念]無料10連ガチャ",
     "assetbundleName": "banner_gacha1032",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1032,
-    "startAt": 1686034800000,
-    "endAt": 1686121199000
+    "transitionDestinationId": 1033,
+    "startAt": 1686121200000,
+    "endAt": 1686207599000
+  },
+  {
+    "homeBannerId": 1050,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "[1.5周年記念][復刻]★4メンバー1人確定プレミアムプレゼントガチャ",
+    "assetbundleName": "banner_gacha1035",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1035,
+    "startAt": 1686164400000,
+    "endAt": 1687114799000
+  },
+  {
+    "homeBannerId": 1051,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[1.5周年記念][復刻]カラフルフェスティバルガチャ",
+    "assetbundleName": "banner_gacha1036",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1036,
+    "startAt": 1686164400000,
+    "endAt": 1686509999000
   }
 ]
