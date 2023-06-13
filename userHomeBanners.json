@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 433,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフルブライダルイベ_イベントバナー",
-    "assetbundleName": "event_happiness_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 60,
-    "startAt": 1685570400000,
-    "endAt": 1686434399000
-  },
-  {
     "homeBannerId": 436,
     "seq": 110,
     "homeBannerType": "general",
@@ -31,6 +20,17 @@
     "transitionDestinationId": 214,
     "startAt": 1686423600000,
     "endAt": 1687287599000
+  },
+  {
+    "homeBannerId": 437,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ニーゴ箱イベ9巡目_イベントバナー",
+    "assetbundleName": "event_maigo_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 61,
+    "startAt": 1686434400000,
+    "endAt": 1687298399000
   },
   {
     "homeBannerId": 1001,
@@ -63,17 +63,6 @@
     "transitionDestinationId": 1035,
     "startAt": 1686164400000,
     "endAt": 1687114799000
-  },
-  {
-    "homeBannerId": 1051,
-    "seq": 50,
-    "homeBannerType": "general",
-    "name": "[1.5周年記念][復刻]カラフルフェスティバルガチャ",
-    "assetbundleName": "banner_gacha1036",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1036,
-    "startAt": 1686164400000,
-    "endAt": 1686509999000
   },
   {
     "homeBannerId": 1052,
