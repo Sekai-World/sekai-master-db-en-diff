@@ -2461,5 +2461,53 @@
     "startAt": 1686175200000,
     "endAt": 1688767199000,
     "purchaseOption": "exchange"
+  },
+  {
+    "id": 100021,
+    "seq": 130,
+    "billingShopItemType": "costume_3d",
+    "name": "Dynamic Street Costume All Colors",
+    "description": "Costume - Dynamic Street (F) (20 Costumes x 4 colors)\nCostume - Dynamic Street (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_100021",
+    "resourceBoxId": 100021,
+    "label": "Limited Time",
+    "startAt": 1687330800000,
+    "endAt": 1690009199000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 100022,
+    "seq": 130,
+    "billingShopItemType": "costume_3d",
+    "name": "Spring Garden Costume All Colors",
+    "description": "Costume - Spring Garden (F) (20 Costumes x 4 colors)\nCostume - Spring Garden (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_100022",
+    "resourceBoxId": 100022,
+    "label": "Limited Time",
+    "startAt": 1687330800000,
+    "endAt": 1690009199000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 100023,
+    "seq": 130,
+    "billingShopItemType": "costume_3d",
+    "name": "[Festive Moon] Costume All Colors",
+    "description": "Costume - Festive Moon Dress (F) (20 Costumes x 4 colors)\nCostume - Festive Moon Collared Suit (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_100002",
+    "resourceBoxId": 100007,
+    "label": "Limited Time",
+    "startAt": 1687330800000,
+    "endAt": 1690009199000,
+    "purchaseOption": "exchange"
   }
 ]
