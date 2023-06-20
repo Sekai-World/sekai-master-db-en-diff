@@ -65,16 +65,6 @@
     "endAt": 1687589999000
   },
   {
-    "homeBannerId": 1052,
-    "seq": 180,
-    "homeBannerType": "general",
-    "name": "1.5周年記念クリスタルショップ",
-    "assetbundleName": "banner_shop_1.5th-anniversary_shop_gl",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1686175200000,
-    "endAt": 1687125599000
-  },
-  {
     "homeBannerId": 1053,
     "seq": 185,
     "homeBannerType": "general",
@@ -83,5 +73,16 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1686175200000,
     "endAt": 1688767199000
+  },
+  {
+    "homeBannerId": 1057,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "★4メンバー1人確定ガチャ ID:1037",
+    "assetbundleName": "banner_gacha1037",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1037,
+    "startAt": 1687201200000,
+    "endAt": 1688151599000
   }
 ]
