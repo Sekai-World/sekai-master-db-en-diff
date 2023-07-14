@@ -11,7 +11,8 @@
     "saleDurationMinutes": 10080,
     "assetBundleName": "offer01",
     "seq": 11,
-    "startAt": 1669244400000
+    "startAt": 1669244400000,
+    "endAt": 1689879599000
   },
   {
     "id": 5,
@@ -25,7 +26,8 @@
     "saleDurationMinutes": 10080,
     "assetBundleName": "offer02",
     "seq": 8,
-    "startAt": 1669244400000
+    "startAt": 1669244400000,
+    "endAt": 1689879599000
   },
   {
     "id": 6,
@@ -51,7 +53,7 @@
     "assetBundleName": "offer04",
     "seq": 9,
     "startAt": 1675166400000,
-    "endAt": 4102473599000
+    "endAt": 1690840799000
   },
   {
     "id": 8,
@@ -111,36 +113,6 @@
     "endAt": 4102473599000
   },
   {
-    "id": 24,
-    "shopItemType": "billing_shop",
-    "shopItemId": 20106,
-    "offerType": "limited",
-    "offerDisplayCondition": "event_badge",
-    "requirement": 10000,
-    "param1": 62,
-    "buyLimitCount": 1,
-    "saleDurationMinutes": 14399,
-    "assetBundleName": "offer06",
-    "seq": 5,
-    "startAt": 1687298400000,
-    "endAt": 1688162398000
-  },
-  {
-    "id": 25,
-    "shopItemType": "billing_shop",
-    "shopItemId": 20106,
-    "offerType": "limited",
-    "offerDisplayCondition": "event_badge",
-    "requirement": 10000,
-    "param1": 63,
-    "buyLimitCount": 1,
-    "saleDurationMinutes": 15839,
-    "assetBundleName": "offer06",
-    "seq": 5,
-    "startAt": 1688162400000,
-    "endAt": 1689112798000
-  },
-  {
     "id": 26,
     "shopItemType": "billing_shop",
     "shopItemId": 20110,
@@ -180,6 +152,66 @@
     "assetBundleName": "offer12",
     "seq": 4,
     "startAt": 1689937200000,
+    "endAt": 4102473599000
+  },
+  {
+    "id": 29,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20106,
+    "offerType": "limited",
+    "offerDisplayCondition": "event_badge",
+    "requirement": 10000,
+    "param1": 64,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 14399,
+    "assetBundleName": "offer06",
+    "seq": 5,
+    "startAt": 1689112800000,
+    "endAt": 1689976798000
+  },
+  {
+    "id": 30,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20106,
+    "offerType": "limited",
+    "offerDisplayCondition": "event_badge",
+    "requirement": 10000,
+    "param1": 65,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 14399,
+    "assetBundleName": "offer06",
+    "seq": 5,
+    "startAt": 1689976800000,
+    "endAt": 1690840798000
+  },
+  {
+    "id": 32,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20100,
+    "offerType": "limited",
+    "offerDisplayCondition": "gacha_get",
+    "requirement": 1,
+    "param1": 3,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 10080,
+    "assetBundleName": "offer01",
+    "seq": 11,
+    "startAt": 1689274800000,
+    "endAt": 4102473599000
+  },
+  {
+    "id": 33,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20101,
+    "offerType": "limited",
+    "offerDisplayCondition": "gacha_get",
+    "requirement": 1,
+    "param1": 4,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 10080,
+    "assetBundleName": "offer02",
+    "seq": 8,
+    "startAt": 1689274800000,
     "endAt": 4102473599000
   }
 ]
