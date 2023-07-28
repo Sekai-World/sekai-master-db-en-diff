@@ -3183,5 +3183,41 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 129,
+    "seq": 129,
+    "name": "第66回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 235,
+        "virtualShopId": 129,
+        "virtualShopItemType": "accessory",
+        "seq": 199920,
+        "resourceBoxId": 182,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1690840800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 130,
+    "seq": 130,
+    "name": "Ichika's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 236,
+        "virtualShopId": 130,
+        "virtualShopItemType": "coordinate",
+        "seq": 99897,
+        "resourceBoxId": 117,
+        "costPaidJewel": 1000,
+        "startAt": 1691618400000,
+        "endAt": 1691963999000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

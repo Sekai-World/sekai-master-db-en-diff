@@ -108,6 +108,10 @@
     "value": "「お試し入場」での視聴可能範囲が過ぎました。\n公演の続きを見る場合は、チケットを交換してください。"
   },
   {
+    "wordingKey": "MSG_AGREE_DELETE_USER",
+    "value": "削除されるプレイデータ、復旧・引き継ぎに関して理解しました。"
+  },
+  {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
     "value": "This app does not have permission to access your albums.\nPlease open your device's settings to allow access."
   },
@@ -344,6 +348,10 @@
     "value": "<size=28>Open<\/size> {0}."
   },
   {
+    "wordingKey": "MSG_COMPRETE_DELETE_USER",
+    "value": "アカウントの削除が完了しました。"
+  },
+  {
     "wordingKey": "MSG_CONDITION_GET_CARD",
     "value": "Obtained [{0}] {1}"
   },
@@ -444,6 +452,14 @@
     "value": "Results available after all shows have ended.\nScheduled Time: {0}\/{1} {2}."
   },
   {
+    "wordingKey": "MSG_CREATE_PRIVATE_ROOM",
+    "value": "Create Private Room for {0}."
+  },
+  {
+    "wordingKey": "MSG_CREATE_VIRTUAL_LIVE_PRIVATE_ROOM",
+    "value": "Create Private Room for\n{0}."
+  },
+  {
     "wordingKey": "MSG_CREATOR_NAME",
     "value": "Lyrics: {0}  Music: {1}　Arrangement: {2}"
   },
@@ -526,6 +542,22 @@
   {
     "wordingKey": "MSG_DEFERRED_PURCHASE",
     "value": "Purchases will be reflected on the Shop screen after payment has been completed. It may take some time for the purchases to be reflected."
+  },
+  {
+    "wordingKey": "MSG_DELETE_USER",
+    "value": "このアカウントを削除します。"
+  },
+  {
+    "wordingKey": "MSG_DELETE_USER_CHECK",
+    "value": "<color=#ff5599>アカウントの削除を続ける場合は、\n 下記のチェックボックスにチェックを入れて\n 「削除」をタップしてください。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_DELETE_USER_CONFIRM",
+    "value": "現在プレイ中のアカウントの削除ができます。\n アカウントを削除しますか？"
+  },
+  {
+    "wordingKey": "MSG_DELETE_USER_NOTIFICATION",
+    "value": "<color=#ff5599>アカウントを削除すると\n 現在プレイ中のデータで遊ぶことができなくなります。\n \n ゲーム内のプレイ履歴、オプション設定やアカウント連携データ\n などを含むすべてのプレイデータが削除されます。\n \n 削除を行うとアカウントおよびプレイデータの復旧、引き継ぎは\n 行えません。<\/color>"
   },
   {
     "wordingKey": "MSG_DISCONNECT_LEFT_ROOM",
@@ -840,8 +872,28 @@
     "value": "Use {0} x<color=#FF55AA>{1}<\/color> to pull from the {2}?"
   },
   {
+    "wordingKey": "MSG_GACHA_TIME_OVER",
+    "value": "{0} has ended.\nReturning to home screen."
+  },
+  {
     "wordingKey": "MSG_GACHA_TOP_SEAL_ON",
     "value": "Includes {0}"
+  },
+  {
+    "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
+    "value": "You will be unable to pull from the Happiness Package Gacha until you have selected an item. Select item later?\n\n<color=#ff5599>*You can change your item as many times as you like before pulling from the Gacha.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_GIFT_SELECT",
+    "value": "Select your item of choice!"
+  },
+  {
+    "wordingKey": "MSG_GIFT_SELECT_CONFIRM",
+    "value": "Select this item?\n<color=#ff5599>*You can change your item as many times as you like before pulling from the Gacha.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_GIFT_SELECT_INDUCTION",
+    "value": "You must select an item to pull this Gacha."
   },
   {
     "wordingKey": "MSG_GIVE_LIVE_BONUS",
@@ -858,6 +910,10 @@
   {
     "wordingKey": "MSG_ID_NOT_FOUND",
     "value": "No matching Player ID found."
+  },
+  {
+    "wordingKey": "MSG_INFO_SAME_TEAM_MATCHING",
+    "value": "If you match with a team from the same Crew, Crew Points will not be affected."
   },
   {
     "wordingKey": "MSG_INHERIT_INVALID_TOKEN",
@@ -1256,6 +1312,10 @@
     "value": "Trade {0} x{1} for this song?"
   },
   {
+    "wordingKey": "MSG_MUSIC_VIDEO_DATA_DOWNLOAD_WARNING",
+    "value": "If an MV plays during a story, the required files for the playback will be automatically download.\nMV and voice files will be automatically deleted after a fixed period of time has elapsed.\nDownloading over a Wi-Fi connection is recommended."
+  },
+  {
     "wordingKey": "MSG_MUSIC_VOCAL",
     "value": "Vocals: {0}"
   },
@@ -1302,6 +1362,10 @@
   {
     "wordingKey": "MSG_NONE_HAVE_TICKET",
     "value": "You have no Practice Scores."
+  },
+  {
+    "wordingKey": "MSG_NONE_USER",
+    "value": "このアカウントを利用することはできません。"
   },
   {
     "wordingKey": "MSG_NOTHING_ACCESSORY_ITEM",
@@ -1752,8 +1816,16 @@
     "value": "Your profile has not been saved.\nSave and exit?"
   },
   {
+    "wordingKey": "MSG_SELECT_DELETE_USER",
+    "value": "下記のアカウントを削除します。"
+  },
+  {
     "wordingKey": "MSG_SELECT_LIST",
     "value": "Select 10 Characters from the following."
+  },
+  {
+    "wordingKey": "MSG_SELECT_ONE_GIFT",
+    "value": "Select the item you would like to claim after pulling the Gacha."
   },
   {
     "wordingKey": "MSG_SEND_WAIT_ROOM",
@@ -1914,6 +1986,10 @@
   {
     "wordingKey": "MSG_START_CHEERFUL_CARNIVAL_EVENT_ANNOUNCE",
     "value": "A new event has started.\nCo-op Show has changed to Cheerful Show.\nReturning to home screen."
+  },
+  {
+    "wordingKey": "MSG_START_SAME_TEAM_MATCHING",
+    "value": "As a certain amount of time has passed, teams in the same Crew will be eligible for matchmaking."
   },
   {
     "wordingKey": "MSG_STORY_SKIP_BODY",
@@ -2418,6 +2494,14 @@
   {
     "wordingKey": "WORD_ALL_PERFECT",
     "value": "All Perfect"
+  },
+  {
+    "wordingKey": "WORD_ALPHABETICAL_ORDER",
+    "value": "A-Z"
+  },
+  {
+    "wordingKey": "WORD_ALPHABETICAL_ORDER_JUMP",
+    "value": "行ジャンプ"
   },
   {
     "wordingKey": "WORD_ALREADY_CLEARED_LIVE_RETRY",
@@ -3344,6 +3428,10 @@
     "value": "Delete"
   },
   {
+    "wordingKey": "WORD_DELETE_USER",
+    "value": "Delete\nAccount"
+  },
+  {
     "wordingKey": "WORD_DESC_ORDER",
     "value": "Descending"
   },
@@ -3692,6 +3780,10 @@
     "value": "FF"
   },
   {
+    "wordingKey": "WORD_FAST_LATE_FLICK",
+    "value": "LATE\/EARLY\/WRONG WAY"
+  },
+  {
     "wordingKey": "WORD_FAVORITE",
     "value": "Favorites"
   },
@@ -3904,6 +3996,10 @@
     "value": "{0} {1}\n \n <color={2}>{3}<\/color>"
   },
   {
+    "wordingKey": "WORD_GET_ITEM",
+    "value": "Item Acquired"
+  },
+  {
     "wordingKey": "WORD_GET_ORDER",
     "value": "Acquired"
   },
@@ -3926,6 +4022,30 @@
   {
     "wordingKey": "WORD_GET_VIRTUAL_LIVE_REWARD",
     "value": "Virtual Show Reward Obtained"
+  },
+  {
+    "wordingKey": "WORD_GIFT_GACHA",
+    "value": "Happiness Package Gacha"
+  },
+  {
+    "wordingKey": "WORD_GIFT_LIST",
+    "value": "Item List"
+  },
+  {
+    "wordingKey": "WORD_GIFT_NOT_SELECT",
+    "value": "アイテム未選択"
+  },
+  {
+    "wordingKey": "WORD_GIFT_NOT_SETTING",
+    "value": "No Item Selected"
+  },
+  {
+    "wordingKey": "WORD_GIFT_SELECT",
+    "value": "Select Item"
+  },
+  {
+    "wordingKey": "WORD_GIFT_SETTING_CONFIRM",
+    "value": "Confirm Item Selection"
   },
   {
     "wordingKey": "WORD_GO_ANOTHER_VO_SHOP",
@@ -4073,7 +4193,7 @@
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_ACCESSORIES_TITLE",
-    "value": "Incompatible Accessories"
+    "value": "Incompatible Exclusive Accessories"
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_1",
@@ -4085,7 +4205,7 @@
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_3",
-    "value": "・<color=#3FD5C8>{0}<\/color> is incompatible with some accessories."
+    "value": "- <color=#3FD5C8>{0}<\/color> is incompatible with some exclusive Accessories."
   },
   {
     "wordingKey": "WORD_HATED_FOOD",
@@ -4234,6 +4354,10 @@
   {
     "wordingKey": "WORD_ID",
     "value": "ID"
+  },
+  {
+    "wordingKey": "WORD_ID_ENTRY",
+    "value": "Enter via ID"
   },
   {
     "wordingKey": "WORD_IMPORTANT_ITEM",
@@ -4398,6 +4522,10 @@
   {
     "wordingKey": "WORD_LIVE",
     "value": "Show"
+  },
+  {
+    "wordingKey": "WORD_LIVE_ADJUSTMENT",
+    "value": "Show Calibration"
   },
   {
     "wordingKey": "WORD_LIVE_BONUS_PRESENT",
@@ -4622,6 +4750,10 @@
   {
     "wordingKey": "WORD_MASTER_LESSON",
     "value": "Mastery"
+  },
+  {
+    "wordingKey": "WORD_MASTER_LESSON_LEVEL_MAX",
+    "value": "Max\nMastery Rank"
   },
   {
     "wordingKey": "WORD_MASTER_LESSON_MATERIAL_EXCHANGE",
@@ -5080,6 +5212,18 @@
     "value": "Most Recent Season"
   },
   {
+    "wordingKey": "WORD_NOW_SELECT",
+    "value": "Select Now"
+  },
+  {
+    "wordingKey": "WORD_NO_CHANGE1",
+    "value": "Unaffected"
+  },
+  {
+    "wordingKey": "WORD_NO_CHANGE2",
+    "value": "(Same Crew)"
+  },
+  {
     "wordingKey": "WORD_NO_CHARGE",
     "value": "Free"
   },
@@ -5340,6 +5484,10 @@
     "value": "Practice"
   },
   {
+    "wordingKey": "WORD_PRACTICE_LEVEL_MAX",
+    "value": "Max Level"
+  },
+  {
     "wordingKey": "WORD_PRACTICE_TICKET",
     "value": "Practice Score"
   },
@@ -5406,6 +5554,10 @@
   {
     "wordingKey": "WORD_PRIVATE_ROOM",
     "value": "Private Room"
+  },
+  {
+    "wordingKey": "WORD_PRIVATE_ROOM_ID",
+    "value": "Private Room ID"
   },
   {
     "wordingKey": "WORD_PROFILE",
@@ -5828,6 +5980,10 @@
     "value": "Next"
   },
   {
+    "wordingKey": "WORD_SELECT_LATER",
+    "value": "Select Later"
+  },
+  {
     "wordingKey": "WORD_SELECT_LIST",
     "value": "Pick List"
   },
@@ -5980,6 +6136,10 @@
     "value": "Get a total of {0} Show Points"
   },
   {
+    "wordingKey": "WORD_SHOW_PREVIEW_SETTING",
+    "value": "Calibrate With Preview"
+  },
+  {
     "wordingKey": "WORD_SIDE_STORY_NL",
     "value": "Side\nStory"
   },
@@ -6006,6 +6166,10 @@
   {
     "wordingKey": "WORD_SKILL_LEVEL_FORMAT_NO_SIZE",
     "value": "SLv.{0}"
+  },
+  {
+    "wordingKey": "WORD_SKILL_LEVEL_MAX",
+    "value": "Max\nSkill Level"
   },
   {
     "wordingKey": "WORD_SKILL_LV",
@@ -6084,6 +6248,10 @@
     "value": "Newest"
   },
   {
+    "wordingKey": "WORD_SORT_NOT_AP",
+    "value": "No AP"
+  },
+  {
     "wordingKey": "WORD_SORT_ORDER",
     "value": "Sort Order"
   },
@@ -6126,6 +6294,10 @@
   {
     "wordingKey": "WORD_SPECIAL_TRAINING_CONFIRM",
     "value": "Confirm Upgrade"
+  },
+  {
+    "wordingKey": "WORD_SPECIAL_TRAINING_LEVEL_MAX",
+    "value": "Upgraded"
   },
   {
     "wordingKey": "WORD_STAFF",
@@ -6354,6 +6526,14 @@
   {
     "wordingKey": "WORD_TIMING_ADJUSTMENT",
     "value": "Timing"
+  },
+  {
+    "wordingKey": "WORD_TIMING_SETTING_DESCRIPTION",
+    "value": "Tap + if you are above the line and\n- if you are below the line."
+  },
+  {
+    "wordingKey": "WORD_TIMING_SETTING_SOUND",
+    "value": "Tap in time with the metronome and calibrate accordingly."
   },
   {
     "wordingKey": "WORD_TITLE",

@@ -11,37 +11,37 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 437,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ9巡目_イベントバナー",
-    "assetbundleName": "event_maigo_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 61,
-    "startAt": 1686434400000,
-    "endAt": 1687298399000
-  },
-  {
-    "homeBannerId": 439,
-    "seq": 120,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ガチャ_復刻ガチャバナー",
-    "assetbundleName": "banner_gacha215",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 215,
-    "startAt": 1686769200000,
-    "endAt": 1687633199000
-  },
-  {
-    "homeBannerId": 440,
+    "homeBannerId": 456,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショ箱イベ9巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha216",
+    "name": "[ガチャ]レオニ箱イベ9巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha223",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 216,
-    "startAt": 1687287600000,
-    "endAt": 1688151599000
+    "transitionDestinationId": 223,
+    "startAt": 1689966000000,
+    "endAt": 1690829999000
+  },
+  {
+    "homeBannerId": 457,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]レオニ箱イベ9巡目_イベントバナー",
+    "assetbundleName": "event_noseek_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 65,
+    "startAt": 1689976800000,
+    "endAt": 1690840799000
+  },
+  {
+    "homeBannerId": 460,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "An Shiraishi Happy Birthday Gacha",
+    "assetbundleName": "banner_gacha224",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 224,
+    "startAt": 1690354800000,
+    "endAt": 1690959599000
   },
   {
     "homeBannerId": 1001,
@@ -55,34 +55,13 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1046,
+    "homeBannerId": 1054,
     "seq": 190,
     "homeBannerType": "general",
-    "name": "「バスケ」衣装全カラー",
-    "assetbundleName": "banner_shop_costume_sale_en_06",
+    "name": "「ドーナツ」衣装　全カラー",
+    "assetbundleName": "banner_shop_costume_sale_en_08",
     "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1684825200000,
-    "endAt": 1687589999000
-  },
-  {
-    "homeBannerId": 1053,
-    "seq": 185,
-    "homeBannerType": "general",
-    "name": "1.5周年記念衣装「フロスティングケーキ」",
-    "assetbundleName": "banner_shop_costume_sale_en_07",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1686175200000,
-    "endAt": 1688767199000
-  },
-  {
-    "homeBannerId": 1057,
-    "seq": 30,
-    "homeBannerType": "general",
-    "name": "★4メンバー1人確定ガチャ ID:1037",
-    "assetbundleName": "banner_gacha1037",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1037,
-    "startAt": 1687201200000,
-    "endAt": 1688151599000
+    "startAt": 1688626800000,
+    "endAt": 1691391599000
   }
 ]
