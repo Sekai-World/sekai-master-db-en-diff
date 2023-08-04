@@ -368,6 +368,10 @@
     "value": "You have another account linked to Game Center.\nUnlink previous account and link the current one?"
   },
   {
+    "wordingKey": "MSG_CONFIRM_STREAMING_LIVE_ENTER_WITHOUT_TICKET",
+    "value": "You do not have a Show Ticket, therefore you will only be able to view part of the Show.\nWould you still like to proceed?"
+  },
+  {
     "wordingKey": "MSG_CONFIRM_TO_RE_ENTER_STREAMING_LIVE",
     "value": "Re-entering venue.\nWould you like to proceed?"
   },
@@ -686,6 +690,10 @@
   {
     "wordingKey": "MSG_EVENT_LIVE_BOOST_EXCEPTION",
     "value": "You may set this to a <color=#ff55AA>maximum of {0}<\/color> during events."
+  },
+  {
+    "wordingKey": "MSG_EXCHANGED_LIVE_TICKET",
+    "value": "Traded with {0}"
   },
   {
     "wordingKey": "MSG_EXCHANGE_ERROR",
@@ -2004,6 +2012,10 @@
     "value": "入場開始"
   },
   {
+    "wordingKey": "MSG_STREAMING_LIVE_PROMOTE_TO_BUY",
+    "value": "*You can purchase Show Tickets at the Lobby's Ticket Shop."
+  },
+  {
     "wordingKey": "MSG_STREAMING_LIVE_READY",
     "value": "Preparing"
   },
@@ -2254,6 +2266,10 @@
   {
     "wordingKey": "MSG_WARN_ENTER_STREAMING_LIVE_WITH_TICKET_DIALOG",
     "value": "※本公演に限り、自由に再入場できます。"
+  },
+  {
+    "wordingKey": "MSG_WARN_STREAMING_LIVE_WITHOUT_TICKET",
+    "value": "*This Show will only be partially viewable."
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
@@ -4126,6 +4142,10 @@
   {
     "wordingKey": "WORD_GO_STORY",
     "value": "To Story"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_STREAMING_LIVE_TICKET_SHOP",
+    "value": "Purchase Ticket"
   },
   {
     "wordingKey": "WORD_GO_VIRTUAL_LIVE",
@@ -6364,6 +6384,10 @@
     "value": "Show Merch"
   },
   {
+    "wordingKey": "WORD_STREAMING_LIVE_ENTER_CONFIRM",
+    "value": "Confirm Entry"
+  },
+  {
     "wordingKey": "WORD_STREAMING_LIVE_EXIT_DIALOG_MESSAGE",
     "value": "途中退場し、待合エリアに戻りますか？\n チケットの使用状況により再入場できる期間が変わります。"
   },
@@ -6526,6 +6550,10 @@
   {
     "wordingKey": "WORD_TITLE_COSTUME_CHANGE_TITLE",
     "value": "Costume Change Complete"
+  },
+  {
+    "wordingKey": "WORD_TITLE_STREAMING_LIVE_TICKET_EXCHANGE_CONFIRM",
+    "value": "Confirm Premium Ticket Trade"
   },
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
