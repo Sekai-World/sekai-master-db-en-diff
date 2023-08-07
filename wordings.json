@@ -368,10 +368,6 @@
     "value": "You have another account linked to Game Center.\nUnlink previous account and link the current one?"
   },
   {
-    "wordingKey": "MSG_CONFIRM_STREAMING_LIVE_ENTER_WITHOUT_TICKET",
-    "value": "You do not have a Show Ticket, therefore you will only be able to view part of the Show.\nWould you still like to proceed?"
-  },
-  {
     "wordingKey": "MSG_CONFIRM_TO_RE_ENTER_STREAMING_LIVE",
     "value": "Re-entering venue.\nWould you like to proceed?"
   },
@@ -690,10 +686,6 @@
   {
     "wordingKey": "MSG_EVENT_LIVE_BOOST_EXCEPTION",
     "value": "You may set this to a <color=#ff55AA>maximum of {0}<\/color> during events."
-  },
-  {
-    "wordingKey": "MSG_EXCHANGED_LIVE_TICKET",
-    "value": "Traded with {0}"
   },
   {
     "wordingKey": "MSG_EXCHANGE_ERROR",
@@ -1844,34 +1836,6 @@
     "value": "*This can be changed from the Options screen."
   },
   {
-    "wordingKey": "MSG_SHOP_AGE_CONFIRM",
-    "value": "有償アイテムを購入するには、生年月日の設定が必要です。\n年齢によって1ヶ月に購入できる金額がきまっています。"
-  },
-  {
-    "wordingKey": "MSG_SHOP_AGE_DETAIL1",
-    "value": "1ヶ月5,000円(税込)まで"
-  },
-  {
-    "wordingKey": "MSG_SHOP_AGE_DETAIL2",
-    "value": "1ヶ月20,000円(税込)まで"
-  },
-  {
-    "wordingKey": "MSG_SHOP_AGE_DETAIL3",
-    "value": "No Limit"
-  },
-  {
-    "wordingKey": "MSG_SHOP_AGE_FINAL_CONFIRM",
-    "value": "下記の生年月日で設定します。\nよろしいですか？"
-  },
-  {
-    "wordingKey": "MSG_SHOP_AGE_UNDEFINED",
-    "value": "生年月日未設定"
-  },
-  {
-    "wordingKey": "MSG_SHOP_AGE_WARNING",
-    "value": "※設定後は生年月日を変更することができません。"
-  },
-  {
     "wordingKey": "MSG_SHOP_DAY_RESET_PERIOD",
     "value": "Resets every {0} day(s)"
   },
@@ -2000,28 +1964,8 @@
     "value": "Insufficient free space available on your device.\nUnable to download data.\nReturning to title screen."
   },
   {
-    "wordingKey": "MSG_STREAMING_LIVE_FINISH",
-    "value": "公演終了"
-  },
-  {
     "wordingKey": "MSG_STREAMING_LIVE_HOME_REWARD_DIALOG_BODY",
     "value": "参加したバーチャルライブ\n 「{0}」の{1}報酬を獲得しました。"
-  },
-  {
-    "wordingKey": "MSG_STREAMING_LIVE_OPEN",
-    "value": "入場開始"
-  },
-  {
-    "wordingKey": "MSG_STREAMING_LIVE_PROMOTE_TO_BUY",
-    "value": "*You can purchase Show Tickets at the Lobby's Ticket Shop."
-  },
-  {
-    "wordingKey": "MSG_STREAMING_LIVE_READY",
-    "value": "Preparing"
-  },
-  {
-    "wordingKey": "MSG_STREAMING_LIVE_SCHEDULE_WARNING",
-    "value": "*Show times are tentative and are subject to change."
   },
   {
     "wordingKey": "MSG_SUBSCRIPTION_DONT_SHOW_THIS_MONTH",
@@ -2262,14 +2206,6 @@
   {
     "wordingKey": "MSG_WARN_ALREADY_USE_STREAMING_LIVE_TICKET",
     "value": "You have already used {0}."
-  },
-  {
-    "wordingKey": "MSG_WARN_ENTER_STREAMING_LIVE_WITH_TICKET_DIALOG",
-    "value": "※本公演に限り、自由に再入場できます。"
-  },
-  {
-    "wordingKey": "MSG_WARN_STREAMING_LIVE_WITHOUT_TICKET",
-    "value": "*This Show will only be partially viewable."
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
@@ -4144,10 +4080,6 @@
     "value": "To Story"
   },
   {
-    "wordingKey": "WORD_GO_TO_STREAMING_LIVE_TICKET_SHOP",
-    "value": "Purchase Ticket"
-  },
-  {
     "wordingKey": "WORD_GO_VIRTUAL_LIVE",
     "value": "To Virtual Show"
   },
@@ -5345,7 +5277,7 @@
   },
   {
     "wordingKey": "WORD_ORIGINAL",
-    "value": "Default"
+    "value": "Original"
   },
   {
     "wordingKey": "WORD_ORIGINAL_MEMBER",
@@ -6384,10 +6316,6 @@
     "value": "Show Merch"
   },
   {
-    "wordingKey": "WORD_STREAMING_LIVE_ENTER_CONFIRM",
-    "value": "Confirm Entry"
-  },
-  {
     "wordingKey": "WORD_STREAMING_LIVE_EXIT_DIALOG_MESSAGE",
     "value": "途中退場し、待合エリアに戻りますか？\n チケットの使用状況により再入場できる期間が変わります。"
   },
@@ -6550,10 +6478,6 @@
   {
     "wordingKey": "WORD_TITLE_COSTUME_CHANGE_TITLE",
     "value": "Costume Change Complete"
-  },
-  {
-    "wordingKey": "WORD_TITLE_STREAMING_LIVE_TICKET_EXCHANGE_CONFIRM",
-    "value": "Confirm Premium Ticket Trade"
   },
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",

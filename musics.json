@@ -368,7 +368,8 @@
     "seq": 1500102,
     "releaseConditionId": 1,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Sweet Magic",
     "pronunciation": "sweetmagic",
@@ -1294,7 +1295,8 @@
     "seq": 1408801,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Ifuudoudou",
     "pronunciation": "ifuudoudou",
@@ -1354,7 +1356,8 @@
     "seq": 1214001,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Lost One's Weeping",
     "pronunciation": "lostone'sweeping",
@@ -1534,7 +1537,7 @@
     "seq": 1308301,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "mv_2d"
     ],
     "title": "Milk Crown on Sonechka",
     "pronunciation": "milkcrownonsonechka",
@@ -1854,7 +1857,8 @@
     "seq": 1310001,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      "original",
+      "mv_2d"
     ],
     "title": "dreamin chuchu",
     "pronunciation": "dreaminchuchu",
@@ -2781,7 +2785,8 @@
     "seq": 1120101,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Shoujo Rei",
     "pronunciation": "shoujorei",
@@ -3860,6 +3865,26 @@
     "fillerSec": 9.0
   },
   {
+    "id": 226,
+    "seq": 1227201,
+    "releaseConditionId": 5,
+    "categories": [
+      "mv"
+    ],
+    "title": "Lost and Found",
+    "pronunciation": "lostandfound",
+    "lyricist": "sasakure.UK",
+    "composer": "sasakure.UK",
+    "arranger": "UKRampage",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_226",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1692309600000,
+    "liveStageId": 1,
+    "fillerSec": 7.361299991607666
+  },
+  {
     "id": 227,
     "seq": 1123701,
     "releaseConditionId": 5,
@@ -4023,6 +4048,46 @@
     "liveStageId": 1,
     "fillerSec": 9.000900268554688,
     "musicCollaborationId": 2
+  },
+  {
+    "id": 236,
+    "seq": 2219101,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "Voices",
+    "pronunciation": "voices",
+    "lyricist": "Yuyoyuppe",
+    "composer": "Yuyoyuppe",
+    "arranger": "Yuyoyuppe",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_236",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1694239500000,
+    "liveStageId": 1,
+    "fillerSec": 9.0
+  },
+  {
+    "id": 237,
+    "seq": 2618901,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "Kimi no Yoru Wo Kure",
+    "pronunciation": "kiminoyoruwokure",
+    "lyricist": "FullkawaHonpo",
+    "composer": "FullkawaHonpo",
+    "arranger": "FullkawaHonpo・Masato Kazune",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_237",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1693375500000,
+    "liveStageId": 1,
+    "fillerSec": 7.491700172424316
   },
   {
     "id": 238,
@@ -4303,6 +4368,86 @@
     "publishedAt": 1661983200000,
     "liveStageId": 1,
     "fillerSec": 8.109999656677246
+  },
+  {
+    "id": 264,
+    "seq": 2318501,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv_2d"
+    ],
+    "title": "Parasol Cider",
+    "pronunciation": "parasolcider",
+    "lyricist": "Nanahoshi Orchestra",
+    "composer": "Iwami Takashi",
+    "arranger": "Nanahoshi Orchestra",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_264",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1691704800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0
+  },
+  {
+    "id": 266,
+    "seq": 1418701,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "YY",
+    "pronunciation": "yy",
+    "lyricist": "23.exe",
+    "composer": "23.exe",
+    "arranger": "23.exe",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_266",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1692741600000,
+    "liveStageId": 1,
+    "fillerSec": 7.536600112915039
+  },
+  {
+    "id": 273,
+    "seq": 1119001,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "FUTURE EVE",
+    "pronunciation": "futureeve",
+    "lyricist": "sasakure.UK",
+    "composer": "sasakure.UK",
+    "arranger": "UKRampage",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_273",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1693864800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0
+  },
+  {
+    "id": 274,
+    "seq": 1118801,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Even so, It’s OK",
+    "pronunciation": "evenso,it’sok",
+    "lyricist": "Ponchi♪",
+    "composer": "Ponchi♪",
+    "arranger": "Ponchi♪",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_274",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1693087200000,
+    "liveStageId": 1,
+    "fillerSec": 7.18179988861084
   },
   {
     "id": 302,

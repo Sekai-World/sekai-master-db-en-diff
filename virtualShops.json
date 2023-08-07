@@ -3219,5 +3219,111 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 131,
+    "seq": 131,
+    "name": "第67回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 237,
+        "virtualShopId": 131,
+        "virtualShopItemType": "penlight",
+        "seq": 199919,
+        "resourceBoxId": 183,
+        "costPaidJewel": 1000,
+        "startAt": 1691704800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 132,
+    "seq": 132,
+    "name": "第68回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 238,
+        "virtualShopId": 132,
+        "virtualShopItemType": "accessory",
+        "seq": 199918,
+        "resourceBoxId": 184,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1692568800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 133,
+    "seq": 133,
+    "name": "Mizuki's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 239,
+        "virtualShopId": 133,
+        "virtualShopItemType": "coordinate",
+        "seq": 99896,
+        "resourceBoxId": 120,
+        "costPaidJewel": 1000,
+        "startAt": 1693000800000,
+        "endAt": 1693346399000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 134,
+    "seq": 134,
+    "name": "Miku's Anniversary",
+    "virtualShopItems": [
+      {
+        "id": 240,
+        "virtualShopId": 134,
+        "virtualShopItemType": "coordinate",
+        "seq": 99895,
+        "resourceBoxId": 121,
+        "costPaidJewel": 1000,
+        "startAt": 1693346400000,
+        "endAt": 1693691999000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 136,
+    "seq": 136,
+    "name": "第69回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 242,
+        "virtualShopId": 136,
+        "virtualShopItemType": "penlight",
+        "seq": 199917,
+        "resourceBoxId": 186,
+        "costPaidJewel": 1000,
+        "startAt": 1693519200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 137,
+    "seq": 137,
+    "name": "Emu's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 243,
+        "virtualShopId": 137,
+        "virtualShopItemType": "coordinate",
+        "seq": 99894,
+        "resourceBoxId": 123,
+        "costPaidJewel": 1000,
+        "startAt": 1694124000000,
+        "endAt": 1694469599000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
