@@ -4,6 +4,18 @@
     "value": "About Memorabilia Box"
   },
   {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BTN_BALLOON_LABEL_FORMAT",
+    "value": "{0} Pulls Limited"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BTN_RIBBON_LABEL_FORMAT",
+    "value": "x{0} left"
+  },
+  {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BUTTON_LABEL",
+    "value": "Trade"
+  },
+  {
     "wordingKey": "DIALOG_MESSAGE_VIRTUAL_SHOP_TIME_OVER",
     "value": "{0} has ended."
   },
@@ -42,6 +54,10 @@
   {
     "wordingKey": "FMT_RANKING",
     "value": "Rank: {0}"
+  },
+  {
+    "wordingKey": "FORMAT_CONNECT_LIVE_TICKET_SHOP_ITEM",
+    "value": "{0} x {1}"
   },
   {
     "wordingKey": "FORMAT_RECEIVE_PRESENTED_MUSIC",
@@ -102,14 +118,6 @@
   {
     "wordingKey": "MSG_ADMISSION_LIMIT_PAID",
     "value": "The free viewing period has ended."
-  },
-  {
-    "wordingKey": "MSG_ADMISSION_LIMIT_PAID_FOR_CONNECT_LIVE",
-    "value": "「お試し入場」での視聴可能範囲が過ぎました。\n公演の続きを見る場合は、チケットを交換してください。"
-  },
-  {
-    "wordingKey": "MSG_AGREE_DELETE_USER",
-    "value": "削除されるプレイデータ、復旧・引き継ぎに関して理解しました。"
   },
   {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
@@ -348,10 +356,6 @@
     "value": "<size=28>Open<\/size> {0}."
   },
   {
-    "wordingKey": "MSG_COMPRETE_DELETE_USER",
-    "value": "アカウントの削除が完了しました。"
-  },
-  {
     "wordingKey": "MSG_CONDITION_GET_CARD",
     "value": "Obtained [{0}] {1}"
   },
@@ -370,10 +374,6 @@
   {
     "wordingKey": "MSG_CONFIRM_TO_RE_ENTER_STREAMING_LIVE",
     "value": "Re-entering venue.\nWould you like to proceed?"
-  },
-  {
-    "wordingKey": "MSG_CONNECT_LIVE_TICKET_EXCHANGE_CONFIRM_TOS",
-    "value": "コネクトライブの利用ガイドラインに同意する。"
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_COMPLETE",
@@ -538,22 +538,6 @@
   {
     "wordingKey": "MSG_DEFERRED_PURCHASE",
     "value": "Purchases will be reflected on the Shop screen after payment has been completed. It may take some time for the purchases to be reflected."
-  },
-  {
-    "wordingKey": "MSG_DELETE_USER",
-    "value": "このアカウントを削除します。"
-  },
-  {
-    "wordingKey": "MSG_DELETE_USER_CHECK",
-    "value": "<color=#ff5599>アカウントの削除を続ける場合は、\n 下記のチェックボックスにチェックを入れて\n 「削除」をタップしてください。<\/color>"
-  },
-  {
-    "wordingKey": "MSG_DELETE_USER_CONFIRM",
-    "value": "現在プレイ中のアカウントの削除ができます。\n アカウントを削除しますか？"
-  },
-  {
-    "wordingKey": "MSG_DELETE_USER_NOTIFICATION",
-    "value": "<color=#ff5599>アカウントを削除すると\n 現在プレイ中のデータで遊ぶことができなくなります。\n \n ゲーム内のプレイ履歴、オプション設定やアカウント連携データ\n などを含むすべてのプレイデータが削除されます。\n \n 削除を行うとアカウントおよびプレイデータの復旧、引き継ぎは\n 行えません。<\/color>"
   },
   {
     "wordingKey": "MSG_DISCONNECT_LEFT_ROOM",
@@ -1180,10 +1164,6 @@
     "value": "Unable to move to Show Venue."
   },
   {
-    "wordingKey": "MSG_MOVE_TO_LIVESTAGE",
-    "value": "Transferring to Show Venue."
-  },
-  {
     "wordingKey": "MSG_MOVIE_SKIP_BODY",
     "value": "Skip the movie?"
   },
@@ -1356,8 +1336,8 @@
     "value": "You have no Practice Scores."
   },
   {
-    "wordingKey": "MSG_NONE_USER",
-    "value": "このアカウントを利用することはできません。"
+    "wordingKey": "MSG_NONE_PAID_LIVE_REWARD",
+    "value": "No reward available."
   },
   {
     "wordingKey": "MSG_NOTHING_ACCESSORY_ITEM",
@@ -1566,6 +1546,26 @@
   {
     "wordingKey": "MSG_OVER_RECOVER",
     "value": "Bonus Energy limit: 99"
+  },
+  {
+    "wordingKey": "MSG_PAID_LIVE_DISC",
+    "value": "{0}\nConfirm purchase?"
+  },
+  {
+    "wordingKey": "MSG_PAID_LIVE_EXCHANGE_CONFIRM_TOS",
+    "value": "I agree to the archive recording guidelines."
+  },
+  {
+    "wordingKey": "MSG_PAID_LIVE_NOTHING",
+    "value": "No shows found."
+  },
+  {
+    "wordingKey": "MSG_PAID_LIVE_SHOP_ITEM_SELECT_DIALOG_TITLE",
+    "value": "{0} Disc Selection"
+  },
+  {
+    "wordingKey": "MSG_PAID_STREAMING_LIVE_DISC",
+    "value": "{0} {1}\nConfirm purchase?"
   },
   {
     "wordingKey": "MSG_PAST_LIVE",
@@ -1808,10 +1808,6 @@
     "value": "Your profile has not been saved.\nSave and exit?"
   },
   {
-    "wordingKey": "MSG_SELECT_DELETE_USER",
-    "value": "下記のアカウントを削除します。"
-  },
-  {
     "wordingKey": "MSG_SELECT_LIST",
     "value": "Select 10 Characters from the following."
   },
@@ -1965,7 +1961,7 @@
   },
   {
     "wordingKey": "MSG_STREAMING_LIVE_HOME_REWARD_DIALOG_BODY",
-    "value": "参加したバーチャルライブ\n 「{0}」の{1}報酬を獲得しました。"
+    "value": "You have received {1} for participating in the {0} Virtual Show."
   },
   {
     "wordingKey": "MSG_SUBSCRIPTION_DONT_SHOW_THIS_MONTH",
@@ -2272,6 +2268,14 @@
     "value": "About Omikuji"
   },
   {
+    "wordingKey": "TITLE_CONNECT_LIVE_TICKET_EXCHANGE_COMPLETE_DIALOG",
+    "value": "Trade Complete"
+  },
+  {
+    "wordingKey": "TITLE_CONNECT_LIVE_TICKET_OVERFLOW_WARN_DIALOG",
+    "value": "Confirm"
+  },
+  {
     "wordingKey": "TITLE_PERMISSION_NOT_GRANTED",
     "value": "Access Required"
   },
@@ -2434,10 +2438,6 @@
   {
     "wordingKey": "WORD_ALPHABETICAL_ORDER",
     "value": "A-Z"
-  },
-  {
-    "wordingKey": "WORD_ALPHABETICAL_ORDER_JUMP",
-    "value": "行ジャンプ"
   },
   {
     "wordingKey": "WORD_ALREADY_CLEARED_LIVE_RETRY",
@@ -2622,6 +2622,14 @@
   {
     "wordingKey": "WORD_BIRTHDAY",
     "value": "DOB"
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_ARCHIVE_TAB",
+    "value": "B'Day\/Anniv."
+  },
+  {
+    "wordingKey": "WORD_BIRTHDAY_ARCHIVE_TITLE",
+    "value": "Birthday\/Anniversary"
   },
   {
     "wordingKey": "WORD_BODY",
@@ -2856,6 +2864,10 @@
     "value": "Ver. Select"
   },
   {
+    "wordingKey": "WORD_CHAPTER",
+    "value": "Parts"
+  },
+  {
     "wordingKey": "WORD_CHARACTER",
     "value": "Character"
   },
@@ -2945,7 +2957,7 @@
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_LIVE",
-    "value": "Cheerful\nShow"
+    "value": "Cheerful Show"
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_TEAM_CHANGE",
@@ -3074,6 +3086,10 @@
   {
     "wordingKey": "WORD_CONFIRM_EXCHANGE",
     "value": "Confirm Trade"
+  },
+  {
+    "wordingKey": "WORD_CONNECT",
+    "value": "Connect"
   },
   {
     "wordingKey": "WORD_CONNECT_LIVE",
@@ -3296,6 +3312,10 @@
     "value": "Dance"
   },
   {
+    "wordingKey": "WORD_DATATIME",
+    "value": "Show Date"
+  },
+  {
     "wordingKey": "WORD_DATA_LINK",
     "value": "Link"
   },
@@ -3428,6 +3448,10 @@
     "value": "÷{0}"
   },
   {
+    "wordingKey": "WORD_DOT",
+    "value": "\/"
+  },
+  {
     "wordingKey": "WORD_DOWNLOAD",
     "value": "Download"
   },
@@ -3438,6 +3462,10 @@
   {
     "wordingKey": "WORD_DOWNLOAD_CONFIRM",
     "value": "Confirm Download"
+  },
+  {
+    "wordingKey": "WORD_DOWNLOAD_SIZE",
+    "value": "Size"
   },
   {
     "wordingKey": "WORD_DO_CHANGE",
@@ -3968,10 +3996,6 @@
     "value": "Item List"
   },
   {
-    "wordingKey": "WORD_GIFT_NOT_SELECT",
-    "value": "アイテム未選択"
-  },
-  {
     "wordingKey": "WORD_GIFT_NOT_SETTING",
     "value": "No Item Selected"
   },
@@ -3982,6 +4006,10 @@
   {
     "wordingKey": "WORD_GIFT_SETTING_CONFIRM",
     "value": "Confirm Item Selection"
+  },
+  {
+    "wordingKey": "WORD_GOTO_SHOP_TEXT",
+    "value": "To Shop"
   },
   {
     "wordingKey": "WORD_GO_ANOTHER_VO_SHOP",
@@ -4080,6 +4108,10 @@
     "value": "To Story"
   },
   {
+    "wordingKey": "WORD_GO_TO_CRYSTAL_SHOP_FOR_STREAMING_LIVE_TICKET",
+    "value": "Crystal\nShop"
+  },
+  {
     "wordingKey": "WORD_GO_VIRTUAL_LIVE",
     "value": "To Virtual Show"
   },
@@ -4162,6 +4194,10 @@
   {
     "wordingKey": "WORD_HEIGHT",
     "value": "Height"
+  },
+  {
+    "wordingKey": "WORD_HELD_TIME",
+    "value": "Show Year"
   },
   {
     "wordingKey": "WORD_HIDDEN",
@@ -4380,6 +4416,10 @@
     "value": "Join"
   },
   {
+    "wordingKey": "WORD_JOINED",
+    "value": "Participated"
+  },
+  {
     "wordingKey": "WORD_JOINED_GROUP",
     "value": "Crew"
   },
@@ -4390,6 +4430,10 @@
   {
     "wordingKey": "WORD_JOIN_PRIVATE_ROOM",
     "value": "Join Private Room"
+  },
+  {
+    "wordingKey": "WORD_JOIN_STATUS",
+    "value": "Participation Status"
   },
   {
     "wordingKey": "WORD_LAYER_BACK",
@@ -4538,6 +4582,10 @@
   {
     "wordingKey": "WORD_LIVE_FAILED2",
     "value": "Show Failed"
+  },
+  {
+    "wordingKey": "WORD_LIVE_INFO",
+    "value": "Show Info"
   },
   {
     "wordingKey": "WORD_LIVE_INVITE",
@@ -4758,6 +4806,10 @@
   {
     "wordingKey": "WORD_MAX_WIN_STREAK",
     "value": "Max Win Streak"
+  },
+  {
+    "wordingKey": "WORD_MB",
+    "value": "{0}MB"
   },
   {
     "wordingKey": "WORD_MEMBER",
@@ -5120,6 +5172,10 @@
     "value": "Unable to Purchase"
   },
   {
+    "wordingKey": "WORD_NOT_PURCHASED",
+    "value": "Not Purchased"
+  },
+  {
     "wordingKey": "WORD_NOT_SATISFIED",
     "value": "Not satisfied"
   },
@@ -5304,6 +5360,14 @@
     "value": "Paid Crystals"
   },
   {
+    "wordingKey": "WORD_PAID_LIVE_FILTER",
+    "value": "Filter Shows"
+  },
+  {
+    "wordingKey": "WORD_PAID_LIVE_PART",
+    "value": "{0} Performance {1}"
+  },
+  {
     "wordingKey": "WORD_PARAM1",
     "value": "Performance"
   },
@@ -5334,6 +5398,14 @@
   {
     "wordingKey": "WORD_PERFORMER",
     "value": "Performer"
+  },
+  {
+    "wordingKey": "WORD_PERFORMER_INFO",
+    "value": "Featuring"
+  },
+  {
+    "wordingKey": "WORD_PERFORMER_VIRTUAL_SINGER",
+    "value": "VIRTUAL SINGERS Featured"
   },
   {
     "wordingKey": "WORD_PIAPRO_IDOL_STORY_TITLE",
@@ -5388,6 +5460,10 @@
     "value": "Fast Forward"
   },
   {
+    "wordingKey": "WORD_PLAYING_TIME",
+    "value": "Length"
+  },
+  {
     "wordingKey": "WORD_PLAY_FREE_LIVE_FROM_EVENT_STORY",
     "value": "To Show"
   },
@@ -5396,12 +5472,20 @@
     "value": "Playlist"
   },
   {
+    "wordingKey": "WORD_PLAY_LIST_BIRTHDAY_ARCHIVE",
+    "value": "B'Day\/Anniv."
+  },
+  {
     "wordingKey": "WORD_PLAY_MUSIC_VIDEO_FROM_EVENT_STORY",
     "value": "Music Video Viewer"
   },
   {
     "wordingKey": "WORD_PLAY_RESULT",
     "value": "Show Results"
+  },
+  {
+    "wordingKey": "WORD_PLAY_TEXT",
+    "value": "Play"
   },
   {
     "wordingKey": "WORD_POSSESSION",
@@ -5528,6 +5612,10 @@
     "value": "Purchase"
   },
   {
+    "wordingKey": "WORD_PURCHASED",
+    "value": "Purchased"
+  },
+  {
     "wordingKey": "WORD_PURCHASEING",
     "value": "Purchase"
   },
@@ -5558,6 +5646,10 @@
   {
     "wordingKey": "WORD_PURCHASE_RESTRICTIONS",
     "value": "Purchase Limit"
+  },
+  {
+    "wordingKey": "WORD_PURCHASE_STATUS",
+    "value": "Purchase Status"
   },
   {
     "wordingKey": "WORD_RANGE",
@@ -5764,10 +5856,6 @@
     "value": "Reset"
   },
   {
-    "wordingKey": "WORD_REVERT_INITIAL_STATE",
-    "value": "白紙"
-  },
-  {
     "wordingKey": "WORD_REWARD",
     "value": "Rewards"
   },
@@ -5852,6 +5940,18 @@
     "value": "Search for Player ID"
   },
   {
+    "wordingKey": "WORD_SEASON",
+    "value": "Seasonal"
+  },
+  {
+    "wordingKey": "WORD_SEASON_ARCHIVE_TAB",
+    "value": "Seasonal"
+  },
+  {
+    "wordingKey": "WORD_SEASON_ARCHIVE_TITLE",
+    "value": "Seasonal"
+  },
+  {
     "wordingKey": "WORD_SEASON_RESULT",
     "value": "Previous Season"
   },
@@ -5890,6 +5990,14 @@
   {
     "wordingKey": "WORD_SELECTING_PERIOD",
     "value": "Selecting..."
+  },
+  {
+    "wordingKey": "WORD_SELECTION",
+    "value": "Select"
+  },
+  {
+    "wordingKey": "WORD_SELECTION_ALL_MEMBERS",
+    "value": "Select All"
   },
   {
     "wordingKey": "WORD_SELECT_ALL",
@@ -6034,6 +6142,14 @@
   {
     "wordingKey": "WORD_SHOP_PRICE",
     "value": "<color={0}>＄{1:F2}<\/color>"
+  },
+  {
+    "wordingKey": "WORD_SHOP_PURCHASE",
+    "value": "Purchase {0}"
+  },
+  {
+    "wordingKey": "WORD_SHOP_PURCHASE_ALL_DISC",
+    "value": "Purchase All Performance Discs"
   },
   {
     "wordingKey": "WORD_SHOP_PURCHASE_CANCEL_TITLE",
@@ -6316,8 +6432,16 @@
     "value": "Show Merch"
   },
   {
-    "wordingKey": "WORD_STREAMING_LIVE_EXIT_DIALOG_MESSAGE",
-    "value": "途中退場し、待合エリアに戻りますか？\n チケットの使用状況により再入場できる期間が変わります。"
+    "wordingKey": "WORD_STREAMING_ARCHIVE_TAB",
+    "value": "Connect"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_ARCHIVE_TITLE",
+    "value": "Connect Show"
+  },
+  {
+    "wordingKey": "WORD_STREAMING_LIVE_PART",
+    "value": "Performance {0}"
   },
   {
     "wordingKey": "WORD_STREAMING_LIVE_RE_ENTER_TITLE",
@@ -6634,6 +6758,10 @@
   {
     "wordingKey": "WORD_UNIT_TOTAL_POWER",
     "value": "Talent"
+  },
+  {
+    "wordingKey": "WORD_UNJOIN",
+    "value": "Not Participated"
   },
   {
     "wordingKey": "WORD_UNLOCK",
@@ -7036,6 +7164,18 @@
     "value": "(Wed)"
   },
   {
+    "wordingKey": "WORD_WELCOME",
+    "value": "Welcome"
+  },
+  {
+    "wordingKey": "WORD_WELCOME_ARCHIVE_TAB",
+    "value": "Welcome"
+  },
+  {
+    "wordingKey": "WORD_WELCOME_ARCHIVE_TITLE",
+    "value": "Welcome Show"
+  },
+  {
     "wordingKey": "WORD_WIN",
     "value": "Win"
   },
@@ -7062,6 +7202,10 @@
   {
     "wordingKey": "WORD_WITH_LIVE_COSTUME",
     "value": "Incl. Costume"
+  },
+  {
+    "wordingKey": "WORD_YEAR",
+    "value": "{0}"
   },
   {
     "wordingKey": "WORD_YES",
