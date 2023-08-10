@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 462,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ハピネスパッケージガチャ",
-    "assetbundleName": "banner_gacha225",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 225,
-    "startAt": 1690743600000,
-    "endAt": 1691607599000
-  },
-  {
     "homeBannerId": 463,
     "seq": 110,
     "homeBannerType": "general",
@@ -42,6 +31,17 @@
     "transitionDestinationId": 66,
     "startAt": 1690840800000,
     "endAt": 1691704799000
+  },
+  {
+    "homeBannerId": 465,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "[星乃一歌]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive165",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 165,
+    "startAt": 1691618400000,
+    "endAt": 1691737199000
   },
   {
     "homeBannerId": 1001,
