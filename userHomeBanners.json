@@ -11,26 +11,15 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 464,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフルサイバーイベ9巡目_イベントバナー",
-    "assetbundleName": "event_cyber_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 66,
-    "startAt": 1690840800000,
-    "endAt": 1691704799000
-  },
-  {
-    "homeBannerId": 465,
-    "seq": 160,
+    "homeBannerId": 466,
+    "seq": 130,
     "homeBannerType": "general",
-    "name": "[星乃一歌]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive165",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 165,
-    "startAt": 1691618400000,
-    "endAt": 1691737199000
+    "name": "Ichika Hoshino Happy Birthday Gacha",
+    "assetbundleName": "banner_gacha227",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 227,
+    "startAt": 1691737200000,
+    "endAt": 1692341999000
   },
   {
     "homeBannerId": 467,
@@ -42,6 +31,17 @@
     "transitionDestinationId": 228,
     "startAt": 1691694000000,
     "endAt": 1692557999000
+  },
+  {
+    "homeBannerId": 468,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]モモジャン箱イベ9巡目_イベントバナー",
+    "assetbundleName": "event_blue_2022",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 67,
+    "startAt": 1691704800000,
+    "endAt": 1692568799000
   },
   {
     "homeBannerId": 1001,
