@@ -11,37 +11,37 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 479,
+    "homeBannerId": 485,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "Hatsune Miku Happy Anniversary Gacha",
-    "assetbundleName": "banner_gacha233",
+    "name": "Emu Otori Happy Birthday Gacha",
+    "assetbundleName": "banner_gacha235",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 233,
-    "startAt": 1693465200000,
-    "endAt": 1694069999000
+    "transitionDestinationId": 235,
+    "startAt": 1694242800000,
+    "endAt": 1694847599000
   },
   {
-    "homeBannerId": 481,
+    "homeBannerId": 486,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ10巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha234",
+    "name": "[ガチャ]シャッフルお絵かきイベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha236",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 234,
-    "startAt": 1693508400000,
-    "endAt": 1694372399000
+    "transitionDestinationId": 236,
+    "startAt": 1694372400000,
+    "endAt": 1695236399000
   },
   {
-    "homeBannerId": 482,
+    "homeBannerId": 487,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]レオニ箱イベ10巡目_イベントバナー",
-    "assetbundleName": "event_faith_2022",
+    "name": "[イベント]シャッフルお絵かきイベ_イベントバナー",
+    "assetbundleName": "event_rainbow_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 69,
-    "startAt": 1693519200000,
-    "endAt": 1694383199000
+    "transitionDestinationId": 70,
+    "startAt": 1694383200000,
+    "endAt": 1695247199000
   },
   {
     "homeBannerId": 1001,
@@ -53,15 +53,5 @@
     "transitionDestinationId": 1,
     "startAt": 1633118400000,
     "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1064,
-    "seq": 190,
-    "homeBannerType": "general",
-    "name": "衣装「サマーリゾート」販売",
-    "assetbundleName": "banner_shop_costume_sale_en_10",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1691391600000,
-    "endAt": 1694156399000
   }
 ]
