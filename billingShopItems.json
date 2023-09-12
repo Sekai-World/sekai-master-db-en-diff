@@ -286,7 +286,7 @@
     "resourceBoxId": 24,
     "bonusResourceBoxId": 10,
     "startAt": 1604217600000,
-    "endAt": 4097203199000
+    "endAt": 1696147200000
   },
   {
     "id": 25,
@@ -667,6 +667,22 @@
     "label": "Limited Time",
     "startAt": 1680213600000,
     "endAt": 1681250399000
+  },
+  {
+    "id": 55,
+    "seq": 1,
+    "billingShopItemType": "live_mission_pass",
+    "billingProductGroupId": 63,
+    "name": "Premium Mission Pass (Updates Monthly)",
+    "description": "Crystals x1,800\nWish Piece x300 (Bonus)\nUnlock premium rewards this month.",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_55",
+    "resourceBoxId": 24,
+    "bonusResourceBoxId": 39,
+    "startAt": 1696147200000,
+    "endAt": 4097203199000
   },
   {
     "id": 10001,
@@ -2690,5 +2706,17 @@
     "startAt": 1691391600000,
     "endAt": 1694156399000,
     "purchaseOption": "exchange"
+  },
+  {
+    "id": 200008,
+    "seq": 1,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 200008,
+    "name": "[Razer] Cristals H x 50",
+    "description": "Cristals H x 50",
+    "billableLimitType": "unlimited",
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "jewel_A_gl",
+    "resourceBoxId": 200008
   }
 ]

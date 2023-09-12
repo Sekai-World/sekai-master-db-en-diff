@@ -3401,5 +3401,40 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 138,
+    "seq": 138,
+    "name": "第70回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 244,
+        "virtualShopId": 138,
+        "virtualShopItemType": "coordinate",
+        "seq": 99893,
+        "resourceBoxId": 187,
+        "costPaidJewel": 1000,
+        "startAt": 1694383200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 139,
+    "seq": 139,
+    "name": "第71回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 245,
+        "virtualShopId": 139,
+        "virtualShopItemType": "accessory",
+        "seq": 199916,
+        "resourceBoxId": 188,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1695247200000
+      }
+    ],
+    "virtualShopType": "event"
   }
 ]
