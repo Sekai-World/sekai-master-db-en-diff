@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 488,
-    "seq": 120,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ガチャ_復刻ガチャバナー",
-    "assetbundleName": "banner_gacha237",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 237,
-    "startAt": 1694631600000,
-    "endAt": 1695409199000
-  },
-  {
     "homeBannerId": 489,
     "seq": 110,
     "homeBannerType": "general",
@@ -63,5 +52,16 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1694674800000,
     "endAt": 1697353199000
+  },
+  {
+    "homeBannerId": 1066,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "ハピネスパッケージガチャ ID:1045",
+    "assetbundleName": "banner_gacha1045",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1045,
+    "startAt": 1695409200000,
+    "endAt": 1696013999000
   }
 ]
