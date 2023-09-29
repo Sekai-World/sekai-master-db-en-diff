@@ -1,0 +1,3746 @@
+[
+  {
+    "id": 1001,
+    "characterMissionType": "play_live",
+    "characterId": 1,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Ichika Hoshino as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1002,
+    "characterMissionType": "waiting_room",
+    "characterId": 1,
+    "parameterGroupId": 2,
+    "sentence": "Have Ichika Hoshino in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 1,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Ichika Hoshino.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 1,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Ichika Hoshino Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 1,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Ichika Hoshino.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 1,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Ichika Hoshino Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 1,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Ichika Hoshino Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 1,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Ichika Hoshino's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 1,
+    "parameterGroupId": 9,
+    "sentence": "Level up Ichika Hoshino Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 1,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 1,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1012,
+    "characterMissionType": "collect_member",
+    "characterId": 1,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Ichika Hoshino Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 1013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 1,
+    "parameterGroupId": 15,
+    "sentence": "Increase Ichika Hoshino 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 1,
+    "parameterGroupId": 16,
+    "sentence": "Increase Ichika Hoshino 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 1,
+    "parameterGroupId": 17,
+    "sentence": "Increase Ichika Hoshino 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 1016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 1,
+    "parameterGroupId": 18,
+    "sentence": "Increase Ichika Hoshino 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2001,
+    "characterMissionType": "play_live",
+    "characterId": 2,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Saki Tenma as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2002,
+    "characterMissionType": "waiting_room",
+    "characterId": 2,
+    "parameterGroupId": 2,
+    "sentence": "Have Saki Tenma in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 2,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Saki Tenma.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 2,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Saki Tenma Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 2,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Saki Tenma.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 2,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Saki Tenma Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 2,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Saki Tenma Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 2,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Saki Tenma's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 2,
+    "parameterGroupId": 9,
+    "sentence": "Level up Saki Tenma Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 2,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 2,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2012,
+    "characterMissionType": "collect_member",
+    "characterId": 2,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Saki Tenma Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 2013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 2,
+    "parameterGroupId": 15,
+    "sentence": "Increase Saki Tenma 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 2,
+    "parameterGroupId": 16,
+    "sentence": "Increase Saki Tenma 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 2,
+    "parameterGroupId": 17,
+    "sentence": "Increase Saki Tenma 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 2016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 2,
+    "parameterGroupId": 18,
+    "sentence": "Increase Saki Tenma 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3001,
+    "characterMissionType": "play_live",
+    "characterId": 3,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Honami Mochizuki as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3002,
+    "characterMissionType": "waiting_room",
+    "characterId": 3,
+    "parameterGroupId": 2,
+    "sentence": "Have Honami Mochizuki in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 3,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Honami Mochizuki.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 3,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Honami Mochizuki Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 3,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Honami Mochizuki.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 3,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Honami Mochizuki Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 3,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Honami Mochizuki Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 3,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Honami Mochizuki's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 3,
+    "parameterGroupId": 9,
+    "sentence": "Level up Honami Mochizuki Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 3,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 3,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3012,
+    "characterMissionType": "collect_member",
+    "characterId": 3,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Honami Mochizuki Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 3013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 3,
+    "parameterGroupId": 15,
+    "sentence": "Increase Honami Mochizuki 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 3,
+    "parameterGroupId": 16,
+    "sentence": "Increase Honami Mochizuki 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 3,
+    "parameterGroupId": 17,
+    "sentence": "Increase Honami Mochizuki 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 3016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 3,
+    "parameterGroupId": 18,
+    "sentence": "Increase Honami Mochizuki 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4001,
+    "characterMissionType": "play_live",
+    "characterId": 4,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Shiho Hinomori as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4002,
+    "characterMissionType": "waiting_room",
+    "characterId": 4,
+    "parameterGroupId": 2,
+    "sentence": "Have Shiho Hinomori in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 4,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Shiho Hinomori.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 4,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Shiho Hinomori Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 4,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Shiho Hinomori.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 4,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Shiho Hinomori Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 4,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Shiho Hinomori Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 4,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Shiho Hinomori's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 4,
+    "parameterGroupId": 9,
+    "sentence": "Level up Shiho Hinomori Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 4,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 4,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4012,
+    "characterMissionType": "collect_member",
+    "characterId": 4,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Shiho Hinomori Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 4013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 4,
+    "parameterGroupId": 15,
+    "sentence": "Increase Shiho Hinomori 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 4,
+    "parameterGroupId": 16,
+    "sentence": "Increase Shiho Hinomori 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 4,
+    "parameterGroupId": 17,
+    "sentence": "Increase Shiho Hinomori 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 4016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 4,
+    "parameterGroupId": 18,
+    "sentence": "Increase Shiho Hinomori 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5001,
+    "characterMissionType": "play_live",
+    "characterId": 5,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Minori Hanasato as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5002,
+    "characterMissionType": "waiting_room",
+    "characterId": 5,
+    "parameterGroupId": 2,
+    "sentence": "Have Minori Hanasato in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 5,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Minori Hanasato.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 5,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Minori Hanasato Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 5,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Minori Hanasato.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 5,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Minori Hanasato Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 5,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Minori Hanasato Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 5,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Minori Hanasato's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 5,
+    "parameterGroupId": 9,
+    "sentence": "Level up Minori Hanasato Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 5,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 5,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5012,
+    "characterMissionType": "collect_member",
+    "characterId": 5,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Minori Hanasato Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 5013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 5,
+    "parameterGroupId": 15,
+    "sentence": "Increase Minori Hanasato 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 5,
+    "parameterGroupId": 16,
+    "sentence": "Increase Minori Hanasato 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 5,
+    "parameterGroupId": 17,
+    "sentence": "Increase Minori Hanasato 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 5016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 5,
+    "parameterGroupId": 18,
+    "sentence": "Increase Minori Hanasato 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6001,
+    "characterMissionType": "play_live",
+    "characterId": 6,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Haruka Kiritani as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6002,
+    "characterMissionType": "waiting_room",
+    "characterId": 6,
+    "parameterGroupId": 2,
+    "sentence": "Have Haruka Kiritani in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 6,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Haruka Kiritani.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 6,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Haruka Kiritani Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 6,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Haruka Kiritani.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 6,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Haruka Kiritani Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 6,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Haruka Kiritani Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 6,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Haruka Kiritani's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 6,
+    "parameterGroupId": 9,
+    "sentence": "Level up Haruka Kiritani Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 6,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 6,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6012,
+    "characterMissionType": "collect_member",
+    "characterId": 6,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Haruka Kiritani Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 6013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 6,
+    "parameterGroupId": 15,
+    "sentence": "Increase Haruka Kiritani 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 6,
+    "parameterGroupId": 16,
+    "sentence": "Increase Haruka Kiritani 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 6,
+    "parameterGroupId": 17,
+    "sentence": "Increase Haruka Kiritani 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 6016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 6,
+    "parameterGroupId": 18,
+    "sentence": "Increase Haruka Kiritani 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7001,
+    "characterMissionType": "play_live",
+    "characterId": 7,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Airi Momoi as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7002,
+    "characterMissionType": "waiting_room",
+    "characterId": 7,
+    "parameterGroupId": 2,
+    "sentence": "Have Airi Momoi in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 7,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Airi Momoi.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 7,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Airi Momoi Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 7,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Airi Momoi.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 7,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Airi Momoi Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 7,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Airi Momoi Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 7,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Airi Momoi's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 7,
+    "parameterGroupId": 9,
+    "sentence": "Level up Airi Momoi Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 7,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 7,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7012,
+    "characterMissionType": "collect_member",
+    "characterId": 7,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Airi Momoi Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 7013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 7,
+    "parameterGroupId": 15,
+    "sentence": "Increase Airi Momoi 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 7,
+    "parameterGroupId": 16,
+    "sentence": "Increase Airi Momoi 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 7,
+    "parameterGroupId": 17,
+    "sentence": "Increase Airi Momoi 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 7016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 7,
+    "parameterGroupId": 18,
+    "sentence": "Increase Airi Momoi 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8001,
+    "characterMissionType": "play_live",
+    "characterId": 8,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Shizuku Hinomori as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8002,
+    "characterMissionType": "waiting_room",
+    "characterId": 8,
+    "parameterGroupId": 2,
+    "sentence": "Have Shizuku Hinomori in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 8,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Shizuku Hinomori.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 8,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Shizuku Hinomori Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 8,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Shizuku Hinomori.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 8,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Shizuku Hinomori Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 8,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Shizuku Hinomori Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 8,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Shizuku Hinomori's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 8,
+    "parameterGroupId": 9,
+    "sentence": "Level up Shizuku Hinomori Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 8,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 8,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8012,
+    "characterMissionType": "collect_member",
+    "characterId": 8,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Shizuku Hinomori Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 8013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 8,
+    "parameterGroupId": 15,
+    "sentence": "Increase Shizuku Hinomori 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 8,
+    "parameterGroupId": 16,
+    "sentence": "Increase Shizuku Hinomori 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 8,
+    "parameterGroupId": 17,
+    "sentence": "Increase Shizuku Hinomori 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 8016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 8,
+    "parameterGroupId": 18,
+    "sentence": "Increase Shizuku Hinomori 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9001,
+    "characterMissionType": "play_live",
+    "characterId": 9,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Kohane Azusawa as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9002,
+    "characterMissionType": "waiting_room",
+    "characterId": 9,
+    "parameterGroupId": 2,
+    "sentence": "Have Kohane Azusawa in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 9,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Kohane Azusawa.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 9,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Kohane Azusawa Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 9,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Kohane Azusawa.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 9,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Kohane Azusawa Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 9,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Kohane Azusawa Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 9,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Kohane Azusawa's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 9,
+    "parameterGroupId": 9,
+    "sentence": "Level up Kohane Azusawa Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 9,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 9,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9012,
+    "characterMissionType": "collect_member",
+    "characterId": 9,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Kohane Azusawa Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 9013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 9,
+    "parameterGroupId": 15,
+    "sentence": "Increase Kohane Azusawa 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 9,
+    "parameterGroupId": 16,
+    "sentence": "Increase Kohane Azusawa 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 9,
+    "parameterGroupId": 17,
+    "sentence": "Increase Kohane Azusawa 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 9016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 9,
+    "parameterGroupId": 18,
+    "sentence": "Increase Kohane Azusawa 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10001,
+    "characterMissionType": "play_live",
+    "characterId": 10,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with An Shiraishi as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10002,
+    "characterMissionType": "waiting_room",
+    "characterId": 10,
+    "parameterGroupId": 2,
+    "sentence": "Have An Shiraishi in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 10,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for An Shiraishi.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 10,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} An Shiraishi Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 10,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with An Shiraishi.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 10,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different An Shiraishi Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 10,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different An Shiraishi Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 10,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of An Shiraishi's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 10,
+    "parameterGroupId": 9,
+    "sentence": "Level up An Shiraishi Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 10,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 10,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10012,
+    "characterMissionType": "collect_member",
+    "characterId": 10,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different An Shiraishi Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 10013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 10,
+    "parameterGroupId": 15,
+    "sentence": "Increase An Shiraishi 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 10,
+    "parameterGroupId": 16,
+    "sentence": "Increase An Shiraishi 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 10,
+    "parameterGroupId": 17,
+    "sentence": "Increase An Shiraishi 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 10016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 10,
+    "parameterGroupId": 18,
+    "sentence": "Increase An Shiraishi 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11001,
+    "characterMissionType": "play_live",
+    "characterId": 11,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Akito Shinonome as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11002,
+    "characterMissionType": "waiting_room",
+    "characterId": 11,
+    "parameterGroupId": 2,
+    "sentence": "Have Akito Shinonome in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 11,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Akito Shinonome.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 11,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Akito Shinonome Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 11,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Akito Shinonome.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 11,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Akito Shinonome Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 11,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Akito Shinonome Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 11,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Akito Shinonome's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 11,
+    "parameterGroupId": 9,
+    "sentence": "Level up Akito Shinonome Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 11,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 11,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11012,
+    "characterMissionType": "collect_member",
+    "characterId": 11,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Akito Shinonome Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 11013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 11,
+    "parameterGroupId": 15,
+    "sentence": "Increase Akito Shinonome 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 11,
+    "parameterGroupId": 16,
+    "sentence": "Increase Akito Shinonome 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 11,
+    "parameterGroupId": 17,
+    "sentence": "Increase Akito Shinonome 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 11016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 11,
+    "parameterGroupId": 18,
+    "sentence": "Increase Akito Shinonome 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12001,
+    "characterMissionType": "play_live",
+    "characterId": 12,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Toya Aoyagi as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12002,
+    "characterMissionType": "waiting_room",
+    "characterId": 12,
+    "parameterGroupId": 2,
+    "sentence": "Have Toya Aoyagi in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 12,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Toya Aoyagi.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 12,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Toya Aoyagi Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 12,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Toya Aoyagi.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 12,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Toya Aoyagi Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 12,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Toya Aoyagi Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 12,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Toya Aoyagi's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 12,
+    "parameterGroupId": 9,
+    "sentence": "Level up Toya Aoyagi Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 12,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 12,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12012,
+    "characterMissionType": "collect_member",
+    "characterId": 12,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Toya Aoyagi Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 12013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 12,
+    "parameterGroupId": 15,
+    "sentence": "Increase Toya Aoyagi 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 12,
+    "parameterGroupId": 16,
+    "sentence": "Increase Toya Aoyagi 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 12,
+    "parameterGroupId": 17,
+    "sentence": "Increase Toya Aoyagi 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 12016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 12,
+    "parameterGroupId": 18,
+    "sentence": "Increase Toya Aoyagi 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13001,
+    "characterMissionType": "play_live",
+    "characterId": 13,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Tsukasa Tenma as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13002,
+    "characterMissionType": "waiting_room",
+    "characterId": 13,
+    "parameterGroupId": 2,
+    "sentence": "Have Tsukasa Tenma in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 13,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Tsukasa Tenma.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 13,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Tsukasa Tenma Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 13,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Tsukasa Tenma.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 13,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Tsukasa Tenma Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 13,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Tsukasa Tenma Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 13,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Tsukasa Tenma's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 13,
+    "parameterGroupId": 9,
+    "sentence": "Level up Tsukasa Tenma Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 13,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 13,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13012,
+    "characterMissionType": "collect_member",
+    "characterId": 13,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Tsukasa Tenma Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 13013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 13,
+    "parameterGroupId": 15,
+    "sentence": "Increase Tsukasa Tenma 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 13,
+    "parameterGroupId": 16,
+    "sentence": "Increase Tsukasa Tenma 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 13,
+    "parameterGroupId": 17,
+    "sentence": "Increase Tsukasa Tenma 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 13016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 13,
+    "parameterGroupId": 18,
+    "sentence": "Increase Tsukasa Tenma 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14001,
+    "characterMissionType": "play_live",
+    "characterId": 14,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Emu Otori as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14002,
+    "characterMissionType": "waiting_room",
+    "characterId": 14,
+    "parameterGroupId": 2,
+    "sentence": "Have Emu Otori in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 14,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Emu Otori.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 14,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Emu Otori Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 14,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Emu Otori.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 14,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Emu Otori Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 14,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Emu Otori Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 14,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Emu Otori's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 14,
+    "parameterGroupId": 9,
+    "sentence": "Level up Emu Otori Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 14,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 14,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14012,
+    "characterMissionType": "collect_member",
+    "characterId": 14,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Emu Otori Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 14013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 14,
+    "parameterGroupId": 15,
+    "sentence": "Increase Emu Otori 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 14,
+    "parameterGroupId": 16,
+    "sentence": "Increase Emu Otori 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 14,
+    "parameterGroupId": 17,
+    "sentence": "Increase Emu Otori 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 14016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 14,
+    "parameterGroupId": 18,
+    "sentence": "Increase Emu Otori 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15001,
+    "characterMissionType": "play_live",
+    "characterId": 15,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Nene Kusanagi as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15002,
+    "characterMissionType": "waiting_room",
+    "characterId": 15,
+    "parameterGroupId": 2,
+    "sentence": "Have Nene Kusanagi in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 15,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Nene Kusanagi.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 15,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Nene Kusanagi Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 15,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Nene Kusanagi.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 15,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Nene Kusanagi Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 15,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Nene Kusanagi Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 15,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Nene Kusanagi's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 15,
+    "parameterGroupId": 9,
+    "sentence": "Level up Nene Kusanagi Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 15,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 15,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15012,
+    "characterMissionType": "collect_member",
+    "characterId": 15,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Nene Kusanagi Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 15013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 15,
+    "parameterGroupId": 15,
+    "sentence": "Increase Nene Kusanagi 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 15,
+    "parameterGroupId": 16,
+    "sentence": "Increase Nene Kusanagi 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 15,
+    "parameterGroupId": 17,
+    "sentence": "Increase Nene Kusanagi 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 15016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 15,
+    "parameterGroupId": 18,
+    "sentence": "Increase Nene Kusanagi 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16001,
+    "characterMissionType": "play_live",
+    "characterId": 16,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Rui Kamishiro as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16002,
+    "characterMissionType": "waiting_room",
+    "characterId": 16,
+    "parameterGroupId": 2,
+    "sentence": "Have Rui Kamishiro in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 16,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Rui Kamishiro.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 16,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Rui Kamishiro Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 16,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Rui Kamishiro.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 16,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Rui Kamishiro Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 16,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Rui Kamishiro Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 16,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Rui Kamishiro's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 16,
+    "parameterGroupId": 9,
+    "sentence": "Level up Rui Kamishiro Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 16,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 16,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16012,
+    "characterMissionType": "collect_member",
+    "characterId": 16,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Rui Kamishiro Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 16013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 16,
+    "parameterGroupId": 15,
+    "sentence": "Increase Rui Kamishiro 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 16,
+    "parameterGroupId": 16,
+    "sentence": "Increase Rui Kamishiro 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 16,
+    "parameterGroupId": 17,
+    "sentence": "Increase Rui Kamishiro 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 16016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 16,
+    "parameterGroupId": 18,
+    "sentence": "Increase Rui Kamishiro 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17001,
+    "characterMissionType": "play_live",
+    "characterId": 17,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Kanade Yoisaki as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17002,
+    "characterMissionType": "waiting_room",
+    "characterId": 17,
+    "parameterGroupId": 2,
+    "sentence": "Have Kanade Yoisaki in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 17,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Kanade Yoisaki.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 17,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Kanade Yoisaki Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 17,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Kanade Yoisaki.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 17,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Kanade Yoisaki Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 17,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Kanade Yoisaki Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 17,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Kanade Yoisaki's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 17,
+    "parameterGroupId": 9,
+    "sentence": "Level up Kanade Yoisaki Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 17,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 17,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17012,
+    "characterMissionType": "collect_member",
+    "characterId": 17,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Kanade Yoisaki Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 17013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 17,
+    "parameterGroupId": 15,
+    "sentence": "Increase Kanade Yoisaki 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 17,
+    "parameterGroupId": 16,
+    "sentence": "Increase Kanade Yoisaki 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 17,
+    "parameterGroupId": 17,
+    "sentence": "Increase Kanade Yoisaki 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 17016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 17,
+    "parameterGroupId": 18,
+    "sentence": "Increase Kanade Yoisaki 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18001,
+    "characterMissionType": "play_live",
+    "characterId": 18,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Mafuyu Asahina as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18002,
+    "characterMissionType": "waiting_room",
+    "characterId": 18,
+    "parameterGroupId": 2,
+    "sentence": "Have Mafuyu Asahina in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 18,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Mafuyu Asahina.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 18,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Mafuyu Asahina Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 18,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Mafuyu Asahina.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 18,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Mafuyu Asahina Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 18,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Mafuyu Asahina Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 18,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Mafuyu Asahina's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 18,
+    "parameterGroupId": 9,
+    "sentence": "Level up Mafuyu Asahina Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 18,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 18,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18012,
+    "characterMissionType": "collect_member",
+    "characterId": 18,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Mafuyu Asahina Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 18013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 18,
+    "parameterGroupId": 15,
+    "sentence": "Increase Mafuyu Asahina 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 18,
+    "parameterGroupId": 16,
+    "sentence": "Increase Mafuyu Asahina 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 18,
+    "parameterGroupId": 17,
+    "sentence": "Increase Mafuyu Asahina 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 18016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 18,
+    "parameterGroupId": 18,
+    "sentence": "Increase Mafuyu Asahina 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19001,
+    "characterMissionType": "play_live",
+    "characterId": 19,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Ena Shinonome as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19002,
+    "characterMissionType": "waiting_room",
+    "characterId": 19,
+    "parameterGroupId": 2,
+    "sentence": "Have Ena Shinonome in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 19,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Ena Shinonome.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 19,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Ena Shinonome Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 19,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Ena Shinonome.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 19,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Ena Shinonome Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 19,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Ena Shinonome Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 19,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Ena Shinonome's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 19,
+    "parameterGroupId": 9,
+    "sentence": "Level up Ena Shinonome Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 19,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 19,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19012,
+    "characterMissionType": "collect_member",
+    "characterId": 19,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Ena Shinonome Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 19013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 19,
+    "parameterGroupId": 15,
+    "sentence": "Increase Ena Shinonome 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 19,
+    "parameterGroupId": 16,
+    "sentence": "Increase Ena Shinonome 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 19,
+    "parameterGroupId": 17,
+    "sentence": "Increase Ena Shinonome 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 19016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 19,
+    "parameterGroupId": 18,
+    "sentence": "Increase Ena Shinonome 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20001,
+    "characterMissionType": "play_live",
+    "characterId": 20,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Mizuki Akiyama as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20002,
+    "characterMissionType": "waiting_room",
+    "characterId": 20,
+    "parameterGroupId": 2,
+    "sentence": "Have Mizuki Akiyama in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 20,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Mizuki Akiyama.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 20,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Mizuki Akiyama Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 20,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Mizuki Akiyama.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 20,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Mizuki Akiyama Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 20,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Mizuki Akiyama Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 20,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Mizuki Akiyama's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 20,
+    "parameterGroupId": 9,
+    "sentence": "Level up Mizuki Akiyama Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 20,
+    "parameterGroupId": 11,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 20,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20012,
+    "characterMissionType": "collect_member",
+    "characterId": 20,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Mizuki Akiyama Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 20013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 20,
+    "parameterGroupId": 15,
+    "sentence": "Increase Mizuki Akiyama 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 20,
+    "parameterGroupId": 16,
+    "sentence": "Increase Mizuki Akiyama 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 20,
+    "parameterGroupId": 17,
+    "sentence": "Increase Mizuki Akiyama 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 20016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 20,
+    "parameterGroupId": 18,
+    "sentence": "Increase Mizuki Akiyama 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21001,
+    "characterMissionType": "play_live",
+    "characterId": 21,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Hatsune Miku as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21002,
+    "characterMissionType": "waiting_room",
+    "characterId": 21,
+    "parameterGroupId": 2,
+    "sentence": "Have Hatsune Miku in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 21,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Hatsune Miku.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 21,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Hatsune Miku Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 21,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Hatsune Miku.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 21,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Hatsune Miku Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 21,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Hatsune Miku Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 21,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Hatsune Miku's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 21,
+    "parameterGroupId": 10,
+    "sentence": "Level up Hatsune Miku Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 21,
+    "parameterGroupId": 12,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 21,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21012,
+    "characterMissionType": "collect_member",
+    "characterId": 21,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Hatsune Miku Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 21013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 21,
+    "parameterGroupId": 15,
+    "sentence": "Increase Hatsune Miku 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 21,
+    "parameterGroupId": 16,
+    "sentence": "Increase Hatsune Miku 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 21,
+    "parameterGroupId": 17,
+    "sentence": "Increase Hatsune Miku 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 21016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 21,
+    "parameterGroupId": 18,
+    "sentence": "Increase Hatsune Miku 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22001,
+    "characterMissionType": "play_live",
+    "characterId": 22,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Kagamine Rin as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22002,
+    "characterMissionType": "waiting_room",
+    "characterId": 22,
+    "parameterGroupId": 2,
+    "sentence": "Have Kagamine Rin in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 22,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Kagamine Rin.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 22,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Kagamine Rin Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 22,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Kagamine Rin.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 22,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Kagamine Rin Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 22,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Kagamine Rin Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 22,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Kagamine Rin's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 22,
+    "parameterGroupId": 9,
+    "sentence": "Level up Kagamine Rin Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 22,
+    "parameterGroupId": 12,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 22,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22012,
+    "characterMissionType": "collect_member",
+    "characterId": 22,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Kagamine Rin Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 22013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 22,
+    "parameterGroupId": 15,
+    "sentence": "Increase Kagamine Rin 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 22,
+    "parameterGroupId": 16,
+    "sentence": "Increase Kagamine Rin 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 22,
+    "parameterGroupId": 17,
+    "sentence": "Increase Kagamine Rin 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 22016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 22,
+    "parameterGroupId": 18,
+    "sentence": "Increase Kagamine Rin 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23001,
+    "characterMissionType": "play_live",
+    "characterId": 23,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Kagamine Len as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23002,
+    "characterMissionType": "waiting_room",
+    "characterId": 23,
+    "parameterGroupId": 2,
+    "sentence": "Have Kagamine Len in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 23,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Kagamine Len.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 23,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Kagamine Len Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 23,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Kagamine Len.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 23,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Kagamine Len Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 23,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Kagamine Len Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 23,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Kagamine Len's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 23,
+    "parameterGroupId": 9,
+    "sentence": "Level up Kagamine Len Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 23,
+    "parameterGroupId": 12,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 23,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23012,
+    "characterMissionType": "collect_member",
+    "characterId": 23,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Kagamine Len Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 23013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 23,
+    "parameterGroupId": 15,
+    "sentence": "Increase Kagamine Len 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 23,
+    "parameterGroupId": 16,
+    "sentence": "Increase Kagamine Len 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 23,
+    "parameterGroupId": 17,
+    "sentence": "Increase Kagamine Len 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 23016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 23,
+    "parameterGroupId": 18,
+    "sentence": "Increase Kagamine Len 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24001,
+    "characterMissionType": "play_live",
+    "characterId": 24,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with Megurine Luka as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24002,
+    "characterMissionType": "waiting_room",
+    "characterId": 24,
+    "parameterGroupId": 2,
+    "sentence": "Have Megurine Luka in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 24,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for Megurine Luka.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 24,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} Megurine Luka Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 24,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with Megurine Luka.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 24,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different Megurine Luka Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 24,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different Megurine Luka Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 24,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of Megurine Luka's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 24,
+    "parameterGroupId": 9,
+    "sentence": "Level up Megurine Luka Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 24,
+    "parameterGroupId": 12,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 24,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24012,
+    "characterMissionType": "collect_member",
+    "characterId": 24,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different Megurine Luka Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 24013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 24,
+    "parameterGroupId": 15,
+    "sentence": "Increase Megurine Luka 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 24,
+    "parameterGroupId": 16,
+    "sentence": "Increase Megurine Luka 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 24,
+    "parameterGroupId": 17,
+    "sentence": "Increase Megurine Luka 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 24016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 24,
+    "parameterGroupId": 18,
+    "sentence": "Increase Megurine Luka 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25001,
+    "characterMissionType": "play_live",
+    "characterId": 25,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with MEIKO as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25002,
+    "characterMissionType": "waiting_room",
+    "characterId": 25,
+    "parameterGroupId": 2,
+    "sentence": "Have MEIKO in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 25,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for MEIKO.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 25,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} MEIKO Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 25,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with MEIKO.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 25,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different MEIKO Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 25,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different MEIKO Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 25,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of MEIKO's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 25,
+    "parameterGroupId": 9,
+    "sentence": "Level up MEIKO Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 25,
+    "parameterGroupId": 12,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 25,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25012,
+    "characterMissionType": "collect_member",
+    "characterId": 25,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different MEIKO Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 25013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 25,
+    "parameterGroupId": 15,
+    "sentence": "Increase MEIKO 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 25,
+    "parameterGroupId": 16,
+    "sentence": "Increase MEIKO 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 25,
+    "parameterGroupId": 17,
+    "sentence": "Increase MEIKO 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 25016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 25,
+    "parameterGroupId": 18,
+    "sentence": "Increase MEIKO 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26001,
+    "characterMissionType": "play_live",
+    "characterId": 26,
+    "parameterGroupId": 1,
+    "sentence": "Do {requirement} shows with KAITO as the Leader.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26002,
+    "characterMissionType": "waiting_room",
+    "characterId": 26,
+    "parameterGroupId": 2,
+    "sentence": "Have KAITO in the Green Room {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26003,
+    "characterMissionType": "collect_costume_3d",
+    "characterId": 26,
+    "parameterGroupId": 3,
+    "sentence": "Get {requirement} Costumes for KAITO.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26004,
+    "characterMissionType": "collect_stamp",
+    "characterId": 26,
+    "parameterGroupId": 4,
+    "sentence": "Get {requirement} KAITO Stamps.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26005,
+    "characterMissionType": "read_area_talk",
+    "characterId": 26,
+    "parameterGroupId": 5,
+    "sentence": "View {requirement} different Area Conversations with KAITO.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26006,
+    "characterMissionType": "read_card_episode_first",
+    "characterId": 26,
+    "parameterGroupId": 6,
+    "sentence": "View Part 1 of {requirement} different KAITO Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26007,
+    "characterMissionType": "read_card_episode_second",
+    "characterId": 26,
+    "parameterGroupId": 7,
+    "sentence": "View Part 2 of {requirement} different KAITO Side Stories.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26008,
+    "characterMissionType": "collect_another_vocal",
+    "characterId": 26,
+    "parameterGroupId": 8,
+    "sentence": "Obtain {requirement} of KAITO's Cover songs.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26009,
+    "characterMissionType": "area_item_level_up_character",
+    "characterId": 26,
+    "parameterGroupId": 9,
+    "sentence": "Level up KAITO Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26010,
+    "characterMissionType": "area_item_level_up_unit",
+    "characterId": 26,
+    "parameterGroupId": 12,
+    "sentence": "Level up Group Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26011,
+    "characterMissionType": "area_item_level_up_reality_world",
+    "characterId": 26,
+    "parameterGroupId": 13,
+    "sentence": "Level up Type Decorations {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26012,
+    "characterMissionType": "collect_member",
+    "characterId": 26,
+    "parameterGroupId": 14,
+    "sentence": "Obtain {requirement} different KAITO Characters.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": false
+  },
+  {
+    "id": 26013,
+    "characterMissionType": "skill_level_up_rare",
+    "characterId": 26,
+    "parameterGroupId": 15,
+    "sentence": "Increase KAITO 4★\/Birthday\/Anniversary Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26014,
+    "characterMissionType": "skill_level_up_standard",
+    "characterId": 26,
+    "parameterGroupId": 16,
+    "sentence": "Increase KAITO 1★\/2★\/3★ Characters' Skill Level {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26015,
+    "characterMissionType": "master_rank_up_rare",
+    "characterId": 26,
+    "parameterGroupId": 17,
+    "sentence": "Increase KAITO 4★\/Birthday\/Anniversary Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  },
+  {
+    "id": 26016,
+    "characterMissionType": "master_rank_up_standard",
+    "characterId": 26,
+    "parameterGroupId": 18,
+    "sentence": "Increase KAITO 1★\/2★\/3★ Characters' Mastery Rank {requirement} times.",
+    "progressSentence": "x{progress}",
+    "isAchievementMission": true
+  }
+]

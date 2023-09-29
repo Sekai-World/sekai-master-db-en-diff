@@ -356,8 +356,40 @@
     "value": "<size=28>Open<\/size> {0}."
   },
   {
+    "wordingKey": "MSG_COLORFUL_SELECT_GACHA_BALLOON",
+    "value": "Start by choosing characters!"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_SELECT_GACHA_LIST_RATE_NOTICE",
+    "value": "• The 4★ drop rates shown are in the case that they are all added to your Dream Picks, and therefore may not add up to 100%.\n• Any Characters added to your Dream Picks will move from the ★★★★ Characters table to the ★★★★ Dream Picks table."
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_SELECT_GACHA_RATE_NOTICE",
+    "value": "The 4★ drop rates shown are in the case that they are all added to your Dream Picks, and therefore may not add up to 100%."
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_SELECT_GACHA_SELECTED_RATE_NOTICE",
+    "value": "Your Dream Pick Characters will have higher drop rates."
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_SELECT_LIST",
+    "value": "Select {0} Characters from the following."
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_SELECT_LIST_CONFIRM",
+    "value": "Unselected Characters remaining.\n{0} Characters must be selected to pull the Colorful Festival Gacha Dream Pick.\nSelect remaining Characters at random?"
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_SELECT_LIST_CONFIRM_TIPS",
+    "value": "*You may edit your Dream Picks as many times as you like before pulling the Gacha."
+  },
+  {
     "wordingKey": "MSG_CONDITION_GET_CARD",
     "value": "Obtained [{0}] {1}"
+  },
+  {
+    "wordingKey": "MSG_CONDITION_TRAINING_CARD",
+    "value": "Upgraded [{0}] {1}"
   },
   {
     "wordingKey": "MSG_CONFIRM_DATA_LINK",
@@ -825,7 +857,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_SPIN",
-    "value": "Use {0} x<color=#FF55AA>{1}<\/color> to pull from the {2}?"
+    "value": "Use {0} x<color=#FF55AA>{1}<\/color> to pull from the {3}?"
   },
   {
     "wordingKey": "MSG_GACHA_SPIN_COUNT",
@@ -845,7 +877,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_TICKET_SPIN",
-    "value": "Use {0} x<color=#FF55AA>{1}<\/color> to pull from the {2}?"
+    "value": "Use {0} x<color=#FF55AA>{1}<\/color> to pull from the {3}?"
   },
   {
     "wordingKey": "MSG_GACHA_TIME_OVER",
@@ -1292,6 +1324,18 @@
     "value": "Vocals: {0}"
   },
   {
+    "wordingKey": "MSG_MV_DELETE_TOTAL_SIZE",
+    "value": "<color=#ff5599>{0}MB<\/color> of system space will be freed up."
+  },
+  {
+    "wordingKey": "MSG_MV_SAVE_SIZE_SETTING_CONFIRM",
+    "value": "Set these limits on music video file storage?"
+  },
+  {
+    "wordingKey": "MSG_MV_SAVE_SIZE_SETTING_EXPLANATION",
+    "value": "You can free up memory by setting limits on music video files saved to your device.\nOnce you reach the limit, older files will be deleted and downloaded again when needed."
+  },
+  {
     "wordingKey": "MSG_NAME_INPUT",
     "value": "Please enter a name (up to 20 characters)."
   },
@@ -1302,6 +1346,10 @@
   {
     "wordingKey": "MSG_NEAR_RANKING",
     "value": "Close Pos."
+  },
+  {
+    "wordingKey": "MSG_NEED_COLORFUL_SELECT_LIST_SETTING",
+    "value": "Your Dream Picks must be selected to pull this Gacha.\n\n<color=#ff5599>*All Characters must be selected first.<\/color>"
   },
   {
     "wordingKey": "MSG_NEED_SELECT_LIST_SETTING",
@@ -1797,7 +1845,7 @@
   },
   {
     "wordingKey": "MSG_SALE_COSTUME_SHOP",
-    "value": "You can make Costumes at the Costume Shop\nlocated in the Shopping Mall."
+    "value": "You can make Costumes at the Costume Shop located in the Shopping Mall."
   },
   {
     "wordingKey": "MSG_SELECT_ACTION_FROM_BELOW",
@@ -1940,6 +1988,54 @@
     "value": "No characters able to be Upgraded."
   },
   {
+    "wordingKey": "MSG_STAMP_CARD_BACK_SCREEN_WARNING",
+    "value": "Your stamp cards are not yet confirmed.\nYou can tap Start Mission to begin your Stamp Missions once you have selected 3 stamp cards.\nSelect cards later?\n\n<color=#ff5588>*You may change your card selection as many times as you like until you start the Missions.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_CHOOSE_TO_REQUEST",
+    "value": "Choose {0} Cards."
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_COUNT_PAGES_CHOOSE_TO_REQUEST",
+    "value": "Choose {0} more Cards."
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_SELECT_CARD_CONFIRM",
+    "value": "Select {0}. Continue?"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_SELECT_CONFIRM",
+    "value": "Continue with these stamp cards?"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_SELECT_CONFIRM_WARNING",
+    "value": "<color=#ff5588>*Once confirmed, your stamp cards cannot be changed.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_SELECT_SELECTED",
+    "value": "Card already selected"
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_SELECT_SELECT_LIMIT",
+    "value": "Limit reached for this category."
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_SELECT_SELECT_WARNING",
+    "value": "{0} more selectable for this category."
+  },
+  {
+    "wordingKey": "MSG_STAMP_CARD_WARNING_TITLE",
+    "value": "Stamp Cards Unconfirmed"
+  },
+  {
+    "wordingKey": "MSG_STAMP_MISSION_EVENT_END",
+    "value": "2nd Anniversary Stamp Missions have ended.\nReturning to home screen."
+  },
+  {
+    "wordingKey": "MSG_STAMP_MISSION_INTERNET_NOT_REACHABLE",
+    "value": "Unable to find connection.\nPlease check your network connectivity."
+  },
+  {
     "wordingKey": "MSG_STAMP_SETTING",
     "value": "Select your favorite Stamps from those available below."
   },
@@ -2022,6 +2118,10 @@
   {
     "wordingKey": "MSG_TO_BE_HELD_SOON",
     "value": "Begins Soon!"
+  },
+  {
+    "wordingKey": "MSG_TO_GACHA_TOP_BUTTON",
+    "value": "Return to Gacha Screen"
   },
   {
     "wordingKey": "MSG_TO_TITLE",
@@ -2224,6 +2324,10 @@
     "value": "Costume changed."
   },
   {
+    "wordingKey": "MSG_WISH_LIST_BACK_GACHA_TOP_CONFIRM",
+    "value": "<color=#ff5588>*Cannot save incomplete list.<\/color>"
+  },
+  {
     "wordingKey": "MSG_WISH_LIST_CONFIRM",
     "value": "Unselected characters remaining.\n10 characters must be selected to pull Your Pick Gacha.\nSelect remaining characters at random?"
   },
@@ -2234,6 +2338,34 @@
   {
     "wordingKey": "MSG_WISH_LIST_GACHA_RATE_NOTICE",
     "value": "1 of the 4★ characters from your Pick List guaranteed!"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_END_CONFIRM",
+    "value": "Confirm these Characters?"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_END_MEMBER_DUPLICATE_CONFIRM",
+    "value": "<color=#ff5588>*You have selected one or more Characters that you already own.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_CONFIRM_TITLE",
+    "value": "Confirm Dream Picks"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_NOT_CHANGE_ALERT",
+    "value": "<color=#ff5588>*Once confirmed, your list cannot be changed.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_UNDECID_CONFIRM",
+    "value": "Your Dream Picks have not been confirmed yet.\nYou must choose all of your Dream Picks to pull the Gacha. Choose Dream Picks later?"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_UNDECID_CONFIRM_TITLE",
+    "value": "Dream Picks Unconfirmed"
+  },
+  {
+    "wordingKey": "MSG_WISH_LIST_SELECT_NORMAL_MOMBER_CONFIRM",
+    "value": "You have selected a General Character for the special slot.\nContinue?"
   },
   {
     "wordingKey": "MSG_WISH_ONCE_LIMITED",
@@ -2269,7 +2401,7 @@
   },
   {
     "wordingKey": "TITLE_CONNECT_LIVE_TICKET_EXCHANGE_COMPLETE_DIALOG",
-    "value": "Trade Complete"
+    "value": "Purchase Complete"
   },
   {
     "wordingKey": "TITLE_CONNECT_LIVE_TICKET_OVERFLOW_WARN_DIALOG",
@@ -2308,6 +2440,10 @@
     "value": "Amount to Trade"
   },
   {
+    "wordingKey": "WORD_10_SONGS",
+    "value": "10"
+  },
+  {
     "wordingKey": "WORD_2D",
     "value": "Lite"
   },
@@ -2322,6 +2458,10 @@
   {
     "wordingKey": "WORD_2D_MV",
     "value": "2DMV"
+  },
+  {
+    "wordingKey": "WORD_30_SONGS",
+    "value": "30"
   },
   {
     "wordingKey": "WORD_3DMV_NL",
@@ -2348,6 +2488,10 @@
     "value": "3D\nStandard"
   },
   {
+    "wordingKey": "WORD_50_SONGS",
+    "value": "50"
+  },
+  {
     "wordingKey": "WORD_ABORT",
     "value": "Quit"
   },
@@ -2370,6 +2514,10 @@
   {
     "wordingKey": "WORD_ACHIEVED",
     "value": "Cleared"
+  },
+  {
+    "wordingKey": "WORD_ACHIEVED_MISSION_COUNT",
+    "value": "{0} Missions Cleared"
   },
   {
     "wordingKey": "WORD_ACHIEVEMENT",
@@ -2412,6 +2560,10 @@
     "value": "Add Friend"
   },
   {
+    "wordingKey": "WORD_ADD_STAMP_CARD",
+    "value": "Select Card"
+  },
+  {
     "wordingKey": "WORD_ADD_VALUE",
     "value": "＋{0}"
   },
@@ -2436,6 +2588,10 @@
     "value": "All Perfect"
   },
   {
+    "wordingKey": "WORD_ALL_SAVE",
+    "value": "Always Save"
+  },
+  {
     "wordingKey": "WORD_ALPHABETICAL_ORDER",
     "value": "A-Z"
   },
@@ -2450,6 +2606,10 @@
   {
     "wordingKey": "WORD_ALREADY_SPECIAL_TRAINING",
     "value": "Upgraded"
+  },
+  {
+    "wordingKey": "WORD_AM_TIME",
+    "value": "12:00 a.m. - 11:59 a.m."
   },
   {
     "wordingKey": "WORD_ANDROID_RATING_TITLE",
@@ -2473,6 +2633,10 @@
   },
   {
     "wordingKey": "WORD_ANOTHER_VOCAL_FILTER",
+    "value": "Filter Covers"
+  },
+  {
+    "wordingKey": "WORD_ANOTHER_VOCAL_LIST_FILTER",
     "value": "Filter Covers"
   },
   {
@@ -2530,6 +2694,10 @@
   {
     "wordingKey": "WORD_AREA_SHOP",
     "value": "Shop"
+  },
+  {
+    "wordingKey": "WORD_AREA_TALK_LIST_FILTER",
+    "value": "Area Conversation Filter"
   },
   {
     "wordingKey": "WORD_AROUND_DATE_TIME",
@@ -2756,6 +2924,10 @@
     "value": "Stop"
   },
   {
+    "wordingKey": "WORD_BROWSED",
+    "value": "Viewed"
+  },
+  {
     "wordingKey": "WORD_BUG",
     "value": "Issues"
   },
@@ -2776,8 +2948,16 @@
     "value": "Cancel"
   },
   {
+    "wordingKey": "WORD_CAPACITY_SETTING",
+    "value": "Manage Memory"
+  },
+  {
     "wordingKey": "WORD_CARD_LIST_FILTER",
     "value": "Filter Characters"
+  },
+  {
+    "wordingKey": "WORD_CARD_NAME_FORMAT",
+    "value": "{0} {1}"
   },
   {
     "wordingKey": "WORD_CARD_PIECE",
@@ -2790,6 +2970,10 @@
   {
     "wordingKey": "WORD_CARD_TOTAL_POWER",
     "value": "Talent"
+  },
+  {
+    "wordingKey": "WORD_CARD_TYPE",
+    "value": "Category"
   },
   {
     "wordingKey": "WORD_CCU_BUSY",
@@ -2872,12 +3056,52 @@
     "value": "Character"
   },
   {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE",
+    "value": "Character Archive"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_ACHIEVEMENT",
+    "value": "Achievements"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_ANOTHER_VOCAL",
+    "value": "Cover"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_AREA_TALK",
+    "value": "Area Conversations"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_AREA_TALK_SPAWN",
+    "value": "Occurs at {0}"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_AREA_TALK_TITLE",
+    "value": "{0}"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_BR",
+    "value": "Character\nArchive"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_COSTUME",
+    "value": "Costumes"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_STAMP",
+    "value": "Stamps"
+  },
+  {
     "wordingKey": "WORD_CHARACTER_EFFECT",
     "value": "Character Effect"
   },
   {
     "wordingKey": "WORD_CHARACTER_MISSION",
     "value": "Character Missions"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_MISSION_RECEIVED_TITLE",
+    "value": "Cleared Missions"
   },
   {
     "wordingKey": "WORD_CHARACTER_N_RANK",
@@ -2902,6 +3126,10 @@
   {
     "wordingKey": "WORD_CHARACTER_RANK_EXP_GET",
     "value": "Character Rank EXP"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_RANK_EXP_NAME",
+    "value": "{0} Character Rank EXP"
   },
   {
     "wordingKey": "WORD_CHARACTER_RANK_EXP_PLUS",
@@ -3056,6 +3284,10 @@
     "value": "COLORFUL+ Standard Details"
   },
   {
+    "wordingKey": "WORD_COLORFUL_SELECT_LIST",
+    "value": "Colorful Festival Gacha Dream Pick"
+  },
+  {
     "wordingKey": "WORD_COMBO",
     "value": "Combo"
   },
@@ -3146,6 +3378,10 @@
   {
     "wordingKey": "WORD_COSTUME_DETAIL",
     "value": "Costume Details"
+  },
+  {
+    "wordingKey": "WORD_COSTUME_LIST_FILTER",
+    "value": "Filter Costumes"
   },
   {
     "wordingKey": "WORD_COSTUME_SHOP",
@@ -3330,6 +3566,10 @@
   {
     "wordingKey": "WORD_DATA_LINK_SETTING",
     "value": "Linked Account Settings"
+  },
+  {
+    "wordingKey": "WORD_DATA_SETTING",
+    "value": "File Management"
   },
   {
     "wordingKey": "WORD_DATE_LIMIT",
@@ -3622,6 +3862,10 @@
   {
     "wordingKey": "WORD_EVENT_CLOSE",
     "value": "Event Over"
+  },
+  {
+    "wordingKey": "WORD_EVENT_END",
+    "value": "Event Has Ended"
   },
   {
     "wordingKey": "WORD_EVENT_EXCHANGE_SHOP",
@@ -3928,6 +4172,10 @@
     "value": "Obtain Bonus"
   },
   {
+    "wordingKey": "WORD_GACHA_LIMITED_SET_PERIOD",
+    "value": "Ends on {0}"
+  },
+  {
     "wordingKey": "WORD_GACHA_SELECT_LIST",
     "value": "Your Pick Gacha"
   },
@@ -4088,11 +4336,19 @@
     "value": "To Profile"
   },
   {
+    "wordingKey": "WORD_GO_REAL_AREA",
+    "value": "Real World"
+  },
+  {
     "wordingKey": "WORD_GO_REAL_WORLD",
     "value": "Real World"
   },
   {
     "wordingKey": "WORD_GO_SEKAI",
+    "value": "SEKAI"
+  },
+  {
+    "wordingKey": "WORD_GO_SEKAI_AREA",
     "value": "SEKAI"
   },
   {
@@ -4170,6 +4426,10 @@
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_3",
     "value": "- <color=#3FD5C8>{0}<\/color> is incompatible with some exclusive Accessories."
+  },
+  {
+    "wordingKey": "WORD_HAIR_TYPE",
+    "value": "Hairstyle"
   },
   {
     "wordingKey": "WORD_HATED_FOOD",
@@ -4344,6 +4604,10 @@
     "value": "Input Name"
   },
   {
+    "wordingKey": "WORD_INSESSION",
+    "value": "Available until:"
+  },
+  {
     "wordingKey": "WORD_INSTRUMENTLE_VERSION",
     "value": "Inst. ver."
   },
@@ -4482,6 +4746,10 @@
   {
     "wordingKey": "WORD_LIFE_RECOVER",
     "value": "Your Bonus Energy has been fully restored!"
+  },
+  {
+    "wordingKey": "WORD_LIMITED_SET_PERIOD",
+    "value": "Available until {0}"
   },
   {
     "wordingKey": "WORD_LIMITED_TIME_RELEASE",
@@ -4856,6 +5124,14 @@
     "value": "Characters"
   },
   {
+    "wordingKey": "WORD_MEMBER_LIST_BR",
+    "value": "Characters"
+  },
+  {
+    "wordingKey": "WORD_MEMBER_OBTAINED",
+    "value": "Obtained"
+  },
+  {
     "wordingKey": "WORD_MEMBER_TOTAL_POWER",
     "value": "Character Talent"
   },
@@ -4896,6 +5172,10 @@
     "value": "Sub"
   },
   {
+    "wordingKey": "WORD_MIRROR_SETTING",
+    "value": "Mirrored Lanes"
+  },
+  {
     "wordingKey": "WORD_MISFORTUNE",
     "value": "Bad Luck"
   },
@@ -4922,6 +5202,78 @@
   {
     "wordingKey": "WORD_MISSION_DETAIL",
     "value": "Mission Details"
+  },
+  {
+    "wordingKey": "WORD_MISSION_PROGRESS_FORMAT",
+    "value": "{0}\/{1}"
+  },
+  {
+    "wordingKey": "WORD_MISSION_START",
+    "value": "Start Mission"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_AREA_ITEM_LEVEL_UP_CHARACTER",
+    "value": "Character Decorations"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_AREA_ITEM_LEVEL_UP_REALITY_WORLD",
+    "value": "Type Decorations"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_AREA_ITEM_LEVEL_UP_UNIT",
+    "value": "Group Decorations"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_ANOTHER_VOCAL",
+    "value": "Collect Covers"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_COSTUME_3D",
+    "value": "Collect Costumes"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_MEMBER",
+    "value": "Collect Characters"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_STAMP",
+    "value": "Collect Stamps"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_MASTER_RANK_UP_RARE",
+    "value": "Increase Mastery Ranks (4★\/BD\/AN)"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_MASTER_RANK_UP_STANDARD",
+    "value": "Increase Mastery Ranks (1-3★)"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_PLAY_LIVE",
+    "value": "Perform as Leader"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_READ_AREA_TALK",
+    "value": "Collect Area Conversations"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_READ_CARD_EPISODE_FIRST",
+    "value": "Side Stories (Part 1)"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_READ_CARD_EPISODE_SECOND",
+    "value": "Side Stories (Part 2)"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_SKILL_LEVEL_UP_RARE",
+    "value": "Increase Skill Levels (4★\/BD\/AN)"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_SKILL_LEVEL_UP_STANDARD",
+    "value": "Increase Skill Levels (1-3★)"
+  },
+  {
+    "wordingKey": "WORD_MISSION_TITLE_WAITING_ROOM",
+    "value": "Visit Green Room"
   },
   {
     "wordingKey": "WORD_MODE",
@@ -5068,8 +5420,16 @@
     "value": "MVP"
   },
   {
+    "wordingKey": "WORD_MV_DATA",
+    "value": "Music Video Files"
+  },
+  {
     "wordingKey": "WORD_MV_ON_JACKET",
     "value": "Music Video"
+  },
+  {
+    "wordingKey": "WORD_MV_SAVE_SIZE_SETTING_CONFIRM",
+    "value": "Confirm Music Video File Settings"
   },
   {
     "wordingKey": "WORD_MV_SETTING",
@@ -5080,8 +5440,20 @@
     "value": "Music Video Settings"
   },
   {
+    "wordingKey": "WORD_MV_SIZE_MANAGEMENT",
+    "value": "Music Video File Settings"
+  },
+  {
     "wordingKey": "WORD_MV_VIEWING",
     "value": "Music Video\nViewer"
+  },
+  {
+    "wordingKey": "WORD_MY_LIST",
+    "value": "Playlists"
+  },
+  {
+    "wordingKey": "WORD_NAME",
+    "value": "Name"
   },
   {
     "wordingKey": "WORD_NEWLY_WRITTEN_MUSIC",
@@ -5180,6 +5552,10 @@
     "value": "Not satisfied"
   },
   {
+    "wordingKey": "WORD_NOT_SAVE",
+    "value": "Never Save"
+  },
+  {
     "wordingKey": "WORD_NOT_SAVE_RETURN",
     "value": "Exit without saving"
   },
@@ -5190,6 +5566,10 @@
   {
     "wordingKey": "WORD_NOT_SEND",
     "value": "Don't send"
+  },
+  {
+    "wordingKey": "WORD_NOT_VIEWED",
+    "value": "Not Viewed"
   },
   {
     "wordingKey": "WORD_NOW_LOADING",
@@ -5368,6 +5748,26 @@
     "value": "{0} Performance {1}"
   },
   {
+    "wordingKey": "WORD_PANEL_MISSION",
+    "value": "Stamp Missions"
+  },
+  {
+    "wordingKey": "WORD_PANEL_MISSION_GROUP_1",
+    "value": "Groups"
+  },
+  {
+    "wordingKey": "WORD_PANEL_MISSION_GROUP_2",
+    "value": "Gameplay"
+  },
+  {
+    "wordingKey": "WORD_PANEL_MISSION_GROUP_3",
+    "value": "Gacha"
+  },
+  {
+    "wordingKey": "WORD_PANEL_MISSION_GROUP_4",
+    "value": "Rhythm"
+  },
+  {
     "wordingKey": "WORD_PARAM1",
     "value": "Performance"
   },
@@ -5428,6 +5828,14 @@
     "value": "Wonderland SEKAI Story"
   },
   {
+    "wordingKey": "WORD_PICKUP_LIST",
+    "value": "Dream Picks"
+  },
+  {
+    "wordingKey": "WORD_PICKUP_MEMBER",
+    "value": "Dream Picks"
+  },
+  {
     "wordingKey": "WORD_PLAYER_COMMENT",
     "value": "Comment"
   },
@@ -5486,6 +5894,10 @@
   {
     "wordingKey": "WORD_PLAY_TEXT",
     "value": "Play"
+  },
+  {
+    "wordingKey": "WORD_PM_TIME",
+    "value": "12:00 p.m. - 23:59 p.m."
   },
   {
     "wordingKey": "WORD_POSSESSION",
@@ -5696,6 +6108,26 @@
     "value": "Rarity"
   },
   {
+    "wordingKey": "WORD_RARITY_1",
+    "value": "1★"
+  },
+  {
+    "wordingKey": "WORD_RARITY_2",
+    "value": "2★"
+  },
+  {
+    "wordingKey": "WORD_RARITY_3",
+    "value": "3★"
+  },
+  {
+    "wordingKey": "WORD_RARITY_4",
+    "value": "4★"
+  },
+  {
+    "wordingKey": "WORD_RARITY_BD",
+    "value": "BD\/AN"
+  },
+  {
     "wordingKey": "WORD_RARITY_MEMBER_2",
     "value": "★★ Character"
   },
@@ -5722,6 +6154,10 @@
   {
     "wordingKey": "WORD_READJUSTMENT",
     "value": "Redo"
+  },
+  {
+    "wordingKey": "WORD_READ_STATUS",
+    "value": "Viewed"
   },
   {
     "wordingKey": "WORD_RECEIPT_DATE",
@@ -5800,6 +6236,10 @@
     "value": "Remaining:"
   },
   {
+    "wordingKey": "WORD_REMOVING_ASSET",
+    "value": "Deleting unnecessary files."
+  },
+  {
     "wordingKey": "WORD_REQUEST",
     "value": "Send"
   },
@@ -5866,6 +6306,10 @@
   {
     "wordingKey": "WORD_REWARD_COUNT_FORMAT",
     "value": "Earned x{0}"
+  },
+  {
+    "wordingKey": "WORD_REWARD_RECEIPT_DEADLINE",
+    "value": "Reward expires:"
   },
   {
     "wordingKey": "WORD_RIGHT_NATATION",
@@ -6040,6 +6484,10 @@
     "value": "Confirm Display Rank"
   },
   {
+    "wordingKey": "WORD_SELECT_STAMP_CARD_CONFIRM",
+    "value": "Confirm Selection"
+  },
+  {
     "wordingKey": "WORD_SELECT_TEMPLATE",
     "value": "Select Template"
   },
@@ -6138,6 +6586,10 @@
   {
     "wordingKey": "WORD_SHOP_MONTH",
     "value": "Month"
+  },
+  {
+    "wordingKey": "WORD_SHOP_PREMIUM_MISSION_PASS_DETAIL",
+    "value": "Premium Mission Pass Details"
   },
   {
     "wordingKey": "WORD_SHOP_PRICE",
@@ -6360,6 +6812,22 @@
     "value": "Stamps"
   },
   {
+    "wordingKey": "WORD_STAMP_CARD",
+    "value": "Stamp Cards"
+  },
+  {
+    "wordingKey": "WORD_STAMP_CARD_COMPLETE_MISSION",
+    "value": "Clear all Missions."
+  },
+  {
+    "wordingKey": "WORD_STAMP_CARD_SELECT_CARD_CONFIRM_TITLE",
+    "value": "Confirm Stamp Cards"
+  },
+  {
+    "wordingKey": "WORD_STAMP_LIST_FILTER",
+    "value": "Filter Stamps"
+  },
+  {
     "wordingKey": "WORD_STAMP_SHOP",
     "value": "Stamp Shop"
   },
@@ -6538,6 +7006,10 @@
   {
     "wordingKey": "WORD_THANK_YOU",
     "value": "Thank you very much!"
+  },
+  {
+    "wordingKey": "WORD_THREE_POINT_LEADER",
+    "value": "…"
   },
   {
     "wordingKey": "WORD_TICKET_EXCHANGE_SHOP",
@@ -7190,6 +7662,18 @@
   {
     "wordingKey": "WORD_WISH_LIST_CONFIRM_TITLE",
     "value": "Unselected Characters Remaining"
+  },
+  {
+    "wordingKey": "WORD_WISH_LIST_SELECT_END",
+    "value": "Pull Gacha"
+  },
+  {
+    "wordingKey": "WORD_WISH_LIST_TYPE_LIMITED",
+    "value": "Colorful Festival Exclusive"
+  },
+  {
+    "wordingKey": "WORD_WISH_LIST_TYPE_NORMAL",
+    "value": "General"
   },
   {
     "wordingKey": "WORD_WITHOUT_COSTUME",
