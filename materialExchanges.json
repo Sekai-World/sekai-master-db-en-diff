@@ -4858,6 +4858,24 @@
     ]
   },
   {
+    "id": 50066,
+    "materialExchangeSummaryId": 5,
+    "seq": 660,
+    "resourceBoxId": 50066,
+    "refreshCycle": "none",
+    "startAt": 1696629600000,
+    "costs": [
+      {
+        "materialExchangeId": 50066,
+        "costGroupId": 1,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 47,
+        "quantity": 2
+      }
+    ]
+  },
+  {
     "id": 60001,
     "materialExchangeSummaryId": 6,
     "seq": 70,
@@ -5904,6 +5922,42 @@
     "costs": [
       {
         "materialExchangeId": 60061,
+        "costGroupId": 1,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 47,
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": 60062,
+    "materialExchangeSummaryId": 6,
+    "seq": 620,
+    "resourceBoxId": 60062,
+    "refreshCycle": "none",
+    "startAt": 1696629600000,
+    "costs": [
+      {
+        "materialExchangeId": 60062,
+        "costGroupId": 1,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 47,
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "id": 60063,
+    "materialExchangeSummaryId": 6,
+    "seq": 630,
+    "resourceBoxId": 60063,
+    "refreshCycle": "none",
+    "startAt": 1696629600000,
+    "costs": [
+      {
+        "materialExchangeId": 60063,
         "costGroupId": 1,
         "seq": 1,
         "resourceType": "material",
@@ -7694,6 +7748,60 @@
     "costs": [
       {
         "materialExchangeId": 70100,
+        "costGroupId": 1,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 47,
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "id": 70101,
+    "materialExchangeSummaryId": 7,
+    "seq": 1010,
+    "resourceBoxId": 70101,
+    "refreshCycle": "none",
+    "startAt": 1696629600000,
+    "costs": [
+      {
+        "materialExchangeId": 70101,
+        "costGroupId": 1,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 47,
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "id": 70102,
+    "materialExchangeSummaryId": 7,
+    "seq": 1020,
+    "resourceBoxId": 70102,
+    "refreshCycle": "none",
+    "startAt": 1696629600000,
+    "costs": [
+      {
+        "materialExchangeId": 70102,
+        "costGroupId": 1,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 47,
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "id": 70103,
+    "materialExchangeSummaryId": 7,
+    "seq": 1030,
+    "resourceBoxId": 70103,
+    "refreshCycle": "none",
+    "startAt": 1696629600000,
+    "costs": [
+      {
+        "materialExchangeId": 70103,
         "costGroupId": 1,
         "seq": 1,
         "resourceType": "material",

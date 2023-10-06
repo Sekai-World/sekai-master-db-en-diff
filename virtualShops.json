@@ -3749,5 +3749,136 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 145,
+    "seq": 145,
+    "name": "第73回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 288,
+        "virtualShopId": 145,
+        "virtualShopItemType": "coordinate",
+        "seq": 99861,
+        "resourceBoxId": 198,
+        "costPaidJewel": 1000,
+        "startAt": 1697061600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 146,
+    "seq": 146,
+    "name": "第74回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 289,
+        "virtualShopId": 146,
+        "virtualShopItemType": "accessory",
+        "seq": 199913,
+        "resourceBoxId": 199,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1697925600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 147,
+    "seq": 147,
+    "name": "穂波 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 290,
+        "virtualShopId": 147,
+        "virtualShopItemType": "penlight",
+        "seq": 199911,
+        "resourceBoxId": 200,
+        "costPaidJewel": 1000,
+        "startAt": 1698271200000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 148,
+    "seq": 148,
+    "name": "Halloween Show 2022",
+    "virtualShopItems": [
+      {
+        "id": 291,
+        "virtualShopId": 148,
+        "virtualShopItemType": "penlight",
+        "seq": 199910,
+        "resourceBoxId": 201,
+        "costPaidJewel": 1000,
+        "startAt": 1698616800000
+      },
+      {
+        "id": 292,
+        "virtualShopId": 148,
+        "virtualShopItemType": "penlight",
+        "seq": 199909,
+        "resourceBoxId": 136,
+        "costPaidJewel": 1000,
+        "startAt": 1698616800000
+      },
+      {
+        "id": 293,
+        "virtualShopId": 148,
+        "virtualShopItemType": "accessory",
+        "seq": 199912,
+        "resourceBoxId": 52,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1698616800000
+      },
+      {
+        "id": 294,
+        "virtualShopId": 148,
+        "virtualShopItemType": "coordinate",
+        "seq": 99860,
+        "resourceBoxId": 54,
+        "costPaidJewel": 1000,
+        "startAt": 1698616800000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 149,
+    "seq": 149,
+    "name": "第75回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 295,
+        "virtualShopId": 149,
+        "virtualShopItemType": "coordinate",
+        "seq": 99859,
+        "resourceBoxId": 202,
+        "costPaidJewel": 1000,
+        "startAt": 1698789600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 150,
+    "seq": 150,
+    "name": "MEIKO's Anniversary",
+    "virtualShopItems": [
+      {
+        "id": 296,
+        "virtualShopId": 150,
+        "virtualShopItemType": "penlight",
+        "seq": 199908,
+        "resourceBoxId": 203,
+        "costPaidJewel": 1000,
+        "startAt": 1699048800000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
