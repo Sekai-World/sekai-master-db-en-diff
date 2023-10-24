@@ -11,26 +11,48 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 489,
-    "seq": 110,
+    "homeBannerId": 502,
+    "seq": 160,
     "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ10巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha238",
+    "name": "[ガチャ]ガチャ_無料10連ガチャバナー",
+    "assetbundleName": "banner_gacha247",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 238,
-    "startAt": 1695236400000,
-    "endAt": 1696100399000
+    "transitionDestinationId": 247,
+    "startAt": 1696100400000,
+    "endAt": 1698778799000
   },
   {
-    "homeBannerId": 490,
+    "homeBannerId": 514,
+    "seq": 120,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ガチャ_復刻ガチャバナー",
+    "assetbundleName": "banner_gacha253",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 253,
+    "startAt": 1697396400000,
+    "endAt": 1698173999000
+  },
+  {
+    "homeBannerId": 516,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワンダショ箱イベ10巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha254",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 254,
+    "startAt": 1697914800000,
+    "endAt": 1698778799000
+  },
+  {
+    "homeBannerId": 517,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ10巡目_イベントバナー",
-    "assetbundleName": "event_walk_2022",
+    "name": "[イベント]ワンダショ箱イベ10巡目_イベントバナー",
+    "assetbundleName": "event_curtaincall_2022",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 71,
-    "startAt": 1695247200000,
-    "endAt": 1696111199000
+    "transitionDestinationId": 74,
+    "startAt": 1697925600000,
+    "endAt": 1698789599000
   },
   {
     "homeBannerId": 1001,
@@ -42,26 +64,5 @@
     "transitionDestinationId": 1,
     "startAt": 1633118400000,
     "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1065,
-    "seq": 190,
-    "homeBannerType": "general",
-    "name": "「童話」衣装全カラー",
-    "assetbundleName": "banner_shop_costume_sale_en_11",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1694674800000,
-    "endAt": 1697353199000
-  },
-  {
-    "homeBannerId": 1066,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "ハピネスパッケージガチャ ID:1045",
-    "assetbundleName": "banner_gacha1045",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1045,
-    "startAt": 1695409200000,
-    "endAt": 1696013999000
   }
 ]

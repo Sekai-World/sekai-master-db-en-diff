@@ -2344,6 +2344,20 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 10119,
+    "seq": 300130,
+    "billingShopItemType": "costume_3d",
+    "name": "[Puffy Snowsuit] Costume All Colors",
+    "description": "[Puffy Snowsuit] Costume Full Costume Bundle",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10013",
+    "resourceBoxId": 55,
+    "startAt": 1698822000000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 20100,
     "seq": 100,
     "billingShopItemType": "value_set",
@@ -2370,8 +2384,8 @@
     "assetbundleName": "shop_20101",
     "resourceBoxId": 20101,
     "bonusResourceBoxId": 20101,
-    "startAt": 1689274800000,
-    "endAt": 1696013999000
+    "startAt": 1701691200000,
+    "endAt": 4102473599000
   },
   {
     "id": 20102,
@@ -2401,7 +2415,7 @@
     "resourceBoxId": 20101,
     "bonusResourceBoxId": 20101,
     "startAt": 1695409200000,
-    "endAt": 4102473599000
+    "endAt": 1702295999000
   },
   {
     "id": 20104,
@@ -2415,8 +2429,8 @@
     "assetbundleName": "shop_20102",
     "resourceBoxId": 20102,
     "bonusResourceBoxId": 20102,
-    "startAt": 1675166400000,
-    "endAt": 1691060399000
+    "startAt": 1701691200000,
+    "endAt": 4102473599000
   },
   {
     "id": 20105,
@@ -2431,7 +2445,7 @@
     "resourceBoxId": 20103,
     "bonusResourceBoxId": 20103,
     "startAt": 1675166400000,
-    "endAt": 4102473599000
+    "endAt": 1702295999000
   },
   {
     "id": 20106,
@@ -2521,7 +2535,7 @@
     "resourceBoxId": 20107,
     "bonusResourceBoxId": 20107,
     "startAt": 1689332400000,
-    "endAt": 4102473599000
+    "endAt": 1702295999000
   },
   {
     "id": 20112,
@@ -2551,7 +2565,7 @@
     "resourceBoxId": 20102,
     "bonusResourceBoxId": 20102,
     "startAt": 1690455600000,
-    "endAt": 4102473599000
+    "endAt": 1702295999000
   },
   {
     "id": 50000,
@@ -3013,6 +3027,7 @@
     "resourceBoxId": 129,
     "bonusResourceBoxId": 40,
     "startAt": 1697137200000,
+    "endAt": 1727679599000,
     "purchaseOption": "exchange"
   },
   {
@@ -3221,6 +3236,22 @@
     "label": "Limited Time",
     "startAt": 1691391600000,
     "endAt": 1694156399000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 100025,
+    "seq": 500000,
+    "billingShopItemType": "costume_3d",
+    "name": "Ghoulish Bat Costume All Colors",
+    "description": "Costume - Ghoulish Twilight Bat (F) (20 Costumes x 4 colors)\nCostume - Ghoulish Elegant Bat (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_100025",
+    "resourceBoxId": 100025,
+    "label": "Limited Time",
+    "startAt": 1698616800000,
+    "endAt": 1698875999000,
     "purchaseOption": "exchange"
   },
   {
