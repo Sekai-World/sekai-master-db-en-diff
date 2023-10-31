@@ -323,7 +323,16 @@
         "refreshCycle": "monthly",
         "exchangeLimit": 10,
         "startAt": 1696143600000,
-        "costs": []
+        "costs": [
+          {
+            "materialExchangeId": 45,
+            "costGroupId": 1,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 15,
+            "quantity": 100
+          }
+        ]
       }
     ]
   },
