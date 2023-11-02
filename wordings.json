@@ -689,7 +689,7 @@
   },
   {
     "wordingKey": "MSG_ENTER_STREAMING_LIVE_CONFIRM_TO_USE",
-    "value": "Would you like to use {1} of {0} to enter?"
+    "value": "Would you like to use <color=#ff5588>{1}<\/color> of {0} to enter?"
   },
   {
     "wordingKey": "MSG_ENTRY_CONFIRMATION",
@@ -1025,11 +1025,11 @@
   },
   {
     "wordingKey": "MSG_KICKOUT_TO_HOME",
-    "value": "A problem has occured.\nPlease wait and try again later."
+    "value": "A problem has occured. Currently unable to enter venue.\nWe will notify you when entry resumes."
   },
   {
     "wordingKey": "MSG_KICKOUT_TO_WAITING_AREA",
-    "value": "Currently unable to enter venue.\nPlease wait and try again later."
+    "value": "A problem has occured.\nPlease wait and try again later."
   },
   {
     "wordingKey": "MSG_LANE_ALPHA",
@@ -2341,7 +2341,7 @@
   },
   {
     "wordingKey": "MSG_WARN_ALREADY_USE_STREAMING_LIVE_TICKET",
-    "value": "You have already used {0}."
+    "value": "*You have already used {0}."
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
