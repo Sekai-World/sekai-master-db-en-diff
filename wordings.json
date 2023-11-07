@@ -120,6 +120,46 @@
     "value": "The free viewing period has ended."
   },
   {
+    "wordingKey": "MSG_AD_REWARD_DAILY_COUNT",
+    "value": "本日あと{0}回"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_DAILY_END",
+    "value": "Today's Limit Reached"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_ERROR",
+    "value": "CM視聴を完了できなかったため、報酬を受け取ることができませんでした。"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_EVENT_EXPIRED",
+    "value": "イベント期間が終了したため利用することができません。"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_LIST_CRYSTAL",
+    "value": "最大\n100個"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_LIST_EVENT",
+    "value": "最大\n10000個"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_LIST_PRESENT",
+    "value": "★4GETの\nチャンス"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_LIVE_BOOST_RECOVER_ANOUNCE",
+    "value": "ライブボーナスが99を超える場合、\n超過分は切り捨てられます。\nライブボーナスを回復しますか？"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_PRESENT_BOX",
+    "value": "毎日抽選でアイテムか★2～★4メンバーをGET！"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_SUSPENDED",
+    "value": "現在CM視聴を停止しているため利用することができません。"
+  },
+  {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
     "value": "This app does not have permission to access your albums.\nPlease open your device's settings to allow access."
   },
@@ -246,6 +286,10 @@
   {
     "wordingKey": "MSG_BOOST_RECOVER_METHOD_JEWEL_CONFIRM",
     "value": "Use {0} Crystals\nto restore {1} Bonus Energy?"
+  },
+  {
+    "wordingKey": "MSG_BUY_GOLD_TICKET",
+    "value": "Purchase the paid Golden Charm"
   },
   {
     "wordingKey": "MSG_CAN_BUY_BY_COSTUME_SHOP",
@@ -906,6 +950,22 @@
   {
     "wordingKey": "MSG_GIVE_LIVE_BONUS",
     "value": "Received Bonus Energy x{1}\nfrom <color=#ff5599>{0}<\/color>."
+  },
+  {
+    "wordingKey": "MSG_GOLD_TICKET_ACHIEVEMENT_REWARD",
+    "value": "Reward from Golden Charm."
+  },
+  {
+    "wordingKey": "MSG_GOLD_TICKET_EXPLANATION",
+    "value": "Unlock even bigger and better rewards for each milestone reached playing shows with the Golden Charm.\nIncludes Solo Shows, Co-op Shows, Cheerful Shows, Ranked Matches, and Challenge Shows.\nThe Golden Charm can be purchased from the Crystal Shop.\nAll unclaimed rewards will be sent to your Gift Box after the event ends.\nThe Golden Charm is only valid for the duration of its corresponding event."
+  },
+  {
+    "wordingKey": "MSG_GOLD_TICKET_UNLOCKED_BY_PURCHASING",
+    "value": "Unlock with paid Golden Charm"
+  },
+  {
+    "wordingKey": "MSG_GOLD_TICKET_WHEN_YOU_PURCHASE",
+    "value": "Purchase the Golden Charm to unlock premium Rewards for its corresponding event."
   },
   {
     "wordingKey": "MSG_HIGH_SCORE_COMPLETE_REWARD",
@@ -2566,6 +2626,54 @@
   {
     "wordingKey": "WORD_ADD_VALUE",
     "value": "＋{0}"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_EXCHANGE",
+    "value": "CM視聴"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_HOME_LABEL",
+    "value": "AD"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_CRYSTAL",
+    "value": "クリスタルプレゼント"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_EVENT",
+    "value": "イベントバッジプレゼント"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_LIVE_BONUS",
+    "value": "ライブボーナス5回復"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_LIVE_MISSION",
+    "value": "ライブP＆想いのカケラ\nプレゼント"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_PRESENT",
+    "value": "スペシャルギフト"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_SCREEN_NAME",
+    "value": "Ads"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_TITLE",
+    "value": "CM"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIVE_BONUS",
+    "value": "CM視聴で●5回復"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIVE_MISSION",
+    "value": "CM視聴で[ライブPアイコン]＋[想いのカケラアイコン]プレゼント"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_MUSIC_SHOP",
+    "value": "CM視聴で楽曲交換"
   },
   {
     "wordingKey": "WORD_AFTER_LIVE",
@@ -4254,6 +4362,46 @@
   {
     "wordingKey": "WORD_GIFT_SETTING_CONFIRM",
     "value": "Confirm Item Selection"
+  },
+  {
+    "wordingKey": "WORD_GOLD_TICKET",
+    "value": "Golden Charm"
+  },
+  {
+    "wordingKey": "WORD_GOLD_TICKET_ABOUT",
+    "value": "About the Golden Charm"
+  },
+  {
+    "wordingKey": "WORD_GOLD_TICKET_ACTIVE",
+    "value": "Valid Golden Charm"
+  },
+  {
+    "wordingKey": "WORD_GOLD_TICKET_CLEAR_COUNT",
+    "value": "Clear {0} Shows."
+  },
+  {
+    "wordingKey": "WORD_GOLD_TICKET_CLEAR_COUNT_ONE",
+    "value": "Clear {0} Show."
+  },
+  {
+    "wordingKey": "WORD_GOLD_TICKET_CONDITIONS",
+    "value": "Requirement"
+  },
+  {
+    "wordingKey": "WORD_GOLD_TICKET_END_OF_USE",
+    "value": "End of Use"
+  },
+  {
+    "wordingKey": "WORD_GOLD_TICKET_GOLD_FRAME",
+    "value": "Gold"
+  },
+  {
+    "wordingKey": "WORD_GOLD_TICKET_LIMITED_TIME",
+    "value": "Valid only for current event"
+  },
+  {
+    "wordingKey": "WORD_GOLD_TICKET_SHOW_PLAY",
+    "value": "Shows Played"
   },
   {
     "wordingKey": "WORD_GOTO_SHOP_TEXT",

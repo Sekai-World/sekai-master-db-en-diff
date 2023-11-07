@@ -19402,6 +19402,71 @@
     "releaseConditionId": 107308
   },
   {
+    "id": 1540,
+    "areaId": 10,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_monthly2210_001",
+    "scriptId": "as_monthly2210_001",
+    "characterIds": [
+      252,
+      26
+    ],
+    "archivePublishedAt": 1698789600000,
+    "releaseConditionId": 107110
+  },
+  {
+    "id": 1541,
+    "areaId": 10,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_monthly2210_002",
+    "scriptId": "as_monthly2210_002",
+    "characterIds": [
+      19,
+      252
+    ],
+    "archivePublishedAt": 1698789600000,
+    "releaseConditionId": 107110
+  },
+  {
+    "id": 1542,
+    "areaId": 10,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_monthly2210_003",
+    "scriptId": "as_monthly2210_003",
+    "characterIds": [
+      252,
+      17
+    ],
+    "archivePublishedAt": 1698789600000,
+    "releaseConditionId": 107110
+  },
+  {
+    "id": 1543,
+    "areaId": 5,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_monthly2210_004",
+    "scriptId": "as_monthly2210_004",
+    "characterIds": [
+      139,
+      1
+    ],
+    "archivePublishedAt": 1698789600000,
+    "releaseConditionId": 107110
+  },
+  {
+    "id": 1544,
+    "areaId": 5,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_monthly2210_005",
+    "scriptId": "as_monthly2210_005",
+    "characterIds": [
+      2,
+      180
+    ],
+    "archivePublishedAt": 1698789600000,
+    "releaseConditionId": 107110
+  },
+  {
     "id": 1545,
     "areaId": 1,
     "actionSetType": "normal",
@@ -19455,5 +19520,211 @@
     ],
     "archivePublishedAt": 1698789600000,
     "releaseConditionId": 107408
+  },
+  {
+    "id": 1550,
+    "areaId": 1,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_band_11_001",
+    "scriptId": "as_ev_band_11_001",
+    "characterIds": [
+      2,
+      1,
+      3
+    ],
+    "archivePublishedAt": 1699657200000,
+    "releaseConditionId": 107508
+  },
+  {
+    "id": 1551,
+    "areaId": 5,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_band_11_002",
+    "scriptId": "as_ev_band_11_002",
+    "characterIds": [
+      1,
+      4,
+      147
+    ],
+    "archivePublishedAt": 1699657200000,
+    "releaseConditionId": 107508
+  },
+  {
+    "id": 1552,
+    "areaId": 13,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_band_11_003",
+    "scriptId": "as_ev_band_11_003",
+    "characterIds": [
+      1,
+      2,
+      4,
+      3
+    ],
+    "archivePublishedAt": 1699657200000,
+    "releaseConditionId": 107508
+  },
+  {
+    "id": 1553,
+    "areaId": 5,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_band_11_004",
+    "scriptId": "as_ev_band_11_004",
+    "characterIds": [
+      22,
+      147
+    ],
+    "archivePublishedAt": 1699657200000,
+    "releaseConditionId": 107508
+  },
+  {
+    "id": 1554,
+    "areaId": 5,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_band_11_005",
+    "scriptId": "as_ev_band_11_005",
+    "characterIds": [
+      22,
+      149,
+      1
+    ],
+    "archivePublishedAt": 1699657200000,
+    "releaseConditionId": 107508
+  },
+  {
+    "id": 1555,
+    "areaId": 10,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_night_11_001",
+    "scriptId": "as_ev_night_11_001",
+    "characterIds": [
+      17,
+      19
+    ],
+    "archivePublishedAt": 1700521200000,
+    "releaseConditionId": 107608
+  },
+  {
+    "id": 1556,
+    "areaId": 10,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_night_11_002",
+    "scriptId": "as_ev_night_11_002",
+    "characterIds": [
+      18,
+      19
+    ],
+    "archivePublishedAt": 1700521200000,
+    "releaseConditionId": 107608
+  },
+  {
+    "id": 1557,
+    "areaId": 1,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_night_11_003",
+    "scriptId": "as_ev_night_11_003",
+    "characterIds": [
+      20,
+      19
+    ],
+    "archivePublishedAt": 1700521200000,
+    "releaseConditionId": 107608
+  },
+  {
+    "id": 1558,
+    "areaId": 10,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_night_11_004",
+    "scriptId": "as_ev_night_11_004",
+    "characterIds": [
+      17,
+      18,
+      20,
+      19
+    ],
+    "archivePublishedAt": 1700521200000,
+    "releaseConditionId": 107608
+  },
+  {
+    "id": 1559,
+    "areaId": 10,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_night_11_005",
+    "scriptId": "as_ev_night_11_005",
+    "characterIds": [
+      252,
+      19,
+      18
+    ],
+    "archivePublishedAt": 1700521200000,
+    "releaseConditionId": 107608
+  },
+  {
+    "id": 1560,
+    "areaId": 3,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_11_001",
+    "scriptId": "as_ev_idol_11_001",
+    "characterIds": [
+      5,
+      6
+    ],
+    "archivePublishedAt": 1701385200000,
+    "releaseConditionId": 107708
+  },
+  {
+    "id": 1561,
+    "areaId": 13,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_11_002",
+    "scriptId": "as_ev_idol_11_002",
+    "characterIds": [
+      8,
+      6,
+      7
+    ],
+    "archivePublishedAt": 1701385200000,
+    "releaseConditionId": 107708
+  },
+  {
+    "id": 1562,
+    "areaId": 13,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_11_003",
+    "scriptId": "as_ev_idol_11_003",
+    "characterIds": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "archivePublishedAt": 1701385200000,
+    "releaseConditionId": 107708
+  },
+  {
+    "id": 1563,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_11_004",
+    "scriptId": "as_ev_idol_11_004",
+    "characterIds": [
+      6,
+      134
+    ],
+    "archivePublishedAt": 1701385200000,
+    "releaseConditionId": 107708
+  },
+  {
+    "id": 1564,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_11_005",
+    "scriptId": "as_ev_idol_11_005",
+    "characterIds": [
+      25,
+      134
+    ],
+    "archivePublishedAt": 1701385200000,
+    "releaseConditionId": 107708
   }
 ]
