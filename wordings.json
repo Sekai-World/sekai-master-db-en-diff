@@ -121,7 +121,7 @@
   },
   {
     "wordingKey": "MSG_AD_REWARD_DAILY_COUNT",
-    "value": "本日あと{0}回"
+    "value": "x{0} more today"
   },
   {
     "wordingKey": "MSG_AD_REWARD_DAILY_END",
@@ -129,35 +129,35 @@
   },
   {
     "wordingKey": "MSG_AD_REWARD_ERROR",
-    "value": "CM視聴を完了できなかったため、報酬を受け取ることができませんでした。"
+    "value": "Reward could not be obtained due to interrupted ad viewing."
   },
   {
     "wordingKey": "MSG_AD_REWARD_EVENT_EXPIRED",
-    "value": "イベント期間が終了したため利用することができません。"
+    "value": "Event has ended. Ad viewing unavailable."
   },
   {
     "wordingKey": "MSG_AD_REWARD_LIST_CRYSTAL",
-    "value": "最大\n100個"
+    "value": "Up to x100"
   },
   {
     "wordingKey": "MSG_AD_REWARD_LIST_EVENT",
-    "value": "最大\n10000個"
+    "value": "Up to x10,000"
   },
   {
     "wordingKey": "MSG_AD_REWARD_LIST_PRESENT",
-    "value": "★4GETの\nチャンス"
+    "value": "Chance to get a 4★"
   },
   {
     "wordingKey": "MSG_AD_REWARD_LIVE_BOOST_RECOVER_ANOUNCE",
-    "value": "ライブボーナスが99を超える場合、\n超過分は切り捨てられます。\nライブボーナスを回復しますか？"
+    "value": "Your Bonus Energy cannot exceed 99.\nExcess energy will be discarded.\nRestore anyway?"
   },
   {
     "wordingKey": "MSG_AD_REWARD_PRESENT_BOX",
-    "value": "毎日抽選でアイテムか★2～★4メンバーをGET！"
+    "value": "Daily chances to receive items or 2-4★ Characters!"
   },
   {
     "wordingKey": "MSG_AD_REWARD_SUSPENDED",
-    "value": "現在CM視聴を停止しているため利用することができません。"
+    "value": "Ad viewing is currently unavailable."
   },
   {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
@@ -2629,31 +2629,31 @@
   },
   {
     "wordingKey": "WORD_AD_REWARD_EXCHANGE",
-    "value": "CM視聴"
+    "value": "Watch Ad"
   },
   {
     "wordingKey": "WORD_AD_REWARD_HOME_LABEL",
-    "value": "AD"
+    "value": "Ads"
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIST_CRYSTAL",
-    "value": "クリスタルプレゼント"
+    "value": "Get Crystals"
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIST_EVENT",
-    "value": "イベントバッジプレゼント"
+    "value": "Get Event Tokens"
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIST_LIVE_BONUS",
-    "value": "ライブボーナス5回復"
+    "value": "Restore 5 Bonus Energy"
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIST_LIVE_MISSION",
-    "value": "ライブP＆想いのカケラ\nプレゼント"
+    "value": "Get Show Pts & Wish Pieces"
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIST_PRESENT",
-    "value": "スペシャルギフト"
+    "value": "Random Gift"
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIST_SCREEN_NAME",
@@ -2665,15 +2665,15 @@
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIVE_BONUS",
-    "value": "CM視聴で●5回復"
+    "value": "Watch ad for 5●"
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIVE_MISSION",
-    "value": "CM視聴で[ライブPアイコン]＋[想いのカケラアイコン]プレゼント"
+    "value": "Watch ad for [ライブPアイコン] & [想いのカケラアイコン]"
   },
   {
     "wordingKey": "WORD_AD_REWARD_MUSIC_SHOP",
-    "value": "CM視聴で楽曲交換"
+    "value": "Watch ad to obtain"
   },
   {
     "wordingKey": "WORD_AFTER_LIVE",
