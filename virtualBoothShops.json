@@ -1,17 +1,5 @@
 [
   {
-    "id": 25,
-    "virtualLiveId": 154,
-    "virtualBoothShopType": "virtual_shop",
-    "targetId": 119
-  },
-  {
-    "id": 26,
-    "virtualLiveId": 154,
-    "virtualBoothShopType": "collection_gacha",
-    "targetId": 2
-  },
-  {
     "id": 1,
     "virtualLiveId": 117,
     "virtualBoothShopType": "virtual_shop",
@@ -154,5 +142,23 @@
     "virtualLiveId": 124,
     "virtualBoothShopType": "collection_gacha",
     "targetId": 1
+  },
+  {
+    "id": 25,
+    "virtualLiveId": 190,
+    "virtualBoothShopType": "virtual_shop",
+    "targetId": 119
+  },
+  {
+    "id": 26,
+    "virtualLiveId": 190,
+    "virtualBoothShopType": "collection_gacha",
+    "targetId": 2
+  },
+  {
+    "id": 10001,
+    "virtualLiveId": 190,
+    "virtualBoothShopType": "virtual_live_ticket",
+    "targetId": 154
   }
 ]

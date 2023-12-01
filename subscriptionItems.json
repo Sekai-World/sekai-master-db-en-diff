@@ -15,6 +15,8 @@
     "livePointMultiple": 2,
     "autoLiveAddLimit": 0,
     "liveBonusAddMaximumValue": 0,
+    "dailyFreeGachaSpinLimit": 0,
+    "weeklyColorfulPassGachaSpinLimit": 1,
     "assetbundleName": "subscription_a"
   },
   {
@@ -32,7 +34,9 @@
     "challengeLivePointMultiple": 2,
     "livePointMultiple": 2,
     "autoLiveAddLimit": 10,
-    "liveBonusAddMaximumValue": 0,
+    "liveBonusAddMaximumValue": 10,
+    "dailyFreeGachaSpinLimit": 0,
+    "weeklyColorfulPassGachaSpinLimit": 1,
     "assetbundleName": "subscription_b"
   },
   {
@@ -49,8 +53,10 @@
     "dailyPaidGachaSpinLimit": 2,
     "challengeLivePointMultiple": 2,
     "livePointMultiple": 2,
-    "autoLiveAddLimit": 10,
+    "autoLiveAddLimit": 89,
     "liveBonusAddMaximumValue": 10,
+    "dailyFreeGachaSpinLimit": 1,
+    "weeklyColorfulPassGachaSpinLimit": 1,
     "assetbundleName": "subscription_c"
   }
 ]

@@ -140,8 +140,12 @@
     "value": "Up to x100"
   },
   {
+    "wordingKey": "MSG_AD_REWARD_LIST_END",
+    "value": "No ads available."
+  },
+  {
     "wordingKey": "MSG_AD_REWARD_LIST_EVENT",
-    "value": "Up to x10,000"
+    "value": "Up to x5,000"
   },
   {
     "wordingKey": "MSG_AD_REWARD_LIST_PRESENT",
@@ -393,11 +397,15 @@
   },
   {
     "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
-    "value": "Use {0} x<color=#FF55AA>{1}<\/color> to open from the {2}?"
+    "value": "Use {0} x<color=#FF5599>{1}<\/color> to open x<color=#FF5599>{2}<\/color> from the {3}?"
   },
   {
     "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
     "value": "<size=28>Open<\/size> {0}."
+  },
+  {
+    "wordingKey": "MSG_COLORFUL_PASS_GACHA_TIME_OVER",
+    "value": "COLORFUL+ subscription expired.\nReturning to home screen."
   },
   {
     "wordingKey": "MSG_COLORFUL_SELECT_GACHA_BALLOON",
@@ -748,6 +756,10 @@
     "value": "You may set this to a <color=#ff55AA>maximum of {0}<\/color> during events."
   },
   {
+    "wordingKey": "MSG_EXCHANGED_LIVE_TICKET",
+    "value": "{0} purchased."
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_ERROR",
     "value": "No items available to trade.\nReturning to home screen."
   },
@@ -894,6 +906,10 @@
   {
     "wordingKey": "MSG_GACHA_RATE_NOTICE",
     "value": "All displayed values are rounded to 3 decimal places.\nAs a result, values may not add up to exactly 100%."
+  },
+  {
+    "wordingKey": "MSG_GACHA_RESOURCE_NONE",
+    "value": "Pull x1 for free from the {0}?"
   },
   {
     "wordingKey": "MSG_GACHA_SHORT_RESOURCE",
@@ -1629,7 +1645,7 @@
   },
   {
     "wordingKey": "MSG_ONCE_A_DAY_SUBSCRIPTION",
-    "value": "{0} times daily"
+    "value": "x{0} Daily"
   },
   {
     "wordingKey": "MSG_ONCE_LIMITED",
@@ -2049,15 +2065,15 @@
   },
   {
     "wordingKey": "MSG_STAMP_CARD_BACK_SCREEN_WARNING",
-    "value": "Your stamp cards are not yet confirmed.\nYou can tap Start Mission to begin your Stamp Missions once you have selected 3 stamp cards.\nSelect cards later?\n\n<color=#ff5588>*You may change your card selection as many times as you like until you start the Missions.<\/color>"
+    "value": "Your Stamp Cards are not yet confirmed.\nYou can tap Start Mission to begin your Stamp Missions once you have selected 3 Stamp Cards.\nSelect cards later?\n\n<color=#ff5588>*You may change your card selection as many times as you like until you start the Missions.<\/color>"
   },
   {
     "wordingKey": "MSG_STAMP_CARD_CHOOSE_TO_REQUEST",
-    "value": "Choose {0} Cards."
+    "value": "Choose {0} cards."
   },
   {
     "wordingKey": "MSG_STAMP_CARD_COUNT_PAGES_CHOOSE_TO_REQUEST",
-    "value": "Choose {0} more Cards."
+    "value": "Choose {0} more cards."
   },
   {
     "wordingKey": "MSG_STAMP_CARD_SELECT_CARD_CONFIRM",
@@ -2065,11 +2081,11 @@
   },
   {
     "wordingKey": "MSG_STAMP_CARD_SELECT_CONFIRM",
-    "value": "Continue with these stamp cards?"
+    "value": "Continue with these Stamp Cards?"
   },
   {
     "wordingKey": "MSG_STAMP_CARD_SELECT_CONFIRM_WARNING",
-    "value": "<color=#ff5588>*Once confirmed, your stamp cards cannot be changed.<\/color>"
+    "value": "<color=#ff5588>*Once confirmed, your Stamp Cards cannot be changed.<\/color>"
   },
   {
     "wordingKey": "MSG_STAMP_CARD_SELECT_SELECTED",
@@ -2674,6 +2690,10 @@
   {
     "wordingKey": "WORD_AD_REWARD_MUSIC_SHOP",
     "value": "Watch ad to obtain"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_PRIVACY_POLICY_LINK_TITLE",
+    "value": "Ad Reward"
   },
   {
     "wordingKey": "WORD_AFTER_LIVE",
@@ -5652,6 +5672,10 @@
     "value": "Notifications"
   },
   {
+    "wordingKey": "WORD_NOTIFICATION",
+    "value": "Notification"
+  },
+  {
     "wordingKey": "WORD_NOT_CLEAR",
     "value": "Not Cleared"
   },
@@ -5802,6 +5826,10 @@
   {
     "wordingKey": "WORD_ONCE_AGAIN_LIVE",
     "value": "Play again"
+  },
+  {
+    "wordingKey": "WORD_ONCE_A_WEEK_GACHA_END_AT",
+    "value": "Free pull resets every Monday at {0}:00 a.m. (PST)"
   },
   {
     "wordingKey": "WORD_ONCE_CHECK_AGAIN_LIVE",
@@ -6045,7 +6073,7 @@
   },
   {
     "wordingKey": "WORD_PM_TIME",
-    "value": "12:00 p.m. - 23:59 p.m."
+    "value": "12:00 p.m. - 11:59 p.m."
   },
   {
     "wordingKey": "WORD_POSSESSION",
@@ -7222,6 +7250,10 @@
   {
     "wordingKey": "WORD_TITLE_COSTUME_CHANGE_TITLE",
     "value": "Costume Change Complete"
+  },
+  {
+    "wordingKey": "WORD_TITLE_STREAMING_LIVE_TICKET_EXCHANGE_CONFIRM",
+    "value": "Confirm Purchase"
   },
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
