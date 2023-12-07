@@ -3796,6 +3796,22 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 100033,
+    "seq": 500000,
+    "billingShopItemType": "costume_3d",
+    "name": "Winter Poet Costume All Colors",
+    "description": "Costume - Winter Trobairitz (F) (20 Costumes x 4 colors)\nCostume - Winter Troubadour (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_100033",
+    "resourceBoxId": 100033,
+    "label": "Limited Time",
+    "startAt": 1701936000000,
+    "endAt": 1704700799000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 200008,
     "seq": 1,
     "billingShopItemType": "jewel",
