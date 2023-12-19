@@ -3812,6 +3812,38 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 100034,
+    "seq": 500002,
+    "billingShopItemType": "costume_3d",
+    "name": "Holiday Belle (F)",
+    "description": "Costume - Holiday Belle (F) (20 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_100034",
+    "resourceBoxId": 100034,
+    "label": "Limited Time",
+    "startAt": 1703059200000,
+    "endAt": 1704095999000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 100035,
+    "seq": 500001,
+    "billingShopItemType": "costume_3d",
+    "name": "Holiday Helper (M)",
+    "description": "Costume - Holiday Helper (M) (6 Costumes x 4 colors)",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_100035",
+    "resourceBoxId": 100035,
+    "label": "Limited Time",
+    "startAt": 1703059200000,
+    "endAt": 1704095999000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 200008,
     "seq": 1,
     "billingShopItemType": "jewel",
