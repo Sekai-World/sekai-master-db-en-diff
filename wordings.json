@@ -97,7 +97,7 @@
   },
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT",
-    "value": "Collect Show Pts to earn rewards.\n\n■ Solo Show\/Co-op Show ■\n You will earn　<color=#ff55AA>1<\/color> Show Point for every song cleared.\nUsing Bonus Energy will increase Show Points earned.\n\n■ Challenge Show ■\nYou will earn <color=#ff55AA>30<\/color> Show Points for every challenge cleared."
+    "value": "You will earn Show Points each time you clear a Show.\n\n■ Solo\/Co-op Shows\/\nCheerful Shows\/Ranked Matches ■\nEarn <color=#ff55AA>1<\/color> Point for every song cleared.\nUsing Bonus Energy will increase Show Points earned.\n\n■ Challenge Show ■\nEarn <color=#ff55AA>30<\/color> Points for every challenge cleared.\n\n■ Daily Bonuses ■\nEarn <color=#ff55AA>10<\/color> Points for each Co-op\/Cheerful Show cleared, up to 3 times per day.\n\n■ Bonus Missions ■\nBonus Missions are available during events. Earn <color=#ff55AA>50<\/color> Points for every mission cleared and <color=#ff55AA>150<\/color> Points for clearing all missions."
   },
   {
     "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
@@ -156,6 +156,10 @@
     "value": "Your Bonus Energy cannot exceed 99.\nExcess energy will be discarded.\nRestore anyway?"
   },
   {
+    "wordingKey": "MSG_AD_REWARD_NOT_READY",
+    "value": "Error loading ad. Please try again later."
+  },
+  {
     "wordingKey": "MSG_AD_REWARD_PRESENT_BOX",
     "value": "Daily chances to receive items or 2-4★ Characters!"
   },
@@ -178,6 +182,10 @@
   {
     "wordingKey": "MSG_ALERT_TIME_OVER_EXCHANGE_TICKET",
     "value": "*Once the expiration date has passed, the ticket cannot be used."
+  },
+  {
+    "wordingKey": "MSG_ALL_MV_DATA_DOWNLOAD_WARNING",
+    "value": "A Wi-Fi connection is recommended when downloading files larger than 50MB. If you have set a limit on the number of music video files saved, your settings will change to remove this."
   },
   {
     "wordingKey": "MSG_ALL_UNLOCK_STORY",
@@ -236,6 +244,10 @@
     "value": "Rhythm Game results not\navailable for Auto-Play."
   },
   {
+    "wordingKey": "MSG_BEFORE_REPORTABLE_DATE_ERROR",
+    "value": "You cannot report the same player again until a certain period has passed."
+  },
+  {
     "wordingKey": "MSG_BG _BRIGHTNESS",
     "value": "Background Brightness"
   },
@@ -262,6 +274,30 @@
   {
     "wordingKey": "MSG_BILLING_REFUND_ERROR",
     "value": "Shop refund request received. Refund will be processed now."
+  },
+  {
+    "wordingKey": "MSG_BLOCKED_USER_CHAT",
+    "value": "Message from blocked player hidden."
+  },
+  {
+    "wordingKey": "MSG_BLOCK_LIST_BLOCK_CONFIRM",
+    "value": "Block this player.\nContinue?"
+  },
+  {
+    "wordingKey": "MSG_BLOCK_LIST_BLOCK_CONFIRM_DIALOG_TITLE",
+    "value": "Confirm Block"
+  },
+  {
+    "wordingKey": "MSG_BLOCK_LIST_NOTIFICATION_BLOCK",
+    "value": "Player blocked."
+  },
+  {
+    "wordingKey": "MSG_BLOCK_LIST_NOTIFICATION_UNBLOCK",
+    "value": "Player unblocked."
+  },
+  {
+    "wordingKey": "MSG_BLOCK_LIST_UNBLOCK_CONFIRM",
+    "value": "Unblock this player.\nContinue?"
   },
   {
     "wordingKey": "MSG_BONDS_CHARACTER_DISABLED",
@@ -436,6 +472,50 @@
     "value": "*You may edit your Dream Picks as many times as you like before pulling the Gacha."
   },
   {
+    "wordingKey": "MSG_COMMUNITY_REPORT_BUSINESS_CONDUCT",
+    "value": "Soliciting players for sales or game boosting"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_CHEATING",
+    "value": "Unfair practices"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_COMPLETE_DIALOG",
+    "value": "Your report has been sent."
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_DIALOG_BODY",
+    "value": "Please select your reason for reporting."
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_DIALOG_CHECKBOX_EXPLANATION",
+    "value": "In as much detail as possible, please tell us why you are reporting this player."
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_CHARACTER",
+    "value": "Abusive language about the game's characters or groups"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_OTHERS",
+    "value": "Abusive language about another player"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_HARASSMENT_OF_SELF",
+    "value": "Abusive language about me"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_OBSCENE_REMARKS",
+    "value": "Obscene or sexual explicit language"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_OTHER",
+    "value": "Other EULA violation"
+  },
+  {
+    "wordingKey": "MSG_COMMUNITY_REPORT_THANKS",
+    "value": "The player you reported has received a penalty.\nThank you for reporting them."
+  },
+  {
     "wordingKey": "MSG_CONDITION_GET_CARD",
     "value": "Obtained {0} {1}"
   },
@@ -446,6 +526,10 @@
   {
     "wordingKey": "MSG_CONFIRM_DATA_LINK",
     "value": "Link the following account.\nContinue?"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_MYLIST_RESET",
+    "value": "Reset your Playlist \"{0}\" and remove all registered songs.\nAre you sure?"
   },
   {
     "wordingKey": "MSG_CONFIRM_OVERWRITE_DATA_LINK_ANDROID",
@@ -577,7 +661,11 @@
   },
   {
     "wordingKey": "MSG_DATA_LINK_RELEASE_CONFIRM",
-    "value": "Unlink currently linked account?\n<color=#ff5599>*You can re-link your account at any time.<\/color>"
+    "value": "Unlink currently linked account?"
+  },
+  {
+    "wordingKey": "MSG_DATA_LINK_RELEASE_CONFIRM_HINT",
+    "value": "<color=#ff5599>*You can re-link your account at any time.<\/color>"
   },
   {
     "wordingKey": "MSG_DATA_LINK_WARNING_OVERWRITE",
@@ -658,6 +746,10 @@
   {
     "wordingKey": "MSG_DO_UPDATE",
     "value": "Update"
+  },
+  {
+    "wordingKey": "MSG_EDITABLE_MYLIST",
+    "value": "Pick your favorite songs and\ncreate your own custom Playlist."
   },
   {
     "wordingKey": "MSG_EMPTY_HISTORY",
@@ -864,12 +956,20 @@
     "value": "Friend request sent."
   },
   {
+    "wordingKey": "MSG_FRIEND_REQUEST_BLOCKED_USER",
+    "value": "You have blocked this player. You cannot send them a friend request."
+  },
+  {
     "wordingKey": "MSG_FRIEND_REQUEST_COMPLETE",
     "value": "Friend request sent."
   },
   {
     "wordingKey": "MSG_FRIEND_REQUEST_MESSAGE",
     "value": "Send friend request with this message?"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_REQUEST_NOT_REQUEST",
+    "value": "Cannot send friend request to this player."
   },
   {
     "wordingKey": "MSG_FRIEND_REQUEST_REJECT",
@@ -905,7 +1005,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_RATE_NOTICE",
-    "value": "All displayed values are rounded to 3 decimal places.\nAs a result, values may not add up to exactly 100%."
+    "value": "All displayed values are rounded to 5 decimal places.\nAs a result, values may not add up to exactly 100%."
   },
   {
     "wordingKey": "MSG_GACHA_RESOURCE_NONE",
@@ -946,6 +1046,10 @@
   {
     "wordingKey": "MSG_GACHA_TOP_SEAL_ON",
     "value": "Includes {0}"
+  },
+  {
+    "wordingKey": "MSG_GET_LIVE_MISSION_POINT",
+    "value": "Get a total of {0} Show Pts."
   },
   {
     "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
@@ -1008,6 +1112,14 @@
     "value": "Discard your current transfer\nID and password, and create a new password?"
   },
   {
+    "wordingKey": "MSG_INHERIT_LIMIT_START",
+    "value": "You are now in the <color=#ff5588>top 1000<\/color> of the Event Rankings.\nIn the interests of fairness, there is now a temporary cap on the number of account transfers you may carry out.\n\nThe cap will be lifted when the event ends ({0}).\nRemaining account transfers: {1}\n\nThank you for your understanding."
+  },
+  {
+    "wordingKey": "MSG_INHERIT_LIMT_REST",
+    "value": "You may carry out {1} more transfer(s) before the current event ends ({0})."
+  },
+  {
     "wordingKey": "MSG_INHERIT_SETTING_ERROR",
     "value": "Must be between 8 and 16 characters."
   },
@@ -1025,7 +1137,7 @@
   },
   {
     "wordingKey": "MSG_INHERIT_SETTING_PASSWORD2",
-    "value": "A Transfer ID will be issued after creating a password."
+    "value": "*A Transfer ID will be issued after creating a password."
   },
   {
     "wordingKey": "MSG_INPUT_FIELD_ERROR_EMPTY",
@@ -1134,6 +1246,10 @@
   {
     "wordingKey": "MSG_LIVE_IS_FULL",
     "value": "Venue is full. Unable to join."
+  },
+  {
+    "wordingKey": "MSG_LIVE_MISSION_COMPLETE",
+    "value": "All missions cleared this month"
   },
   {
     "wordingKey": "MSG_LIVE_MISSION_NOT_HELD",
@@ -1412,6 +1528,14 @@
     "value": "You can free up memory by setting limits on music video files saved to your device.\nOnce you reach the limit, older files will be deleted and downloaded again when needed."
   },
   {
+    "wordingKey": "MSG_MYLISTNAME_INPUT",
+    "value": "Please name your playlist (up to 7 characters)."
+  },
+  {
+    "wordingKey": "MSG_MYLISTNAME_INPUT_TIPS",
+    "value": "*This can be changed later."
+  },
+  {
     "wordingKey": "MSG_NAME_INPUT",
     "value": "Please enter a name (up to 20 characters)."
   },
@@ -1478,6 +1602,10 @@
   {
     "wordingKey": "MSG_NOTHING_COSTUME_ITEM",
     "value": "No Avatar Costumes found."
+  },
+  {
+    "wordingKey": "MSG_NOTHING_EVENT_MISSION",
+    "value": "All missions cleared.\nPlease check again later."
   },
   {
     "wordingKey": "MSG_NOTHING_EXCHANGE_MUSIC",
@@ -1562,6 +1690,10 @@
   {
     "wordingKey": "MSG_NOT_PLAYABLE_EVENT",
     "value": "Event has ended."
+  },
+  {
+    "wordingKey": "MSG_NOT_PLAYABLE_EVENT_MISSION",
+    "value": "Bonus Missions have updated.\nReturning to home screen."
   },
   {
     "wordingKey": "MSG_NOT_PUBLISH_MUSIC_ERROR",
@@ -1848,6 +1980,10 @@
     "value": "Checking venue status..."
   },
   {
+    "wordingKey": "MSG_RECEIVE_EVENT_MISSION_EXPIRED_REWARD",
+    "value": "Obtained unclaimed Bonus Mission rewards."
+  },
+  {
     "wordingKey": "MSG_RECONNCT",
     "value": "Reconnecting."
   },
@@ -1898,6 +2034,10 @@
   {
     "wordingKey": "MSG_RESULT_ALREADY_DISCONNECT_HOME",
     "value": "Connection lost.\nReturning to home screen."
+  },
+  {
+    "wordingKey": "MSG_RESULT_DAILY_BONUS_COUNT",
+    "value": "({0} more today)"
   },
   {
     "wordingKey": "MSG_REWARD_SCALE",
@@ -2254,6 +2394,10 @@
   {
     "wordingKey": "MSG_UPDATE_BONUS_INFO",
     "value": "{1} x{2} every +{0} ↑"
+  },
+  {
+    "wordingKey": "MSG_USER_BLOCK_COUNT_LIMIT",
+    "value": "Maximum blocks reached."
   },
   {
     "wordingKey": "MSG_USE_VIRTUAL_LIVE_ITEM",
@@ -2928,6 +3072,38 @@
     "value": "Birthday\/Anniversary"
   },
   {
+    "wordingKey": "WORD_BLOCK",
+    "value": "Block"
+  },
+  {
+    "wordingKey": "WORD_BLOCKED_USER",
+    "value": "Blocked Players"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_LIST",
+    "value": "Block List"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_LIST_BLOCK_DIALOG_TITLE",
+    "value": "Block"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_LIST_BLOCK_FINISH",
+    "value": "Blocked"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_LIST_MANAGEMENT",
+    "value": "View List"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_LIST_UNBLOCK_DIALOG_TITLE",
+    "value": "Unblock"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_LIST_UNBLOCK_FINISH",
+    "value": "Unblocked"
+  },
+  {
     "wordingKey": "WORD_BODY",
     "value": "Costumes"
   },
@@ -3001,6 +3177,14 @@
   },
   {
     "wordingKey": "WORD_BONUS",
+    "value": "Bonus"
+  },
+  {
+    "wordingKey": "WORD_BONUS_MISSION",
+    "value": "Bonus Missions"
+  },
+  {
+    "wordingKey": "WORD_BONUS_MISSION_TAB",
     "value": "Bonus"
   },
   {
@@ -3424,6 +3608,22 @@
     "value": "Combo"
   },
   {
+    "wordingKey": "WORD_COMMUNICATION",
+    "value": "Communication"
+  },
+  {
+    "wordingKey": "WORD_COMMUNITY_REPORT",
+    "value": "Submit"
+  },
+  {
+    "wordingKey": "WORD_COMMUNITY_REPORT_COMPLETE",
+    "value": "Report Sent"
+  },
+  {
+    "wordingKey": "WORD_COMMUNITY_REPORT_DIALOG_TITLE",
+    "value": "Report Form"
+  },
+  {
     "wordingKey": "WORD_COMPLETE_LEVELUP",
     "value": "Level Up Complete"
   },
@@ -3828,6 +4028,10 @@
     "value": "Downloaded"
   },
   {
+    "wordingKey": "WORD_DOWNLOAD_ALL_MV_DATA",
+    "value": "3D\/2D\/Original MVs"
+  },
+  {
     "wordingKey": "WORD_DOWNLOAD_CONFIRM",
     "value": "Confirm Download"
   },
@@ -3858,6 +4062,14 @@
   {
     "wordingKey": "WORD_EASY_FILTER",
     "value": "Easy Filter"
+  },
+  {
+    "wordingKey": "WORD_EDIT_MYLIST",
+    "value": "Editing Playlist"
+  },
+  {
+    "wordingKey": "WORD_EDIT_MYLIST_DECIDE",
+    "value": "Edit Playlist"
   },
   {
     "wordingKey": "WORD_EFFECT",
@@ -4100,6 +4312,18 @@
     "value": "3DMV Available"
   },
   {
+    "wordingKey": "WORD_EXIST_MVFILTER_2D_MV",
+    "value": "Has 2DMV"
+  },
+  {
+    "wordingKey": "WORD_EXIST_MVFILTER_3D_MV",
+    "value": "Has 3DMV"
+  },
+  {
+    "wordingKey": "WORD_EXIST_MVFILTER_ORIGINAL_MV",
+    "value": "Has Original MV"
+  },
+  {
     "wordingKey": "WORD_EXPECTED_TIME",
     "value": "予測時間"
   },
@@ -4244,8 +4468,24 @@
     "value": "Friend Request"
   },
   {
+    "wordingKey": "WORD_FRIEND_REQUEST_ALL_RECEIVE",
+    "value": "Always Allow"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST_BLOCK",
+    "value": "Never Allow"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST_CONFIG",
+    "value": "Friend Request Permissions"
+  },
+  {
     "wordingKey": "WORD_FRIEND_REQUEST_DEFAULT_MESSAGE",
     "value": "Hi there! Nice to meet you!"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUEST_IS_SEARCH",
+    "value": "ID Searches Only"
   },
   {
     "wordingKey": "WORD_FRIEND_REQUEST_MESSAGE_BODY",
@@ -4760,6 +5000,14 @@
     "value": "Important\nItems"
   },
   {
+    "wordingKey": "WORD_INDEFINITE_PERIOD",
+    "value": "Suspension Period: Permanent"
+  },
+  {
+    "wordingKey": "WORD_INHERIT_LIMIT_START",
+    "value": "Account Transfer Limit"
+  },
+  {
     "wordingKey": "WORD_INHERIT_SETTING",
     "value": "Account Transfer Settings"
   },
@@ -5045,7 +5293,11 @@
   },
   {
     "wordingKey": "WORD_LIVE_POINT",
-    "value": "Show Points"
+    "value": "Show Pts"
+  },
+  {
+    "wordingKey": "WORD_LIVE_POINT_VALUE",
+    "value": "{0} <size=28> Left<\/size>"
   },
   {
     "wordingKey": "WORD_LIVE_PRAISE_MEMBER",
@@ -5352,6 +5604,10 @@
     "value": "No friend requests found."
   },
   {
+    "wordingKey": "WORD_MISSING_BLOCK_USER",
+    "value": "No blocked players."
+  },
+  {
     "wordingKey": "WORD_MISSING_FRIEND",
     "value": "No friends."
   },
@@ -5520,6 +5776,10 @@
     "value": "Co-op Show"
   },
   {
+    "wordingKey": "WORD_MUSIC",
+    "value": "Songs"
+  },
+  {
     "wordingKey": "WORD_MUSIC_CARD",
     "value": "Music Card"
   },
@@ -5616,8 +5876,28 @@
     "value": "Music Video\nViewer"
   },
   {
+    "wordingKey": "WORD_MYLIST_MUSIC_NUM",
+    "value": "Songs"
+  },
+  {
+    "wordingKey": "WORD_MYLIST_RESET",
+    "value": "Reset"
+  },
+  {
+    "wordingKey": "WORD_MYLIST_RESET_DIALOG_TITLE",
+    "value": "Confirm Playlist Reset"
+  },
+  {
+    "wordingKey": "WORD_MYLIST_SCREEN_BACK_CONFIRM",
+    "value": "You have unsaved changes to this Playlist.\nSave and exit?"
+  },
+  {
     "wordingKey": "WORD_MY_LIST",
     "value": "Playlists"
+  },
+  {
+    "wordingKey": "WORD_MY_LIST_TAB",
+    "value": "Playlist"
   },
   {
     "wordingKey": "WORD_NAME",
@@ -6368,6 +6648,10 @@
     "value": "Matchmaking..."
   },
   {
+    "wordingKey": "WORD_REGISTER",
+    "value": "Register"
+  },
+  {
     "wordingKey": "WORD_REJECT",
     "value": "Reject"
   },
@@ -6396,12 +6680,20 @@
     "value": "Unlock Requirements"
   },
   {
+    "wordingKey": "WORD_RELEASE_CRITERIA",
+    "value": "Unlock Requirements"
+  },
+  {
     "wordingKey": "WORD_RELEASE_PROFILE",
     "value": "Remove as Profile"
   },
   {
     "wordingKey": "WORD_RELEASE_SKILL_UP",
     "value": "Skill Up Unlocked"
+  },
+  {
+    "wordingKey": "WORD_RELEASING_AT_PREMIUM_MISSION_PATH_PURCHASE",
+    "value": "Purchase Premium Mission Pass"
   },
   {
     "wordingKey": "WORD_RELEASING_ON_EVENT",
@@ -6446,6 +6738,14 @@
   {
     "wordingKey": "WORD_REST_VALUE",
     "value": "{0} left"
+  },
+  {
+    "wordingKey": "WORD_RESULT_ADD_VALUE",
+    "value": "＋{0}"
+  },
+  {
+    "wordingKey": "WORD_RESULT_DAILY_BONUS",
+    "value": "Daily Bonus"
   },
   {
     "wordingKey": "WORD_RESUME",
@@ -6510,6 +6810,10 @@
   {
     "wordingKey": "WORD_SAVED",
     "value": "Saved"
+  },
+  {
+    "wordingKey": "WORD_SAVE_MYLIST",
+    "value": "Save Playlist"
   },
   {
     "wordingKey": "WORD_SAVE_RETURN",
@@ -7056,6 +7360,10 @@
     "value": "Status"
   },
   {
+    "wordingKey": "WORD_STOP_PERIOD",
+    "value": "Suspension Period: Until {0}"
+  },
+  {
     "wordingKey": "WORD_STORY",
     "value": "Story"
   },
@@ -7258,6 +7566,10 @@
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
     "value": "Today's Attempts"
+  },
+  {
+    "wordingKey": "WORD_TODAY_PART_END",
+    "value": "Today's Limit Reached"
   },
   {
     "wordingKey": "WORD_TOGGLE_1",
@@ -7630,6 +7942,10 @@
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_TUTORIAL_GYRO",
     "value": "Move your device to look around the venue!"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_LIVE_TUTORIAL_LOCK_ON_CAMERA",
+    "value": "Tap on a character's face to follow them\naround with the camera."
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_TUTORIAL_MOVE",

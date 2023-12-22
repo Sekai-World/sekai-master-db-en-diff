@@ -1493,15 +1493,15 @@
   },
   {
     "id": 13,
-    "shortDescription": "Score +{{41;v}}% and Score +{{40;v}}% until a GREAT or worse tap is recorded.",
-    "description": "Score +{{41;v}}% for {{40;d}}s and Score +{{40;v}}% until a GREAT or worse tap is recorded.",
+    "shortDescription": "Score +{{41;v}}% and Score +{{40;v}}% until a GOOD or worse tap is recorded.",
+    "description": "Score +{{41;v}}% for {{40;d}}s and Score +{{40;v}}% until a GOOD or worse tap is recorded.",
     "descriptionSpriteName": "score_up",
     "skillFilterId": 2,
     "skillEffects": [
       {
         "id": 40,
         "skillEffectType": "score_up_keep",
-        "activateNotesJudgmentType": "perfect",
+        "activateNotesJudgmentType": "great",
         "skillEffectDetails": [
           {
             "id": 157,

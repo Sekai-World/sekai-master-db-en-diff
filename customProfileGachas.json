@@ -744,5 +744,554 @@
         "weight": 1
       }
     ]
+  },
+  {
+    "id": 10,
+    "name": "New Year's Memorabilia Box",
+    "startAt": 1704063600000,
+    "endAt": 1704927599000,
+    "assetbundleName": "collection_gacha_new_year_2023",
+    "description": "Introducing the New Year's Memorabilia Box!\n\nGet Charms and Wish Plaques with Character and Group Motifs as new year's exclusive Memorabilia Items from the New Year's Memorabilia Box!\n\nCharms and Wish Plaques are Limited Time Memorabilia Items.\nYou can display acquired Charms and Wish Plaques on your Custom Profiles.\n",
+    "notice": "•Free Crystals will be used first.\n•Duplicate Memorabilia may be opened from the Memorabilia Box. In that case, you will be able to use the duplicate item in your Custom Profile more than once.\n•Memorabilia are opened one at a time based on existing drop rates. The drop rates therefore do not mean that, for example, Memorabilia with a drop rate of 1% are guaranteed to appear once every 100 opens.\n•Drop rates can be viewed from the drop rates tab.\nThe drop rates that are displayed on the drop rates tab are rounded to the fifth decimal place, so the total may not exactly add up to 100%.\n•After starting the Memorabilia Box, even if the app should force-quit or be disconnected without displaying the results screen, opened Memorabilia will be saved and viewable from Memorabilia in Custom Profile.\n•The Limited Time Memorabilia from this Memorabilia Box may be made available again in the future. Any potential future availability is currently TBD.\n•The Memorabilia Box schedule is subject to change without notice.",
+    "customProfileGachaBehaviors": [
+      {
+        "id": 28,
+        "customProfileGachaId": 10,
+        "seq": 1,
+        "costResourceType": "virtual_coin",
+        "costResourceQuantity": 3000,
+        "spinCount": 10
+      },
+      {
+        "id": 29,
+        "customProfileGachaId": 10,
+        "seq": 2,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 100,
+        "spinCount": 1
+      },
+      {
+        "id": 30,
+        "customProfileGachaId": 10,
+        "seq": 3,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 1000,
+        "spinCount": 10
+      }
+    ],
+    "customProfileGachaDetails": [
+      {
+        "id": 257,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 175,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 258,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 176,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 259,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 177,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 260,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 178,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 261,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 179,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 262,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 180,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 263,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 181,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 264,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 182,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 265,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 183,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 266,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 184,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 267,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 185,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 268,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 186,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 269,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 187,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 270,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 188,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 271,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 189,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 272,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 190,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 273,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 191,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 274,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 192,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 275,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 193,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 276,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 194,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 277,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 195,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 278,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 196,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 279,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 197,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 280,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 198,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 281,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 199,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 282,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 200,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 283,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 201,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 284,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 202,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 285,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 203,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 286,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 204,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 287,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 205,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 288,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 206,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 289,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 207,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 290,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 208,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 291,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 209,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 292,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 210,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 293,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 211,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 294,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 212,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 295,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 213,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 296,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 214,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 297,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 215,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 298,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 216,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 299,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 217,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 300,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 218,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 301,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 219,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 302,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 220,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 303,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 221,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 304,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 222,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 305,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 223,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 306,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 224,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 307,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 225,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 308,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 226,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 309,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 227,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 310,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 228,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 311,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 229,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 312,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 230,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 313,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 231,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 314,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 232,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 315,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 233,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 316,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 234,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 317,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 235,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 318,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 236,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 319,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 237,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      },
+      {
+        "id": 320,
+        "customProfileGachaId": 10,
+        "customProfileResourceType": "collection",
+        "customProfileResourceId": 238,
+        "customProfileResourceQuantity": 1,
+        "weight": 1
+      }
+    ]
   }
 ]

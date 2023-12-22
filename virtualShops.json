@@ -3972,5 +3972,194 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 157,
+    "seq": 157,
+    "name": "第80回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 303,
+        "virtualShopId": 157,
+        "virtualShopItemType": "accessory",
+        "seq": 199910,
+        "resourceBoxId": 210,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1703199600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 158,
+    "seq": 158,
+    "name": "Christmas Show 2022",
+    "virtualShopItems": [
+      {
+        "id": 304,
+        "virtualShopId": 158,
+        "virtualShopItemType": "coordinate",
+        "seq": 99858,
+        "resourceBoxId": 66,
+        "costPaidJewel": 1000,
+        "startAt": 1703286000000
+      },
+      {
+        "id": 305,
+        "virtualShopId": 158,
+        "virtualShopItemType": "accessory",
+        "seq": 199909,
+        "resourceBoxId": 67,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1703286000000
+      },
+      {
+        "id": 306,
+        "virtualShopId": 158,
+        "virtualShopItemType": "penlight",
+        "seq": 199902,
+        "resourceBoxId": 144,
+        "costPaidJewel": 1000,
+        "startAt": 1703286000000
+      },
+      {
+        "id": 307,
+        "virtualShopId": 158,
+        "virtualShopItemType": "accessory",
+        "seq": 199908,
+        "resourceBoxId": 211,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1703286000000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 159,
+    "seq": 159,
+    "name": "Rin's Anniversary",
+    "virtualShopItems": [
+      {
+        "id": 308,
+        "virtualShopId": 159,
+        "virtualShopItemType": "penlight",
+        "seq": 199900,
+        "resourceBoxId": 212,
+        "costPaidJewel": 1000,
+        "startAt": 1703545200000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 160,
+    "seq": 160,
+    "name": "Len's Anniversary",
+    "virtualShopItems": [
+      {
+        "id": 309,
+        "virtualShopId": 160,
+        "virtualShopItemType": "penlight",
+        "seq": 199901,
+        "resourceBoxId": 213,
+        "costPaidJewel": 1000,
+        "startAt": 1703545200000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 161,
+    "seq": 161,
+    "name": "New Year's Countdown Show\/Happy New Year Show",
+    "virtualShopItems": [
+      {
+        "id": 310,
+        "virtualShopId": 161,
+        "virtualShopItemType": "accessory",
+        "seq": 199906,
+        "resourceBoxId": 214,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1704063600000
+      },
+      {
+        "id": 311,
+        "virtualShopId": 161,
+        "virtualShopItemType": "penlight",
+        "seq": 199899,
+        "resourceBoxId": 215,
+        "costPaidJewel": 1000,
+        "startAt": 1704063600000
+      },
+      {
+        "id": 312,
+        "virtualShopId": 161,
+        "virtualShopItemType": "coordinate",
+        "seq": 99857,
+        "resourceBoxId": 216,
+        "costPaidJewel": 1000,
+        "startAt": 1704063600000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 162,
+    "seq": 162,
+    "name": "Amazake Shop 2024",
+    "virtualShopItems": [
+      {
+        "id": 313,
+        "virtualShopId": 162,
+        "virtualShopItemType": "boost_item",
+        "seq": 299999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
+        "startAt": 1704063600000,
+        "endAt": 1704927599000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
+    "id": 163,
+    "seq": 163,
+    "name": "第81回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 314,
+        "virtualShopId": 163,
+        "virtualShopItemType": "accessory",
+        "seq": 199907,
+        "resourceBoxId": 217,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1704063600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 164,
+    "seq": 164,
+    "name": "Shiho's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 315,
+        "virtualShopId": 164,
+        "virtualShopItemType": "penlight",
+        "seq": 199898,
+        "resourceBoxId": 218,
+        "costPaidJewel": 1000,
+        "startAt": 1704582000000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
