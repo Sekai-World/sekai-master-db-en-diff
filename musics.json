@@ -569,7 +569,8 @@
     "seq": 2504001,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Becoming Potatoes",
     "pronunciation": "becomingpotatoes",
@@ -1718,7 +1719,8 @@
     "seq": 2608601,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "IDSMILE",
     "pronunciation": "idsmile",
@@ -1940,7 +1942,8 @@
     "seq": 2509601,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Tondemo-Wonderz",
     "pronunciation": "tondemo-wonderz",
@@ -2060,7 +2063,8 @@
     "seq": 1112301,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Devil's Manner",
     "pronunciation": "devil'smanner",
@@ -2584,7 +2588,8 @@
     "seq": 2113501,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "STAGE OF SEKAI",
     "pronunciation": "stageofsekai",
@@ -2888,7 +2893,8 @@
     "seq": 2118401,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "1,2, FanClub",
     "pronunciation": "1,2,fanclub",
@@ -2928,7 +2934,7 @@
     "seq": 2111801,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "mv_2d"
     ],
     "title": "MACHINEGUN POEM DOLL",
     "pronunciation": "machinegunpoemdoll",
@@ -3049,7 +3055,8 @@
     "seq": 2416701,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Flyer!",
     "pronunciation": "flyer!",
@@ -3611,7 +3618,8 @@
     "seq": 2322001,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "IF",
     "pronunciation": "if",
@@ -3651,7 +3659,8 @@
     "seq": 1323801,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "The Vampire",
     "pronunciation": "thevampire",
@@ -4973,6 +4982,26 @@
     "fillerSec": 9.0
   },
   {
+    "id": 282,
+    "seq": 2534401,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "Hoshizora Orchestra",
+    "pronunciation": "hoshizoraorchestra",
+    "lyricist": "Atsu Mizuno",
+    "composer": "Atsu Mizuno",
+    "arranger": "Atsu Mizuno,Ito Yukino",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_282",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1705734300000,
+    "liveStageId": 1,
+    "fillerSec": 8.399999618530273
+  },
+  {
     "id": 284,
     "seq": 1129801,
     "releaseConditionId": 5,
@@ -4997,7 +5026,7 @@
     "seq": 2131001,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "mv_2d"
     ],
     "title": "ÅMARA(The Great Intelligence)",
     "pronunciation": "amarathegreatintelligence",
@@ -5173,6 +5202,26 @@
     "fillerSec": 9.0
   },
   {
+    "id": 297,
+    "seq": 1134601,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "p.h.",
+    "pronunciation": "ぺーはー",
+    "lyricist": "SEVENTHLINKS",
+    "composer": "SEVENTHLINKS",
+    "arranger": "SEVENTHLINKS",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_297",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1706050800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0
+  },
+  {
     "id": 298,
     "seq": 1533601,
     "releaseConditionId": 5,
@@ -5252,6 +5301,46 @@
     "publishedAt": 1700521200000,
     "liveStageId": 1,
     "fillerSec": 8.346400260925293
+  },
+  {
+    "id": 310,
+    "seq": 2234501,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv_2d"
+    ],
+    "title": "Flyway",
+    "pronunciation": "ふらいうぇい",
+    "lyricist": "halyosy",
+    "composer": "halyosy",
+    "arranger": "halyosy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_310",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1705878000000,
+    "liveStageId": 1,
+    "fillerSec": 9.319000244140625
+  },
+  {
+    "id": 311,
+    "seq": 1134301,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Dawn and Fireflies",
+    "pronunciation": "dawnandfireflies",
+    "lyricist": "n-buna",
+    "composer": "n-buna",
+    "arranger": "n-buna",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_311",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1705359600000,
+    "liveStageId": 1,
+    "fillerSec": 9.0
   },
   {
     "id": 313,
@@ -5374,6 +5463,46 @@
     "fillerSec": 7.110000133514404
   },
   {
+    "id": 326,
+    "seq": 1134801,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Tenshi no Tsubasa。",
+    "pronunciation": "てんしのつばさ",
+    "lyricist": "A4。",
+    "composer": "A4。",
+    "arranger": "A4。",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_326",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1706914800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0
+  },
+  {
+    "id": 328,
+    "seq": 1134701,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Sekai-Chan and Kafu-Chan's Otsukai Gassoukyoku",
+    "pronunciation": "せかいちゃんとかふちゃんのおつかいがっそうきょく",
+    "lyricist": "Minami no Minami",
+    "composer": "Minami no Minami",
+    "arranger": "Minami no Minami",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_328",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1706569200000,
+    "liveStageId": 1,
+    "fillerSec": 8.050800323486328
+  },
+  {
     "id": 342,
     "seq": 1118001,
     "releaseConditionId": 5,
@@ -5392,6 +5521,86 @@
     "publishedAt": 1678402800000,
     "liveStageId": 1,
     "fillerSec": 9.0
+  },
+  {
+    "id": 347,
+    "seq": 1135101,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "The Tailor of Enbizaka",
+    "pronunciation": "thetailorofenbizaka",
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_347",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1707260400000,
+    "liveStageId": 1,
+    "fillerSec": 9.0
+  },
+  {
+    "id": 348,
+    "seq": 1135201,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Judgment of Corruption",
+    "pronunciation": "judgmentofcorruption",
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_348",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1707346800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0
+  },
+  {
+    "id": 349,
+    "seq": 1134901,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Evil Food Eater Conchita",
+    "pronunciation": "evilfoodeaterconchita",
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_349",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1707087600000,
+    "liveStageId": 1,
+    "fillerSec": 9.006699562072754
+  },
+  {
+    "id": 350,
+    "seq": 1135001,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Gift from the Princess who Brought Sleep",
+    "pronunciation": "giftfromtheprincesswhobroughtsleep",
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_350",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1707174000000,
+    "liveStageId": 1,
+    "fillerSec": 9.476200103759766
   },
   {
     "id": 357,

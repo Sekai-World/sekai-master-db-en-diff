@@ -4161,5 +4161,109 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 165,
+    "seq": 165,
+    "name": "第82回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 316,
+        "virtualShopId": 165,
+        "virtualShopItemType": "accessory",
+        "seq": 99910,
+        "resourceBoxId": 219,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1704927600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 166,
+    "seq": 166,
+    "name": "第83回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 317,
+        "virtualShopId": 166,
+        "virtualShopItemType": "coordinate",
+        "seq": 99856,
+        "resourceBoxId": 220,
+        "costPaidJewel": 1000,
+        "startAt": 1705878000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 167,
+    "seq": 167,
+    "name": "まふゆBIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 318,
+        "virtualShopId": 167,
+        "virtualShopItemType": "penlight",
+        "seq": 199897,
+        "resourceBoxId": 221,
+        "costPaidJewel": 1000,
+        "startAt": 1706223600000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 168,
+    "seq": 168,
+    "name": "Luka's Anniversary",
+    "virtualShopItems": [
+      {
+        "id": 319,
+        "virtualShopId": 168,
+        "virtualShopItemType": "penlight",
+        "seq": 199896,
+        "resourceBoxId": 222,
+        "costPaidJewel": 1000,
+        "startAt": 1706482800000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 169,
+    "seq": 169,
+    "name": "第84回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 320,
+        "virtualShopId": 169,
+        "virtualShopItemType": "accessory",
+        "seq": 99909,
+        "resourceBoxId": 223,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1706742000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 170,
+    "seq": 170,
+    "name": "Kanade's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 321,
+        "virtualShopId": 170,
+        "virtualShopItemType": "penlight",
+        "seq": 199895,
+        "resourceBoxId": 224,
+        "costPaidJewel": 1000,
+        "startAt": 1707433200000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
