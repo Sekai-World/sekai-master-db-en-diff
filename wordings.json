@@ -101,7 +101,7 @@
   },
   {
     "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
-    "value": "({0}) {1} to unlock.\nThis is a Hairstyle specific Accessory. Unlock the Hairstyle to equip."
+    "value": "Unlocked with \"{0}\" {1}.\nThis is a Hairstyle-specific Accessory. Unlock the Hairstyle to equip."
   },
   {
     "wordingKey": "MSG_ADJUST_WITH_TAP",
@@ -173,11 +173,11 @@
   },
   {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED_WITH_REASON",
-    "value": "In order to use the screen shot function, please allow this app to access your media files.\n\nPlease allow access from your device settings."
+    "value": "In order to use the screenshot function, please allow this app to access your media files.\n\nPlease allow access from your device settings."
   },
   {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED_WITH_REASON_ANDROID",
-    "value": "In order to use the screen shot function, please allow this app to access your media files."
+    "value": "In order to use the screenshot function, please allow this app to access your media files."
   },
   {
     "wordingKey": "MSG_ALERT_TIME_OVER_EXCHANGE_TICKET",
@@ -629,7 +629,7 @@
   },
   {
     "wordingKey": "MSG_CRYSTAL_CONSUME",
-    "value": "*Crystals (Free) will be used first.\n*Some gacha will allow you to use Crystals (Paid) first."
+    "value": "*Free Crystals will be used first.\n*Some Gacha will allow you to use Paid Crystals first."
   },
   {
     "wordingKey": "MSG_CRYSTAL_SHOP_CAN_MAKE_PAYMENTS",
@@ -981,7 +981,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_CEIL_TICKET_CONVERT_CONFIRM",
-    "value": "Trade {0}\nfor {1}?\n*Trade up to 10 per gacha (100 total)."
+    "value": "Trade {0}\nfor {1}?\n*Trade up to 10 per Gacha (100 total)."
   },
   {
     "wordingKey": "MSG_GACHA_CEIL_TICKET_EXCHANGE_CONFIRM",
@@ -1345,7 +1345,7 @@
   },
   {
     "wordingKey": "MSG_MEMBER_DUPLICATE_CONFIRM",
-    "value": "You already own the above character(s).\nContinue?"
+    "value": "You already own the above Character(s).\nContinue?"
   },
   {
     "wordingKey": "MSG_MEMBER_DUPLICATE_CONFIRM_TIPS",
@@ -1553,7 +1553,7 @@
   },
   {
     "wordingKey": "MSG_NEED_SELECT_LIST_SETTING",
-    "value": "Your picks must be selected to pull this gacha.\n\n<color=#ff5599>*All characters must be selected first.<\/color>"
+    "value": "Your picks must be selected to pull this Gacha.\n\n<color=#ff5599>*All Characters must be selected first.<\/color>"
   },
   {
     "wordingKey": "MSG_NETWORK_CONNECTION_ERROR",
@@ -1873,7 +1873,7 @@
   },
   {
     "wordingKey": "MSG_PRACTICE_TICKET_ERROR",
-    "value": "Previous Practice results interrupted.\nPractice will be cancelled to retrieve results.\n\nPlease check the level of your character and the number of Practice Scores that will be used before conducting Practice."
+    "value": "Previous Practice results interrupted.\nPractice will be cancelled to retrieve results.\n\nPlease check the level of your Character and the number of Practice Scores that will be used before conducting Practice."
   },
   {
     "wordingKey": "MSG_PRELIMINARY_TOURNAMENT_ENDED",
@@ -2449,7 +2449,7 @@
   },
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_SCREEN_SHOT_REQUIRED_RESON",
-    "value": "In order to use the screen shot function, please allow this app to access your media files."
+    "value": "In order to use the screenshot function, please allow this app to access your media files."
   },
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_TO_BE_HELD_SOON",
@@ -2549,7 +2549,7 @@
   },
   {
     "wordingKey": "MSG_WISH_LIST_CONFIRM",
-    "value": "Unselected characters remaining.\n10 characters must be selected to pull Your Pick Gacha.\nSelect remaining characters at random?"
+    "value": "Unselected Characters remaining.\n10 Characters must be selected to pull Your Pick Gacha.\nSelect remaining Characters at random?"
   },
   {
     "wordingKey": "MSG_WISH_LIST_CONFIRM_TIPS",
@@ -4825,11 +4825,11 @@
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_1",
-    "value": "・Increase <color=#3FD5C8>{0} {1}'s<\/color> Mastery Rank to 2 to unlock Hairstyle."
+    "value": "• Increase <color=#3FD5C8>{0} {1}'s<\/color> Mastery Rank to 2 to unlock Hairstyle."
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_2",
-    "value": "・<color=#3FD5C8>{0}<\/color> can only set hairstyle to <color=#3FD5C8>{1}<\/color>."
+    "value": "• <color=#3FD5C8>{0}<\/color> can only set hairstyle to <color=#3FD5C8>{1}<\/color>."
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_3",
@@ -6957,7 +6957,7 @@
   },
   {
     "wordingKey": "WORD_SELECT_MEMBER",
-    "value": "Select characters!"
+    "value": "Select Characters!"
   },
   {
     "wordingKey": "WORD_SELECT_RANK",
