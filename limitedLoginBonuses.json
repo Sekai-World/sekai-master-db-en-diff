@@ -1016,6 +1016,23 @@
     ]
   },
   {
+    "id": 62,
+    "seq": 62,
+    "name": "Valentine's Login Campaign",
+    "startAt": 1707897600000,
+    "endAt": 1708070399000,
+    "assetbundleName": "valentine_2023",
+    "closeAt": 1708070399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 140,
+        "limitedLoginBonusId": 62,
+        "day": 1,
+        "resourceBoxId": 80
+      }
+    ]
+  },
+  {
     "id": 67,
     "seq": 67,
     "name": "[It's Back][COLORFUL STAGE!×Aku no Taizai Series] Crossover Celebration Login Campaign",
@@ -3114,6 +3131,71 @@
         "limitedLoginBonusId": 1050,
         "day": 11,
         "resourceBoxId": 1253
+      }
+    ]
+  },
+  {
+    "id": 1051,
+    "seq": 1051,
+    "name": "9 Million Players Login Campaign",
+    "startAt": 1707854400000,
+    "endAt": 1709467199000,
+    "assetbundleName": "900_anniversary",
+    "closeAt": 1708776000000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1259,
+        "limitedLoginBonusId": 1051,
+        "day": 1,
+        "resourceBoxId": 1254
+      },
+      {
+        "id": 1260,
+        "limitedLoginBonusId": 1051,
+        "day": 2,
+        "resourceBoxId": 1255
+      },
+      {
+        "id": 1261,
+        "limitedLoginBonusId": 1051,
+        "day": 3,
+        "resourceBoxId": 1256
+      },
+      {
+        "id": 1262,
+        "limitedLoginBonusId": 1051,
+        "day": 4,
+        "resourceBoxId": 1257
+      },
+      {
+        "id": 1263,
+        "limitedLoginBonusId": 1051,
+        "day": 5,
+        "resourceBoxId": 1258
+      },
+      {
+        "id": 1264,
+        "limitedLoginBonusId": 1051,
+        "day": 6,
+        "resourceBoxId": 1259
+      },
+      {
+        "id": 1265,
+        "limitedLoginBonusId": 1051,
+        "day": 7,
+        "resourceBoxId": 1260
+      },
+      {
+        "id": 1266,
+        "limitedLoginBonusId": 1051,
+        "day": 8,
+        "resourceBoxId": 1261
+      },
+      {
+        "id": 1267,
+        "limitedLoginBonusId": 1051,
+        "day": 9,
+        "resourceBoxId": 1262
       }
     ]
   }
