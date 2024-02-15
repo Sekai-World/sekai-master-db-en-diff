@@ -11,48 +11,59 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 502,
-    "seq": 160,
+    "homeBannerId": 596,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "[ガチャ]ガチャ_無料10連ガチャバナー",
-    "assetbundleName": "banner_gacha247",
+    "name": "[ガチャ]モモジャン箱イベ12巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha294",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 247,
-    "startAt": 1696100400000,
-    "endAt": 1698778799000
+    "transitionDestinationId": 294,
+    "startAt": 1707595200000,
+    "endAt": 1708372799000
   },
   {
-    "homeBannerId": 514,
+    "homeBannerId": 597,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]モモジャン箱イベ12巡目_イベントバナー",
+    "assetbundleName": "event_thread_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 85,
+    "startAt": 1707606000000,
+    "endAt": 1708383599000
+  },
+  {
+    "homeBannerId": 599,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "Valentine's Day Show 2023",
+    "assetbundleName": "banner_virtuallive211",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 211,
+    "startAt": 1707778800000,
+    "endAt": 1708070399000
+  },
+  {
+    "homeBannerId": 600,
     "seq": 120,
     "homeBannerType": "general",
     "name": "[ガチャ]ガチャ_復刻ガチャバナー",
-    "assetbundleName": "banner_gacha253",
+    "assetbundleName": "banner_gacha295",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 253,
-    "startAt": 1697396400000,
-    "endAt": 1698173999000
+    "transitionDestinationId": 295,
+    "startAt": 1707854400000,
+    "endAt": 1708631999000
   },
   {
-    "homeBannerId": 516,
-    "seq": 110,
+    "homeBannerId": 655,
+    "seq": 10,
     "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショ箱イベ10巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha254",
+    "name": "[復刻]悪ノ大罪シリーズコラボガチャ",
+    "assetbundleName": "banner_gacha327",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 254,
-    "startAt": 1697914800000,
-    "endAt": 1698778799000
-  },
-  {
-    "homeBannerId": 517,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ワンダショ箱イベ10巡目_イベントバナー",
-    "assetbundleName": "event_curtaincall_2022",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 74,
-    "startAt": 1697925600000,
-    "endAt": 1698789599000
+    "transitionDestinationId": 327,
+    "startAt": 1707076800000,
+    "endAt": 1708286399000
   },
   {
     "homeBannerId": 1001,
@@ -64,5 +75,46 @@
     "transitionDestinationId": 1,
     "startAt": 1633118400000,
     "endAt": 4102473540000
+  },
+  {
+    "homeBannerId": 1083,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "9 Million Downloads! 4★ Guaranteed Gacha",
+    "assetbundleName": "banner_gacha1062",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1062,
+    "startAt": 1707854400000,
+    "endAt": 1708891199000
+  },
+  {
+    "homeBannerId": 1084,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "9M DLs 4★ Guar. Gacha Ticket",
+    "assetbundleName": "banner_shop_gachaticket_900dl_gl",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1707854400000,
+    "endAt": 1708869599000
+  },
+  {
+    "homeBannerId": 1085,
+    "seq": 190,
+    "homeBannerType": "general",
+    "name": "スイート・クリーム",
+    "assetbundleName": "banner_shop_costume_sale_en_16",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1707465600000,
+    "endAt": 1709279999000
+  },
+  {
+    "homeBannerId": 1086,
+    "seq": 190,
+    "homeBannerType": "general",
+    "name": "ルナ・フェスティバル　ストリートウェア",
+    "assetbundleName": "banner_shop_costume_sale_en_17",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1707465600000,
+    "endAt": 1709279999000
   }
 ]
