@@ -9458,7 +9458,7 @@
     "path": "information\/index.html?id=info_event88_notice",
     "startAt": 1710108000000,
     "endAt": 1710194399000,
-    "bannerAssetbundleName": "event_cooking_2023"
+    "bannerAssetbundleName": "news_event_sky_2023"
   },
   {
     "id": 1723,
@@ -9472,7 +9472,7 @@
     "path": "information\/index.html?id=info_event88_held",
     "startAt": 1710194400000,
     "endAt": 1710907199000,
-    "bannerAssetbundleName": "event_cooking_2023"
+    "bannerAssetbundleName": "news_event_sky_2023"
   },
   {
     "id": 1724,
@@ -9485,8 +9485,8 @@
     "title": "[Announcement] White Day Login Campaign",
     "path": "information\/index.html?id=loginbonus_2024_White_Day_notice",
     "startAt": 1710313200000,
-    "endAt": 1710485999000,
-    "bannerAssetbundleName": "news_event_sky_2023"
+    "endAt": 1710399599000,
+    "bannerAssetbundleName": "banner_news_whiteday_2023"
   },
   {
     "id": 1725,
@@ -9500,7 +9500,7 @@
     "path": "information\/index.html?id=loginbonus_2024_White_Day_held",
     "startAt": 1710399600000,
     "endAt": 1710572399000,
-    "bannerAssetbundleName": "news_event_sky_2023"
+    "bannerAssetbundleName": "banner_news_whiteday_2023"
   },
   {
     "id": 1726,
@@ -9519,14 +9519,14 @@
   {
     "id": 1727,
     "seq": 1,
-    "displayOrder": 4533763,
+    "displayOrder": 4533808,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
-    "title": "Maintenance (Ver.2.5.0 Update)",
+    "title": "(Updated: Feb. 16, 2:00 a.m. PST) Maintenance (Ver.2.5.0 Update)",
     "path": "information\/index.html?id=info_update250_0222",
-    "startAt": 1708038000000,
+    "startAt": 1708077600000,
     "bannerAssetbundleName": "banner_patch_note"
   },
   {
@@ -9538,10 +9538,38 @@
     "browseType": "internal",
     "platform": "all",
     "title": "White Day Show 2024",
-    "path": "information\/index.html?id=info_virtuallive211",
+    "path": "information\/index.html?id=info_virtuallive217",
     "startAt": 1710280800000,
     "endAt": 1710712800000,
-    "bannerAssetbundleName": "banner_news_virtuallive211"
+    "bannerAssetbundleName": "banner_news_virtuallive217"
+  },
+  {
+    "id": 1729,
+    "seq": 1,
+    "displayOrder": 4534450,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "[Announcement] Your Pick Gacha!",
+    "path": "information\/index.html?id=info_gacha299_notice",
+    "startAt": 1708632000000,
+    "endAt": 1708718399000,
+    "bannerAssetbundleName": "banner_news_gacha299"
+  },
+  {
+    "id": 1730,
+    "seq": 1,
+    "displayOrder": 4534550,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Your Pick Gacha, available now!",
+    "path": "information\/index.html?id=info_gacha299_held",
+    "startAt": 1708718400000,
+    "endAt": 1709582399000,
+    "bannerAssetbundleName": "banner_news_gacha299"
   },
   {
     "id": 10012,
