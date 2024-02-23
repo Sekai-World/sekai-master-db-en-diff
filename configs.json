@@ -838,5 +838,21 @@
   {
     "configKey": "user_mylist_name_max_length",
     "value": "20"
+  },
+  {
+    "configKey": "colorful_pass_continuous_buy_grace_period",
+    "value": "10"
+  },
+  {
+    "configKey": "offline_event_entry_id_min_length",
+    "value": "18"
+  },
+  {
+    "configKey": "offline_event_entry_id_alphabet",
+    "value": "23456789ABCDEFGHJKMNPQRSTUVWXYZ"
+  },
+  {
+    "configKey": "beacon_enable",
+    "value": "true"
   }
 ]
