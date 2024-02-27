@@ -14662,7 +14662,7 @@
       }
     ],
     "assetbundleName": "af_0093_01",
-    "specialSeasonId": 1,
+    "specialSeasonId": 2,
     "archiveDisplayType": "none"
   },
   {
@@ -14707,7 +14707,7 @@
       }
     ],
     "assetbundleName": "af_0010_01",
-    "specialSeasonId": 1,
+    "specialSeasonId": 2,
     "archiveDisplayType": "none"
   },
   {
@@ -14760,7 +14760,7 @@
       }
     ],
     "assetbundleName": "af_0095_01",
-    "specialSeasonId": 1,
+    "specialSeasonId": 2,
     "archiveDisplayType": "none"
   },
   {
@@ -14813,7 +14813,7 @@
       }
     ],
     "assetbundleName": "af_0122_01",
-    "specialSeasonId": 1,
+    "specialSeasonId": 2,
     "archiveDisplayType": "none"
   },
   {
@@ -14858,7 +14858,7 @@
       }
     ],
     "assetbundleName": "af_0145_01",
-    "specialSeasonId": 1,
+    "specialSeasonId": 2,
     "archiveDisplayType": "none"
   },
   {
@@ -20516,6 +20516,25 @@
       }
     ],
     "assetbundleName": "vs_0453_01"
+  },
+  {
+    "id": 997,
+    "musicId": 459,
+    "musicVocalType": "virtual_singer",
+    "seq": 101,
+    "releaseConditionId": 5,
+    "caption": "VIRTUAL SINGER ver.",
+    "characters": [
+      {
+        "id": 1830,
+        "musicId": 459,
+        "musicVocalId": 997,
+        "characterType": "game_character",
+        "characterId": 21,
+        "seq": 4590
+      }
+    ],
+    "assetbundleName": "vs_0459_01"
   },
   {
     "id": 1002,
