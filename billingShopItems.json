@@ -2128,22 +2128,6 @@
     "purchaseOption": "exchange"
   },
   {
-    "id": 10097,
-    "seq": 300,
-    "billingShopItemType": "value_set",
-    "name": "JP 2nd Anniversary Bundle (Basic)",
-    "description": "JP 2nd Anniversary Basic Bundle",
-    "billableLimitType": "count",
-    "billableLimitValue": 1,
-    "billableLimitResetIntervalType": "none",
-    "assetbundleName": "shop_10097",
-    "resourceBoxId": 129,
-    "bonusResourceBoxId": 40,
-    "startAt": 1696057200000,
-    "endAt": 1697137199000,
-    "purchaseOption": "exchange"
-  },
-  {
     "id": 10098,
     "seq": 290,
     "billingShopItemType": "value_set",
@@ -3665,6 +3649,22 @@
     "label": "1 Time Only",
     "startAt": 1707854400000,
     "endAt": 1708869599000
+  },
+  {
+    "id": 50053,
+    "seq": 340,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50078,
+    "name": "Miku Day 2024 10x Gacha Ticket",
+    "description": "Miku Day 2024 10x Gacha Ticket",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_50053",
+    "resourceBoxId": 50053,
+    "label": "1 Time Only",
+    "startAt": 1709971200000,
+    "endAt": 1710377999000
   },
   {
     "id": 100002,

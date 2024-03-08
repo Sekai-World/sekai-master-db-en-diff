@@ -1033,6 +1033,40 @@
     ]
   },
   {
+    "id": 63,
+    "seq": 63,
+    "name": "Miku Day Login Campaign",
+    "startAt": 1709971200000,
+    "endAt": 1710057599000,
+    "assetbundleName": "mikusday_2023",
+    "closeAt": 1710057599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 141,
+        "limitedLoginBonusId": 63,
+        "day": 1,
+        "resourceBoxId": 81
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "seq": 64,
+    "name": "White Day Login Campaign",
+    "startAt": 1710399600000,
+    "endAt": 1710572399000,
+    "assetbundleName": "whiteday_2023",
+    "closeAt": 1710572399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 142,
+        "limitedLoginBonusId": 64,
+        "day": 1,
+        "resourceBoxId": 82
+      }
+    ]
+  },
+  {
     "id": 67,
     "seq": 67,
     "name": "[It's Back][COLORFUL STAGE!×Aku no Taizai Series] Crossover Celebration Login Campaign",
@@ -3213,6 +3247,83 @@
         "limitedLoginBonusId": 1052,
         "day": 1,
         "resourceBoxId": 1263
+      }
+    ]
+  },
+  {
+    "id": 1053,
+    "seq": 1053,
+    "name": "Spring Login Campaign",
+    "startAt": 1710702000000,
+    "endAt": 1712314799000,
+    "assetbundleName": "spring_login_bonus_2022",
+    "closeAt": 1711450800000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1269,
+        "limitedLoginBonusId": 1053,
+        "day": 1,
+        "resourceBoxId": 1264
+      },
+      {
+        "id": 1270,
+        "limitedLoginBonusId": 1053,
+        "day": 2,
+        "resourceBoxId": 1265
+      },
+      {
+        "id": 1271,
+        "limitedLoginBonusId": 1053,
+        "day": 3,
+        "resourceBoxId": 1266
+      },
+      {
+        "id": 1272,
+        "limitedLoginBonusId": 1053,
+        "day": 4,
+        "resourceBoxId": 1267
+      },
+      {
+        "id": 1273,
+        "limitedLoginBonusId": 1053,
+        "day": 5,
+        "resourceBoxId": 1268
+      },
+      {
+        "id": 1274,
+        "limitedLoginBonusId": 1053,
+        "day": 6,
+        "resourceBoxId": 1269
+      },
+      {
+        "id": 1275,
+        "limitedLoginBonusId": 1053,
+        "day": 7,
+        "resourceBoxId": 1270
+      },
+      {
+        "id": 1276,
+        "limitedLoginBonusId": 1053,
+        "day": 8,
+        "resourceBoxId": 1271
+      },
+      {
+        "id": 1277,
+        "limitedLoginBonusId": 1053,
+        "day": 9,
+        "resourceBoxId": 1272
+      },
+      {
+        "id": 1278,
+        "limitedLoginBonusId": 1053,
+        "day": 10,
+        "resourceBoxId": 1273
+      },
+      {
+        "id": 1279,
+        "limitedLoginBonusId": 1053,
+        "day": 11,
+        "resourceBoxId": 1274
       }
     ]
   }

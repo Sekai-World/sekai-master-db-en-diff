@@ -4386,5 +4386,93 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 178,
+    "seq": 178,
+    "name": "第88回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 331,
+        "virtualShopId": 178,
+        "virtualShopItemType": "coordinate",
+        "seq": 99853,
+        "resourceBoxId": 232,
+        "costPaidJewel": 1000,
+        "startAt": 1710194400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 179,
+    "seq": 179,
+    "name": "White Day Show 2023",
+    "virtualShopItems": [
+      {
+        "id": 332,
+        "virtualShopId": 179,
+        "virtualShopItemType": "penlight",
+        "seq": 199889,
+        "resourceBoxId": 233,
+        "costPaidJewel": 1000,
+        "startAt": 1710280800000
+      },
+      {
+        "id": 333,
+        "virtualShopId": 179,
+        "virtualShopItemType": "accessory",
+        "seq": 99907,
+        "resourceBoxId": 161,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1710280800000
+      },
+      {
+        "id": 334,
+        "virtualShopId": 179,
+        "virtualShopItemType": "coordinate",
+        "seq": 99852,
+        "resourceBoxId": 86,
+        "costPaidJewel": 1000,
+        "startAt": 1710280800000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 180,
+    "seq": 180,
+    "name": "Airi's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 335,
+        "virtualShopId": 180,
+        "virtualShopItemType": "penlight",
+        "seq": 199888,
+        "resourceBoxId": 234,
+        "costPaidJewel": 1000,
+        "startAt": 1710712800000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 183,
+    "seq": 183,
+    "name": "第89回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 341,
+        "virtualShopId": 183,
+        "virtualShopItemType": "accessory",
+        "seq": 99906,
+        "resourceBoxId": 240,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1711058400000
+      }
+    ],
+    "virtualShopType": "event"
   }
 ]
