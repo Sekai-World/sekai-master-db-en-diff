@@ -180,8 +180,20 @@
     "value": "*Once the expiration date has passed, the ticket cannot be used."
   },
   {
+    "wordingKey": "MSG_ALL_EPISODE_READ_REWARD",
+    "value": "View All Without Skip or FF"
+  },
+  {
     "wordingKey": "MSG_ALL_MV_DATA_DOWNLOAD_WARNING",
     "value": "A Wi-Fi connection is recommended when downloading files larger than 50MB. If you have set a limit on the number of music video files saved, your settings will change to remove this."
+  },
+  {
+    "wordingKey": "MSG_ALL_READ_REWARD_DESCRIPTION",
+    "value": "Available for stories that you did not view during their events. View every episode without skipping or fast forwarding to earn Crystals."
+  },
+  {
+    "wordingKey": "MSG_ALL_READ_REWARD_DESCRIPTION_TITLE",
+    "value": "Reward Details"
   },
   {
     "wordingKey": "MSG_ALL_UNLOCK_STORY",
@@ -314,6 +326,14 @@
   {
     "wordingKey": "MSG_BOND_LIMIT",
     "value": "Increasing {0}'s Character Rank will also increase their max Trust Rank."
+  },
+  {
+    "wordingKey": "MSG_BOOKMARK_PLAY_ERROR",
+    "value": "Error replaying from Bookmark."
+  },
+  {
+    "wordingKey": "MSG_BOOK_MARK_NAME_SETTING",
+    "value": "Choose a name for your Bookmark."
   },
   {
     "wordingKey": "MSG_BOOST_RECOVER_COMPLETE",
@@ -562,6 +582,10 @@
   {
     "wordingKey": "MSG_CONFIRM_OVERWRITE_DATA_LINK_IOS",
     "value": "You have another account linked to Game Center.\nUnlink previous account and link the current one?"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_REMOVE_BOOK_MARK",
+    "value": "Delete this Bookmark?"
   },
   {
     "wordingKey": "MSG_CONFIRM_TO_RE_ENTER_STREAMING_LIVE",
@@ -936,6 +960,14 @@
     "value": "Extra Gauge has reached MAX."
   },
   {
+    "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
+    "value": "Liked by <color=#0cb>{0}<\/color> and {1} other(s)"
+  },
+  {
+    "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION_SINGLE",
+    "value": "Recommended by <color=#0cb>{0}<\/color>"
+  },
+  {
     "wordingKey": "MSG_FEEDBACK",
     "value": "We are sorry to hear that. Would you be willing\nto provide further feedback to help us improve the gameplay experience?\n\nOur team will be sure to\nread all feedback we receive."
   },
@@ -964,8 +996,60 @@
     "value": "Invitation accepted."
   },
   {
+    "wordingKey": "MSG_FRIEND_INVITE_CODE_COPY_COMPLETE",
+    "value": "Invite code copied."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_DIALOG_MESSAGE",
+    "value": "Enter an invite code."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_ERROR_INPUT_MIN",
+    "value": "Please enter a 15-character code."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_INPUT_BUTTON",
+    "value": "Enter Code"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_INPUT_FIELD",
+    "value": "15 letters and numbers"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_INTERNET_NOT_REACHABLE",
+    "value": "Unable to find connection.\nPlease check your network connectivity."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REGISTER_CODE_ERROR",
+    "value": "Invite code is incorrect."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REGISTER_COMPLETE",
+    "value": "Invite code registered."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REGISTER_CONFIRM",
+    "value": "Use this invite code?"
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REGISTER_FAILURE",
+    "value": "Unable to register invite code."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REGISTER_OUT_OF_TERM",
+    "value": "Invite code has expired."
+  },
+  {
     "wordingKey": "MSG_FRIEND_INVITE_REJECT",
     "value": "Invitation rejected."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REWARD_BODY",
+    "value": "Reward for completing the Invitee Missions."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_REWARD_DIALOG",
+    "value": "Reward for <color=#ff5588>{0}<\/color> completing the Invitee Missions by viewing the {1}, {2} and {3} Main Stories."
   },
   {
     "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_OTHER",
@@ -1600,6 +1684,10 @@
     "value": "Contains inappropriate words."
   },
   {
+    "wordingKey": "MSG_NONE_BOOK_MARK",
+    "value": "No Bookmarks found."
+  },
+  {
     "wordingKey": "MSG_NONE_DOWNLOAD",
     "value": "No Download"
   },
@@ -1742,6 +1830,10 @@
   {
     "wordingKey": "MSG_NOT_TARGET_MUSIC",
     "value": "No available songs."
+  },
+  {
+    "wordingKey": "MSG_NOT_TARGET_STORY",
+    "value": "No event stories found."
   },
   {
     "wordingKey": "MSG_NO_ARCHIVE_EVENT_FOUND",
@@ -2328,6 +2420,10 @@
     "value": "As a certain amount of time has passed, teams in the same Crew will be eligible for matchmaking."
   },
   {
+    "wordingKey": "MSG_STORY_FAVORITE_FIRST_COMMENT_TEXT",
+    "value": "Write your comment here."
+  },
+  {
     "wordingKey": "MSG_STORY_SKIP_BODY",
     "value": "Skip the story?"
   },
@@ -2370,6 +2466,10 @@
   {
     "wordingKey": "MSG_SUBSCRIPTION_USE",
     "value": "Use COLORFUL+"
+  },
+  {
+    "wordingKey": "MSG_TAP_TO_COMMUNITY_REPORT",
+    "value": "Report"
   },
   {
     "wordingKey": "MSG_THIS_SALE_HAS_ENDED",
@@ -2458,6 +2558,10 @@
   {
     "wordingKey": "MSG_UPDATE_BONUS_INFO",
     "value": "{1} x{2} every +{0} ↑"
+  },
+  {
+    "wordingKey": "MSG_UPPER_LIMIT_BOOK_MARK_NUM",
+    "value": "You have reached the maximum number of Bookmarks. Please delete some and try again."
   },
   {
     "wordingKey": "MSG_USER_BLOCK_COUNT_LIMIT",
@@ -2856,6 +2960,10 @@
     "value": "Watch Ad"
   },
   {
+    "wordingKey": "WORD_AD_REWARD_GOOGLE_UMP_SETTING",
+    "value": "Privacy Settings"
+  },
+  {
     "wordingKey": "WORD_AD_REWARD_HOME_LABEL",
     "value": "Ads"
   },
@@ -2924,6 +3032,10 @@
     "value": "All Perfect"
   },
   {
+    "wordingKey": "WORD_ALL_READ_REWARD",
+    "value": "Completion Reward"
+  },
+  {
     "wordingKey": "WORD_ALL_SAVE",
     "value": "Always Save"
   },
@@ -2934,6 +3046,10 @@
   {
     "wordingKey": "WORD_ALREADY_CLEARED_LIVE_RETRY",
     "value": "Connection Results"
+  },
+  {
+    "wordingKey": "WORD_ALREADY_COMMUNITY_REPORT",
+    "value": "Reported"
   },
   {
     "wordingKey": "WORD_ALREADY_COPIED",
@@ -2980,6 +3096,10 @@
     "value": "Filter Covers"
   },
   {
+    "wordingKey": "WORD_AP",
+    "value": "AP"
+  },
+  {
     "wordingKey": "WORD_API_ERROR",
     "value": "Connection Error"
   },
@@ -3001,7 +3121,7 @@
   },
   {
     "wordingKey": "WORD_APRIL_FOOL_TAB",
-    "value": "April Fools"
+    "value": "  April   Fools"
   },
   {
     "wordingKey": "WORD_AP_COMBO_EFFECT",
@@ -3288,8 +3408,24 @@
     "value": "０ Life {0}"
   },
   {
+    "wordingKey": "WORD_BOOKMARK",
+    "value": "Bookmarked"
+  },
+  {
+    "wordingKey": "WORD_BOOK_MARK",
+    "value": "Bookmark"
+  },
+  {
     "wordingKey": "WORD_BOOK_MARK_ATTACHED",
     "value": "Bookmarked"
+  },
+  {
+    "wordingKey": "WORD_BOOK_MARK_LIST",
+    "value": "Bookmarks"
+  },
+  {
+    "wordingKey": "WORD_BOOK_MARK_SETTING",
+    "value": "Create Bookmark"
   },
   {
     "wordingKey": "WORD_BOOST_RECOVERY",
@@ -3310,6 +3446,10 @@
   {
     "wordingKey": "WORD_BOUNS_DETAIL",
     "value": "Bonus Details"
+  },
+  {
+    "wordingKey": "WORD_BRACKETS",
+    "value": "{0}"
   },
   {
     "wordingKey": "WORD_BREAK",
@@ -3442,6 +3582,10 @@
   {
     "wordingKey": "WORD_CHANGE_DAY",
     "value": "Date Changed"
+  },
+  {
+    "wordingKey": "WORD_CHANGE_NAME",
+    "value": "Rename"
   },
   {
     "wordingKey": "WORD_CHANGE_VOCAL",
@@ -3728,6 +3872,14 @@
     "value": "Combo"
   },
   {
+    "wordingKey": "WORD_COMMENT_IS_SPOILER",
+    "value": "Warning: Contains spoilers"
+  },
+  {
+    "wordingKey": "WORD_COMMENT_SETTING",
+    "value": "Comment"
+  },
+  {
     "wordingKey": "WORD_COMMUNICATION",
     "value": "Communication"
   },
@@ -3768,6 +3920,10 @@
     "value": "Confirm Trade"
   },
   {
+    "wordingKey": "WORD_CONFIRM_REMOVE_BOOK_MARK_TITLE",
+    "value": "Delete Bookmark"
+  },
+  {
     "wordingKey": "WORD_CONNECT",
     "value": "Connect"
   },
@@ -3804,8 +3960,16 @@
     "value": "Use"
   },
   {
+    "wordingKey": "WORD_CONTAINS_SPOILER_RADIO_BUTTON",
+    "value": "Contains spoilers"
+  },
+  {
     "wordingKey": "WORD_CONTINUE",
     "value": "Continue"
+  },
+  {
+    "wordingKey": "WORD_CONTINUOUSLY",
+    "value": "Continue Viewing"
   },
   {
     "wordingKey": "WORD_CONTINUOUS_BUY_HIGH_TIER_COUNT_BUTTON_TEXT",
@@ -3986,6 +4150,10 @@
   {
     "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_FORMAT",
     "value": "<color=#ff5588>{0}<\/color>"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_TYPE_DIALOG_TITLE",
+    "value": "{0} Options"
   },
   {
     "wordingKey": "WORD_CUSTOM_PROFILE_TEXT_BUTTON_LABEL",
@@ -4504,8 +4672,16 @@
     "value": "Favorites"
   },
   {
+    "wordingKey": "WORD_FAVORITE_COMMENT",
+    "value": "Comment"
+  },
+  {
     "wordingKey": "WORD_FAVORITE_FOOD",
     "value": "Favorite Food"
+  },
+  {
+    "wordingKey": "WORD_FAVORITE_SETTING",
+    "value": "Favorite"
   },
   {
     "wordingKey": "WORD_FEEDBACK_TITLE",
@@ -4592,8 +4768,52 @@
     "value": "{0}\/{1}"
   },
   {
+    "wordingKey": "WORD_FRIEND_FAVORITE",
+    "value": "Liked By Friends"
+  },
+  {
     "wordingKey": "WORD_FRIEND_INVITE",
     "value": "Received Show Invitation from <color=#ff5599>{0}<\/color>."
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_CODE",
+    "value": "Invite Code"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_CODE_ENTERED",
+    "value": "Code Entered"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_CONFIRM_TITLE",
+    "value": "Confirmation"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_INFORMATION_TITLE",
+    "value": "Operation Welcome to SEKAI!"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_INITIALIZE_MISSION_COUNT",
+    "value": "0"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_INPUT_BUTTON",
+    "value": "Enter Code"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_REGISTER_COMPLETE",
+    "value": "Registration Complete"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_REGISTER_FAILURE",
+    "value": "Error"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_SEND",
+    "value": "Send"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_INVITE_TITLE",
+    "value": "Invitation Campaign"
   },
   {
     "wordingKey": "WORD_FRIEND_LIST",
@@ -5278,6 +5498,10 @@
   {
     "wordingKey": "WORD_KEY_SOTRY",
     "value": "Key Story"
+  },
+  {
+    "wordingKey": "WORD_LATEST_STORY",
+    "value": "New"
   },
   {
     "wordingKey": "WORD_LAYER_BACK",
@@ -6112,6 +6336,10 @@
     "value": "Next High Score Bonus"
   },
   {
+    "wordingKey": "WORD_NEXT_STORY",
+    "value": "Next Up"
+  },
+  {
     "wordingKey": "WORD_NO",
     "value": "No"
   },
@@ -6142,6 +6370,10 @@
   {
     "wordingKey": "WORD_NOT_CLEAR",
     "value": "Not Cleared"
+  },
+  {
+    "wordingKey": "WORD_NOT_CONTAINS_SPOILER_RADIO_BUTTON",
+    "value": "Spoiler-free"
   },
   {
     "wordingKey": "WORD_NOT_ENOUGH_CURRENCY",
@@ -6304,6 +6536,10 @@
     "value": "ON"
   },
   {
+    "wordingKey": "WORD_ONCE_AGAIN",
+    "value": "View Again"
+  },
+  {
     "wordingKey": "WORD_ONCE_AGAIN_LIVE",
     "value": "Play again"
   },
@@ -6316,8 +6552,16 @@
     "value": "Play Again"
   },
   {
+    "wordingKey": "WORD_OP",
+    "value": "OP"
+  },
+  {
     "wordingKey": "WORD_OPEN",
     "value": "Unlock"
+  },
+  {
+    "wordingKey": "WORD_OPENING",
+    "value": "Opening"
   },
   {
     "wordingKey": "WORD_OPEN_WINDOW",
@@ -6530,6 +6774,10 @@
   {
     "wordingKey": "WORD_PLAYING_TIME",
     "value": "Length"
+  },
+  {
+    "wordingKey": "WORD_PLAY_BOOK_MARK",
+    "value": "View"
   },
   {
     "wordingKey": "WORD_PLAY_FREE_LIVE_FROM_EVENT_STORY",
@@ -6840,6 +7088,14 @@
     "value": "Auto"
   },
   {
+    "wordingKey": "WORD_RECOMMEND_COMMENT_DISPLAY",
+    "value": "Story Recommendations"
+  },
+  {
+    "wordingKey": "WORD_RECOMMEND_TO_YOU",
+    "value": "For You"
+  },
+  {
     "wordingKey": "WORD_RECORDING_VERSION",
     "value": "Song Versions"
   },
@@ -6914,6 +7170,14 @@
   {
     "wordingKey": "WORD_REMAIN_TIME",
     "value": "残り{0}"
+  },
+  {
+    "wordingKey": "WORD_REMOVE",
+    "value": "OK"
+  },
+  {
+    "wordingKey": "WORD_REMOVE_BOOK_MARK",
+    "value": "Delete"
   },
   {
     "wordingKey": "WORD_REMOVING_ASSET",
@@ -7014,6 +7278,10 @@
   {
     "wordingKey": "WORD_ROOM_TYPE",
     "value": "Room Type"
+  },
+  {
+    "wordingKey": "WORD_SANDWITCH",
+    "value": "Save"
   },
   {
     "wordingKey": "WORD_SATISFIED",
@@ -7586,6 +7854,22 @@
   {
     "wordingKey": "WORD_STORY",
     "value": "Story"
+  },
+  {
+    "wordingKey": "WORD_STORY_FAVORITE",
+    "value": "Favorite Stories"
+  },
+  {
+    "wordingKey": "WORD_STORY_FAVORITE_SETTING",
+    "value": "Favorite Stories"
+  },
+  {
+    "wordingKey": "WORD_STORY_FILTER",
+    "value": "Filter Stories"
+  },
+  {
+    "wordingKey": "WORD_STORY_INTRODUCTION",
+    "value": "About"
   },
   {
     "wordingKey": "WORD_STORY_REWARD",
