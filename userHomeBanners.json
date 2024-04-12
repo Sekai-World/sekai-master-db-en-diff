@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 631,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]2.5周年シャッフルイベ_イベントバナー",
-    "assetbundleName": "event_citycorner_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 90,
-    "startAt": 1711836000000,
-    "endAt": 1712872799000
-  },
-  {
     "homeBannerId": 638,
     "seq": 9999,
     "homeBannerType": "general",
@@ -41,6 +30,17 @@
     "transitionDestinationId": 317,
     "startAt": 1712862000000,
     "endAt": 1713725999000
+  },
+  {
+    "homeBannerId": 640,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]レオニ箱イベ13巡目_イベントバナー",
+    "assetbundleName": "event_getover_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 91,
+    "startAt": 1712872800000,
+    "endAt": 1713736799000
   },
   {
     "homeBannerId": 1001,
