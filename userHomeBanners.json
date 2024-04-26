@@ -21,17 +21,6 @@
     "endAt": 1715410799000
   },
   {
-    "homeBannerId": 640,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]レオニ箱イベ13巡目_イベントバナー",
-    "assetbundleName": "event_getover_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 91,
-    "startAt": 1712872800000,
-    "endAt": 1713736799000
-  },
-  {
     "homeBannerId": 642,
     "seq": 120,
     "homeBannerType": "general",
@@ -54,6 +43,28 @@
     "endAt": 1714503599000
   },
   {
+    "homeBannerId": 646,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]モモジャン箱イベ13巡目_イベントバナー",
+    "assetbundleName": "event_retie_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 92,
+    "startAt": 1713736800000,
+    "endAt": 1714514399000
+  },
+  {
+    "homeBannerId": 649,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ハピネスパッケージガチャ",
+    "assetbundleName": "banner_gacha322",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 322,
+    "startAt": 1714158000000,
+    "endAt": 1714935599000
+  },
+  {
     "homeBannerId": 1001,
     "seq": 200,
     "homeBannerType": "general",
@@ -63,16 +74,6 @@
     "transitionDestinationId": 1,
     "startAt": 1633118400000,
     "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1090,
-    "seq": 190,
-    "homeBannerType": "general",
-    "name": "スプリングさくらカジュアル",
-    "assetbundleName": "banner_shop_costume_sale_en_18",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1711350000000,
-    "endAt": 1714114799000
   },
   {
     "homeBannerId": 1091,

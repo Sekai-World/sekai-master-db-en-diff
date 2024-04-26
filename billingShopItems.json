@@ -2575,7 +2575,7 @@
     "resourceBoxId": 20100,
     "bonusResourceBoxId": 20100,
     "startAt": 1707048000000,
-    "endAt": 4102473599000
+    "endAt": 1717412399000
   },
   {
     "id": 20101,
@@ -2604,8 +2604,8 @@
     "assetbundleName": "shop_20100",
     "resourceBoxId": 20100,
     "bonusResourceBoxId": 20100,
-    "startAt": 1695409200000,
-    "endAt": 1707652799000
+    "startAt": 1716807600000,
+    "endAt": 4102473599000
   },
   {
     "id": 20103,
@@ -2635,7 +2635,7 @@
     "resourceBoxId": 20102,
     "bonusResourceBoxId": 20102,
     "startAt": 1701691200000,
-    "endAt": 4102473599000
+    "endAt": 1718362799000
   },
   {
     "id": 20105,
@@ -2649,8 +2649,8 @@
     "assetbundleName": "shop_20103",
     "resourceBoxId": 20103,
     "bonusResourceBoxId": 20103,
-    "startAt": 1675166400000,
-    "endAt": 1702295999000
+    "startAt": 1717758000000,
+    "endAt": 4102473599000
   },
   {
     "id": 20106,
@@ -2724,8 +2724,8 @@
     "assetbundleName": "shop_20110",
     "resourceBoxId": 20106,
     "bonusResourceBoxId": 20106,
-    "startAt": 1688727600000,
-    "endAt": 1703937599000
+    "startAt": 1716807600000,
+    "endAt": 4102473599000
   },
   {
     "id": 20111,
@@ -2740,7 +2740,7 @@
     "resourceBoxId": 20107,
     "bonusResourceBoxId": 20107,
     "startAt": 1707048000000,
-    "endAt": 4102473599000
+    "endAt": 1716375599000
   },
   {
     "id": 20112,
@@ -2769,8 +2769,8 @@
     "assetbundleName": "shop_20102",
     "resourceBoxId": 20102,
     "bonusResourceBoxId": 20102,
-    "startAt": 1690455600000,
-    "endAt": 1702295999000
+    "startAt": 1717758000000,
+    "endAt": 4102473599000
   },
   {
     "id": 20116,
@@ -2785,7 +2785,7 @@
     "resourceBoxId": 20103,
     "bonusResourceBoxId": 20103,
     "startAt": 1701691200000,
-    "endAt": 4102473599000
+    "endAt": 1718362799000
   },
   {
     "id": 20120,
@@ -2800,7 +2800,7 @@
     "resourceBoxId": 20106,
     "bonusResourceBoxId": 20106,
     "startAt": 1703332800000,
-    "endAt": 4102473599000
+    "endAt": 1717412399000
   },
   {
     "id": 20121,
@@ -2814,8 +2814,8 @@
     "assetbundleName": "shop_20111",
     "resourceBoxId": 20107,
     "bonusResourceBoxId": 20107,
-    "startAt": 1701691200000,
-    "endAt": 1707652799000
+    "startAt": 1715770800000,
+    "endAt": 4102473599000
   },
   {
     "id": 20122,
@@ -5216,17 +5216,18 @@
     "purchaseOption": "exchange"
   },
   {
-    "id": 3000001,
+    "id": 3000002,
     "seq": 1,
     "billingShopItemType": "gold_ticket",
-    "billingProductGroupId": 3000001,
+    "billingProductGroupId": 3000003,
     "name": "Golden Charm",
-    "description": "Unlocks Special Rewards for Golden Charm.",
+    "description": "Unlock Gold tier rewards for ongoing Event Show Missions.",
     "billableLimitType": "unlimited",
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_gold_ticket_01_gl",
+    "resourceBoxId": 3000002,
     "label": "Limited Time",
-    "startAt": 1697061600000,
+    "startAt": 1712872800000,
     "endAt": 4102473599000
   }
 ]
