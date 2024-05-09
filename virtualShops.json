@@ -4594,5 +4594,92 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 191,
+    "seq": 191,
+    "name": "第94回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 349,
+        "virtualShopId": 191,
+        "virtualShopItemType": "coordinate",
+        "seq": 99850,
+        "resourceBoxId": 248,
+        "costPaidJewel": 1000,
+        "startAt": 1715464800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 192,
+    "seq": 192,
+    "name": "Tsukasa's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 350,
+        "virtualShopId": 192,
+        "virtualShopItemType": "penlight",
+        "seq": 199882,
+        "resourceBoxId": 249,
+        "costPaidJewel": 1000,
+        "startAt": 1715810400000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 195,
+    "seq": 195,
+    "name": "第95回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 356,
+        "virtualShopId": 195,
+        "virtualShopItemType": "accessory",
+        "seq": 99904,
+        "resourceBoxId": 255,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1716242400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 196,
+    "seq": 196,
+    "name": "Toya's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 357,
+        "virtualShopId": 196,
+        "virtualShopItemType": "penlight",
+        "seq": 199881,
+        "resourceBoxId": 256,
+        "costPaidJewel": 1000,
+        "startAt": 1716501600000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 197,
+    "seq": 197,
+    "name": "第96回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 358,
+        "virtualShopId": 197,
+        "virtualShopItemType": "accessory",
+        "seq": 99903,
+        "resourceBoxId": 257,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1717192800000
+      }
+    ],
+    "virtualShopType": "event"
   }
 ]
