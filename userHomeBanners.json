@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 668,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ワンダショ箱イベ13巡目_イベントバナー",
-    "assetbundleName": "event_quagmire_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 95,
-    "startAt": 1716242400000,
-    "endAt": 1717192799000
-  },
-  {
     "homeBannerId": 674,
     "seq": 110,
     "homeBannerType": "general",
@@ -33,6 +22,17 @@
     "endAt": 1718045999000
   },
   {
+    "homeBannerId": 675,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルブライダル2023_イベントバナー",
+    "assetbundleName": "event_neighbor_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 96,
+    "startAt": 1717192800000,
+    "endAt": 1718056799000
+  },
+  {
     "homeBannerId": 1001,
     "seq": 200,
     "homeBannerType": "general",
@@ -42,16 +42,5 @@
     "transitionDestinationId": 1,
     "startAt": 1633118400000,
     "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1102,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "ハピネスパッケージガチャ ID:1076",
-    "assetbundleName": "banner_gacha1076",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1076,
-    "startAt": 1716836400000,
-    "endAt": 1717700399000
   }
 ]

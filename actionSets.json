@@ -4360,7 +4360,7 @@
   },
   {
     "id": 364,
-    "areaId": 10,
+    "areaId": 1,
     "actionSetType": "normal",
     "scenarioId": "areatalk03_262",
     "scriptId": "as_3_262",
@@ -4759,7 +4759,7 @@
   },
   {
     "id": 396,
-    "areaId": 10,
+    "areaId": 1,
     "actionSetType": "normal",
     "scenarioId": "areatalk02_145",
     "scriptId": "as_2_145",
@@ -4863,7 +4863,7 @@
   },
   {
     "id": 404,
-    "areaId": 10,
+    "areaId": 1,
     "actionSetType": "normal",
     "scenarioId": "areatalk02_261",
     "scriptId": "as_2_261",
@@ -4954,7 +4954,7 @@
   },
   {
     "id": 411,
-    "areaId": 10,
+    "areaId": 1,
     "actionSetType": "normal",
     "scenarioId": "areatalk02_271",
     "scriptId": "as_2_271",
@@ -22168,5 +22168,206 @@
     ],
     "archivePublishedAt": 1717192800000,
     "releaseConditionId": 109508
+  },
+  {
+    "id": 1736,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_monthly2305_001",
+    "scriptId": "as_monthly2305_001",
+    "characterIds": [
+      5,
+      143
+    ],
+    "archivePublishedAt": 1717192800000,
+    "releaseConditionId": 109108
+  },
+  {
+    "id": 1737,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_monthly2305_002",
+    "scriptId": "as_monthly2305_002",
+    "characterIds": [
+      143,
+      7
+    ],
+    "archivePublishedAt": 1717192800000,
+    "releaseConditionId": 109108
+  },
+  {
+    "id": 1738,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_monthly2305_003",
+    "scriptId": "as_monthly2305_003",
+    "characterIds": [
+      25,
+      8
+    ],
+    "archivePublishedAt": 1717192800000,
+    "releaseConditionId": 109108
+  },
+  {
+    "id": 1739,
+    "areaId": 5,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_monthly2305_004",
+    "scriptId": "as_monthly2305_004",
+    "characterIds": [
+      147,
+      4
+    ],
+    "archivePublishedAt": 1717192800000,
+    "releaseConditionId": 109008
+  },
+  {
+    "id": 1740,
+    "areaId": 5,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_monthly2305_005",
+    "scriptId": "as_monthly2305_005",
+    "characterIds": [
+      147,
+      3
+    ],
+    "archivePublishedAt": 1717192800000,
+    "releaseConditionId": 109508
+  },
+  {
+    "id": 1741,
+    "areaId": 1,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_street_13_001",
+    "scriptId": "as_ev_street_13_001",
+    "characterIds": [
+      10,
+      9
+    ],
+    "archivePublishedAt": 1718056800000,
+    "releaseConditionId": 109608
+  },
+  {
+    "id": 1742,
+    "areaId": 8,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_street_13_002",
+    "scriptId": "as_ev_street_13_002",
+    "characterIds": [
+      11,
+      12,
+      10
+    ],
+    "archivePublishedAt": 1718056800000,
+    "releaseConditionId": 109608
+  },
+  {
+    "id": 1743,
+    "areaId": 1,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_street_13_003",
+    "scriptId": "as_ev_street_13_003",
+    "characterIds": [
+      11,
+      12,
+      9,
+      10
+    ],
+    "archivePublishedAt": 1718056800000,
+    "releaseConditionId": 109608
+  },
+  {
+    "id": 1744,
+    "areaId": 8,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_street_13_004",
+    "scriptId": "as_ev_street_13_004",
+    "characterIds": [
+      166,
+      107
+    ],
+    "archivePublishedAt": 1718056800000,
+    "releaseConditionId": 109608
+  },
+  {
+    "id": 1745,
+    "areaId": 8,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_street_13_005",
+    "scriptId": "as_ev_street_13_005",
+    "characterIds": [
+      10,
+      107
+    ],
+    "archivePublishedAt": 1718056800000,
+    "releaseConditionId": 109608
+  },
+  {
+    "id": 1746,
+    "areaId": 13,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_14_001",
+    "scriptId": "as_ev_idol_14_001",
+    "characterIds": [
+      5,
+      6,
+      8
+    ],
+    "archivePublishedAt": 1718920800000,
+    "releaseConditionId": 109708
+  },
+  {
+    "id": 1747,
+    "areaId": 3,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_14_002",
+    "scriptId": "as_ev_idol_14_002",
+    "characterIds": [
+      5,
+      7
+    ],
+    "archivePublishedAt": 1718920800000,
+    "releaseConditionId": 109708
+  },
+  {
+    "id": 1748,
+    "areaId": 13,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_14_003",
+    "scriptId": "as_ev_idol_14_003",
+    "characterIds": [
+      7,
+      8,
+      6,
+      5
+    ],
+    "archivePublishedAt": 1718920800000,
+    "releaseConditionId": 109708
+  },
+  {
+    "id": 1749,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_14_004",
+    "scriptId": "as_ev_idol_14_004",
+    "characterIds": [
+      5,
+      143
+    ],
+    "archivePublishedAt": 1718920800000,
+    "releaseConditionId": 109708
+  },
+  {
+    "id": 1750,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "scenarioId": "areatalk_ev_idol_14_005",
+    "scriptId": "as_ev_idol_14_005",
+    "characterIds": [
+      119,
+      134
+    ],
+    "archivePublishedAt": 1718920800000,
+    "releaseConditionId": 109708
   }
 ]
