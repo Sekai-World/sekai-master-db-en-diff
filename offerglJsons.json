@@ -254,5 +254,34 @@
     "seq": 4,
     "startAt": 1719572400000,
     "endAt": 4102473599000
+  },
+  {
+    "id": 94,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20100,
+    "offerType": "limited",
+    "offerDisplayCondition": "gacha_get",
+    "requirement": 1,
+    "param1": 3,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 10080,
+    "assetBundleName": "offer01",
+    "seq": 11,
+    "startAt": 1720090800000,
+    "endAt": 4102473599000
+  },
+  {
+    "id": 95,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20111,
+    "offerType": "limited",
+    "offerDisplayCondition": "player_rank",
+    "requirement": 100,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 10080,
+    "assetBundleName": "offer11",
+    "seq": 5,
+    "startAt": 1720090800000,
+    "endAt": 4102473599000
   }
 ]

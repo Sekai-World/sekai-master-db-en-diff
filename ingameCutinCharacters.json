@@ -30996,15 +30996,6 @@
     "assetbundleName2": "system_bondscp_005_001_second_2"
   },
   {
-    "id": 4024,
-    "ingameCutinCharacterType": "normal",
-    "priority": 200,
-    "gameCharacterUnitId1": 1,
-    "gameCharacterUnitId2": 6,
-    "assetbundleName1": "system_bondscp_001_006_first_1",
-    "assetbundleName2": "system_bondscp_001_006_second_1"
-  },
-  {
     "id": 4025,
     "ingameCutinCharacterType": "normal",
     "priority": 200,
@@ -36072,16 +36063,6 @@
     "releaseConditionId": 1020602
   },
   {
-    "id": 4742,
-    "ingameCutinCharacterType": "bonds",
-    "priority": 999,
-    "gameCharacterUnitId1": 1,
-    "gameCharacterUnitId2": 6,
-    "assetbundleName1": "system_bondscp_001_006_first_2",
-    "assetbundleName2": "system_bondscp_001_006_second_2",
-    "releaseConditionId": 1010601
-  },
-  {
     "id": 4743,
     "ingameCutinCharacterType": "bonds",
     "priority": 999,
@@ -40054,5 +40035,24 @@
     "gameCharacterUnitId2": 10,
     "assetbundleName1": "system_bondscp_019_010_first_1",
     "assetbundleName2": "system_bondscp_019_010_second_1"
+  },
+  {
+    "id": 5345,
+    "ingameCutinCharacterType": "normal",
+    "priority": 200,
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 6,
+    "assetbundleName1": "system_bondscp_001_006_first_1",
+    "assetbundleName2": "system_bondscp_001_006_second_1"
+  },
+  {
+    "id": 5346,
+    "ingameCutinCharacterType": "bonds",
+    "priority": 999,
+    "gameCharacterUnitId1": 1,
+    "gameCharacterUnitId2": 6,
+    "assetbundleName1": "system_bondscp_001_006_first_2",
+    "assetbundleName2": "system_bondscp_001_006_second_2",
+    "releaseConditionId": 1010601
   }
 ]
