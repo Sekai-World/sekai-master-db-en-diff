@@ -4734,5 +4734,58 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 201,
+    "seq": 201,
+    "name": "第99回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 362,
+        "virtualShopId": 201,
+        "virtualShopItemType": "penlight",
+        "seq": 199879,
+        "resourceBoxId": 261,
+        "costPaidJewel": 1000,
+        "startAt": 1719784800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 204,
+    "seq": 204,
+    "name": "Star Festival Show",
+    "virtualShopItems": [
+      {
+        "id": 368,
+        "virtualShopId": 204,
+        "virtualShopItemType": "coordinate",
+        "seq": 99848,
+        "resourceBoxId": 267,
+        "costPaidJewel": 1000,
+        "startAt": 1720216800000
+      },
+      {
+        "id": 369,
+        "virtualShopId": 204,
+        "virtualShopItemType": "accessory",
+        "seq": 99900,
+        "resourceBoxId": 110,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1720216800000
+      },
+      {
+        "id": 370,
+        "virtualShopId": 204,
+        "virtualShopItemType": "coordinate",
+        "seq": 99849,
+        "resourceBoxId": 179,
+        "costPaidJewel": 1000,
+        "startAt": 1720216800000
+      }
+    ],
+    "virtualShopType": "special_live"
   }
 ]

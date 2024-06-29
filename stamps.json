@@ -4165,7 +4165,7 @@
     "id": 396,
     "stampType": "text",
     "seq": 3960,
-    "name": "[Text Stamp] Cute!",
+    "name": "[Text Stamp] So cute!",
     "assetbundleName": "stamp0359",
     "balloonAssetbundleName": "balloon_stamp_03",
     "archiveDisplayType": "none",
@@ -4335,7 +4335,7 @@
     "id": 413,
     "stampType": "text",
     "seq": 4130,
-    "name": "[Text Stamp] Good luck!",
+    "name": "[Text Stamp] You can do it!",
     "assetbundleName": "stamp0376",
     "balloonAssetbundleName": "balloon_stamp_04",
     "archiveDisplayType": "none",
@@ -4611,7 +4611,7 @@
     "id": 438,
     "stampType": "cheerful_carnival_message",
     "seq": 4380,
-    "name": "[Text Stamp] Thank you!",
+    "name": "[Text Stamp] Thanks!",
     "assetbundleName": "stamp0438",
     "balloonAssetbundleName": "balloon_stamp_04",
     "archiveDisplayType": "none",
@@ -5646,7 +5646,7 @@
   {
     "id": 530,
     "stampType": "text",
-    "seq": 5300,
+    "seq": 99010,
     "name": "[Text Stamp] 1",
     "assetbundleName": "stamp0530",
     "balloonAssetbundleName": "balloon_stamp_02",
@@ -5656,7 +5656,7 @@
   {
     "id": 531,
     "stampType": "text",
-    "seq": 5310,
+    "seq": 99020,
     "name": "[Text Stamp] 2",
     "assetbundleName": "stamp0531",
     "balloonAssetbundleName": "balloon_stamp_02",
@@ -5666,7 +5666,7 @@
   {
     "id": 532,
     "stampType": "text",
-    "seq": 5320,
+    "seq": 99030,
     "name": "[Text Stamp] 3",
     "assetbundleName": "stamp0532",
     "balloonAssetbundleName": "balloon_stamp_02",
@@ -5676,7 +5676,7 @@
   {
     "id": 533,
     "stampType": "text",
-    "seq": 5330,
+    "seq": 99040,
     "name": "[Text Stamp] 4",
     "assetbundleName": "stamp0533",
     "balloonAssetbundleName": "balloon_stamp_02",
@@ -5686,7 +5686,7 @@
   {
     "id": 534,
     "stampType": "text",
-    "seq": 5340,
+    "seq": 99050,
     "name": "[Text Stamp] 5",
     "assetbundleName": "stamp0534",
     "balloonAssetbundleName": "balloon_stamp_02",
@@ -6522,6 +6522,17 @@
     "description": "Obtain from Stamp Shop."
   },
   {
+    "id": 606,
+    "stampType": "illustration",
+    "seq": 6060,
+    "name": "[Stamp] KAITO: Calm down",
+    "assetbundleName": "stamp0606",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 26,
+    "gameCharacterUnitId": 56,
+    "description": "Obtain from Stamp Shop."
+  },
+  {
     "id": 607,
     "stampType": "illustration",
     "seq": 6070,
@@ -6844,6 +6855,168 @@
     "gameCharacterUnitId": 5,
     "archivePublishedAt": 1718920800000,
     "description": "Join the Step by Step! After Show."
+  },
+  {
+    "id": 635,
+    "stampType": "illustration",
+    "seq": 6350,
+    "name": "[Stamp] Rui: I saw this coming",
+    "assetbundleName": "stamp0635",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 16,
+    "gameCharacterUnitId": 16,
+    "archivePublishedAt": 1719784800000,
+    "description": "Join the An Unmissable Spirited Affair After Show."
+  },
+  {
+    "id": 641,
+    "stampType": "text",
+    "seq": 3952,
+    "name": "[Text Stamp] L\/N!",
+    "assetbundleName": "stamp0641",
+    "balloonAssetbundleName": "balloon_stamp_05",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 642,
+    "stampType": "text",
+    "seq": 3954,
+    "name": "[Text Stamp] MMJ!",
+    "assetbundleName": "stamp0642",
+    "balloonAssetbundleName": "balloon_stamp_05",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 643,
+    "stampType": "text",
+    "seq": 3956,
+    "name": "[Text Stamp] VBS!",
+    "assetbundleName": "stamp0643",
+    "balloonAssetbundleName": "balloon_stamp_05",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 644,
+    "stampType": "text",
+    "seq": 3958,
+    "name": "[Text Stamp] WXS!",
+    "assetbundleName": "stamp0644",
+    "balloonAssetbundleName": "balloon_stamp_05",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 645,
+    "stampType": "text",
+    "seq": 3959,
+    "name": "[Text Stamp] N25!",
+    "assetbundleName": "stamp0645",
+    "balloonAssetbundleName": "balloon_stamp_05",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 647,
+    "stampType": "cheerful_carnival_message",
+    "seq": 4374,
+    "name": "[Text Stamp] I need Bonus Energy!",
+    "assetbundleName": "stamp0647",
+    "balloonAssetbundleName": "balloon_stamp_03",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 648,
+    "stampType": "cheerful_carnival_message",
+    "seq": 4378,
+    "name": "[Text Stamp] I'm good on Bonus Energy",
+    "assetbundleName": "stamp0648",
+    "balloonAssetbundleName": "balloon_stamp_04",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 649,
+    "stampType": "text",
+    "seq": 6550,
+    "name": "[Text Stamp] BRB",
+    "assetbundleName": "stamp0649",
+    "balloonAssetbundleName": "balloon_stamp_02",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 650,
+    "stampType": "text",
+    "seq": 6570,
+    "name": "[Text Stamp] This is my last!",
+    "assetbundleName": "stamp0650",
+    "balloonAssetbundleName": "balloon_stamp_05",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 651,
+    "stampType": "text",
+    "seq": 6530,
+    "name": "[Text Stamp] Wait a second!",
+    "assetbundleName": "stamp0651",
+    "balloonAssetbundleName": "balloon_stamp_05",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 652,
+    "stampType": "text",
+    "seq": 6610,
+    "name": "[Text Stamp] Don't worry about it!",
+    "assetbundleName": "stamp0652",
+    "balloonAssetbundleName": "balloon_stamp_04",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 653,
+    "stampType": "text",
+    "seq": 6540,
+    "name": "[Text Stamp] Thanks for waiting!",
+    "assetbundleName": "stamp0653",
+    "balloonAssetbundleName": "balloon_stamp_03",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 654,
+    "stampType": "text",
+    "seq": 6500,
+    "name": "[Text Stamp] Congrats!",
+    "assetbundleName": "stamp0654",
+    "balloonAssetbundleName": "balloon_stamp_03",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 655,
+    "stampType": "text",
+    "seq": 6590,
+    "name": "[Text Stamp] I messed up!",
+    "assetbundleName": "stamp0655",
+    "balloonAssetbundleName": "balloon_stamp_05",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
+  },
+  {
+    "id": 656,
+    "stampType": "text",
+    "seq": 6600,
+    "name": "[Text Stamp] It's alright!",
+    "assetbundleName": "stamp0656",
+    "balloonAssetbundleName": "balloon_stamp_03",
+    "archiveDisplayType": "none",
+    "archivePublishedAt": 1233345600000
   },
   {
     "id": 800001,

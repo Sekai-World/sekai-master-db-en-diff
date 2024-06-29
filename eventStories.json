@@ -12631,5 +12631,134 @@
         ]
       }
     ]
+  },
+  {
+    "id": 99,
+    "eventId": 99,
+    "outline": "Kamiyama High School's second-years are headed to Kyoto! In contrast with Tsukasa's excitement for their school trip, Rui is less enthused. But will his feelings change when one of his classmates approaches him?",
+    "bannerGameCharacterUnitId": 16,
+    "assetbundleName": "event_pandemonium_2023",
+    "eventStoryEpisodes": [
+      {
+        "id": 1000793,
+        "eventStoryId": 99,
+        "episodeNo": 1,
+        "title": "A Spirited School Trip",
+        "assetbundleName": "event_pandemonium_2023_01",
+        "scenarioId": "event_99_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000794,
+        "eventStoryId": 99,
+        "episodeNo": 2,
+        "title": "Kyoto, Here We Come!",
+        "assetbundleName": "event_pandemonium_2023_02",
+        "scenarioId": "event_99_02",
+        "releaseConditionId": 109801,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000795,
+        "eventStoryId": 99,
+        "episodeNo": 3,
+        "title": "Familiar Faces",
+        "assetbundleName": "event_pandemonium_2023_03",
+        "scenarioId": "event_99_03",
+        "releaseConditionId": 109802,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000796,
+        "eventStoryId": 99,
+        "episodeNo": 4,
+        "title": "A Road Less Lonely",
+        "assetbundleName": "event_pandemonium_2023_04",
+        "scenarioId": "event_99_04",
+        "releaseConditionId": 109803,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000797,
+        "eventStoryId": 99,
+        "episodeNo": 5,
+        "title": "Memories & Friendship",
+        "assetbundleName": "event_pandemonium_2023_05",
+        "scenarioId": "event_99_05",
+        "releaseConditionId": 109804,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000798,
+        "eventStoryId": 99,
+        "episodeNo": 6,
+        "title": "Until The Finish Line",
+        "assetbundleName": "event_pandemonium_2023_06",
+        "scenarioId": "event_99_06",
+        "releaseConditionId": 109805,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000799,
+        "eventStoryId": 99,
+        "episodeNo": 7,
+        "title": "Together 'Til The End",
+        "assetbundleName": "event_pandemonium_2023_07",
+        "scenarioId": "event_99_07",
+        "releaseConditionId": 109806,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1000800,
+        "eventStoryId": 99,
+        "episodeNo": 8,
+        "title": "What Tomorrow Holds",
+        "assetbundleName": "event_pandemonium_2023_08",
+        "scenarioId": "event_99_08",
+        "releaseConditionId": 109807,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 52
+          }
+        ]
+      }
+    ]
   }
 ]
