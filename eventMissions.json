@@ -32912,5 +32912,1544 @@
         "resourceBoxId": 8001
       }
     ]
+  },
+  {
+    "id": 1749,
+    "seq": 1749,
+    "eventId": 100,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 18,
+    "requirement1": 1,
+    "sentence": "Clear a show with Mafuyu Asahina.",
+    "rewards": [
+      {
+        "id": 10000666,
+        "missionType": "event_mission",
+        "missionId": 1749,
+        "seq": 1,
+        "resourceBoxId": 200001
+      }
+    ]
+  },
+  {
+    "id": 1750,
+    "seq": 1750,
+    "eventId": 100,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 18,
+    "requirement1": 2,
+    "sentence": "Clear 2 shows with Mafuyu Asahina.",
+    "rewards": [
+      {
+        "id": 10000667,
+        "missionType": "event_mission",
+        "missionId": 1750,
+        "seq": 1,
+        "resourceBoxId": 200004
+      }
+    ]
+  },
+  {
+    "id": 1751,
+    "seq": 1751,
+    "eventId": 100,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 18,
+    "requirement1": 3,
+    "sentence": "Clear 3 shows with Mafuyu Asahina.",
+    "rewards": [
+      {
+        "id": 10000668,
+        "missionType": "event_mission",
+        "missionId": 1751,
+        "seq": 1,
+        "resourceBoxId": 200002
+      }
+    ]
+  },
+  {
+    "id": 1752,
+    "seq": 1752,
+    "eventId": 100,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "live_bonus",
+    "requirement1": 10,
+    "sentence": "Use 10 Bonus Energy.",
+    "rewards": [
+      {
+        "id": 10000669,
+        "missionType": "event_mission",
+        "missionId": 1752,
+        "seq": 1,
+        "resourceBoxId": 200003
+      }
+    ]
+  },
+  {
+    "id": 1753,
+    "seq": 1753,
+    "eventId": 100,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "music_clear_unit",
+    "requirement1": 1,
+    "sentence": "Clear a Nightcord at 25:00 song.",
+    "rewards": [
+      {
+        "id": 10000670,
+        "missionType": "event_mission",
+        "missionId": 1753,
+        "seq": 1,
+        "resourceBoxId": 200005
+      }
+    ]
+  },
+  {
+    "id": 1754,
+    "seq": 1754,
+    "eventId": 100,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "clear_all_daily_mission",
+    "requirement1": 5,
+    "sentence": "Clear all Daily Missions.",
+    "rewards": [
+      {
+        "id": 10000671,
+        "missionType": "event_mission",
+        "missionId": 1754,
+        "seq": 1,
+        "resourceBoxId": 200006
+      }
+    ]
+  },
+  {
+    "id": 1755,
+    "seq": 1755,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 18,
+    "requirement1": 10,
+    "sentence": "Clear 10 shows with Mafuyu Asahina.",
+    "rewards": [
+      {
+        "id": 10000672,
+        "missionType": "event_mission",
+        "missionId": 1755,
+        "seq": 1,
+        "resourceBoxId": 200007
+      }
+    ]
+  },
+  {
+    "id": 1756,
+    "seq": 1756,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 18,
+    "requirement1": 20,
+    "sentence": "Clear 20 shows with Mafuyu Asahina.",
+    "rewards": [
+      {
+        "id": 10000673,
+        "missionType": "event_mission",
+        "missionId": 1756,
+        "seq": 1,
+        "resourceBoxId": 200008
+      }
+    ]
+  },
+  {
+    "id": 1757,
+    "seq": 1757,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_bonus",
+    "requirement1": 50,
+    "sentence": "Use 50 Bonus Energy.",
+    "rewards": [
+      {
+        "id": 10000674,
+        "missionType": "event_mission",
+        "missionId": 1757,
+        "seq": 1,
+        "resourceBoxId": 200009
+      }
+    ]
+  },
+  {
+    "id": 1758,
+    "seq": 1758,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_bonus",
+    "requirement1": 100,
+    "sentence": "Use 100 Bonus Energy.",
+    "rewards": [
+      {
+        "id": 10000675,
+        "missionType": "event_mission",
+        "missionId": 1758,
+        "seq": 1,
+        "resourceBoxId": 200010
+      }
+    ]
+  },
+  {
+    "id": 1759,
+    "seq": 1759,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_bonus_perfect",
+    "requirement1": 1,
+    "sentence": "Clear a show with 100% or higher Event Bonus by the end of the event. ",
+    "rewards": [
+      {
+        "id": 10000676,
+        "missionType": "event_mission",
+        "missionId": 1759,
+        "seq": 1,
+        "resourceBoxId": 200011
+      }
+    ]
+  },
+  {
+    "id": 1760,
+    "seq": 1760,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_bonus_perfect",
+    "requirement1": 5,
+    "sentence": "Clear 5 shows with 100% or higher Event Bonus by the end of the event. ",
+    "rewards": [
+      {
+        "id": 10000677,
+        "missionType": "event_mission",
+        "missionId": 1760,
+        "seq": 1,
+        "resourceBoxId": 200012
+      }
+    ]
+  },
+  {
+    "id": 1761,
+    "seq": 1761,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_bonus_perfect",
+    "requirement1": 10,
+    "sentence": "Clear 10 shows with 100% or higher Event Bonus by the end of the event.",
+    "rewards": [
+      {
+        "id": 10000678,
+        "missionType": "event_mission",
+        "missionId": 1761,
+        "seq": 1,
+        "resourceBoxId": 200017
+      }
+    ]
+  },
+  {
+    "id": 1762,
+    "seq": 1762,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_mission",
+    "requirement1": 10,
+    "sentence": "Clear 10 Event Missions.",
+    "rewards": [
+      {
+        "id": 10000679,
+        "missionType": "event_mission",
+        "missionId": 1762,
+        "seq": 1,
+        "resourceBoxId": 200013
+      }
+    ]
+  },
+  {
+    "id": 1763,
+    "seq": 1763,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_mission",
+    "requirement1": 20,
+    "sentence": "Clear 20 Event Missions.",
+    "rewards": [
+      {
+        "id": 10000680,
+        "missionType": "event_mission",
+        "missionId": 1763,
+        "seq": 1,
+        "resourceBoxId": 200014
+      }
+    ]
+  },
+  {
+    "id": 1764,
+    "seq": 1764,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_mission",
+    "requirement1": 30,
+    "sentence": "Clear 30 Event Missions.",
+    "rewards": [
+      {
+        "id": 10000681,
+        "missionType": "event_mission",
+        "missionId": 1764,
+        "seq": 1,
+        "resourceBoxId": 200017
+      }
+    ]
+  },
+  {
+    "id": 1765,
+    "seq": 1765,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "music_clear_unit_easy",
+    "requirement1": 1,
+    "sentence": "Clear a Nightcord at 25:00 song on EASY.",
+    "rewards": [
+      {
+        "id": 10000682,
+        "missionType": "event_mission",
+        "missionId": 1765,
+        "seq": 1,
+        "resourceBoxId": 200015
+      }
+    ]
+  },
+  {
+    "id": 1766,
+    "seq": 1766,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "music_clear_unit_normal",
+    "requirement1": 1,
+    "sentence": "Clear a Nightcord at 25:00 song on NORMAL.",
+    "rewards": [
+      {
+        "id": 10000683,
+        "missionType": "event_mission",
+        "missionId": 1766,
+        "seq": 1,
+        "resourceBoxId": 200016
+      }
+    ]
+  },
+  {
+    "id": 1767,
+    "seq": 1767,
+    "eventId": 100,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "music_clear_unit_hard",
+    "requirement1": 1,
+    "sentence": "Clear a Nightcord at 25:00 song on HARD.",
+    "rewards": [
+      {
+        "id": 10000684,
+        "missionType": "event_mission",
+        "missionId": 1767,
+        "seq": 1,
+        "resourceBoxId": 200017
+      }
+    ]
+  },
+  {
+    "id": 1768,
+    "seq": 1768,
+    "eventId": 100,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_clear_daily",
+    "requirement1": 9,
+    "sentence": "Clear a show on 9 separate days.",
+    "rewards": [
+      {
+        "id": 10000685,
+        "missionType": "event_mission",
+        "missionId": 1768,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1769,
+    "seq": 1769,
+    "eventId": 100,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "any_live_clear",
+    "requirement1": 50,
+    "sentence": "Clear 50 shows.",
+    "rewards": [
+      {
+        "id": 10000686,
+        "missionType": "event_mission",
+        "missionId": 1769,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1770,
+    "seq": 1770,
+    "eventId": 100,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "requirement1": 10,
+    "sentence": "Achieve a Full Combo 10 times.",
+    "rewards": [
+      {
+        "id": 10000687,
+        "missionType": "event_mission",
+        "missionId": 1770,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1771,
+    "seq": 1771,
+    "eventId": 100,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "Clear shows with 10 different songs.",
+    "rewards": [
+      {
+        "id": 10000688,
+        "missionType": "event_mission",
+        "missionId": 1771,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1772,
+    "seq": 1772,
+    "eventId": 100,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "requirement1": 1,
+    "sentence": "View episode 8 of the event story for Farewell, My Mask.",
+    "rewards": [
+      {
+        "id": 10000689,
+        "missionType": "event_mission",
+        "missionId": 1772,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1773,
+    "seq": 1773,
+    "eventId": 100,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "consume_event_item",
+    "requirement1": 20000,
+    "sentence": "Trade 20,000 Event Tokens at the Farewell, My Mask Event Exchange.",
+    "rewards": [
+      {
+        "id": 10000690,
+        "missionType": "event_mission",
+        "missionId": 1773,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1774,
+    "seq": 1774,
+    "eventId": 100,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "join_virtual_live",
+    "requirement1": 1,
+    "sentence": "Join the Farewell, My Mask After Show.",
+    "rewards": [
+      {
+        "id": 10000691,
+        "missionType": "event_mission",
+        "missionId": 1774,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1775,
+    "seq": 1775,
+    "eventId": 100,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "complete",
+    "eventMissionType": "achieve_bonus_mission",
+    "requirement1": 7,
+    "sentence": "Clear all 7 missions.",
+    "rewards": [
+      {
+        "id": 10000692,
+        "missionType": "event_mission",
+        "missionId": 1775,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 1776,
+    "seq": 1776,
+    "eventId": 101,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 1,
+    "requirement1": 1,
+    "sentence": "Clear a show with Ichika Hoshino.",
+    "rewards": [
+      {
+        "id": 10000693,
+        "missionType": "event_mission",
+        "missionId": 1776,
+        "seq": 1,
+        "resourceBoxId": 200001
+      }
+    ]
+  },
+  {
+    "id": 1777,
+    "seq": 1777,
+    "eventId": 101,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 1,
+    "requirement1": 2,
+    "sentence": "Clear 2 shows with Ichika Hoshino.",
+    "rewards": [
+      {
+        "id": 10000694,
+        "missionType": "event_mission",
+        "missionId": 1777,
+        "seq": 1,
+        "resourceBoxId": 200004
+      }
+    ]
+  },
+  {
+    "id": 1778,
+    "seq": 1778,
+    "eventId": 101,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 1,
+    "requirement1": 3,
+    "sentence": "Clear 3 shows with Ichika Hoshino.",
+    "rewards": [
+      {
+        "id": 10000695,
+        "missionType": "event_mission",
+        "missionId": 1778,
+        "seq": 1,
+        "resourceBoxId": 200002
+      }
+    ]
+  },
+  {
+    "id": 1779,
+    "seq": 1779,
+    "eventId": 101,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "live_bonus",
+    "requirement1": 10,
+    "sentence": "Use 10 Bonus Energy.",
+    "rewards": [
+      {
+        "id": 10000696,
+        "missionType": "event_mission",
+        "missionId": 1779,
+        "seq": 1,
+        "resourceBoxId": 200003
+      }
+    ]
+  },
+  {
+    "id": 1780,
+    "seq": 1780,
+    "eventId": 101,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "music_clear_unit",
+    "requirement1": 1,
+    "sentence": "Clear a Leo\/need song.",
+    "rewards": [
+      {
+        "id": 10000697,
+        "missionType": "event_mission",
+        "missionId": 1780,
+        "seq": 1,
+        "resourceBoxId": 200005
+      }
+    ]
+  },
+  {
+    "id": 1781,
+    "seq": 1781,
+    "eventId": 101,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "clear_all_daily_mission",
+    "requirement1": 5,
+    "sentence": "Clear all Daily Missions.",
+    "rewards": [
+      {
+        "id": 10000698,
+        "missionType": "event_mission",
+        "missionId": 1781,
+        "seq": 1,
+        "resourceBoxId": 200006
+      }
+    ]
+  },
+  {
+    "id": 1782,
+    "seq": 1782,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 1,
+    "requirement1": 10,
+    "sentence": "Clear 10 shows with Ichika Hoshino.",
+    "rewards": [
+      {
+        "id": 10000699,
+        "missionType": "event_mission",
+        "missionId": 1782,
+        "seq": 1,
+        "resourceBoxId": 200007
+      }
+    ]
+  },
+  {
+    "id": 1783,
+    "seq": 1783,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 1,
+    "requirement1": 20,
+    "sentence": "Clear 20 shows with Ichika Hoshino.",
+    "rewards": [
+      {
+        "id": 10000700,
+        "missionType": "event_mission",
+        "missionId": 1783,
+        "seq": 1,
+        "resourceBoxId": 200008
+      }
+    ]
+  },
+  {
+    "id": 1784,
+    "seq": 1784,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_bonus",
+    "requirement1": 50,
+    "sentence": "Use 50 Bonus Energy.",
+    "rewards": [
+      {
+        "id": 10000701,
+        "missionType": "event_mission",
+        "missionId": 1784,
+        "seq": 1,
+        "resourceBoxId": 200009
+      }
+    ]
+  },
+  {
+    "id": 1785,
+    "seq": 1785,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_bonus",
+    "requirement1": 100,
+    "sentence": "Use 100 Bonus Energy.",
+    "rewards": [
+      {
+        "id": 10000702,
+        "missionType": "event_mission",
+        "missionId": 1785,
+        "seq": 1,
+        "resourceBoxId": 200010
+      }
+    ]
+  },
+  {
+    "id": 1786,
+    "seq": 1786,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_bonus_perfect",
+    "requirement1": 1,
+    "sentence": "Clear a show with 100% or higher Event Bonus by the end of the event. ",
+    "rewards": [
+      {
+        "id": 10000703,
+        "missionType": "event_mission",
+        "missionId": 1786,
+        "seq": 1,
+        "resourceBoxId": 200011
+      }
+    ]
+  },
+  {
+    "id": 1787,
+    "seq": 1787,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_bonus_perfect",
+    "requirement1": 5,
+    "sentence": "Clear 5 shows with 100% or higher Event Bonus by the end of the event. ",
+    "rewards": [
+      {
+        "id": 10000704,
+        "missionType": "event_mission",
+        "missionId": 1787,
+        "seq": 1,
+        "resourceBoxId": 200012
+      }
+    ]
+  },
+  {
+    "id": 1788,
+    "seq": 1788,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_bonus_perfect",
+    "requirement1": 10,
+    "sentence": "Clear 10 shows with 100% or higher Event Bonus by the end of the event.",
+    "rewards": [
+      {
+        "id": 10000705,
+        "missionType": "event_mission",
+        "missionId": 1788,
+        "seq": 1,
+        "resourceBoxId": 200017
+      }
+    ]
+  },
+  {
+    "id": 1789,
+    "seq": 1789,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_mission",
+    "requirement1": 10,
+    "sentence": "Clear 10 Event Missions.",
+    "rewards": [
+      {
+        "id": 10000706,
+        "missionType": "event_mission",
+        "missionId": 1789,
+        "seq": 1,
+        "resourceBoxId": 200013
+      }
+    ]
+  },
+  {
+    "id": 1790,
+    "seq": 1790,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_mission",
+    "requirement1": 20,
+    "sentence": "Clear 20 Event Missions.",
+    "rewards": [
+      {
+        "id": 10000707,
+        "missionType": "event_mission",
+        "missionId": 1790,
+        "seq": 1,
+        "resourceBoxId": 200014
+      }
+    ]
+  },
+  {
+    "id": 1791,
+    "seq": 1791,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_mission",
+    "requirement1": 30,
+    "sentence": "Clear 30 Event Missions.",
+    "rewards": [
+      {
+        "id": 10000708,
+        "missionType": "event_mission",
+        "missionId": 1791,
+        "seq": 1,
+        "resourceBoxId": 200017
+      }
+    ]
+  },
+  {
+    "id": 1792,
+    "seq": 1792,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "music_clear_unit_easy",
+    "requirement1": 1,
+    "sentence": "Clear a Leo\/need song on EASY.",
+    "rewards": [
+      {
+        "id": 10000709,
+        "missionType": "event_mission",
+        "missionId": 1792,
+        "seq": 1,
+        "resourceBoxId": 200015
+      }
+    ]
+  },
+  {
+    "id": 1793,
+    "seq": 1793,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "music_clear_unit_normal",
+    "requirement1": 1,
+    "sentence": "Clear a Leo\/need song on NORMAL.",
+    "rewards": [
+      {
+        "id": 10000710,
+        "missionType": "event_mission",
+        "missionId": 1793,
+        "seq": 1,
+        "resourceBoxId": 200016
+      }
+    ]
+  },
+  {
+    "id": 1794,
+    "seq": 1794,
+    "eventId": 101,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "music_clear_unit_hard",
+    "requirement1": 1,
+    "sentence": "Clear a Leo\/need song on HARD.",
+    "rewards": [
+      {
+        "id": 10000711,
+        "missionType": "event_mission",
+        "missionId": 1794,
+        "seq": 1,
+        "resourceBoxId": 200017
+      }
+    ]
+  },
+  {
+    "id": 1795,
+    "seq": 1795,
+    "eventId": 101,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_clear_daily",
+    "requirement1": 9,
+    "sentence": "Clear a show on 9 separate days.",
+    "rewards": [
+      {
+        "id": 10000712,
+        "missionType": "event_mission",
+        "missionId": 1795,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1796,
+    "seq": 1796,
+    "eventId": 101,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "any_live_clear",
+    "requirement1": 50,
+    "sentence": "Clear 50 shows.",
+    "rewards": [
+      {
+        "id": 10000713,
+        "missionType": "event_mission",
+        "missionId": 1796,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1797,
+    "seq": 1797,
+    "eventId": 101,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "requirement1": 10,
+    "sentence": "Achieve a Full Combo 10 times.",
+    "rewards": [
+      {
+        "id": 10000714,
+        "missionType": "event_mission",
+        "missionId": 1797,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1798,
+    "seq": 1798,
+    "eventId": 101,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "Clear shows with 10 different songs.",
+    "rewards": [
+      {
+        "id": 10000715,
+        "missionType": "event_mission",
+        "missionId": 1798,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1799,
+    "seq": 1799,
+    "eventId": 101,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "requirement1": 1,
+    "sentence": "View episode 8 of the event story for Our Constellation of Song.",
+    "rewards": [
+      {
+        "id": 10000716,
+        "missionType": "event_mission",
+        "missionId": 1799,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1800,
+    "seq": 1800,
+    "eventId": 101,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "consume_event_item",
+    "requirement1": 20000,
+    "sentence": "Trade 20,000 Event Tokens at the Our Constellation of Song Event Exchange.",
+    "rewards": [
+      {
+        "id": 10000717,
+        "missionType": "event_mission",
+        "missionId": 1800,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1801,
+    "seq": 1801,
+    "eventId": 101,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "join_virtual_live",
+    "requirement1": 1,
+    "sentence": "Join the Our Constellation of Song After Show.",
+    "rewards": [
+      {
+        "id": 10000718,
+        "missionType": "event_mission",
+        "missionId": 1801,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1802,
+    "seq": 1802,
+    "eventId": 101,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "complete",
+    "eventMissionType": "achieve_bonus_mission",
+    "requirement1": 7,
+    "sentence": "Clear all 7 missions.",
+    "rewards": [
+      {
+        "id": 10000719,
+        "missionType": "event_mission",
+        "missionId": 1802,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
+  },
+  {
+    "id": 1803,
+    "seq": 1803,
+    "eventId": 102,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 7,
+    "requirement1": 1,
+    "sentence": "Clear a show with Airi Momoi.",
+    "rewards": [
+      {
+        "id": 10000720,
+        "missionType": "event_mission",
+        "missionId": 1803,
+        "seq": 1,
+        "resourceBoxId": 200001
+      }
+    ]
+  },
+  {
+    "id": 1804,
+    "seq": 1804,
+    "eventId": 102,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 7,
+    "requirement1": 2,
+    "sentence": "Clear 2 shows with Airi Momoi.",
+    "rewards": [
+      {
+        "id": 10000721,
+        "missionType": "event_mission",
+        "missionId": 1804,
+        "seq": 1,
+        "resourceBoxId": 200004
+      }
+    ]
+  },
+  {
+    "id": 1805,
+    "seq": 1805,
+    "eventId": 102,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 7,
+    "requirement1": 3,
+    "sentence": "Clear 3 shows with Airi Momoi.",
+    "rewards": [
+      {
+        "id": 10000722,
+        "missionType": "event_mission",
+        "missionId": 1805,
+        "seq": 1,
+        "resourceBoxId": 200002
+      }
+    ]
+  },
+  {
+    "id": 1806,
+    "seq": 1806,
+    "eventId": 102,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "live_bonus",
+    "requirement1": 10,
+    "sentence": "Use 10 Bonus Energy.",
+    "rewards": [
+      {
+        "id": 10000723,
+        "missionType": "event_mission",
+        "missionId": 1806,
+        "seq": 1,
+        "resourceBoxId": 200003
+      }
+    ]
+  },
+  {
+    "id": 1807,
+    "seq": 1807,
+    "eventId": 102,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "music_clear_unit",
+    "requirement1": 1,
+    "sentence": "Clear a MORE MORE JUMP! song.",
+    "rewards": [
+      {
+        "id": 10000724,
+        "missionType": "event_mission",
+        "missionId": 1807,
+        "seq": 1,
+        "resourceBoxId": 200005
+      }
+    ]
+  },
+  {
+    "id": 1808,
+    "seq": 1808,
+    "eventId": 102,
+    "eventMissionCategory": "daily",
+    "eventMissionType": "clear_all_daily_mission",
+    "requirement1": 5,
+    "sentence": "Clear all Daily Missions.",
+    "rewards": [
+      {
+        "id": 10000725,
+        "missionType": "event_mission",
+        "missionId": 1808,
+        "seq": 1,
+        "resourceBoxId": 200006
+      }
+    ]
+  },
+  {
+    "id": 1809,
+    "seq": 1809,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 7,
+    "requirement1": 10,
+    "sentence": "Clear 10 shows with Airi Airi Momoi.",
+    "rewards": [
+      {
+        "id": 10000726,
+        "missionType": "event_mission",
+        "missionId": 1809,
+        "seq": 1,
+        "resourceBoxId": 200007
+      }
+    ]
+  },
+  {
+    "id": 1810,
+    "seq": 1810,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "chara_clear_live",
+    "missionTargetId": 7,
+    "requirement1": 20,
+    "sentence": "Clear 20 shows with Airi Momoi.",
+    "rewards": [
+      {
+        "id": 10000727,
+        "missionType": "event_mission",
+        "missionId": 1810,
+        "seq": 1,
+        "resourceBoxId": 200008
+      }
+    ]
+  },
+  {
+    "id": 1811,
+    "seq": 1811,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_bonus",
+    "requirement1": 50,
+    "sentence": "Use 50 Bonus Energy.",
+    "rewards": [
+      {
+        "id": 10000728,
+        "missionType": "event_mission",
+        "missionId": 1811,
+        "seq": 1,
+        "resourceBoxId": 200009
+      }
+    ]
+  },
+  {
+    "id": 1812,
+    "seq": 1812,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_bonus",
+    "requirement1": 100,
+    "sentence": "Use 100 Bonus Energy.",
+    "rewards": [
+      {
+        "id": 10000729,
+        "missionType": "event_mission",
+        "missionId": 1812,
+        "seq": 1,
+        "resourceBoxId": 200010
+      }
+    ]
+  },
+  {
+    "id": 1813,
+    "seq": 1813,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_bonus_perfect",
+    "requirement1": 1,
+    "sentence": "Clear a show with 100% or higher Event Bonus by the end of the event. ",
+    "rewards": [
+      {
+        "id": 10000730,
+        "missionType": "event_mission",
+        "missionId": 1813,
+        "seq": 1,
+        "resourceBoxId": 200011
+      }
+    ]
+  },
+  {
+    "id": 1814,
+    "seq": 1814,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_bonus_perfect",
+    "requirement1": 5,
+    "sentence": "Clear 5 shows with 100% or higher Event Bonus by the end of the event. ",
+    "rewards": [
+      {
+        "id": 10000731,
+        "missionType": "event_mission",
+        "missionId": 1814,
+        "seq": 1,
+        "resourceBoxId": 200012
+      }
+    ]
+  },
+  {
+    "id": 1815,
+    "seq": 1815,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_bonus_perfect",
+    "requirement1": 10,
+    "sentence": "Clear 10 shows with 100% or higher Event Bonus by the end of the event.",
+    "rewards": [
+      {
+        "id": 10000732,
+        "missionType": "event_mission",
+        "missionId": 1815,
+        "seq": 1,
+        "resourceBoxId": 200017
+      }
+    ]
+  },
+  {
+    "id": 1816,
+    "seq": 1816,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_mission",
+    "requirement1": 10,
+    "sentence": "Clear 10 Event Missions.",
+    "rewards": [
+      {
+        "id": 10000733,
+        "missionType": "event_mission",
+        "missionId": 1816,
+        "seq": 1,
+        "resourceBoxId": 200013
+      }
+    ]
+  },
+  {
+    "id": 1817,
+    "seq": 1817,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_mission",
+    "requirement1": 20,
+    "sentence": "Clear 20 Event Missions.",
+    "rewards": [
+      {
+        "id": 10000734,
+        "missionType": "event_mission",
+        "missionId": 1817,
+        "seq": 1,
+        "resourceBoxId": 200014
+      }
+    ]
+  },
+  {
+    "id": 1818,
+    "seq": 1818,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "event_mission",
+    "requirement1": 30,
+    "sentence": "Clear 30 Event Missions.",
+    "rewards": [
+      {
+        "id": 10000735,
+        "missionType": "event_mission",
+        "missionId": 1818,
+        "seq": 1,
+        "resourceBoxId": 200017
+      }
+    ]
+  },
+  {
+    "id": 1819,
+    "seq": 1819,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "music_clear_unit_easy",
+    "requirement1": 1,
+    "sentence": "Clear a MORE MORE JUMP! song on EASY.",
+    "rewards": [
+      {
+        "id": 10000736,
+        "missionType": "event_mission",
+        "missionId": 1819,
+        "seq": 1,
+        "resourceBoxId": 200015
+      }
+    ]
+  },
+  {
+    "id": 1820,
+    "seq": 1820,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "music_clear_unit_normal",
+    "requirement1": 1,
+    "sentence": "Clear a MORE MORE JUMP! song on NORMAL.",
+    "rewards": [
+      {
+        "id": 10000737,
+        "missionType": "event_mission",
+        "missionId": 1820,
+        "seq": 1,
+        "resourceBoxId": 200016
+      }
+    ]
+  },
+  {
+    "id": 1821,
+    "seq": 1821,
+    "eventId": 102,
+    "eventMissionCategory": "achieve",
+    "achieveMissionType": "normal",
+    "eventMissionType": "music_clear_unit_hard",
+    "requirement1": 1,
+    "sentence": "Clear a MORE MORE JUMP! song on HARD.",
+    "rewards": [
+      {
+        "id": 10000738,
+        "missionType": "event_mission",
+        "missionId": 1821,
+        "seq": 1,
+        "resourceBoxId": 200017
+      }
+    ]
+  },
+  {
+    "id": 1822,
+    "seq": 1822,
+    "eventId": 102,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_clear_daily",
+    "requirement1": 9,
+    "sentence": "Clear a show on 9 separate days.",
+    "rewards": [
+      {
+        "id": 10000739,
+        "missionType": "event_mission",
+        "missionId": 1822,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1823,
+    "seq": 1823,
+    "eventId": 102,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "any_live_clear",
+    "requirement1": 50,
+    "sentence": "Clear 50 shows.",
+    "rewards": [
+      {
+        "id": 10000740,
+        "missionType": "event_mission",
+        "missionId": 1823,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1824,
+    "seq": 1824,
+    "eventId": 102,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_clear_full_combo",
+    "requirement1": 10,
+    "sentence": "Achieve a Full Combo 10 times.",
+    "rewards": [
+      {
+        "id": 10000741,
+        "missionType": "event_mission",
+        "missionId": 1824,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1825,
+    "seq": 1825,
+    "eventId": 102,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "live_clear_different_music",
+    "requirement1": 10,
+    "requirement2": 1,
+    "sentence": "Clear shows with 10 different songs.",
+    "rewards": [
+      {
+        "id": 10000742,
+        "missionType": "event_mission",
+        "missionId": 1825,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1826,
+    "seq": 1826,
+    "eventId": 102,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "read_last_event_story_episode",
+    "requirement1": 1,
+    "sentence": "View episode 8 of the event story for Bustling Cafe ●REC!",
+    "rewards": [
+      {
+        "id": 10000743,
+        "missionType": "event_mission",
+        "missionId": 1826,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1827,
+    "seq": 1827,
+    "eventId": 102,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "consume_event_item",
+    "requirement1": 20000,
+    "sentence": "Trade 20,000 Event Tokens at the Bustling Cafe ●REC! Event Exchange.",
+    "rewards": [
+      {
+        "id": 10000744,
+        "missionType": "event_mission",
+        "missionId": 1827,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1828,
+    "seq": 1828,
+    "eventId": 102,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "normal",
+    "eventMissionType": "join_virtual_live",
+    "requirement1": 1,
+    "sentence": "Join the Bustling Cafe ●REC! After Show.",
+    "rewards": [
+      {
+        "id": 10000745,
+        "missionType": "event_mission",
+        "missionId": 1828,
+        "seq": 1,
+        "resourceBoxId": 8000
+      }
+    ]
+  },
+  {
+    "id": 1829,
+    "seq": 1829,
+    "eventId": 102,
+    "eventMissionCategory": "bonus",
+    "achieveMissionType": "complete",
+    "eventMissionType": "achieve_bonus_mission",
+    "requirement1": 7,
+    "sentence": "Clear all 7 missions.",
+    "rewards": [
+      {
+        "id": 10000746,
+        "missionType": "event_mission",
+        "missionId": 1829,
+        "seq": 1,
+        "resourceBoxId": 8001
+      }
+    ]
   }
 ]
