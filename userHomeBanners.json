@@ -44,6 +44,17 @@
     "endAt": 1722463199000
   },
   {
+    "homeBannerId": 704,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ハピネスパッケージガチャ",
+    "assetbundleName": "banner_gacha355",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 355,
+    "startAt": 1722193200000,
+    "endAt": 1722970799000
+  },
+  {
     "homeBannerId": 1001,
     "seq": 200,
     "homeBannerType": "general",
@@ -53,16 +64,5 @@
     "transitionDestinationId": 1,
     "startAt": 1633118400000,
     "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1112,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "プレミアムプレゼントガチャ ID:1084",
-    "assetbundleName": "banner_gacha1084",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1084,
-    "startAt": 1720897200000,
-    "endAt": 1722193199000
   }
 ]
