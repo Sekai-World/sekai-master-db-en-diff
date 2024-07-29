@@ -1,7 +1,7 @@
 [
   {
     "wordingKey": "COLLECTION_BOX_PROVISION_TAB_TITLE",
-    "value": "About Memorabilia Box"
+    "value": "Memorabilia Box Details"
   },
   {
     "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BTN_BALLOON_LABEL_FORMAT",
@@ -457,7 +457,7 @@
   },
   {
     "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
-    "value": "Use {0} x<color=#FF5599>{1}<\/color> to open x<color=#FF5599>{2}<\/color> from the {3}?"
+    "value": "Use {0} <color=#FF5599>x{1}<\/color> to Open <color=#FF5599>x{2}<\/color>the \n{3}?"
   },
   {
     "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
@@ -593,7 +593,7 @@
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_COLORFULPASS_EXPIRED",
-    "value": "Auto-Play has been suspended due to COLORFUL+ subscription expired.\n<color=#FF55AA>*Show results up until the suspension are on display.<\/color>"
+    "value": "Auto-Play has been suspended due to your COLORFUL+ Deluxe subscription expiring.\n\n<color=#FF77AA>*Show results up until this point have been reflected.<\/color>"
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_COMPLETE",
@@ -669,11 +669,11 @@
   },
   {
     "wordingKey": "MSG_CREATE_PRIVATE_ROOM",
-    "value": "Create Private Room for {0}."
+    "value": "Create Private Room for\n{0}?"
   },
   {
     "wordingKey": "MSG_CREATE_VIRTUAL_LIVE_PRIVATE_ROOM",
-    "value": "Create Private Room for\n{0}."
+    "value": "Create Private Room for\n{0}?"
   },
   {
     "wordingKey": "MSG_CREATOR_NAME",
@@ -965,11 +965,11 @@
   },
   {
     "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
-    "value": "Liked by <color=#0cb>{0}<\/color> and {1} other(s)"
+    "value": "<color=#0cb>{0}さん<\/color>他{1}人がおすすめ"
   },
   {
     "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION_SINGLE",
-    "value": "Recommended by <color=#0cb>{0}<\/color>"
+    "value": "<color=#0cb>{0}さん<\/color>がおすすめ"
   },
   {
     "wordingKey": "MSG_FEEDBACK",
@@ -1273,7 +1273,7 @@
   },
   {
     "wordingKey": "MSG_INVITE_FAILED_TOTAL_POWER",
-    "value": "Unable to join room due to insufficient Talent."
+    "value": "Unable to join room due to insufficient Total."
   },
   {
     "wordingKey": "MSG_INVITE_FRIEND_RECEIVED",
@@ -1553,11 +1553,11 @@
   },
   {
     "wordingKey": "MSG_MULTIPLAY_ERROR_LACK_POWER",
-    "value": "Insufficient Talent."
+    "value": "Insufficient Total."
   },
   {
     "wordingKey": "MSG_MULTIPLAY_ERROR_LACK_POWER_WITH_ERROR_CODE",
-    "value": "Insufficient Talent. ({0})"
+    "value": "Insufficient Total. ({0})"
   },
   {
     "wordingKey": "MSG_MULTIPLAY_ERROR_NOTFOUND",
@@ -2553,7 +2553,7 @@
   },
   {
     "wordingKey": "MSG_UNLOCK_WITH_OVER_TOTAL_POWER",
-    "value": "Unlocks at Talent {0}\/<color={1}>Current: {2}<\/color>"
+    "value": "Unlocks at Total {0}\/<color={1}>Current: {2}<\/color>"
   },
   {
     "wordingKey": "MSG_UPDATE",
@@ -2577,7 +2577,7 @@
   },
   {
     "wordingKey": "MSG_VETERAN_ROOM_DESCRIPTION",
-    "value": "Play with other players of similar Talent"
+    "value": "Play with other players of similar Total"
   },
   {
     "wordingKey": "MSG_VIBRATION_TAP",
@@ -2629,7 +2629,7 @@
   },
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_TUTORIAL_FILTER",
-    "value": "Switch to 'On' to only display contents for the characters in the show!"
+    "value": "Switch this on to display\nonly content for characters\nappearing in the show!"
   },
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_UNTIL",
@@ -2637,15 +2637,15 @@
   },
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_UNTIL_DAY",
-    "value": "Begins in {0} days"
+    "value": "Begins in {0}d"
   },
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_UNTIL_HOUR",
-    "value": "Begins in {0} hours"
+    "value": "Begins in {0}h"
   },
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_UNTIL_MINUTE",
-    "value": "Begins in {0} mins"
+    "value": "Begins in {0}m"
   },
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_UNTIL_TIME",
@@ -2994,10 +2994,6 @@
   {
     "wordingKey": "WORD_AD_REWARD_LIST_SCREEN_NAME",
     "value": "Ads"
-  },
-  {
-    "wordingKey": "WORD_AD_REWARD_LIST_TITLE",
-    "value": "CM"
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIVE_BONUS",
@@ -3513,7 +3509,7 @@
   },
   {
     "wordingKey": "WORD_CARD_TOTAL_POWER",
-    "value": "Talent"
+    "value": "Total"
   },
   {
     "wordingKey": "WORD_CARD_TYPE",
@@ -3753,7 +3749,7 @@
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_VETERAN_MATCH_DESC",
-    "value": "Players with a high Talent score play in a 5 vs 5 Show."
+    "value": "Players with a high Total score play in a 5 vs 5 Show."
   },
   {
     "wordingKey": "WORD_CHEERFUL_MATCHING",
@@ -3850,6 +3846,10 @@
   {
     "wordingKey": "WORD_COLORFUL_PASS_BALLOON_GRACE_PERIOD_AT",
     "value": "継続判定期間あと{0}日"
+  },
+  {
+    "wordingKey": "WORD_COLORFUL_PASS_OK",
+    "value": "To Crystal Shop"
   },
   {
     "wordingKey": "WORD_COLORFUL_PASS_OTHER_PURCHASED",
@@ -4225,7 +4225,7 @@
   },
   {
     "wordingKey": "WORD_DECK_TOTAL_POWER",
-    "value": "Talent"
+    "value": "Total"
   },
   {
     "wordingKey": "WORD_DEFAULT",
@@ -4957,7 +4957,7 @@
   },
   {
     "wordingKey": "WORD_GET",
-    "value": "GET!"
+    "value": "GET"
   },
   {
     "wordingKey": "WORD_GET_CEIL_ITEM",
@@ -5565,7 +5565,7 @@
   },
   {
     "wordingKey": "WORD_LEVEL_FORMAT_NO_SIZE",
-    "value": "Lv.{0}"
+    "value": "Lv. {0}"
   },
   {
     "wordingKey": "WORD_LEVEL_UP",
@@ -5837,7 +5837,7 @@
   },
   {
     "wordingKey": "WORD_MAIN_UNIT_TOTAL_POWER",
-    "value": "Talent"
+    "value": "Total"
   },
   {
     "wordingKey": "WORD_MASTER_LESSON",
@@ -7489,7 +7489,7 @@
   },
   {
     "wordingKey": "WORD_SELF_INTRO_READ",
-    "value": "View Self-intro"
+    "value": "View Self-Intro"
   },
   {
     "wordingKey": "WORD_SEND",
@@ -8137,7 +8137,7 @@
   },
   {
     "wordingKey": "WORD_TOTAL_POWER",
-    "value": "Talent"
+    "value": "Total"
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_AREA_ITEM_BONUS",
@@ -8149,11 +8149,11 @@
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_CARD",
-    "value": "Talent"
+    "value": "Total"
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_CARD_BASE_TOTAL_POWER",
-    "value": "Talent"
+    "value": "Total"
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_CARD_BASE_TOTAL_POWER_PLUS",
@@ -8165,15 +8165,15 @@
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_DETAIL",
-    "value": "Talent Details"
+    "value": "Total Details"
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_DETAIL_CARD",
-    "value": "Talent Details"
+    "value": "Total Details"
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_DETAIL_DECK",
-    "value": "Talent"
+    "value": "Total"
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_DIVA_RANk_BONUS",
@@ -8265,7 +8265,7 @@
   },
   {
     "wordingKey": "WORD_UNIT_TOTAL_POWER",
-    "value": "Talent"
+    "value": "Total"
   },
   {
     "wordingKey": "WORD_UNJOIN",

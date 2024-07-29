@@ -2549,8 +2549,8 @@
     "assetbundleName": "shop_20102",
     "resourceBoxId": 20102,
     "bonusResourceBoxId": 20102,
-    "startAt": 1701691200000,
-    "endAt": 1718362799000
+    "startAt": 1723287600000,
+    "endAt": 4102473599000
   },
   {
     "id": 20105,
@@ -2565,7 +2565,7 @@
     "resourceBoxId": 20103,
     "bonusResourceBoxId": 20103,
     "startAt": 1717758000000,
-    "endAt": 4102473599000
+    "endAt": 1723892399000
   },
   {
     "id": 20106,
@@ -2610,7 +2610,7 @@
     "resourceBoxId": 20105,
     "bonusResourceBoxId": 20105,
     "startAt": 1676376000000,
-    "endAt": 4102473599000
+    "endAt": 1725101999000
   },
   {
     "id": 20109,
@@ -2685,7 +2685,7 @@
     "resourceBoxId": 20102,
     "bonusResourceBoxId": 20102,
     "startAt": 1717758000000,
-    "endAt": 4102473599000
+    "endAt": 1723892399000
   },
   {
     "id": 20116,
@@ -2699,8 +2699,8 @@
     "assetbundleName": "shop_20103",
     "resourceBoxId": 20103,
     "bonusResourceBoxId": 20103,
-    "startAt": 1701691200000,
-    "endAt": 1718362799000
+    "startAt": 1723287600000,
+    "endAt": 4102473599000
   },
   {
     "id": 20117,
@@ -3894,6 +3894,22 @@
     "label": "1 Time Only",
     "startAt": 1720119600000,
     "endAt": 1721069999000
+  },
+  {
+    "id": 50072,
+    "seq": 340,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50100,
+    "name": "Summer 2024 10x Gacha Ticket",
+    "description": "2024 Summer Campaign Gacha 10x Ticket",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_50072",
+    "resourceBoxId": 50072,
+    "label": "1 Time Only",
+    "startAt": 1722884400000,
+    "endAt": 1723942799000
   },
   {
     "id": 100002,
