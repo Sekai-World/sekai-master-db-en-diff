@@ -121,7 +121,7 @@
   },
   {
     "wordingKey": "MSG_AD_REWARD_DAILY_END",
-    "value": "Today's Limit Reached"
+    "value": "Today's limit reached"
   },
   {
     "wordingKey": "MSG_AD_REWARD_ERROR",
@@ -584,6 +584,10 @@
     "value": "You have another account linked to Game Center.\nUnlink previous account and link the current one?"
   },
   {
+    "wordingKey": "MSG_CONFIRM_PLAY_LOGIN_STORY_DIALOG",
+    "value": "View login story?"
+  },
+  {
     "wordingKey": "MSG_CONFIRM_REMOVE_BOOK_MARK",
     "value": "Delete this Bookmark?"
   },
@@ -965,11 +969,11 @@
   },
   {
     "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
-    "value": "<color=#0cb>{0}さん<\/color>他{1}人がおすすめ"
+    "value": "Liked by <color=#0cb>{0}<\/color> and {1} other(s)"
   },
   {
     "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION_SINGLE",
-    "value": "<color=#0cb>{0}さん<\/color>がおすすめ"
+    "value": "Recommended by <color=#0cb>{0}<\/color>"
   },
   {
     "wordingKey": "MSG_FEEDBACK",
@@ -1948,6 +1952,10 @@
     "value": "Back"
   },
   {
+    "wordingKey": "MSG_OUT_OF_PERIOD_PLAY_LOGIN_STORY_DIALOG",
+    "value": "Login story is no longer available."
+  },
+  {
     "wordingKey": "MSG_OUT_OF_TERM_RANK_MATCH_DIALOG",
     "value": "Currently off-season. Returning to Ranked Matches screen."
   },
@@ -2716,6 +2724,10 @@
     "value": "Costume changed."
   },
   {
+    "wordingKey": "MSG_WEB_LINK_BANNER_CONFIRM_DIALOG_BODY",
+    "value": "Leave app and navigate to external website?"
+  },
+  {
     "wordingKey": "MSG_WISH_LIST_BACK_GACHA_TOP_CONFIRM",
     "value": "<color=#ff5588>*Cannot save incomplete list.<\/color>"
   },
@@ -3201,7 +3213,7 @@
   },
   {
     "wordingKey": "WORD_AUTO_LIVE_LIMIT",
-    "value": "Today's Limit Reached"
+    "value": "Today's limit reached"
   },
   {
     "wordingKey": "WORD_AUTO_LIVE_NUMBER_OF_PLAY",
@@ -3242,6 +3254,10 @@
   {
     "wordingKey": "WORD_BACK",
     "value": "Back"
+  },
+  {
+    "wordingKey": "WORD_BANNER_URL_DIALOG_TITLE",
+    "value": "Confirm"
   },
   {
     "wordingKey": "WORD_BATTERY_ALERT",
@@ -4957,7 +4973,7 @@
   },
   {
     "wordingKey": "WORD_GET",
-    "value": "GET"
+    "value": "GET!"
   },
   {
     "wordingKey": "WORD_GET_CEIL_ITEM",
@@ -6190,6 +6206,10 @@
   {
     "wordingKey": "WORD_MONTH_SEP",
     "value": "Sep."
+  },
+  {
+    "wordingKey": "WORD_MOVE",
+    "value": "OK"
   },
   {
     "wordingKey": "WORD_MOVIE_SKIP_TITLE",
@@ -8109,7 +8129,7 @@
   },
   {
     "wordingKey": "WORD_TODAY_PART_END",
-    "value": "Today's Limit Reached"
+    "value": "Today's limit reached"
   },
   {
     "wordingKey": "WORD_TOGGLE_1",
