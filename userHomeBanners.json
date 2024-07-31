@@ -22,17 +22,6 @@
     "endAt": 1722625199000
   },
   {
-    "homeBannerId": 698,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ14巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha352",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 352,
-    "startAt": 1721588400000,
-    "endAt": 1722452399000
-  },
-  {
     "homeBannerId": 699,
     "seq": 100,
     "homeBannerType": "event",
@@ -53,6 +42,17 @@
     "transitionDestinationId": 355,
     "startAt": 1722193200000,
     "endAt": 1722970799000
+  },
+  {
+    "homeBannerId": 707,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフルダイナーイベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha356",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 356,
+    "startAt": 1722452400000,
+    "endAt": 1723316399000
   },
   {
     "homeBannerId": 1001,
