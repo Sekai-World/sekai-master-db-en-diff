@@ -864,8 +864,9 @@
     "billableLimitValue": 3,
     "billableLimitResetIntervalType": "monthly",
     "assetbundleName": "shop_10001",
-    "resourceBoxId": 43,
-    "startAt": 1664175600000,
+    "resourceBoxId": 221,
+    "bonusResourceBoxId": 48,
+    "startAt": 1633075200000,
     "purchaseOption": "exchange"
   },
   {
@@ -878,8 +879,9 @@
     "billableLimitValue": 10,
     "billableLimitResetIntervalType": "monthly",
     "assetbundleName": "shop_10002",
-    "resourceBoxId": 44,
-    "startAt": 1664175600000,
+    "resourceBoxId": 220,
+    "bonusResourceBoxId": 49,
+    "startAt": 1633075200000,
     "purchaseOption": "exchange"
   },
   {
@@ -892,8 +894,9 @@
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "monthly",
     "assetbundleName": "shop_10003",
-    "resourceBoxId": 45,
-    "startAt": 1664175600000,
+    "resourceBoxId": 220,
+    "bonusResourceBoxId": 50,
+    "startAt": 1633075200000,
     "purchaseOption": "exchange"
   },
   {
@@ -906,8 +909,9 @@
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "monthly",
     "assetbundleName": "shop_10004",
-    "resourceBoxId": 46,
-    "startAt": 1664175600000,
+    "resourceBoxId": 222,
+    "bonusResourceBoxId": 51,
+    "startAt": 1633075200000,
     "purchaseOption": "exchange"
   },
   {
@@ -920,8 +924,9 @@
     "billableLimitValue": 3,
     "billableLimitResetIntervalType": "monthly",
     "assetbundleName": "shop_10005",
-    "resourceBoxId": 47,
-    "startAt": 1664175600000,
+    "resourceBoxId": 221,
+    "bonusResourceBoxId": 52,
+    "startAt": 1633075200000,
     "purchaseOption": "exchange"
   },
   {
@@ -2505,7 +2510,7 @@
     "resourceBoxId": 20101,
     "bonusResourceBoxId": 20101,
     "startAt": 1701691200000,
-    "endAt": 4102473599000
+    "endAt": 1726225199000
   },
   {
     "id": 20102,
@@ -2534,8 +2539,8 @@
     "assetbundleName": "shop_20101",
     "resourceBoxId": 20101,
     "bonusResourceBoxId": 20101,
-    "startAt": 1695409200000,
-    "endAt": 1702295999000
+    "startAt": 1725620400000,
+    "endAt": 4102473599000
   },
   {
     "id": 20104,
@@ -2716,6 +2721,21 @@
     "bonusResourceBoxId": 20105,
     "startAt": 1718362800000,
     "endAt": 1722769199000
+  },
+  {
+    "id": 20118,
+    "seq": 100,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 20116,
+    "name": "Rank 250 Celebration Bundle",
+    "description": "Special value bundle rank 250. Limited time.",
+    "billableLimitType": "unlimited",
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_20106",
+    "resourceBoxId": 20105,
+    "bonusResourceBoxId": 20105,
+    "startAt": 1724497200000,
+    "endAt": 4102473599000
   },
   {
     "id": 20120,
@@ -5129,6 +5149,71 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 300140,
+    "seq": 455359,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "[Pajama] Costume All Colors",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 119,
+    "startAt": 1725174000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300141,
+    "seq": 455360,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Pajama] Costume Original Color",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 120,
+    "startAt": 1725174000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300142,
+    "seq": 455361,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Pajama] Costume Color Variant 1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 121,
+    "startAt": 1725174000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300143,
+    "seq": 455362,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Pajama] Costume Color Variant 2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 122,
+    "startAt": 1725174000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300144,
+    "seq": 455363,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Pajama] Costume Color Variant 3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 123,
+    "startAt": 1725174000000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 300150,
     "seq": 300160,
     "billingShopItemType": "costume_3d",
@@ -5712,6 +5797,71 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 219,
     "startAt": 1722495600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300370,
+    "seq": 455359,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "[Retro] Costume All Colors",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 223,
+    "startAt": 1725174000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300371,
+    "seq": 455360,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Retro] Costume Original Color",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 224,
+    "startAt": 1725174000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300372,
+    "seq": 455361,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Retro] Costume Color Variant 1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 225,
+    "startAt": 1725174000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300373,
+    "seq": 455362,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Retro] Costume Color Variant 2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 226,
+    "startAt": 1725174000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300374,
+    "seq": 455363,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Retro] Costume Color Variant 3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 227,
+    "startAt": 1725174000000,
     "purchaseOption": "exchange"
   },
   {
