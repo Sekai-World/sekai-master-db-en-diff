@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 707,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフルダイナーイベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha356",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 356,
-    "startAt": 1722452400000,
-    "endAt": 1723316399000
-  },
-  {
     "homeBannerId": 708,
     "seq": 100,
     "homeBannerType": "event",
@@ -31,6 +20,28 @@
     "transitionDestinationId": 102,
     "startAt": 1722463200000,
     "endAt": 1723327199000
+  },
+  {
+    "homeBannerId": 709,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[星乃一歌]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive246",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 246,
+    "startAt": 1723240800000,
+    "endAt": 1723359599000
+  },
+  {
+    "homeBannerId": 710,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ビビバス箱イベ14巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha358",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 358,
+    "startAt": 1723316400000,
+    "endAt": 1724266799000
   },
   {
     "homeBannerId": 1001,
