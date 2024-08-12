@@ -11,28 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 708,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフルダイナーイベ_イベントバナー",
-    "assetbundleName": "event_recording_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 102,
-    "startAt": 1722463200000,
-    "endAt": 1723327199000
-  },
-  {
-    "homeBannerId": 709,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[星乃一歌]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive246",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 246,
-    "startAt": 1723240800000,
-    "endAt": 1723359599000
-  },
-  {
     "homeBannerId": 710,
     "seq": 110,
     "homeBannerType": "general",
@@ -42,6 +20,28 @@
     "transitionDestinationId": 358,
     "startAt": 1723316400000,
     "endAt": 1724266799000
+  },
+  {
+    "homeBannerId": 711,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ビビバス箱イベ14巡目_イベントバナー",
+    "assetbundleName": "event_onyourfeet_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 103,
+    "startAt": 1723327200000,
+    "endAt": 1724277599000
+  },
+  {
+    "homeBannerId": 713,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "Ichika Hoshino Happy Birthday 2024 Gacha",
+    "assetbundleName": "banner_gacha359",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 359,
+    "startAt": 1723359600000,
+    "endAt": 1723445999000
   },
   {
     "homeBannerId": 1001,
