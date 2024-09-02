@@ -4992,5 +4992,53 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 224,
+    "seq": 224,
+    "name": "アバターデザインコンテスト作品",
+    "virtualShopItems": [
+      {
+        "id": 396,
+        "virtualShopId": 224,
+        "virtualShopItemType": "costume",
+        "seq": 199998,
+        "resourceBoxId": 293,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1725261300000
+      },
+      {
+        "id": 397,
+        "virtualShopId": 224,
+        "virtualShopItemType": "costume",
+        "seq": 199999,
+        "resourceBoxId": 294,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1725261300000
+      },
+      {
+        "id": 398,
+        "virtualShopId": 224,
+        "virtualShopItemType": "accessory",
+        "seq": 99897,
+        "resourceBoxId": 295,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1725261300000
+      },
+      {
+        "id": 399,
+        "virtualShopId": 224,
+        "virtualShopItemType": "accessory",
+        "seq": 99898,
+        "resourceBoxId": 296,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1725261300000
+      }
+    ],
+    "virtualShopType": "other"
   }
 ]
