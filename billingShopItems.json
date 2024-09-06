@@ -2614,8 +2614,8 @@
     "assetbundleName": "shop_20106",
     "resourceBoxId": 20105,
     "bonusResourceBoxId": 20105,
-    "startAt": 1676376000000,
-    "endAt": 1725101999000
+    "startAt": 1727953200000,
+    "endAt": 4102473599000
   },
   {
     "id": 20109,
@@ -2735,7 +2735,7 @@
     "resourceBoxId": 20105,
     "bonusResourceBoxId": 20105,
     "startAt": 1724497200000,
-    "endAt": 4102473599000
+    "endAt": 1728557999000
   },
   {
     "id": 20120,
@@ -3930,6 +3930,22 @@
     "label": "1 Time Only",
     "startAt": 1722884400000,
     "endAt": 1723942799000
+  },
+  {
+    "id": 50073,
+    "seq": 340,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50102,
+    "name": "September Special Bundle",
+    "description": "3★ or Higher Guaranteed Gacha Ticket & more!",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_50073",
+    "resourceBoxId": 50073,
+    "label": "1 Time Only",
+    "startAt": 1726210800000,
+    "endAt": 1727333999000
   },
   {
     "id": 100002,
