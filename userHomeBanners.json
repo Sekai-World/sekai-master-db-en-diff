@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 725,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフルバチャシン振り返りイベ_イベントバナー",
-    "assetbundleName": "event_resound_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 105,
-    "startAt": 1725141600000,
-    "endAt": 1726005599000
-  },
-  {
     "homeBannerId": 728,
     "seq": 110,
     "homeBannerType": "general",
@@ -31,6 +20,17 @@
     "transitionDestinationId": 372,
     "startAt": 1725994800000,
     "endAt": 1726858799000
+  },
+  {
+    "homeBannerId": 729,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフル宮女イベ_イベントバナー",
+    "assetbundleName": "event_preciousmemories_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 106,
+    "startAt": 1726005600000,
+    "endAt": 1726869599000
   },
   {
     "homeBannerId": 730,
