@@ -5030,6 +5030,24 @@
     "virtualShopType": "event"
   },
   {
+    "id": 221,
+    "seq": 221,
+    "name": "第108回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 390,
+        "virtualShopId": 221,
+        "virtualShopItemType": "accessory",
+        "seq": 99894,
+        "resourceBoxId": 287,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1727733600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
     "id": 224,
     "seq": 224,
     "name": "アバターデザインコンテスト作品",
@@ -5076,5 +5094,22 @@
       }
     ],
     "virtualShopType": "other"
+  },
+  {
+    "id": 225,
+    "seq": 225,
+    "name": "遥 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 400,
+        "virtualShopId": 225,
+        "virtualShopItemType": "coordinate",
+        "seq": 99847,
+        "resourceBoxId": 297,
+        "costPaidJewel": 1000,
+        "startAt": 1727992800000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

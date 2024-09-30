@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "sentence": "Clear 3 shows.",
+    "beginnerMissionV2Type": "any_live_clear",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 3,
+    "rewards": [
+      {
+        "id": 6952,
+        "missionType": "beginner_mission_v2",
+        "missionId": 1,
+        "seq": 1,
+        "resourceBoxId": 1464
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "sentence": "Clear a Co-op Show or a Cheerful Show.",
+    "beginnerMissionV2Type": "multi_live_clear",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6953,
+        "missionType": "beginner_mission_v2",
+        "missionId": 2,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "seq": 3,
+    "sentence": "Get a song from the Music Shop.",
+    "beginnerMissionV2Type": "exchange_any_music",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6954,
+        "missionType": "beginner_mission_v2",
+        "missionId": 3,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "seq": 4,
+    "sentence": "Create a Costume at the Costume Shop.",
+    "beginnerMissionV2Type": "make_any_costume",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6955,
+        "missionType": "beginner_mission_v2",
+        "missionId": 4,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "seq": 5,
+    "sentence": "Change a character's Costume.",
+    "beginnerMissionV2Type": "change_any_character_costume",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6956,
+        "missionType": "beginner_mission_v2",
+        "missionId": 5,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "seq": 6,
+    "sentence": "Level up a Character on the Practice menu.",
+    "beginnerMissionV2Type": "any_card_level_up",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6957,
+        "missionType": "beginner_mission_v2",
+        "missionId": 6,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "seq": 7,
+    "sentence": "Watch both parts of a Character's Side Story.",
+    "beginnerMissionV2Type": "read_both_of_card_story",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6958,
+        "missionType": "beginner_mission_v2",
+        "missionId": 7,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "seq": 8,
+    "sentence": "Get a Decoration from the Decoration Shop.",
+    "beginnerMissionV2Type": "exchange_any_area_item",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6959,
+        "missionType": "beginner_mission_v2",
+        "missionId": 8,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "seq": 9,
+    "sentence": "Participate in a Virtual Show.",
+    "beginnerMissionV2Type": "join_any_virtual_live",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6960,
+        "missionType": "beginner_mission_v2",
+        "missionId": 9,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "seq": 10,
+    "sentence": "Use a Virtual Item in a Virtual Show.",
+    "beginnerMissionV2Type": "use_any_virtual_item",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6961,
+        "missionType": "beginner_mission_v2",
+        "missionId": 10,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "seq": 11,
+    "sentence": "Watch a video in the Music Video Viewer.",
+    "beginnerMissionV2Type": "watch_any_music_video_full",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6962,
+        "missionType": "beginner_mission_v2",
+        "missionId": 11,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "seq": 12,
+    "sentence": "Set 3 titles on your profile.",
+    "beginnerMissionV2Type": "set_profile_honors_full",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6963,
+        "missionType": "beginner_mission_v2",
+        "missionId": 12,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "seq": 13,
+    "sentence": "Clear a Challenge Show.",
+    "beginnerMissionV2Type": "challenge_live_clear",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6964,
+        "missionType": "beginner_mission_v2",
+        "missionId": 13,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "seq": 14,
+    "sentence": "Add someone to your Friends List.",
+    "beginnerMissionV2Type": "make_new_friend",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6965,
+        "missionType": "beginner_mission_v2",
+        "missionId": 14,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "seq": 15,
+    "sentence": "Link an account.",
+    "beginnerMissionV2Type": "set_inherit_platform",
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6966,
+        "missionType": "beginner_mission_v2",
+        "missionId": 15,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "seq": 16,
+    "sentence": "View the Leo\/need opening.",
+    "beginnerMissionV2Type": "read_unit_story",
+    "conditionValue": 1,
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6967,
+        "missionType": "beginner_mission_v2",
+        "missionId": 16,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "seq": 17,
+    "sentence": "View the MORE MORE JUMP! opening.",
+    "beginnerMissionV2Type": "read_unit_story",
+    "conditionValue": 2,
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6968,
+        "missionType": "beginner_mission_v2",
+        "missionId": 17,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "seq": 18,
+    "sentence": "View the Vivid BAD SQUAD opening.",
+    "beginnerMissionV2Type": "read_unit_story",
+    "conditionValue": 3,
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6969,
+        "missionType": "beginner_mission_v2",
+        "missionId": 18,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "seq": 19,
+    "sentence": "View the Wonderlands×Showtime opening.",
+    "beginnerMissionV2Type": "read_unit_story",
+    "conditionValue": 4,
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6970,
+        "missionType": "beginner_mission_v2",
+        "missionId": 19,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "seq": 20,
+    "sentence": "View the Nightcord at 25:00 opening.",
+    "beginnerMissionV2Type": "read_unit_story",
+    "conditionValue": 5,
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6971,
+        "missionType": "beginner_mission_v2",
+        "missionId": 20,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "seq": 21,
+    "sentence": "View the VIRTUAL SINGER story.",
+    "beginnerMissionV2Type": "read_unit_story",
+    "conditionValue": 6,
+    "beginnerMissionV2Category": "normal",
+    "requirement": 1,
+    "rewards": [
+      {
+        "id": 6972,
+        "missionType": "beginner_mission_v2",
+        "missionId": 21,
+        "seq": 1,
+        "resourceBoxId": 14
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "seq": 22,
+    "sentence": "Clear all Beginner's Debut Missions.",
+    "beginnerMissionV2Type": "achieve_all_missions",
+    "beginnerMissionV2Category": "complete",
+    "requirement": 21,
+    "rewards": [
+      {
+        "id": 6973,
+        "missionType": "beginner_mission_v2",
+        "missionId": 22,
+        "seq": 1,
+        "resourceBoxId": 15
+      }
+    ]
+  }
+]

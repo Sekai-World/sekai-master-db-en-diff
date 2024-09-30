@@ -44,16 +44,32 @@
     "value": "Song Info"
   },
   {
+    "wordingKey": "FMT_EVENT_P",
+    "value": "{0} Pts"
+  },
+  {
     "wordingKey": "FMT_EVENT_POINT",
-    "value": "{0}Pts"
+    "value": "{0} Pts"
   },
   {
     "wordingKey": "FMT_RANKING",
     "value": "Rank: {0}"
   },
   {
+    "wordingKey": "FORMAT_ADD_PARAM",
+    "value": "+{0}%"
+  },
+  {
     "wordingKey": "FORMAT_CONNECT_LIVE_TICKET_SHOP_ITEM",
     "value": "{0} x {1}"
+  },
+  {
+    "wordingKey": "FORMAT_DAY",
+    "value": "DAY {0}"
+  },
+  {
+    "wordingKey": "FORMAT_LEVEL",
+    "value": "Lv. {0}"
   },
   {
     "wordingKey": "FORMAT_RECEIVE_PRESENTED_MUSIC",
@@ -92,8 +108,36 @@
     "value": "Show Missions"
   },
   {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT",
+    "value": "Earn <color=#ff5599>50<\/color> Show Points for every Bonus Mission cleared during the event period.\nEarn a further <color=#ff5599>150<\/color> Show Points by completing all missions."
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT_TITLE",
+    "value": "Bonus Missions"
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_CHALLENGE_LIVE_CONTENT",
+    "value": "Earn <color=#ff5599>30<\/color> Show Points for every song cleared."
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_CHALLENGE_LIVE_CONTENT_TITLE",
+    "value": "Challenge Show"
+  },
+  {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT",
-    "value": "You will earn Show Points each time you clear a Show.\n\n■ Solo\/Co-op Shows\/\nCheerful Shows\/Ranked Matches ■\nEarn <color=#ff55AA>1<\/color> Point for every song cleared.\nUsing Bonus Energy will increase Show Points earned.\n\n■ Challenge Show ■\nEarn <color=#ff55AA>30<\/color> Points for every challenge cleared.\n\n■ Daily Bonuses ■\nEarn <color=#ff55AA>10<\/color> Points for each Co-op\/Cheerful Show cleared, up to 3 times per day.\n\n■ Bonus Missions ■\nBonus Missions are available during events. Earn <color=#ff55AA>50<\/color> Points for every mission cleared and <color=#ff55AA>150<\/color> Points for clearing all missions."
+    "value": "You will earn <color=#ff5599>1<\/color> Show Point for every song cleared.\n*Using Bonus Energy will increase Show Points earned."
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT_TITLE",
+    "value": "Solo Shows, Co-op Shows, Cheerful Shows, Ranked Matches"
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_DAILY_BONUS_CONTENT",
+    "value": "Earn <color=#ff5599>10<\/color> Show Points up to 3 times a day for every Co-op Show or Cheerful Show cleared."
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_DAILY_BONUS_CONTENT_TITLE",
+    "value": "Daily Bonus"
   },
   {
     "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
@@ -116,6 +160,14 @@
     "value": "The free viewing period has ended."
   },
   {
+    "wordingKey": "MSG_AD_REWARD_BOOST_CONFIRM_DIALOG",
+    "value": "CMを視聴してライブボーナスを5回復します。\nよろしいですか？\n<size=24><color=#ff5599>一定時間視聴後に出現する「閉じるマーク」のタップで報酬を貰えます。<\/color><\/size>"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_CONFIRM_DIALOG",
+    "value": "CM視聴を開始してよろしいですか？\n<size=24><color=#ff5599>一定時間視聴後に出現する「閉じるマーク」のタップで報酬を貰えます。<\/color><\/size>"
+  },
+  {
     "wordingKey": "MSG_AD_REWARD_DAILY_COUNT",
     "value": "x{0} more today"
   },
@@ -132,24 +184,12 @@
     "value": "Event has ended. Ad viewing unavailable."
   },
   {
-    "wordingKey": "MSG_AD_REWARD_LIST_CRYSTAL",
-    "value": "Up to x100"
-  },
-  {
-    "wordingKey": "MSG_AD_REWARD_LIST_END",
-    "value": "No ads available."
-  },
-  {
-    "wordingKey": "MSG_AD_REWARD_LIST_EVENT",
-    "value": "Up to x5,000"
-  },
-  {
-    "wordingKey": "MSG_AD_REWARD_LIST_PRESENT",
-    "value": "Chance to get a 4★"
-  },
-  {
     "wordingKey": "MSG_AD_REWARD_LIVE_BOOST_RECOVER_ANOUNCE",
     "value": "Your Bonus Energy cannot exceed 99.\nExcess energy will be discarded.\nRestore anyway?"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_MASTER_EXPIRED",
+    "value": "This feature is currently unavailable."
   },
   {
     "wordingKey": "MSG_AD_REWARD_NOT_READY",
@@ -160,8 +200,8 @@
     "value": "Daily chances to receive items or 2-4★ Characters!"
   },
   {
-    "wordingKey": "MSG_AD_REWARD_SUSPENDED",
-    "value": "Ad viewing is currently unavailable."
+    "wordingKey": "MSG_AD_REWARD_WORLD_LINK_EVENT_CHAPTER_EXPIRED",
+    "value": "Chapter has ended. Currently unavailable."
   },
   {
     "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED",
@@ -213,7 +253,7 @@
   },
   {
     "wordingKey": "MSG_ANOTHER_COLOR_ACQUISITION_CONDITIONS_NL",
-    "value": "Increase <color=#00CCBB>Mastery Rank<\/color> of\n{0} {1}\nto unlock color variants."
+    "value": "Increase the <color=#FF3366>Mastery Rank<\/color> of\n\"{0}\" {1}\nto unlock Color Variants."
   },
   {
     "wordingKey": "MSG_ANOTHER_VICAL_RELEASE_CONDITION",
@@ -229,7 +269,7 @@
   },
   {
     "wordingKey": "MSG_AREA_ITEM_EFFECT",
-    "value": "Characters with a subgroup will automatically gain the effects of any Decorations which boost the Talent of that group.\n\nHowever, effects from multiple groups' Decorations will not stack."
+    "value": "Characters with a subgroup will gain the effects of Decorations of the group that higher Talent boost.\n\nEffects from multiple groups' Decorations do not stack."
   },
   {
     "wordingKey": "MSG_AROUND_MB",
@@ -237,11 +277,11 @@
   },
   {
     "wordingKey": "MSG_AUTO_LIVE_NOT_ALLOWED",
-    "value": "At least 1 Bonus Energy is\nrequired to use Auto-Play."
+    "value": "At least 1 Bonus Energy is required to use Auto-Play."
   },
   {
     "wordingKey": "MSG_AUTO_LIVE_SETTING_DIALOG_BODY",
-    "value": "※ライブボーナスドリンクが優先して\n使用されます。\n※オートライブ設定を使用すると、\nMVは軽量モードでのプレイとなります。"
+    "value": "*Bonus Energy Drinks will be used first.\n*Music videos default to Lite mode when using Auto-Play."
   },
   {
     "wordingKey": "MSG_B1_TMP_NONE_MEMBER",
@@ -269,7 +309,7 @@
   },
   {
     "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_2",
-    "value": "Paid Crystals equal to refund amount have been removed from your account.\n\n{0} to {1}\n<color=#FF55AA>*You have insufficient Crystals to match unit price at time of purchase. An equivalent number of Paid Crystals from those owned have been removed from your account.<\/color>"
+    "value": "Paid Crystals equal to refund amount have been removed from your account.\n\n{0} -> {1}\n<color=#FF5599>*If you have an insufficient number of Paid Crystals matching the unit price at the time of purchase, the remaining number of Crystals is removed from purchases at other unit prices, beginning with older purchases.<\/color>"
   },
   {
     "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_3",
@@ -317,7 +357,7 @@
   },
   {
     "wordingKey": "MSG_BONDS_CHARACTER_SELECT_DESCRIPTION",
-    "value": "Select another Character to check Trust Rank."
+    "value": "Select another Character to check their Trust Rank with <color=#ff77aa>{0}<\/color>."
   },
   {
     "wordingKey": "MSG_BONDS_RANK_MAX",
@@ -345,7 +385,11 @@
   },
   {
     "wordingKey": "MSG_BOOST_RECOVER_METHOD_JEWEL_CONFIRM",
-    "value": "Use {0} Crystals\nto restore {1} Bonus Energy?"
+    "value": "Use Crystals <color=#ff5599>x{0}<\/color>\nto restore <color=#ff5599>{1}<\/color> Bonus Energy?"
+  },
+  {
+    "wordingKey": "MSG_BUY_COMPLETE",
+    "value": "Purchase complete."
   },
   {
     "wordingKey": "MSG_BUY_GOLD_TICKET",
@@ -357,7 +401,7 @@
   },
   {
     "wordingKey": "MSG_CAN_ENTRY_OFFLINE_EVENT_DIALOG",
-    "value": "{0}の申込みが開始されました。\nカラフルパスの「イベント申込み」よりご確認ください。"
+    "value": "{0}の\n申込みが開始されました。\nカラフルパスの「イベント申込み」よりご確認ください。"
   },
   {
     "wordingKey": "MSG_CHALLENGE_CHARACTER_SELECT_BODY",
@@ -393,15 +437,19 @@
   },
   {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_CONFIRM",
-    "value": "Receive {0} x{1}.\nContinue?"
+    "value": "{0} x{1}\n\nReceive this reward?"
   },
   {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT_INFO",
-    "value": "Select a reward when x{0} Stamps are used."
+    "value": "Collect {0} Stamps to obtain one of the following rewards."
   },
   {
     "wordingKey": "MSG_CHANGE_DAY",
     "value": "The date has changed.\nReturning to title screen."
+  },
+  {
+    "wordingKey": "MSG_CHARACTER_MISSION_RECEIVED_MISSION_DIALOG_BODY",
+    "value": "Claimed rewards for the following missions."
   },
   {
     "wordingKey": "MSG_CHARACTER_SELECT_DESCRIPTION",
@@ -430,6 +478,10 @@
   {
     "wordingKey": "MSG_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
     "value": "Selected <color=#ff5588>{0}<\/color> Crew.\nContinue?"
+  },
+  {
+    "wordingKey": "MSG_CHEERFUL_CARNIVAL_LIMIT_GL",
+    "value": "Unable to join. \nPlayer cap reached."
   },
   {
     "wordingKey": "MSG_CHEERFUL_CARNIVAL_TEAM_CHANGE_FIRST",
@@ -461,7 +513,7 @@
   },
   {
     "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
-    "value": "<size=28>Open<\/size> {0}."
+    "value": "Open x{0}"
   },
   {
     "wordingKey": "MSG_COLORFUL_PASS_CONFIRM_DIALOG_PURCHASE_TEXT",
@@ -553,7 +605,7 @@
   },
   {
     "wordingKey": "MSG_COMMUNITY_REPORT_OTHER",
-    "value": "Other EULA violation"
+    "value": "Other\/EULA violation"
   },
   {
     "wordingKey": "MSG_COMMUNITY_REPORT_THANKS",
@@ -604,8 +656,12 @@
     "value": "Auto-Play completed for set no. of songs."
   },
   {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_ENDED_LIMITED_MUSIC",
+    "value": "Auto-Play has been suspended as song is no longer available.\n\n<color=#FF77AA>*Show results up until this point have been reflected.<\/color>"
+  },
+  {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_NOT_ENOUGH",
-    "value": "Auto-Play has been suspended due to insufficient Bonus Energy.\n<color=#FF55AA>*Show results up until the suspension are on display.<\/color>"
+    "value": "Auto-Play has been suspended due to insufficient Bonus Energy.\n\n<color=#FF77AA>*Show results up until this point have been reflected.<\/color>"
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_NUMBER_OF_TIMES",
@@ -618,6 +674,10 @@
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_SETTING_MESSAGE",
     "value": "*Bonus Energy Drinks will be used first."
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_SET_COUNT",
+    "value": "Set no. of songs"
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_UNTILE_NOT_ENOUGH",
@@ -710,6 +770,22 @@
   {
     "wordingKey": "MSG_CUSTOM_PROFILE_COLLECTION_ALERT",
     "value": "When the number of acquired Memorabilia you have selected has reached 0, it can no longer be used within the same set.\n\n*When a layer of Memorabilia is deleted, the number of pieces in your possession will be restored according to the number of pieces deleted.\n*The number of pieces used will be counted as the total in the set."
+  },
+  {
+    "wordingKey": "MSG_CUSTOM_PROFILE_PARTS_VISUAL_SELECT",
+    "value": "Select which to display."
+  },
+  {
+    "wordingKey": "MSG_CUSTOM_PROFILE_SELECT_CARD_DETAIL",
+    "value": "Select which to display."
+  },
+  {
+    "wordingKey": "MSG_CUSTOM_PROFILE_TEMPLATE_SELECT",
+    "value": "Please select a template."
+  },
+  {
+    "wordingKey": "MSG_DATA_DOWNLOADING",
+    "value": "Now Loading..."
   },
   {
     "wordingKey": "MSG_DATA_LINK_RELEASE",
@@ -873,7 +949,7 @@
   },
   {
     "wordingKey": "MSG_EPISODE_UNLOCK_N_READ_CONFIRM",
-    "value": "Story unlocked.\nDownload voice files\nand view story?"
+    "value": "Story unlocked.\nDownload voice files and view story?"
   },
   {
     "wordingKey": "MSG_ERROR",
@@ -901,7 +977,11 @@
   },
   {
     "wordingKey": "MSG_EVENT_LIVE_BOOST_EXCEPTION",
-    "value": "You may set this to a <color=#ff55AA>maximum of {0}<\/color> during events."
+    "value": "You may set this to a <color=#ff5599>maximum of {0}<\/color> during events."
+  },
+  {
+    "wordingKey": "MSG_EVENT_MISSION_UPDATED_GL",
+    "value": "Event Missions have updated. Returning to home screen."
   },
   {
     "wordingKey": "MSG_EXCHANGED_LIVE_TICKET",
@@ -917,7 +997,7 @@
   },
   {
     "wordingKey": "MSG_EXCHANGE_GACHA_CIEL_2",
-    "value": "Trade using Gacha Stickers and {0}"
+    "value": "Trade using Gacha Stickers and\n{0}"
   },
   {
     "wordingKey": "MSG_EXCHANGE_GACHA_CIEL_3",
@@ -942,6 +1022,10 @@
   {
     "wordingKey": "MSG_EXCHANGE_VIRTUAL_COIN",
     "value": "Use Virtual Coins"
+  },
+  {
+    "wordingKey": "MSG_EXHCHANGE_TICKET_LIMIT_ALERT",
+    "value": "You have a Select Voucher that is about to expire.\nMove to Voucher Exchange?"
   },
   {
     "wordingKey": "MSG_EXP",
@@ -969,15 +1053,15 @@
   },
   {
     "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
-    "value": "Liked by <color=#0cb>{0}<\/color> and {1} other(s)"
+    "value": "Liked by <color=#f7a>{0}<\/color> and {1} other(s)"
   },
   {
     "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION_SINGLE",
-    "value": "Recommended by <color=#0cb>{0}<\/color>"
+    "value": "Recommended by <color=#f7a>{0}<\/color>"
   },
   {
     "wordingKey": "MSG_FEEDBACK",
-    "value": "We are sorry to hear that. Would you be willing\nto provide further feedback to help us improve the gameplay experience?\n\nOur team will be sure to\nread all feedback we receive."
+    "value": "We are sorry to hear that.\nWould you be willing to provide further feedback to help us improve the gameplay experience?\n\nOur team will be sure to read all feedback we receive."
   },
   {
     "wordingKey": "MSG_FEEDBACK_THANKS",
@@ -985,7 +1069,7 @@
   },
   {
     "wordingKey": "MSG_FINAL_CHARA_TICKET_CONFIRM",
-    "value": "Proceed with trade even though you already own this?"
+    "value": "You already own this. Would you still like to trade?"
   },
   {
     "wordingKey": "MSG_FINISHED_TODAY_CHALLENGE",
@@ -994,6 +1078,14 @@
   {
     "wordingKey": "MSG_FIX_MIKU_COSTUME",
     "value": "Set as default Miku in 3DMV."
+  },
+  {
+    "wordingKey": "MSG_FONT_SELECT_BUTTON",
+    "value": "ABCabc"
+  },
+  {
+    "wordingKey": "MSG_FONT_SELECT_CELL",
+    "value": "ABC\nabc"
   },
   {
     "wordingKey": "MSG_FRIEND_DEFAULT_REQUEST",
@@ -1006,6 +1098,10 @@
   {
     "wordingKey": "MSG_FRIEND_INVITE_CODE_COPY_COMPLETE",
     "value": "Invite code copied."
+  },
+  {
+    "wordingKey": "MSG_FRIEND_INVITE_DIALOG_EMPTY",
+    "value": "No friends available to invite."
   },
   {
     "wordingKey": "MSG_FRIEND_INVITE_DIALOG_MESSAGE",
@@ -1045,7 +1141,7 @@
   },
   {
     "wordingKey": "MSG_FRIEND_INVITE_REGISTER_OUT_OF_TERM",
-    "value": "Invite code has expired."
+    "value": "Unavailable outside of campaign period."
   },
   {
     "wordingKey": "MSG_FRIEND_INVITE_REJECT",
@@ -1105,7 +1201,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_CEIL_TICKET_EXCHANGE_CONFIRM",
-    "value": "Trade {0} x<color=#FF55AA>{1}<\/color>\nfor this item?"
+    "value": "Trade {0} <color=#FF5599>x{1}<\/color>\nfor this item?"
   },
   {
     "wordingKey": "MSG_GACHA_EXCHANGE_NUMBER_OF_PURCHASE",
@@ -1113,7 +1209,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_ITEM_EXCHANGE_EXPIRED",
-    "value": "Exchange has ended."
+    "value": "Expiry date has passed. Unable to trade."
   },
   {
     "wordingKey": "MSG_GACHA_LIMIT_SPIN_COUNT",
@@ -1129,7 +1225,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_RESOURCE_NONE",
-    "value": "Pull x1 for free from the {0}?"
+    "value": "Pull x1 for free from the\n{0}?"
   },
   {
     "wordingKey": "MSG_GACHA_SHORT_RESOURCE",
@@ -1141,7 +1237,7 @@
   },
   {
     "wordingKey": "MSG_GACHA_SPIN_COUNT",
-    "value": "<size=28>Pull<\/size> x{0}"
+    "value": "Pull x{0}"
   },
   {
     "wordingKey": "MSG_GACHA_SPIN_COUNT_PAID",
@@ -1209,11 +1305,11 @@
   },
   {
     "wordingKey": "MSG_HIGH_SCORE_COMPLETE_REWARD",
-    "value": "<color=#FF55AA>{0}<\/color>Pts High Score Reward"
+    "value": "<color=#FF5599>{0}<\/color> Pts High Score Reward"
   },
   {
     "wordingKey": "MSG_HIGH_SCORE_UPDATE_REWARD",
-    "value": "+<color=#FF55AA>{0}<\/color>Pts Score Reward"
+    "value": "<color=#FF5599>+{0}<\/color> Pts Score Reward"
   },
   {
     "wordingKey": "MSG_ID_NOT_FOUND",
@@ -1233,7 +1329,7 @@
   },
   {
     "wordingKey": "MSG_INHERIT_LIMIT_START",
-    "value": "You are now in the <color=#ff5588>top 1000<\/color> of the Event Rankings.\nIn the interests of fairness, there is now a temporary cap on the number of account transfers you may carry out.\n\nThe cap will be lifted when the event ends ({0}).\nRemaining account transfers: {1}\n\nThank you for your understanding."
+    "value": "You are now in the <color=#ff5588>top 300<\/color> of the Event Rankings.\nIn the interests of fairness, there is now a temporary cap on the number of account transfers you may carry out.\n\nThe cap will be lifted when the event ends ({0}).\nRemaining account transfers: {1}\n\nThank you for your understanding."
   },
   {
     "wordingKey": "MSG_INHERIT_LIMT_REST",
@@ -1284,6 +1380,10 @@
     "value": "Received Show Invitation."
   },
   {
+    "wordingKey": "MSG_IN_GAME_CUT_IN_CHARACTER_UNLOCK_REWARD",
+    "value": "Received\n{0}."
+  },
+  {
     "wordingKey": "MSG_IN_SESSION",
     "value": "Live Now!"
   },
@@ -1324,6 +1424,10 @@
     "value": "Exit the Lobby.\nContinue?"
   },
   {
+    "wordingKey": "MSG_LIVE_ARCHIVE_SHOP_PURCHASE_SUCCESS",
+    "value": "Disc purchased"
+  },
+  {
     "wordingKey": "MSG_LIVE_BONUS_MAX",
     "value": "Bonus Energy MAX"
   },
@@ -1334,6 +1438,10 @@
   {
     "wordingKey": "MSG_LIVE_BONUS_RECEIVE_LIMIT_COUNT",
     "value": "Receivable limit reached."
+  },
+  {
+    "wordingKey": "MSG_LIVE_BONUS_SETTING",
+    "value": "Change Bonus Energy settings."
   },
   {
     "wordingKey": "MSG_LIVE_BOOST_AUTO_USE_CONFIRMATION",
@@ -1352,16 +1460,20 @@
     "value": "Restore a maximum of {0} Bonus Energy."
   },
   {
+    "wordingKey": "MSG_LIVE_BOOST_RECOVER_CONFIRM",
+    "value": "Restore {0} Bonus Energy?"
+  },
+  {
     "wordingKey": "MSG_LIVE_BOOST_RECOVER_CONFIRMATION",
     "value": "Restore {0} Bonus Energy.\nContinue?"
   },
   {
     "wordingKey": "MSG_LIVE_CONTINUE",
-    "value": "Use <color=#FF55AA>{0}<\/color> Crystals\nto restore your Life gauge and continue?"
+    "value": "Use Crystals <color=#FF5599>x{0}<\/color> to fully restore your Life gauge and continue?"
   },
   {
     "wordingKey": "MSG_LIVE_FAILED",
-    "value": "You have run out of Life.\nUse <color=#FF55AA>{0}<\/color> Crystals\nto restore your Life gauge and continue?"
+    "value": "You have run out of Life.\nUse Crystals <color=#FF5599>x{0}<\/color> to fully restore your Life gauge and continue?"
   },
   {
     "wordingKey": "MSG_LIVE_IS_FULL",
@@ -1380,8 +1492,12 @@
     "value": "Skip the show?"
   },
   {
+    "wordingKey": "MSG_LOADING_WARNING",
+    "value": "*Please check your signal strength before downloading. Weak signal strength may result in longer download times."
+  },
+  {
     "wordingKey": "MSG_LOGINBONUS_RECEIVE",
-    "value": "Received: <color=#ff55AA>{0}<\/color>."
+    "value": "Received <color=#ff5599>{0}<\/color>!"
   },
   {
     "wordingKey": "MSG_LV_TEXT",
@@ -1389,7 +1505,7 @@
   },
   {
     "wordingKey": "MSG_MAIN_SETTING",
-    "value": "Set as Main"
+    "value": "Main"
   },
   {
     "wordingKey": "MSG_MASTER_LESSON_CANNOT",
@@ -1400,12 +1516,24 @@
     "value": "Use {0} x<color={2}>{1}<\/color>.\nto increase Mastery.\nContinue?"
   },
   {
+    "wordingKey": "MSG_MASTER_LESSON_EXECUTE_CONFIRMATION",
+    "value": "Use {0} to increase Mastery.\nContinue?"
+  },
+  {
+    "wordingKey": "MSG_MASTER_LESSON_EXECUTE_CONFIRMATION_ITEM",
+    "value": "{0} <color={2}>x{1}<\/color>"
+  },
+  {
     "wordingKey": "MSG_MASTER_LESSON_MATERIAL_EXCHANGE_CONFIRM",
-    "value": "Trade Wish Pieces x<color=#FF55AA>{0}<\/color>\nfor this item?"
+    "value": "Trade Wish Piece <color=#FF5599>x{0}<\/color>\nfor this item?"
   },
   {
     "wordingKey": "MSG_MASTER_LESSON_NOTHING",
     "value": "No members able to undergo Mastery."
+  },
+  {
+    "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS",
+    "value": "Unlocks at"
   },
   {
     "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_1",
@@ -1449,7 +1577,7 @@
   },
   {
     "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM",
-    "value": "Trade <color=#FF55AA>{1}<\/color> {0}\nfor this item?"
+    "value": "Trade {0} <color=#FF5599>x{1}<\/color>\nfor this item?"
   },
   {
     "wordingKey": "MSG_MAX_ANOUNCE",
@@ -1840,6 +1968,10 @@
     "value": "No available songs."
   },
   {
+    "wordingKey": "MSG_NOT_TARGET_SIDE_STORY",
+    "value": "No side stories found."
+  },
+  {
     "wordingKey": "MSG_NOT_TARGET_STORY",
     "value": "No event stories found."
   },
@@ -1880,6 +2012,10 @@
     "value": "No invitations."
   },
   {
+    "wordingKey": "MSG_NO_STORY_FOUND",
+    "value": "No stories found."
+  },
+  {
     "wordingKey": "MSG_NO_VIRTUAL_LIVE",
     "value": "No upcoming Virtual Shows found."
   },
@@ -1901,19 +2037,19 @@
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_CELL_BEFORE_ENTRY",
-    "value": "<color=#ff55AA>{0}～申込み開始！<\/color>"
+    "value": "<color=#ff5599>{0}～申込み開始！<\/color>"
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_CELL_CAN_ENTRY_CONTINUOUS_BUY",
-    "value": "<color=#ff55AA>カラフルパス継続購入で申込み可能になります。\n※有効期限が切れた翌日に購入した場合で計算を行っています。<\/color>"
+    "value": "<color=#ff5599>カラフルパス継続購入で申込み可能になります。\n※有効期限が切れた翌日に購入した場合で計算を行っています。<\/color>"
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_CELL_ENTRY",
-    "value": "<color=#ff55AA>申込み期間 {0}～{1}まで<\/color>"
+    "value": "<color=#ff5599>申込み期間 {0}～{1}まで<\/color>"
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_CELL_NOT_APPLICABLE",
-    "value": "<color=#ff55AA>必要継続期間の{0}ヶ月に満たないため、\nこちらのイベントは申込み対象外となります。<\/color>"
+    "value": "<color=#ff5599>必要継続期間の{0}ヶ月に満たないため、\nこちらのイベントは申込み対象外になります。<\/color>"
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_CONFIRM_DIALOG_ATTENSION1",
@@ -1925,7 +2061,7 @@
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_EVALUATION_PERIOD",
-    "value": "{0}～{1}\n<color=#ff5588>※この期間に必要継続期間を満たす<\/color>\n<color=#ff5588>必要があります。<\/color>"
+    "value": "{0} ～\n{1}\n<color=#ff5588>※この期間に必要継続期間を満たす<\/color>\n<color=#ff5588>必要があります。<\/color>"
   },
   {
     "wordingKey": "MSG_OLD_COLOFRUL_PASS_USER_DIALOG_BODY",
@@ -2025,7 +2161,7 @@
   },
   {
     "wordingKey": "MSG_PLACEMENT_MATCH_COUNT",
-    "value": "<color=#F45BA9><size=56> {0} <\/size><\/color> matches left to determine starting rank."
+    "value": "<size=80>{0}<\/size> matches left to determine starting rank."
   },
   {
     "wordingKey": "MSG_PRACTICE_EXECUTE",
@@ -2060,6 +2196,14 @@
     "value": "Due to the payment of some items being uncompleted, you cannot proceed with your purchase."
   },
   {
+    "wordingKey": "MSG_PROFILE_HONOR_BONDS_SELECT",
+    "value": "Select Title design to display."
+  },
+  {
+    "wordingKey": "MSG_PROFILE_HONOR_RANK_SELECT",
+    "value": "Select Title Rank to display."
+  },
+  {
     "wordingKey": "MSG_PUBLISH_ROOM",
     "value": "Open room and allow other players to join?"
   },
@@ -2074,6 +2218,10 @@
   {
     "wordingKey": "MSG_RANKING_COUTING",
     "value": "Currently calculating rankings."
+  },
+  {
+    "wordingKey": "MSG_RANKING_ONT_OB_RANKING",
+    "value": "You are not in the rankings."
   },
   {
     "wordingKey": "MSG_RANKMATCH_SEASON_HIGEST_RANK",
@@ -2117,7 +2265,7 @@
   },
   {
     "wordingKey": "MSG_RANK_LIVE_PLACEMENT_REQUIRED_MATCH_COUNT_FORMAT",
-    "value": "<color>{0}<\/color> matches left\nto determine starting rank."
+    "value": "<size=80>{0}<\/size> matches left to\ndetermine starting rank."
   },
   {
     "wordingKey": "MSG_RANK_MATCH_CLOSE_NEXT_TIME_FORMAT",
@@ -2144,8 +2292,28 @@
     "value": "Thank you for your feedback!\nThe development team appreciates your opinions!\n\nWe hope you will continue to enjoy \nHATSUNE MIKU: COLORFUL STAGE!"
   },
   {
+    "wordingKey": "MSG_READ_CHARACTER_PROFILE",
+    "value": "View Self-Intro"
+  },
+  {
     "wordingKey": "MSG_READ_LIVE_HOLE_STATE",
     "value": "Checking venue status..."
+  },
+  {
+    "wordingKey": "MSG_RECEIVED_COSTUME",
+    "value": "Costume obtained."
+  },
+  {
+    "wordingKey": "MSG_RECEIVED_LOGIN_BONUS",
+    "value": "Claimed rewards."
+  },
+  {
+    "wordingKey": "MSG_RECEIVED_PRESENT_MUSIC",
+    "value": "Claimed song."
+  },
+  {
+    "wordingKey": "MSG_RECEIVED_REWARD",
+    "value": "Claimed rewards."
   },
   {
     "wordingKey": "MSG_RECEIVE_EVENT_MISSION_EXPIRED_REWARD",
@@ -2161,7 +2329,7 @@
   },
   {
     "wordingKey": "MSG_RELEASE_ATTRIBUTE_AREA_SHOP",
-    "value": "Area shops are now available at Miyamasuzaka Girls Academy and Kamiyama High School.\nGo there now?"
+    "value": "Decoration Shops are now available at\nMiyamasuzaka Girls Academy and Kamiyama High School.\nVisit them now?"
   },
   {
     "wordingKey": "MSG_RELEASE_CHALLENGE_LIVE",
@@ -2172,8 +2340,12 @@
     "value": "Skill Up is now available.\nGo to Skill Up now?"
   },
   {
+    "wordingKey": "MSG_RELEASING_AT_PREMIUM_MISSION_PATH_PURCHASE",
+    "value": "Purchase Premium Mission Pass to unlock"
+  },
+  {
     "wordingKey": "MSG_REMING_COUNT_SIZE_FORMAT",
-    "value": "<size={0}>{1}<\/size> left"
+    "value": "<size={0}>x{1}<\/size> left"
   },
   {
     "wordingKey": "MSG_REQUIRE_MEMBER_LV",
@@ -2193,7 +2365,15 @@
   },
   {
     "wordingKey": "MSG_REST_UNLOCK_STORY",
-    "value": "Episode {0} unlocks in:"
+    "value": "Pts to unlock Episode {0}:"
+  },
+  {
+    "wordingKey": "MSG_REST_UNLOCK_STORY_BOTTOM",
+    "value": "あと"
+  },
+  {
+    "wordingKey": "MSG_REST_UNLOCK_STORY_TOP",
+    "value": "Pts left to unlock Episode {0}:"
   },
   {
     "wordingKey": "MSG_REST_VALUE",
@@ -2205,7 +2385,7 @@
   },
   {
     "wordingKey": "MSG_RESULT_DAILY_BONUS_COUNT",
-    "value": "({0} more today)"
+    "value": "x{0} more today"
   },
   {
     "wordingKey": "MSG_REWARD_SCALE",
@@ -2226,6 +2406,10 @@
   {
     "wordingKey": "MSG_RE_SPIN",
     "value": "Pull Again"
+  },
+  {
+    "wordingKey": "MSG_ROOM_DISBANDED_NOT_PENALTY",
+    "value": "Room disbanded.\nNo penalties will be given for this disconnection."
   },
   {
     "wordingKey": "MSG_SALE_COSTUME_SHOP",
@@ -2274,6 +2458,10 @@
   {
     "wordingKey": "MSG_SHOP_EXPIRATION_DATE",
     "value": "<color={0}>Expires {1}<\/color>"
+  },
+  {
+    "wordingKey": "MSG_SHOP_EXPIRATION_DATE_2",
+    "value": "Expiry Date"
   },
   {
     "wordingKey": "MSG_SHOP_LIMITED_SET_PERIOD",
@@ -2356,6 +2544,10 @@
     "value": "No members able to undergo Skill Practice."
   },
   {
+    "wordingKey": "MSG_SPECIAL_MISSION_UPDATED_GL",
+    "value": "Special Missions have updated. Returning to home screen."
+  },
+  {
     "wordingKey": "MSG_SPECIAL_TRAINING_1_CONFIRM",
     "value": "Member Lv. too low."
   },
@@ -2370,6 +2562,10 @@
   {
     "wordingKey": "MSG_SPECIAL_TRAINING_NOTHING",
     "value": "No characters able to be Upgraded."
+  },
+  {
+    "wordingKey": "MSG_STAMPSHOP_CONFIRM",
+    "value": "Trade item for this Stamp?"
   },
   {
     "wordingKey": "MSG_STAMP_CARD_BACK_SCREEN_WARNING",
@@ -2393,7 +2589,7 @@
   },
   {
     "wordingKey": "MSG_STAMP_CARD_SELECT_CONFIRM_WARNING",
-    "value": "<color=#ff5588>*Once confirmed, your Stamp Cards cannot be changed.<\/color>"
+    "value": "<color=#ff5588>*You will be unable to change after confirming.<\/color>"
   },
   {
     "wordingKey": "MSG_STAMP_CARD_SELECT_SELECTED",
@@ -2489,7 +2685,7 @@
   },
   {
     "wordingKey": "MSG_TICKET_EXCHANGE_EXPIRED",
-    "value": "Exchange has ended."
+    "value": "Expiry date has passed. Unable to trade."
   },
   {
     "wordingKey": "MSG_TOP_RANKING",
@@ -2580,8 +2776,16 @@
     "value": "Maximum blocks reached."
   },
   {
+    "wordingKey": "MSG_USE_120FPS_DIALOG",
+    "value": "Changing maximum show frame rate from 60 fps to 120 fps.\n\n<color=#FF3366>*Please note that this feature is still in development. If it does not operate properly, change your settings back to Standard and contact Support.<\/color>"
+  },
+  {
     "wordingKey": "MSG_USE_VIRTUAL_LIVE_ITEM",
     "value": "{0} used\n{1}!"
+  },
+  {
+    "wordingKey": "MSG_USE_VSYNC_DIALOG",
+    "value": "The show frame rate will automatically adjust accordingly to your device for best efficiency.\n\n<color=#FF3366>*Please note that this feature is still in development. If it does not operate properly, please toggle it on and contact Support.<\/color>"
   },
   {
     "wordingKey": "MSG_VETERAN_ROOM_DESCRIPTION",
@@ -2604,6 +2808,10 @@
     "value": "{0} Show {1}"
   },
   {
+    "wordingKey": "MSG_VIRTUAL_LIVE_EMPTY_ITEM_HISTORY",
+    "value": "No item history."
+  },
+  {
     "wordingKey": "MSG_VIRTUAL_LIVE_END",
     "value": "Virtual Show Over"
   },
@@ -2613,7 +2821,7 @@
   },
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_HOME_REWARD_DIALOG_BODY",
-    "value": "You have received {1} for partial participation in the {0} Virtual Show.\n"
+    "value": "Reward for partial participation in the {0}."
   },
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_IN_SESSION",
@@ -2626,6 +2834,10 @@
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_NOT_SCHEDULE",
     "value": "No shows currently on."
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_LIVE_REWARD_DIALOG_BODY",
+    "value": "Received"
   },
   {
     "wordingKey": "MSG_VIRTUAL_LIVE_SCREEN_SHOT_REQUIRED_RESON",
@@ -2677,7 +2889,7 @@
   },
   {
     "wordingKey": "MSG_VOICE_DATA_DOWNLOAD_WORNING",
-    "value": "Voice files will be automatically deleted after a fixed period of time has elapsed.\nDownloading over a Wi-Fi connection is recommended."
+    "value": "*Voice files will be automatically deleted after a fixed period of time.\nDownloading over a Wi-Fi connection is recommended."
   },
   {
     "wordingKey": "MSG_VR_READY_MESSAGE",
@@ -2685,7 +2897,7 @@
   },
   {
     "wordingKey": "MSG_WAITING_ROOM_EXCHANGE_CONFIRM",
-    "value": "Trade these characters for Wishes.\nContinue?"
+    "value": "Trade these Characters for Wishes?"
   },
   {
     "wordingKey": "MSG_WAITING_ROOM_GOT_MATERIAL",
@@ -2693,7 +2905,7 @@
   },
   {
     "wordingKey": "MSG_WAIT_MATCH_START",
-    "value": "Now matchmaking, please wait."
+    "value": "Please wait while we find a Rival Team"
   },
   {
     "wordingKey": "MSG_WAIT_PRIVATE_ROOM_MATCH_START",
@@ -2704,12 +2916,16 @@
     "value": "*You have already used {0}."
   },
   {
+    "wordingKey": "MSG_WARN_ENTER_STREAMING_LIVE_WITH_TICKET_DIALOG",
+    "value": "※公演チケットを利用して入場すると、\n本公演のみ自由に再入場できます。\n\n※お試し入場の場合、観覧はライブの序盤までになります。"
+  },
+  {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
-    "value": "-<color=#00CCBB>{1}<\/color> can wear <color=#00CCBB>{2}<\/color>\nonce you obtain <color=#00CCBB>{0} {1}<\/color>."
+    "value": "• <color=#FF3366>{1}<\/color> can wear <color=#FF3366>{2}<\/color> once you obtain <color=#FF3366>\"{0}\" {1}<\/color>."
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_1",
-    "value": "-<color=#00CCBB>{2}<\/color> will be available in the Costume Shop\nonce you obtain <color=#00CCBB>{0} {1}<\/color>.\n\nSelect a character who can wear <color=#00CCBB>{2}<\/color> from the Costume Shop and then make it "
+    "value": "• Obtain <color=#FF3366>\"{0}\" {1}<\/color> to make <color=#FF3366>{2}<\/color> available in the Costume Shop.\n\n• <color=#FF3366>{2}<\/color> can be worn by the following characters:"
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
@@ -2729,11 +2945,11 @@
   },
   {
     "wordingKey": "MSG_WISH_LIST_BACK_GACHA_TOP_CONFIRM",
-    "value": "<color=#ff5588>*Cannot save incomplete list.<\/color>"
+    "value": "*Cannot save incomplete list."
   },
   {
     "wordingKey": "MSG_WISH_LIST_CONFIRM",
-    "value": "Unselected Characters remaining.\n10 Characters must be selected to pull Your Pick Gacha.\nSelect remaining Characters at random?"
+    "value": "Unselected Characters remaining.\nYou must fill every Pick List slot to pull the Your Pick Gacha.\nUnfilled slots can be filled at random.\nSet your Pick List later?"
   },
   {
     "wordingKey": "MSG_WISH_LIST_CONFIRM_TIPS",
@@ -2749,7 +2965,7 @@
   },
   {
     "wordingKey": "MSG_WISH_LIST_SELECT_END_MEMBER_DUPLICATE_CONFIRM",
-    "value": "<color=#ff5588>*You have selected one or more Characters that you already own.<\/color>"
+    "value": "*You have selected one or more Characters that you already own."
   },
   {
     "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_CONFIRM_TITLE",
@@ -2757,7 +2973,7 @@
   },
   {
     "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_NOT_CHANGE_ALERT",
-    "value": "<color=#ff5588>*Once confirmed, your list cannot be changed.<\/color>"
+    "value": "*Once confirmed, your list cannot be changed."
   },
   {
     "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_UNDECID_CONFIRM",
@@ -2802,6 +3018,22 @@
   {
     "wordingKey": "OMIKUJI_PROVISION_TAB_TITLE",
     "value": "About Omikuji"
+  },
+  {
+    "wordingKey": "RANK_LIVE_LOADING_LABEL",
+    "value": "LOADING"
+  },
+  {
+    "wordingKey": "SELECT_TAB_WORD_ADD_FRIEND",
+    "value": "Add Friend"
+  },
+  {
+    "wordingKey": "SELECT_TAB_WORD_FRIEND_LIST",
+    "value": "Friends List"
+  },
+  {
+    "wordingKey": "TAB_TITLE_BOX_PROVISION",
+    "value": "Memorabilia Box Details"
   },
   {
     "wordingKey": "TITLE_CONNECT_LIVE_TICKET_EXCHANGE_COMPLETE_DIALOG",
@@ -2852,6 +3084,10 @@
     "value": "Lite"
   },
   {
+    "wordingKey": "WORD_2DMV",
+    "value": "2DMV"
+  },
+  {
     "wordingKey": "WORD_2DMV_NL",
     "value": "2D\nMV"
   },
@@ -2866,6 +3102,10 @@
   {
     "wordingKey": "WORD_30_SONGS",
     "value": "30"
+  },
+  {
+    "wordingKey": "WORD_3DMV",
+    "value": "3DMV"
   },
   {
     "wordingKey": "WORD_3DMV_NL",
@@ -2912,6 +3152,10 @@
     "value": "Change Accessory"
   },
   {
+    "wordingKey": "WORD_ACCESSORY",
+    "value": "Accessories"
+  },
+  {
     "wordingKey": "WORD_ACCESSORY_DEFAULT_HAIR",
     "value": "Usage Requirements"
   },
@@ -2929,7 +3173,7 @@
   },
   {
     "wordingKey": "WORD_ACHIEVEMENT_GET",
-    "value": "New Title!"
+    "value": "Title earned."
   },
   {
     "wordingKey": "WORD_ACHIEVEMENT_KANA",
@@ -2952,6 +3196,10 @@
     "value": "Actions"
   },
   {
+    "wordingKey": "WORD_ADD",
+    "value": "Confirm"
+  },
+  {
     "wordingKey": "WORD_ADD_COMBO_TEXT",
     "value": "{0} COMBO"
   },
@@ -2972,16 +3220,16 @@
     "value": "＋{0}"
   },
   {
-    "wordingKey": "WORD_AD_REWARD_EXCHANGE",
+    "wordingKey": "WORD_AD_REWARD_COMMON_LABEL",
     "value": "Watch Ad"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_CONFIRM_DIALOG_OK",
+    "value": "視聴開始"
   },
   {
     "wordingKey": "WORD_AD_REWARD_GOOGLE_UMP_SETTING",
     "value": "Privacy Settings"
-  },
-  {
-    "wordingKey": "WORD_AD_REWARD_HOME_LABEL",
-    "value": "Ads"
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIST_CRYSTAL",
@@ -2993,27 +3241,23 @@
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIST_LIVE_BONUS",
-    "value": "Restore 5 Bonus Energy"
+    "value": "Restore\n5 Bonus Energy"
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIST_LIVE_MISSION",
-    "value": "Get Show Pts & Wish Pieces"
+    "value": "Get Show Pts &\nWish Pieces"
   },
   {
     "wordingKey": "WORD_AD_REWARD_LIST_PRESENT",
     "value": "Random Gift"
   },
   {
-    "wordingKey": "WORD_AD_REWARD_LIST_SCREEN_NAME",
-    "value": "Ads"
-  },
-  {
     "wordingKey": "WORD_AD_REWARD_LIVE_BONUS",
-    "value": "Watch ad for 5●"
+    "value": "Watch ad to restore"
   },
   {
-    "wordingKey": "WORD_AD_REWARD_LIVE_MISSION",
-    "value": "Watch ad for [ライブPアイコン] & [想いのカケラアイコン]"
+    "wordingKey": "WORD_AD_REWARD_LIVE_BONUS_LIMIT",
+    "value": "Bonus Energy at cap"
   },
   {
     "wordingKey": "WORD_AD_REWARD_MUSIC_SHOP",
@@ -3096,6 +3340,10 @@
     "value": "Color Variant Requirements"
   },
   {
+    "wordingKey": "WORD_ANOTHER_NL_VOCAL",
+    "value": "Covers"
+  },
+  {
     "wordingKey": "WORD_ANOTHER_VOCAL",
     "value": "Cover"
   },
@@ -3106,6 +3354,14 @@
   {
     "wordingKey": "WORD_ANOTHER_VOCAL_LIST_FILTER",
     "value": "Filter Covers"
+  },
+  {
+    "wordingKey": "WORD_ANOTHER_VOCAL_SHOP_CONFIRM_DIALOG_INFO_TAB",
+    "value": "Cover Info"
+  },
+  {
+    "wordingKey": "WORD_ANOTHER_VOCAL_SHOP_NL",
+    "value": "Cover Shop"
   },
   {
     "wordingKey": "WORD_AP",
@@ -3122,6 +3378,10 @@
   {
     "wordingKey": "WORD_APPEAR_MEMBER",
     "value": "Characters"
+  },
+  {
+    "wordingKey": "WORD_APPEND",
+    "value": "Has APPEND"
   },
   {
     "wordingKey": "WORD_APPER_UNIT",
@@ -3165,7 +3425,11 @@
   },
   {
     "wordingKey": "WORD_AREA_ITEM_NL",
-    "value": "Decoration"
+    "value": "Decorations"
+  },
+  {
+    "wordingKey": "WORD_AREA_ITEM_SHOP_NL",
+    "value": "Decoration Shop"
   },
   {
     "wordingKey": "WORD_AREA_SHOP",
@@ -3178,6 +3442,10 @@
   {
     "wordingKey": "WORD_AROUND_DATE_TIME",
     "value": "{0:00}\/{1:00}\nAround {2}:00"
+  },
+  {
+    "wordingKey": "WORD_ARRANGEMENT_DETERMINING",
+    "value": "配置決定"
   },
   {
     "wordingKey": "WORD_ARRANGER",
@@ -3256,6 +3524,10 @@
     "value": "Back"
   },
   {
+    "wordingKey": "WORD_BACKGROUND",
+    "value": "Background"
+  },
+  {
     "wordingKey": "WORD_BANNER_URL_DIALOG_TITLE",
     "value": "Confirm"
   },
@@ -3316,6 +3588,10 @@
     "value": "Unblocked"
   },
   {
+    "wordingKey": "WORD_BLOCK_PLAYER_NUM",
+    "value": "{0}\/{1}"
+  },
+  {
     "wordingKey": "WORD_BODY",
     "value": "Costumes"
   },
@@ -3361,7 +3637,7 @@
   },
   {
     "wordingKey": "WORD_BOND_NO_PAIR_DESCRIPTION",
-    "value": "Trust Rank locked. Unable to earn Trust EXP."
+    "value": "Trust Rank not available. Unable to earn Trust EXP."
   },
   {
     "wordingKey": "WORD_BOND_OTHER_EXP_DESCRIPTION",
@@ -3378,6 +3654,10 @@
   {
     "wordingKey": "WORD_BOND_RANK_UP",
     "value": "Trust Rank Up!"
+  },
+  {
+    "wordingKey": "WORD_BOND_RANK_UP_TEXT",
+    "value": "RANK UP!"
   },
   {
     "wordingKey": "WORD_BOND_REWARD",
@@ -3484,12 +3764,20 @@
     "value": "Full Download"
   },
   {
+    "wordingKey": "WORD_BULK_TIDYING",
+    "value": "一括片付け"
+  },
+  {
     "wordingKey": "WORD_BUY_LIVE_POINT",
     "value": "Purchase Show Pts"
   },
   {
     "wordingKey": "WORD_BUY_PREMIUM",
     "value": "Purchase Premium\nMission Pass"
+  },
+  {
+    "wordingKey": "WORD_CAMPAIGN",
+    "value": "Campaign"
   },
   {
     "wordingKey": "WORD_CANCEL",
@@ -3506,6 +3794,26 @@
   {
     "wordingKey": "WORD_CAPACITY_SETTING",
     "value": "Manage Memory"
+  },
+  {
+    "wordingKey": "WORD_CARD",
+    "value": "Card"
+  },
+  {
+    "wordingKey": "WORD_CARD_EPISODE_CHARACTER",
+    "value": "{0} Side Stories"
+  },
+  {
+    "wordingKey": "WORD_CARD_EPISODE_FIRST",
+    "value": "Part 1"
+  },
+  {
+    "wordingKey": "WORD_CARD_EPISODE_OTHER_CHARACTER",
+    "value": "Other Characters' Side Stories"
+  },
+  {
+    "wordingKey": "WORD_CARD_EPISODE_SECOND",
+    "value": "Part 2"
   },
   {
     "wordingKey": "WORD_CARD_LIST_FILTER",
@@ -3525,7 +3833,7 @@
   },
   {
     "wordingKey": "WORD_CARD_TOTAL_POWER",
-    "value": "Total"
+    "value": "Talent"
   },
   {
     "wordingKey": "WORD_CARD_TYPE",
@@ -3546,6 +3854,14 @@
   {
     "wordingKey": "WORD_CHALLENGE",
     "value": "Select"
+  },
+  {
+    "wordingKey": "WORD_CHALLENGE_BOOST_TEXT_1",
+    "value": "COLORFUL+ Bonus"
+  },
+  {
+    "wordingKey": "WORD_CHALLENGE_BOOST_TEXT_2",
+    "value": "Challenge Pts x 2"
   },
   {
     "wordingKey": "WORD_CHALLENGE_LIVE",
@@ -3570,6 +3886,10 @@
   {
     "wordingKey": "WORD_CHALLENGE_PLAY_DAY_REWARD_TITLE",
     "value": "This week's Challenge Stamp"
+  },
+  {
+    "wordingKey": "WORD_CHALLENGE_POINT",
+    "value": "Challenge Pts"
   },
   {
     "wordingKey": "WORD_CHALLENGE_STAGE",
@@ -3612,6 +3932,10 @@
     "value": "Parts"
   },
   {
+    "wordingKey": "WORD_CHARA",
+    "value": "Character"
+  },
+  {
     "wordingKey": "WORD_CHARACTER",
     "value": "Character"
   },
@@ -3624,12 +3948,20 @@
     "value": "Achievements"
   },
   {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_ACHIEVEMENT_GL",
+    "value": "Achiev."
+  },
+  {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_ANOTHER_VOCAL",
     "value": "Cover"
   },
   {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_AREA_TALK",
     "value": "Area Conversations"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_AREA_TALK_GL",
+    "value": "Area\nConv."
   },
   {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_AREA_TALK_SPAWN",
@@ -3646,6 +3978,10 @@
   {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_COSTUME",
     "value": "Costumes"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_MEMORY_AREA_TALK_SPAWN",
+    "value": "Occurs at {0} in the previous school year."
   },
   {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_STAMP",
@@ -3682,6 +4018,10 @@
   {
     "wordingKey": "WORD_CHARACTER_RANK_CONFIRM_REWARD_TITLE",
     "value": "Character Rank Rewards"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_RANK_EXP",
+    "value": "Character Rank EXP"
   },
   {
     "wordingKey": "WORD_CHARACTER_RANK_EXP_GET",
@@ -3744,8 +4084,16 @@
     "value": "Players from the same Crew are split into teams to play in a 5 vs 5 Show."
   },
   {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_FREE_MATCH_ENGLISH",
+    "value": "RANDOM MATCH"
+  },
+  {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_LIVE",
     "value": "Cheerful Show"
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_LIVE_GL",
+    "value": "CHEERFUL SHOW"
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_TEAM_CHANGE",
@@ -3760,12 +4108,20 @@
     "value": "Lost Plushie"
   },
   {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_TEAM_URGENT",
+    "value": "Urgent!"
+  },
+  {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_VETERAN_MATCH",
     "value": "Veteran Match"
   },
   {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_VETERAN_MATCH_DESC",
     "value": "Players with a high Total score play in a 5 vs 5 Show."
+  },
+  {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_VETERAN_MATCH_ENGLISH",
+    "value": "VETERAN MATCH"
   },
   {
     "wordingKey": "WORD_CHEERFUL_MATCHING",
@@ -3800,6 +4156,10 @@
     "value": "Close"
   },
   {
+    "wordingKey": "WORD_CLOTH_COUNT",
+    "value": "着"
+  },
+  {
     "wordingKey": "WORD_COIN",
     "value": "Coins"
   },
@@ -3808,8 +4168,16 @@
     "value": "Limited Crossover SEKAI"
   },
   {
+    "wordingKey": "WORD_COLLECTION",
+    "value": "Memorabilia"
+  },
+  {
     "wordingKey": "WORD_COLLECTION_GACHA",
     "value": "New Year's Memorabilia"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_GACHA_CONTENTS",
+    "value": "Memorabilia Details"
   },
   {
     "wordingKey": "WORD_COLLECTION_GACHA_NOTICE",
@@ -3892,6 +4260,10 @@
     "value": "COMBO"
   },
   {
+    "wordingKey": "WORD_COMMA",
+    "value": ","
+  },
+  {
     "wordingKey": "WORD_COMMENT_IS_SPOILER",
     "value": "Warning: Contains spoilers"
   },
@@ -3902,6 +4274,10 @@
   {
     "wordingKey": "WORD_COMMUNICATION",
     "value": "Communication"
+  },
+  {
+    "wordingKey": "WORD_COMMUNICATION_SETTING",
+    "value": "Communication Settings"
   },
   {
     "wordingKey": "WORD_COMMUNITY_REPORT",
@@ -3926,6 +4302,10 @@
   {
     "wordingKey": "WORD_COMPOSER",
     "value": "Music"
+  },
+  {
+    "wordingKey": "WORD_COMULATIVE",
+    "value": "Total"
   },
   {
     "wordingKey": "WORD_CONDITION_CUSTOMIZED",
@@ -4069,7 +4449,7 @@
   },
   {
     "wordingKey": "WORD_CRAFT_COSTUME_CONFIRM",
-    "value": "Confirm Costume Creation"
+    "value": "Trade items for this Costume?"
   },
   {
     "wordingKey": "WORD_CRAFT_COSTUME_TARGET",
@@ -4164,6 +4544,14 @@
     "value": "Insert Text"
   },
   {
+    "wordingKey": "WORD_CUSTOM_PROFILE_LAYER_MAX_FORMAT",
+    "value": "<color=#ff5588>{0}\/{1}<\/color>"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PROFILE_LAYER_NUM_FORMAT",
+    "value": "{0}\/{1}"
+  },
+  {
     "wordingKey": "WORD_CUSTOM_PROFILE_LINE_SPACING_LABEL",
     "value": "Line Spacing"
   },
@@ -4240,6 +4628,18 @@
     "value": "Edit"
   },
   {
+    "wordingKey": "WORD_DECK_EDIT_RESET_MEMBER",
+    "value": "Remove"
+  },
+  {
+    "wordingKey": "WORD_DECK_EDIT_SELECT_MEMBER",
+    "value": "Select a Character"
+  },
+  {
+    "wordingKey": "WORD_DECK_EDIT_SWAP_MEMBER",
+    "value": "Reorder"
+  },
+  {
     "wordingKey": "WORD_DECK_TOTAL_POWER",
     "value": "Total"
   },
@@ -4284,12 +4684,20 @@
     "value": "Designer"
   },
   {
+    "wordingKey": "WORD_DESIGN_CREATOR",
+    "value": "Designer"
+  },
+  {
     "wordingKey": "WORD_DESIGN_EDIT",
     "value": "Edit"
   },
   {
     "wordingKey": "WORD_DETAIL",
     "value": "Details"
+  },
+  {
+    "wordingKey": "WORD_DIFFICULTY_APPEND",
+    "value": "APPEND"
   },
   {
     "wordingKey": "WORD_DIFFICULTY_EASY",
@@ -4372,6 +4780,10 @@
     "value": "No"
   },
   {
+    "wordingKey": "WORD_DO_RESET",
+    "value": "Clear"
+  },
+  {
     "wordingKey": "WORD_DO_SETTING",
     "value": "Select"
   },
@@ -4382,6 +4794,14 @@
   {
     "wordingKey": "WORD_EASY_FILTER",
     "value": "Easy Filter"
+  },
+  {
+    "wordingKey": "WORD_EDITING",
+    "value": "編集中"
+  },
+  {
+    "wordingKey": "WORD_EDIT_DISCARDING",
+    "value": "編集破棄"
   },
   {
     "wordingKey": "WORD_EDIT_MYLIST",
@@ -4404,6 +4824,10 @@
     "value": "x{0}"
   },
   {
+    "wordingKey": "WORD_ELIPSIS_SCREEN_SHOT",
+    "value": "Screenshot"
+  },
+  {
     "wordingKey": "WORD_EMPTY_BACKGROUND",
     "value": "There are no Backgrounds available for display."
   },
@@ -4418,6 +4842,10 @@
   {
     "wordingKey": "WORD_EMPTY_SHAPE",
     "value": "There are no Shapes available for display."
+  },
+  {
+    "wordingKey": "WORD_END",
+    "value": "Finished"
   },
   {
     "wordingKey": "WORD_END_AT_FORMAT",
@@ -4572,8 +5000,16 @@
     "value": "Extra"
   },
   {
+    "wordingKey": "WORD_EVENT_MISSION_GL",
+    "value": "Event Missions"
+  },
+  {
     "wordingKey": "WORD_EVENT_MISSION_NORMAL",
     "value": "Regular"
+  },
+  {
+    "wordingKey": "WORD_EVENT_PERIOD_SCHEDULE",
+    "value": "{0:00}.{1:00} {2} {3:00}:{4:00}～{5:00}.{6:00} {7} {8:00}:{9:00}"
   },
   {
     "wordingKey": "WORD_EVENT_POINT",
@@ -4608,8 +5044,16 @@
     "value": "Characters"
   },
   {
+    "wordingKey": "WORD_EVENT_STORY_DATE_AND_TIME",
+    "value": "Show Date"
+  },
+  {
     "wordingKey": "WORD_EVENT_STORY_OUTLINE",
     "value": "Synopsis"
+  },
+  {
+    "wordingKey": "WORD_EVENT_STORY_START_DATE",
+    "value": "{0}"
   },
   {
     "wordingKey": "WORD_EVENT_STORY_TITLE",
@@ -4618,6 +5062,10 @@
   {
     "wordingKey": "WORD_EVNET_STORY_INFOMATION",
     "value": "About"
+  },
+  {
+    "wordingKey": "WORD_EX",
+    "value": "EX"
   },
   {
     "wordingKey": "WORD_EXCHANGE",
@@ -4629,7 +5077,7 @@
   },
   {
     "wordingKey": "WORD_EXCHANGE_COMPLETE",
-    "value": "Trade Complete"
+    "value": "Trade complete."
   },
   {
     "wordingKey": "WORD_EXCHANGE_ERROR_TITLE",
@@ -4668,6 +5116,10 @@
     "value": "Has Original MV"
   },
   {
+    "wordingKey": "WORD_EXMISSION_POINT_DESCRIPTION",
+    "value": "You can transfer excess progress\nfrom regular missions to EX missions."
+  },
+  {
     "wordingKey": "WORD_EXPECTED_TIME",
     "value": "予測時間"
   },
@@ -4676,8 +5128,60 @@
     "value": "EXP"
   },
   {
+    "wordingKey": "WORD_EXTRA_SHORT",
+    "value": "APD"
+  },
+  {
+    "wordingKey": "WORD_EX_CHARACTER_MISSION_ADD_COMPLETE",
+    "value": "Progressed EX Mission for {0} by <color=#FF77AA>{1}<\/color>."
+  },
+  {
     "wordingKey": "WORD_EX_CHARACTER_MISSION_INFORMATION_DIALOG_TITLE",
     "value": "EX Mission"
+  },
+  {
+    "wordingKey": "WORD_EX_MISSION",
+    "value": "EX Missions"
+  },
+  {
+    "wordingKey": "WORD_EX_MISSION_CAUTION_TEXT",
+    "value": "Note: This action cannot be undone."
+  },
+  {
+    "wordingKey": "WORD_EX_MISSION_COMPLETE_COUNT_TEXT",
+    "value": "Progress EX Mission by {0}."
+  },
+  {
+    "wordingKey": "WORD_EX_MISSION_COUNT_LABEL",
+    "value": "EX #{0}"
+  },
+  {
+    "wordingKey": "WORD_EX_MISSION_DETAIL",
+    "value": "EX Mission Details"
+  },
+  {
+    "wordingKey": "WORD_EX_MISSION_LEADER_PLAY",
+    "value": "Perform as Leader"
+  },
+  {
+    "wordingKey": "WORD_EX_MISSION_REWARD",
+    "value": "EX Mission Rewards"
+  },
+  {
+    "wordingKey": "WORD_EX_MISSION_REWARD_LAST_TITLE",
+    "value": "After EX Mission {0}"
+  },
+  {
+    "wordingKey": "WORD_EX_MISSION_REWARD_TITLE",
+    "value": "EX Mission {0}"
+  },
+  {
+    "wordingKey": "WORD_EX_MISSION_WAITING_ROOM",
+    "value": "Visit Green Room"
+  },
+  {
+    "wordingKey": "WORD_FAQ",
+    "value": "FAQ"
   },
   {
     "wordingKey": "WORD_FARMAT_MACHING",
@@ -4736,6 +5240,14 @@
     "value": "Score Boost (Specialty)"
   },
   {
+    "wordingKey": "WORD_FILTER_TITLE_CLEAR",
+    "value": "Clear Status"
+  },
+  {
+    "wordingKey": "WORD_FILTER_TITLE_MV",
+    "value": "Music Video"
+  },
+  {
     "wordingKey": "WORD_FINAL_CONFIRM",
     "value": "Setup"
   },
@@ -4752,6 +5264,14 @@
     "value": "Guaranteed Drop Rates"
   },
   {
+    "wordingKey": "WORD_FLICK",
+    "value": "Flick"
+  },
+  {
+    "wordingKey": "WORD_FONT",
+    "value": "Font"
+  },
+  {
     "wordingKey": "WORD_FONT_COLOR_SELECT",
     "value": "Select Text Color"
   },
@@ -4766,6 +5286,14 @@
   {
     "wordingKey": "WORD_FORTUNE_GACHA",
     "value": "Omikuji"
+  },
+  {
+    "wordingKey": "WORD_FRAME_LINE_COLOR",
+    "value": "Outline Color"
+  },
+  {
+    "wordingKey": "WORD_FRAME_LINE_SIZE",
+    "value": "Outline Width"
   },
   {
     "wordingKey": "WORD_FREE",
@@ -4786,6 +5314,10 @@
   {
     "wordingKey": "WORD_FRIEND",
     "value": "Friends"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_BLOCKING",
+    "value": "Blocked"
   },
   {
     "wordingKey": "WORD_FRIEND_COUNT",
@@ -4865,7 +5397,7 @@
   },
   {
     "wordingKey": "WORD_FRIEND_NOTICE_REQUEST",
-    "value": "Friend request from {0}"
+    "value": "Received friend request from <color=#ff5599>{0}<\/color>."
   },
   {
     "wordingKey": "WORD_FRIEND_NOTICE_REQUEST_MESSAGE",
@@ -4878,6 +5410,10 @@
   {
     "wordingKey": "WORD_FRIEND_REQUEST",
     "value": "Friend Request"
+  },
+  {
+    "wordingKey": "WORD_FRIEND_REQUESTING",
+    "value": "Friend Request Pending"
   },
   {
     "wordingKey": "WORD_FRIEND_REQUEST_ALL_RECEIVE",
@@ -4910,6 +5446,10 @@
   {
     "wordingKey": "WORD_FRIENT_INVITE_TITLE",
     "value": "Send invitation to a Friend"
+  },
+  {
+    "wordingKey": "WORD_FULL",
+    "value": "FULL"
   },
   {
     "wordingKey": "WORD_FULLSET",
@@ -4973,7 +5513,7 @@
   },
   {
     "wordingKey": "WORD_GET",
-    "value": "GET!"
+    "value": "GET"
   },
   {
     "wordingKey": "WORD_GET_CEIL_ITEM",
@@ -4988,12 +5528,20 @@
     "value": "{0} {1}\n \n <color={2}>{3}<\/color>"
   },
   {
+    "wordingKey": "WORD_GET_EXCLAMATION_MARK",
+    "value": "GET!"
+  },
+  {
     "wordingKey": "WORD_GET_ITEM",
     "value": "Item Acquired"
   },
   {
     "wordingKey": "WORD_GET_ORDER",
     "value": "Acquired"
+  },
+  {
+    "wordingKey": "WORD_GET_RANK_UP_REWARD",
+    "value": "Claimed Rank Up Rewards."
   },
   {
     "wordingKey": "WORD_GET_REWARD",
@@ -5093,7 +5641,7 @@
   },
   {
     "wordingKey": "WORD_GO_AREA_SHOP",
-    "value": "To Area Shop"
+    "value": "To Decoration Shop"
   },
   {
     "wordingKey": "WORD_GO_CHALLENGE_LIVE",
@@ -5156,6 +5704,10 @@
     "value": "To Music Shop"
   },
   {
+    "wordingKey": "WORD_GO_PRACTICE",
+    "value": "To Practice"
+  },
+  {
     "wordingKey": "WORD_GO_PROFILE",
     "value": "To Profile"
   },
@@ -5189,7 +5741,11 @@
   },
   {
     "wordingKey": "WORD_GO_TO_CRYSTAL_SHOP_FOR_STREAMING_LIVE_TICKET",
-    "value": "Crystal\nShop"
+    "value": "To Crystal Shop"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_EVENT_TOP",
+    "value": "To Event Screen"
   },
   {
     "wordingKey": "WORD_GO_VIRTUAL_LIVE",
@@ -5202,6 +5758,14 @@
   {
     "wordingKey": "WORD_GRATE_MISFORTUNE",
     "value": "Terrible Luck"
+  },
+  {
+    "wordingKey": "WORD_GROUP_DECIDE",
+    "value": "Crew Selected!"
+  },
+  {
+    "wordingKey": "WORD_GROUP_POINT",
+    "value": "Crew Pts"
   },
   {
     "wordingKey": "WORD_GROUP_POINT_TOTAL",
@@ -5237,19 +5801,19 @@
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_ACCESSORIES_TITLE",
-    "value": "Incompatible Exclusive Accessories"
+    "value": "Incompatible Accessories"
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_1",
-    "value": "• Increase <color=#3FD5C8>{0} {1}'s<\/color> Mastery Rank to 2 to unlock Hairstyle."
+    "value": "• Increase <color=#FF3366>\"{0}\" {1}<\/color>'s Mastery Rank to 2 to unlock Hairstyle."
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_2",
-    "value": "• <color=#3FD5C8>{0}<\/color> can only set hairstyle to <color=#3FD5C8>{1}<\/color>."
+    "value": "• The <color=#FF3366>{0}<\/color> Hairstyle can only be equipped by <color=#FF3366>{1}<\/color>."
   },
   {
     "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_3",
-    "value": "- <color=#3FD5C8>{0}<\/color> is incompatible with some exclusive Accessories."
+    "value": "• <color=#FF3366>{0}<\/color> is incompatible with some exclusive Accessories."
   },
   {
     "wordingKey": "WORD_HAIR_TYPE",
@@ -5408,6 +5972,10 @@
     "value": "{0} hours left"
   },
   {
+    "wordingKey": "WORD_ICON_LIST",
+    "value": "List"
+  },
+  {
     "wordingKey": "WORD_ID",
     "value": "ID"
   },
@@ -5417,7 +5985,11 @@
   },
   {
     "wordingKey": "WORD_IMPORTANT_ITEM",
-    "value": "Important\nItems"
+    "value": "Important Items"
+  },
+  {
+    "wordingKey": "WORD_IMPUT_WORD",
+    "value": "Text"
   },
   {
     "wordingKey": "WORD_INDEFINITE_PERIOD",
@@ -5488,6 +6060,18 @@
     "value": "Pending invitation."
   },
   {
+    "wordingKey": "WORD_IN_EVENT_HOLDING",
+    "value": "Now On"
+  },
+  {
+    "wordingKey": "WORD_IN_LIVE",
+    "value": "In Show"
+  },
+  {
+    "wordingKey": "WORD_IN_VIRTUAL_LIVE",
+    "value": "In Virtual Show"
+  },
+  {
     "wordingKey": "WORD_ITEM",
     "value": "Items"
   },
@@ -5506,6 +6090,10 @@
   {
     "wordingKey": "WORD_I_HAVE",
     "value": "Owned"
+  },
+  {
+    "wordingKey": "WORD_JACKET",
+    "value": "Cover Art"
   },
   {
     "wordingKey": "WORD_JEWEL",
@@ -5568,6 +6156,10 @@
     "value": "Level"
   },
   {
+    "wordingKey": "WORD_LEVELUP_COMPLETE",
+    "value": "Level up complete."
+  },
+  {
     "wordingKey": "WORD_LEVELUP_ITEM",
     "value": "Decoration Level Up"
   },
@@ -5577,11 +6169,15 @@
   },
   {
     "wordingKey": "WORD_LEVEL_FORMAT",
-    "value": "Lv. {0}\/<size=28>{1}<\/size>"
+    "value": "Lv. {0}\/<size=24>{1}<\/size>"
   },
   {
     "wordingKey": "WORD_LEVEL_FORMAT_NO_SIZE",
     "value": "Lv. {0}"
+  },
+  {
+    "wordingKey": "WORD_LEVEL_GL",
+    "value": "LEVEL"
   },
   {
     "wordingKey": "WORD_LEVEL_UP",
@@ -5608,6 +6204,10 @@
     "value": "Unlocked For Limited Time"
   },
   {
+    "wordingKey": "WORD_LINE_SPACE",
+    "value": "Line Spacing"
+  },
+  {
     "wordingKey": "WORD_LIST",
     "value": "Info"
   },
@@ -5625,7 +6225,11 @@
   },
   {
     "wordingKey": "WORD_LIVE_BONUS_PRESENT",
-    "value": "Give Bonus Energy"
+    "value": "Give Bonus Energy?"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BONUS_RATE",
+    "value": "Show Rewards {0}x"
   },
   {
     "wordingKey": "WORD_LIVE_BONUS_SETTING",
@@ -5640,8 +6244,16 @@
     "value": "<color=#ff5599>{0}<\/color>"
   },
   {
+    "wordingKey": "WORD_LIVE_BOOST_CONSUMPTION",
+    "value": "Bonus Energy Settings"
+  },
+  {
     "wordingKey": "WORD_LIVE_BOOST_CONSUMPTION_SETTING",
     "value": "Bonus Energy Settings"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BOOST_GL",
+    "value": "Bonus Energy"
   },
   {
     "wordingKey": "WORD_LIVE_BOOST_NOT_ENOUGH_JEWEL",
@@ -5672,6 +6284,10 @@
     "value": "Challenge\nShow"
   },
   {
+    "wordingKey": "WORD_LIVE_CHALLENGE_GL",
+    "value": "CHALLENGE SHOW"
+  },
+  {
     "wordingKey": "WORD_LIVE_CLOSE",
     "value": "Show Over"
   },
@@ -5700,6 +6316,10 @@
     "value": "Show Details"
   },
   {
+    "wordingKey": "WORD_LIVE_EFFECT_SETTING",
+    "value": "Display & Effect Settings"
+  },
+  {
     "wordingKey": "WORD_LIVE_FAILED",
     "value": "SHOW FAILED"
   },
@@ -5716,8 +6336,16 @@
     "value": "Show Invitations"
   },
   {
+    "wordingKey": "WORD_LIVE_MISSION",
+    "value": "Show Missions"
+  },
+  {
     "wordingKey": "WORD_LIVE_MISSION_PATH_NL",
     "value": "Premium\nMission Pass"
+  },
+  {
+    "wordingKey": "WORD_LIVE_NOTE_SETTING",
+    "value": "Note Settings"
   },
   {
     "wordingKey": "WORD_LIVE_NOTE_SPEED",
@@ -5760,6 +6388,10 @@
     "value": "Show Settings"
   },
   {
+    "wordingKey": "WORD_LIVE_SETTING_USE_120_FPS",
+    "value": "Frame Rate"
+  },
+  {
     "wordingKey": "WORD_LIVE_SKILL_JUGMENT",
     "value": "Accuracy Up"
   },
@@ -5800,6 +6432,14 @@
     "value": "Solo\nShow"
   },
   {
+    "wordingKey": "WORD_LIVE_SOLO_GL",
+    "value": "SOLO SHOW"
+  },
+  {
+    "wordingKey": "WORD_LIVE_STEEING_VSYNC",
+    "value": "VSync"
+  },
+  {
     "wordingKey": "WORD_LIVE_SUCCESS",
     "value": "SHOW CLEARED"
   },
@@ -5812,6 +6452,10 @@
     "value": "Co-op\nShow"
   },
   {
+    "wordingKey": "WORD_LIVE_TOGETHER_GL",
+    "value": "CO-OP SHOW"
+  },
+  {
     "wordingKey": "WORD_LIVE_VOLUME",
     "value": "Show Volume"
   },
@@ -5822,6 +6466,14 @@
   {
     "wordingKey": "WORD_LOGINBONUS_LIMIT",
     "value": "Ends on {0}"
+  },
+  {
+    "wordingKey": "WORD_LONG",
+    "value": "Hold"
+  },
+  {
+    "wordingKey": "WORD_LONG_NOTES_ALPHA",
+    "value": "Long Note Transparency"
   },
   {
     "wordingKey": "WORD_LOOK_BUTTON",
@@ -5880,6 +6532,10 @@
     "value": "x{0} left"
   },
   {
+    "wordingKey": "WORD_MASTER_LESSON_MEMBER_DETAIL",
+    "value": "Mastery"
+  },
+  {
     "wordingKey": "WORD_MASTER_LESSON_NL",
     "value": "Mastery"
   },
@@ -5902,6 +6558,10 @@
   {
     "wordingKey": "WORD_MASTER_RANK_CONFIRM_REWARD_TITLE",
     "value": "Mastery Rank Rewards"
+  },
+  {
+    "wordingKey": "WORD_MASTER_RANK_NUM",
+    "value": "Mastery Rank {0}"
   },
   {
     "wordingKey": "WORD_MASTER_RANK_REWARD",
@@ -6002,6 +6662,10 @@
   {
     "wordingKey": "WORD_MEMORIAL_STORY_N",
     "value": "Event\nStory"
+  },
+  {
+    "wordingKey": "WORD_MENS_GL",
+    "value": "MEN'S"
   },
   {
     "wordingKey": "WORD_MENU",
@@ -6220,6 +6884,10 @@
     "value": "Multi"
   },
   {
+    "wordingKey": "WORD_MULTIPLE_ITEM_FORMAT",
+    "value": "{0}×{1}"
+  },
+  {
     "wordingKey": "WORD_MULTIPLY_FORMAT",
     "value": "×{0}"
   },
@@ -6236,6 +6904,30 @@
     "value": "Music Card"
   },
   {
+    "wordingKey": "WORD_MUSIC_CATEGORY_2D",
+    "value": "2D"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_CATEGORY_3D",
+    "value": "3D"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_CATEGORY_ALL",
+    "value": "All"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_CATEGORY_LIMITED",
+    "value": "Limited Time"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_CATEGORY_ORIGINAL",
+    "value": "Orig."
+  },
+  {
+    "wordingKey": "WORD_MUSIC_CATEGORY_OTHER",
+    "value": "Other"
+  },
+  {
     "wordingKey": "WORD_MUSIC_DATA",
     "value": "Song Info"
   },
@@ -6249,7 +6941,7 @@
   },
   {
     "wordingKey": "WORD_MUSIC_INFO",
-    "value": "General Info"
+    "value": "Song Info"
   },
   {
     "wordingKey": "WORD_MUSIC_LEVEL",
@@ -6281,7 +6973,7 @@
   },
   {
     "wordingKey": "WORD_MUSIC_SELECT_BACK",
-    "value": "Song Select"
+    "value": "To Song Select"
   },
   {
     "wordingKey": "WORD_MUSIC_SELECT_FILTER",
@@ -6332,8 +7024,16 @@
     "value": "Music Video File Settings"
   },
   {
+    "wordingKey": "WORD_MV_TYPE",
+    "value": "Music Video Type"
+  },
+  {
     "wordingKey": "WORD_MV_VIEWING",
     "value": "Music Video\nViewer"
+  },
+  {
+    "wordingKey": "WORD_MV_VIEWING_GL",
+    "value": "MUSIC VIDEO\nVIEWER"
   },
   {
     "wordingKey": "WORD_MYLIST_MUSIC_NUM",
@@ -6352,6 +7052,10 @@
     "value": "You have unsaved changes to this Playlist.\nSave and exit?"
   },
   {
+    "wordingKey": "WORD_MY_FAVORITE_STORY",
+    "value": "Fav. Story"
+  },
+  {
     "wordingKey": "WORD_MY_LIST",
     "value": "Playlists"
   },
@@ -6365,7 +7069,7 @@
   },
   {
     "wordingKey": "WORD_NEWLY_WRITTEN_MUSIC",
-    "value": "Original\nSong"
+    "value": "Original Song"
   },
   {
     "wordingKey": "WORD_NEWS",
@@ -6384,8 +7088,16 @@
     "value": "Next"
   },
   {
+    "wordingKey": "WORD_NEXT_ENG",
+    "value": "NEXT"
+  },
+  {
     "wordingKey": "WORD_NEXT_HIGH_SCORE_BONUS",
     "value": "Next High Score Bonus"
+  },
+  {
+    "wordingKey": "WORD_NEXT_REWARD",
+    "value": "Mission Progress"
   },
   {
     "wordingKey": "WORD_NEXT_STORY",
@@ -6408,8 +7120,20 @@
     "value": "No Record"
   },
   {
+    "wordingKey": "WORD_NORMAL_MISSION",
+    "value": "Regular Missions"
+  },
+  {
     "wordingKey": "WORD_NOTATION",
     "value": "Legal & Licenses"
+  },
+  {
+    "wordingKey": "WORD_NOTES_SE",
+    "value": "Note SFX"
+  },
+  {
+    "wordingKey": "WORD_NOTES_SKIN",
+    "value": "Note Skin"
   },
   {
     "wordingKey": "WORD_NOTICE",
@@ -6438,6 +7162,10 @@
   {
     "wordingKey": "WORD_NOT_ENOUGH_VIRTUAL_COIN",
     "value": "Insufficient Virtual Coins."
+  },
+  {
+    "wordingKey": "WORD_NOT_EXIST_MV",
+    "value": "No MV"
   },
   {
     "wordingKey": "WORD_NOT_FULL_COMBO",
@@ -6470,6 +7198,10 @@
   {
     "wordingKey": "WORD_NOT_PURCHASED",
     "value": "Not Purchased"
+  },
+  {
+    "wordingKey": "WORD_NOT_RELEASE_MASTER",
+    "value": "Master Locked"
   },
   {
     "wordingKey": "WORD_NOT_SATISFIED",
@@ -6528,6 +7260,10 @@
     "value": "Nothing has been placed yet."
   },
   {
+    "wordingKey": "WORD_NO_PLAYER_CELL_TEXT",
+    "value": "NO PLAYER"
+  },
+  {
     "wordingKey": "WORD_NO_SELECTING",
     "value": "None Selected"
   },
@@ -6558,6 +7294,14 @@
   {
     "wordingKey": "WORD_OFFLINE_EVENT_LIST_DIALOG_TITLE",
     "value": "優先申込み対象イベント"
+  },
+  {
+    "wordingKey": "WORD_OFFLINE_EVENT_NOW_ENTRY",
+    "value": "申込み受付中！"
+  },
+  {
+    "wordingKey": "WORD_OFFLINE_GL",
+    "value": "OFFLINE"
   },
   {
     "wordingKey": "WORD_OK",
@@ -6602,6 +7346,10 @@
   {
     "wordingKey": "WORD_ONCE_CHECK_AGAIN_LIVE",
     "value": "Play Again"
+  },
+  {
+    "wordingKey": "WORD_ONLINE_GL",
+    "value": "ONLINE"
   },
   {
     "wordingKey": "WORD_OP",
@@ -6684,6 +7432,10 @@
     "value": "Other"
   },
   {
+    "wordingKey": "WORD_OUT_OF_RANKING",
+    "value": "No Ranking"
+  },
+  {
     "wordingKey": "WORD_PAID_CHARGE",
     "value": "Paid"
   },
@@ -6698,6 +7450,10 @@
   {
     "wordingKey": "WORD_PAID_LIVE_PART",
     "value": "{0} Performance {1}"
+  },
+  {
+    "wordingKey": "WORD_PAMPHLET_PAGE_NUM",
+    "value": "{0}\/{1}"
   },
   {
     "wordingKey": "WORD_PANEL_MISSION",
@@ -6746,6 +7502,10 @@
   {
     "wordingKey": "WORD_PERCENT_VALUE",
     "value": "{0}%"
+  },
+  {
+    "wordingKey": "WORD_PERFORMANCE_TIME",
+    "value": "Duration"
   },
   {
     "wordingKey": "WORD_PERFORMER",
@@ -6856,6 +7616,10 @@
     "value": "Play"
   },
   {
+    "wordingKey": "WORD_PLUS_PERCENT_VALUE",
+    "value": "+{0}％"
+  },
+  {
     "wordingKey": "WORD_PM_TIME",
     "value": "12:00 p.m. - 11:59 p.m."
   },
@@ -6870,6 +7634,10 @@
   {
     "wordingKey": "WORD_PRACTICE_CONFIRM",
     "value": "Practice"
+  },
+  {
+    "wordingKey": "WORD_PRACTICE_LEVEL_FORMAT",
+    "value": "{0}\/<size=24>{1}<\/size>"
   },
   {
     "wordingKey": "WORD_PRACTICE_LEVEL_MAX",
@@ -7044,6 +7812,10 @@
     "value": "Ranked Match"
   },
   {
+    "wordingKey": "WORD_RANKMATCH_GL",
+    "value": "RANKED MATCH"
+  },
+  {
     "wordingKey": "WORD_RANKMATCH_RANKING",
     "value": "Ranked Match Rankings"
   },
@@ -7057,11 +7829,19 @@
   },
   {
     "wordingKey": "WORD_RANK_CLASS_POINT_FORMAT",
-    "value": "× <color=#bb44ff>{0}<\/color>"
+    "value": "<color=#bb99ff>x{0}<\/color>"
   },
   {
     "wordingKey": "WORD_RANK_LIVE_FIND_OPPONENT_FIX_BUTTON_LABEL",
     "value": "Start"
+  },
+  {
+    "wordingKey": "WORD_RANK_LIVE_FIND_OPPONENT_TITLE",
+    "value": "Opponent found!"
+  },
+  {
+    "wordingKey": "WORD_RANK_LIVE_PLAYER_WIN_TEXT",
+    "value": "Win Streak!"
   },
   {
     "wordingKey": "WORD_RANK_POINT_BONUS",
@@ -7124,6 +7904,10 @@
     "value": "Viewed"
   },
   {
+    "wordingKey": "WORD_READ_STATUS_FILTER",
+    "value": "View Status"
+  },
+  {
     "wordingKey": "WORD_RECEIPT_DATE",
     "value": "Claimed"
   },
@@ -7133,7 +7917,7 @@
   },
   {
     "wordingKey": "WORD_RECEIVE_PRESENT",
-    "value": "Claim Gifts"
+    "value": "Claimed the following items."
   },
   {
     "wordingKey": "WORD_RECOMMEND",
@@ -7185,7 +7969,7 @@
   },
   {
     "wordingKey": "WORD_RELEASE_AREA_SHOP",
-    "value": "Area Shop Unlocked"
+    "value": "Decoration Shop Unlocked"
   },
   {
     "wordingKey": "WORD_RELEASE_CHALLENGE_LIVE",
@@ -7208,6 +7992,10 @@
     "value": "Skill Up Unlocked"
   },
   {
+    "wordingKey": "WORD_RELEASE_YEAR",
+    "value": "Initial Release"
+  },
+  {
     "wordingKey": "WORD_RELEASING_AT_PREMIUM_MISSION_PATH_PURCHASE",
     "value": "Purchase Premium Mission Pass"
   },
@@ -7217,7 +8005,7 @@
   },
   {
     "wordingKey": "WORD_REMAIN_NUM",
-    "value": "Remaining:"
+    "value": "Remaining"
   },
   {
     "wordingKey": "WORD_REMAIN_TIME",
@@ -7276,8 +8064,36 @@
     "value": "＋{0}"
   },
   {
+    "wordingKey": "WORD_RESULT_ALL_PERFECT",
+    "value": "ALL PERFECT"
+  },
+  {
+    "wordingKey": "WORD_RESULT_COMBO",
+    "value": "COMBO"
+  },
+  {
     "wordingKey": "WORD_RESULT_DAILY_BONUS",
     "value": "Daily Bonus"
+  },
+  {
+    "wordingKey": "WORD_RESULT_FAST",
+    "value": "EARLY"
+  },
+  {
+    "wordingKey": "WORD_RESULT_FLICK",
+    "value": "WRONG WAY"
+  },
+  {
+    "wordingKey": "WORD_RESULT_FULL_COMBO",
+    "value": "FULL COMBO!"
+  },
+  {
+    "wordingKey": "WORD_RESULT_LATE",
+    "value": "LATE"
+  },
+  {
+    "wordingKey": "WORD_RESULT_NEW_RECORD",
+    "value": "NEW RECORD!"
   },
   {
     "wordingKey": "WORD_RESUME",
@@ -7322,6 +8138,10 @@
   {
     "wordingKey": "WORD_RIGHT_NATATION",
     "value": "Licenses"
+  },
+  {
+    "wordingKey": "WORD_RIVAL_MATCHING",
+    "value": "Rival Team found！"
   },
   {
     "wordingKey": "WORD_ROOM_ID",
@@ -7392,6 +8212,10 @@
     "value": "Search"
   },
   {
+    "wordingKey": "WORD_SEARCH_FIELD",
+    "value": "Search by song title or artist"
+  },
+  {
     "wordingKey": "WORD_SEARCH_ID",
     "value": "Search ID"
   },
@@ -7425,7 +8249,7 @@
   },
   {
     "wordingKey": "WORD_SEKAI_VSINGER",
-    "value": "This SEKAI's VIRTUAL SINGERS"
+    "value": "VIRTUAL SINGERS you'll first meet"
   },
   {
     "wordingKey": "WORD_SELECT",
@@ -7441,7 +8265,7 @@
   },
   {
     "wordingKey": "WORD_SELECTING_COSTUME",
-    "value": "Costume Select"
+    "value": "Selected"
   },
   {
     "wordingKey": "WORD_SELECTING_MUSIC",
@@ -7480,6 +8304,10 @@
     "value": "Next"
   },
   {
+    "wordingKey": "WORD_SELECT_FONT",
+    "value": "Select Font"
+  },
+  {
     "wordingKey": "WORD_SELECT_LATER",
     "value": "Select Later"
   },
@@ -7488,12 +8316,20 @@
     "value": "Pick List"
   },
   {
+    "wordingKey": "WORD_SELECT_LIVE",
+    "value": "SELECT SHOW"
+  },
+  {
     "wordingKey": "WORD_SELECT_LIVE_COSTUME",
     "value": "Costume Select"
   },
   {
     "wordingKey": "WORD_SELECT_MEMBER",
     "value": "Select Characters!"
+  },
+  {
+    "wordingKey": "WORD_SELECT_MENU",
+    "value": "SELECT MENU"
   },
   {
     "wordingKey": "WORD_SELECT_RANK",
@@ -7538,6 +8374,10 @@
   {
     "wordingKey": "WORD_SET_PROFILE",
     "value": "Set as Profile"
+  },
+  {
+    "wordingKey": "WORD_SHAPE",
+    "value": "Shapes"
   },
   {
     "wordingKey": "WORD_SHAPE_COLOR",
@@ -7585,7 +8425,7 @@
   },
   {
     "wordingKey": "WORD_SHOP_BUTTON_MESSAGE_3_NL",
-    "value": "特商法\n資金決済法"
+    "value": "特商法・資金決済法"
   },
   {
     "wordingKey": "WORD_SHOP_DAY",
@@ -7660,6 +8500,10 @@
     "value": "Calibrate With Preview"
   },
   {
+    "wordingKey": "WORD_SIDE_STORY_CARD_TITLE",
+    "value": "{0}"
+  },
+  {
     "wordingKey": "WORD_SIDE_STORY_NL",
     "value": "Side\nStory"
   },
@@ -7729,7 +8573,7 @@
   },
   {
     "wordingKey": "WORD_SL_SETTINGS_ENABLE_SE",
-    "value": "Venue Cheering"
+    "value": "Audience Cheering in Connect Shows"
   },
   {
     "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN",
@@ -7750,6 +8594,10 @@
   {
     "wordingKey": "WORD_SOHW_ONLINE",
     "value": "Display Online Status"
+  },
+  {
+    "wordingKey": "WORD_SOLDOUT",
+    "value": "SOLD OUT"
   },
   {
     "wordingKey": "WORD_SOLO",
@@ -7794,6 +8642,18 @@
   {
     "wordingKey": "WORD_SORT_SKILL_EFFECT_VALUE",
     "value": "Skill Effect Value"
+  },
+  {
+    "wordingKey": "WORD_SOUND",
+    "value": "Sound"
+  },
+  {
+    "wordingKey": "WORD_SPECIAL",
+    "value": "SPECIAL"
+  },
+  {
+    "wordingKey": "WORD_SPECIAL_MISSION_GL",
+    "value": "Special Missions"
   },
   {
     "wordingKey": "WORD_SPECIAL_SKILL",
@@ -7948,6 +8808,10 @@
     "value": "Connect Show"
   },
   {
+    "wordingKey": "WORD_STREAMING_LIVE_BALLOON_AGAIN_TAP",
+    "value": "Tap again to confirm!"
+  },
+  {
     "wordingKey": "WORD_STREAMING_LIVE_PART",
     "value": "Performance {0}"
   },
@@ -7960,8 +8824,16 @@
     "value": "購入済みのスペシャルグッズセットが含まれています。\nセットに含まれる以下のグッズは\n再度購入しても重複して獲得することはできません。"
   },
   {
+    "wordingKey": "WORD_STREAMING_LIVE_TICKET_PURCHASED",
+    "value": "{0} purchased."
+  },
+  {
     "wordingKey": "WORD_STREAMING_LIVE_TICKET_SHOP",
     "value": "Ticket Shop"
+  },
+  {
+    "wordingKey": "WORD_SUBSCRIBED",
+    "value": "Active"
   },
   {
     "wordingKey": "WORD_SUBSCRIPTION",
@@ -8028,12 +8900,20 @@
     "value": "Chat Log"
   },
   {
+    "wordingKey": "WORD_TAP",
+    "value": "Tap"
+  },
+  {
     "wordingKey": "WORD_TEMPLATE_LAYOUT",
     "value": "Template"
   },
   {
     "wordingKey": "WORD_TEMPLATE_LAYOUT_WHITE",
     "value": "No Template (Blank Canvas)"
+  },
+  {
+    "wordingKey": "WORD_TEMP_LIMIT",
+    "value": "Temporary Restriction"
   },
   {
     "wordingKey": "WORD_TERM",
@@ -8092,6 +8972,10 @@
     "value": "1 min left"
   },
   {
+    "wordingKey": "WORD_TIME_TO_APPEARANCE",
+    "value": "Release"
+  },
+  {
     "wordingKey": "WORD_TIMING_ADJUSTMENT",
     "value": "Timing"
   },
@@ -8102,6 +8986,10 @@
   {
     "wordingKey": "WORD_TIMING_SETTING_SOUND",
     "value": "Tap in time with the metronome and calibrate accordingly."
+  },
+  {
+    "wordingKey": "WORD_TIPS",
+    "value": "TIPS"
   },
   {
     "wordingKey": "WORD_TITLE",
@@ -8120,12 +9008,28 @@
     "value": "Costume Change Complete"
   },
   {
+    "wordingKey": "WORD_TITLE_GOLD_TICKET_MISSION",
+    "value": "Event Show Missions"
+  },
+  {
+    "wordingKey": "WORD_TITLE_LIVE_MISSION",
+    "value": "This Month's Show Missions"
+  },
+  {
+    "wordingKey": "WORD_TITLE_LIVE_SETTING_USE_120_FPS",
+    "value": "Frame Rate"
+  },
+  {
     "wordingKey": "WORD_TITLE_STREAMING_LIVE_TICKET_EXCHANGE_CONFIRM",
     "value": "Confirm Purchase"
   },
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
     "value": "Today's Attempts"
+  },
+  {
+    "wordingKey": "WORD_TODAY_MINUTES_IS_ENDED_IN",
+    "value": "Daily limit reached"
   },
   {
     "wordingKey": "WORD_TODAY_PART_END",
@@ -8169,11 +9073,11 @@
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_CARD",
-    "value": "Total"
+    "value": "Performance"
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_CARD_BASE_TOTAL_POWER",
-    "value": "Total"
+    "value": "Total Talent"
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_CARD_BASE_TOTAL_POWER_PLUS",
@@ -8189,7 +9093,7 @@
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_DETAIL_CARD",
-    "value": "Total Details"
+    "value": "Talent Breakdown"
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_DETAIL_DECK",
@@ -8204,6 +9108,10 @@
     "value": "Title Bonus"
   },
   {
+    "wordingKey": "WORD_TOTAL_SCORE",
+    "value": "Total Score"
+  },
+  {
     "wordingKey": "WORD_TOURNAMENT_HIGH_SCORE",
     "value": "Tournament High Score"
   },
@@ -8216,6 +9124,14 @@
     "value": "Details"
   },
   {
+    "wordingKey": "WORD_TO_CURRENT_TIME_ANNOTATION",
+    "value": "*Area Conversations will revert to the current school year."
+  },
+  {
+    "wordingKey": "WORD_TO_CURRENT_TIME_MESSAGE",
+    "value": "Return to the present?"
+  },
+  {
     "wordingKey": "WORD_TO_EXCHANGE_SHOP",
     "value": "Trade"
   },
@@ -8224,8 +9140,20 @@
     "value": "外部サイトへ"
   },
   {
+    "wordingKey": "WORD_TO_MEMORY_ANNOTATION",
+    "value": "*Area Conversations will switch to the previous school year."
+  },
+  {
+    "wordingKey": "WORD_TO_MEMORY_MESSAGE",
+    "value": "Touch the Memory Fragment and travel to the previous school year?"
+  },
+  {
     "wordingKey": "WORD_TO_SHOP",
     "value": "To Shop"
+  },
+  {
+    "wordingKey": "WORD_TRACE",
+    "value": "Trace"
   },
   {
     "wordingKey": "WORD_TUTORIAL_GAME_DESCRIPTION_END_CONFIRM_MESSAGE",
@@ -8238,6 +9166,10 @@
   {
     "wordingKey": "WORD_TWITTER",
     "value": "To X(Twitter)"
+  },
+  {
+    "wordingKey": "WORD_TYPE",
+    "value": "Category"
   },
   {
     "wordingKey": "WORD_UNCERTAIN_LUCK",
@@ -8324,12 +9256,20 @@
     "value": "+{0} High Score"
   },
   {
+    "wordingKey": "WORD_UP_TO_START",
+    "value": "Venue opens in"
+  },
+  {
     "wordingKey": "WORD_USE_COUNT",
     "value": "Uses"
   },
   {
     "wordingKey": "WORD_USE_WITH",
     "value": "Use"
+  },
+  {
+    "wordingKey": "WORD_VALID_GOLDEN_CHARM_GL",
+    "value": "Valid Golden Charm"
   },
   {
     "wordingKey": "WORD_VALUE_SET_GACHA_TICKET",
@@ -8408,6 +9348,10 @@
     "value": "Confirm Exit"
   },
   {
+    "wordingKey": "WORD_VIRTUAL_LIVE_GL",
+    "value": "VIRTUAL SHOW"
+  },
+  {
     "wordingKey": "WORD_VIRTUAL_LIVE_HOME_REWARD_DIALOG_CHEER_PONT",
     "value": "Recorded Fan Pts"
   },
@@ -8424,8 +9368,12 @@
     "value": "SEKAI Player"
   },
   {
+    "wordingKey": "WORD_VIRTUAL_LIVE_SCHEDULE_PART_NUM",
+    "value": "Show {0}"
+  },
+  {
     "wordingKey": "WORD_VIRTUAL_LIVE_SCHEDULE_START_TIME",
-    "value": "Show {0} {1}-"
+    "value": "{0}"
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SCREEN_SHOT_REQUIRED_RESON_TITLE",
@@ -8446,6 +9394,10 @@
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_CAMERA_CONTROL",
     "value": "Camera Control"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_COMMON",
+    "value": "General Settings"
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_GYRO_OFF",
@@ -8504,8 +9456,16 @@
     "value": "Wave your Glow Stick to earn Fan Pts!\nFill the gauge and earn rewards♪"
   },
   {
+    "wordingKey": "WORD_VIRTUAL_LIVE_TUTORIAL_FILTER_CHARA_STAMP",
+    "value": "Switch this on to display\nonly content for characters\nappearing in the show!"
+  },
+  {
     "wordingKey": "WORD_VIRTUAL_LIVE_TUTORIAL_GYRO",
     "value": "Move your device to look around the venue!"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_LIVE_TUTORIAL_LOCK_ON",
+    "value": "Tap on a character's face to follow them\naround with the camera."
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_TUTORIAL_LOCK_ON_CAMERA",
@@ -8746,6 +9706,18 @@
   {
     "wordingKey": "WORD_WITH_LIVE_COSTUME",
     "value": "Incl. Costume"
+  },
+  {
+    "wordingKey": "WORD_WOMENS_GL",
+    "value": "WOMEN'S"
+  },
+  {
+    "wordingKey": "WORD_WORD_COLOR",
+    "value": "Text Color"
+  },
+  {
+    "wordingKey": "WORD_WORD_SIZE",
+    "value": "Font Size"
   },
   {
     "wordingKey": "WORD_YEAR",
