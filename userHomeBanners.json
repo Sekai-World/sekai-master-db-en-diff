@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 731,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル神高イベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha374",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 374,
-    "startAt": 1726858800000,
-    "endAt": 1727722799000
-  },
-  {
     "homeBannerId": 732,
     "seq": 100,
     "homeBannerType": "event",
@@ -31,6 +20,50 @@
     "transitionDestinationId": 107,
     "startAt": 1726869600000,
     "endAt": 1727733599000
+  },
+  {
+    "homeBannerId": 741,
+    "seq": 10,
+    "homeBannerType": "general",
+    "name": "[ガチャ]セレクトリストガチャ LIMITED EDITION",
+    "assetbundleName": "banner_gacha377",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 377,
+    "startAt": 1727679600000,
+    "endAt": 1728759599000
+  },
+  {
+    "homeBannerId": 742,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ガチャ_プレプレガチャ全体バナー",
+    "assetbundleName": "banner_gacha_tab28",
+    "transitionDestinationType": "gacha_tab_parent",
+    "transitionDestinationId": 28,
+    "startAt": 1727679600000,
+    "endAt": 1728759599000
+  },
+  {
+    "homeBannerId": 743,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "JP 3rd Anniversary Colorful Festival Gacha Dream Pick",
+    "assetbundleName": "banner_gacha386",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 386,
+    "startAt": 1727722800000,
+    "endAt": 1728068399000
+  },
+  {
+    "homeBannerId": 744,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ガチャ_無料10連ガチャバナー",
+    "assetbundleName": "banner_gacha385",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 385,
+    "startAt": 1727679600000,
+    "endAt": 1728039599000
   },
   {
     "homeBannerId": 1001,
