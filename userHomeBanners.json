@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 732,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル神高イベ_イベントバナー",
-    "assetbundleName": "event_study_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 107,
-    "startAt": 1726869600000,
-    "endAt": 1727733599000
-  },
-  {
     "homeBannerId": 741,
     "seq": 10,
     "homeBannerType": "general",
@@ -66,6 +55,17 @@
     "endAt": 1728039599000
   },
   {
+    "homeBannerId": 745,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]3周年シャッフルイベ_イベントバナー",
+    "assetbundleName": "event_hello_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 108,
+    "startAt": 1727733600000,
+    "endAt": 1728770399000
+  },
+  {
     "homeBannerId": 1001,
     "seq": 200,
     "homeBannerType": "general",
@@ -86,6 +86,16 @@
     "transitionDestinationId": 1088,
     "startAt": 1727204400000,
     "endAt": 1727981999000
+  },
+  {
+    "homeBannerId": 1121,
+    "seq": 210,
+    "homeBannerType": "general",
+    "name": "Monthly Bundle",
+    "assetbundleName": "banner_shop_monthlypack_gl",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1727766000000,
+    "endAt": 4102473540000
   },
   {
     "homeBannerId": 1122,
