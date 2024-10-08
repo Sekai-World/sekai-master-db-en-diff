@@ -2954,6 +2954,21 @@
     "endAt": 1728557999000
   },
   {
+    "id": 20119,
+    "seq": 100,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 20117,
+    "name": "Rank 300 Celebration Bundle",
+    "description": "Special value bundle rank 300. Limited time.",
+    "billableLimitType": "unlimited",
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_20107",
+    "resourceBoxId": 20105,
+    "bonusResourceBoxId": 20105,
+    "startAt": 1729594800000,
+    "endAt": 4102473599000
+  },
+  {
     "id": 20120,
     "seq": 100,
     "billingShopItemType": "value_set",
@@ -4162,6 +4177,22 @@
     "label": "1 Time Only",
     "startAt": 1726210800000,
     "endAt": 1727333999000
+  },
+  {
+    "id": 50074,
+    "seq": 340,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50104,
+    "name": "12M DLs! Gacha Ticket",
+    "description": "4★ Character Guaranteed!",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_50074",
+    "resourceBoxId": 50074,
+    "label": "1 Time Only",
+    "startAt": 1729191600000,
+    "endAt": 1729861199000
   },
   {
     "id": 80000,
@@ -6356,6 +6387,40 @@
     "assetbundleName": "shop_300440",
     "resourceBoxId": 248,
     "startAt": 1727766000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300460,
+    "seq": 460001,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "2024 Halloween Costume Bundle (A)",
+    "description": "*Can only be equipped by certain Characters.",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300460",
+    "resourceBoxId": 254,
+    "label": "Limited Time",
+    "startAt": 1730239200000,
+    "endAt": 1730498399000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300461,
+    "seq": 460000,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "2024 Halloween Costume Bundle (B)",
+    "description": "*Can only be equipped by certain Characters.",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300461",
+    "resourceBoxId": 255,
+    "label": "Limited Time",
+    "startAt": 1730239200000,
+    "endAt": 1730498399000,
     "purchaseOption": "exchange"
   },
   {
