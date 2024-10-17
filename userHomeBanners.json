@@ -66,6 +66,27 @@
     "endAt": 1730487599000
   },
   {
+    "homeBannerId": 1119,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "12M DLs! Gacha Ticket",
+    "assetbundleName": "banner_shop_gachaticket_900dl_gl",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1729191600000,
+    "endAt": 1729861199000
+  },
+  {
+    "homeBannerId": 1120,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "12 Million Downloads! 4★ Guaranteed Gacha",
+    "assetbundleName": "banner_gacha1091",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1091,
+    "startAt": 1729191600000,
+    "endAt": 1729882799000
+  },
+  {
     "homeBannerId": 1121,
     "seq": 210,
     "homeBannerType": "general",
