@@ -11,37 +11,37 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 752,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ15巡目_イベントバナー",
-    "assetbundleName": "event_burn_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 109,
-    "startAt": 1728770400000,
-    "endAt": 1729634399000
-  },
-  {
-    "homeBannerId": 754,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[It's Back] Darkness Festa Gacha",
-    "assetbundleName": "banner_gacha395",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 395,
-    "startAt": 1729018800000,
-    "endAt": 1729796399000
-  },
-  {
-    "homeBannerId": 757,
+    "homeBannerId": 768,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ15巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha396",
+    "name": "[ガチャ]モモジャン箱イベ15巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha401",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 396,
-    "startAt": 1729623600000,
-    "endAt": 1730401199000
+    "transitionDestinationId": 401,
+    "startAt": 1730401200000,
+    "endAt": 1731095999000
+  },
+  {
+    "homeBannerId": 769,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]モモジャン箱イベ15巡目_イベントバナー",
+    "assetbundleName": "event_warmth_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 111,
+    "startAt": 1730412000000,
+    "endAt": 1731124799000
+  },
+  {
+    "homeBannerId": 772,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワールドリンクイベントサポートガチャ",
+    "assetbundleName": "banner_gacha405",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 405,
+    "startAt": 1730487600000,
+    "endAt": 1731095999000
   },
   {
     "homeBannerId": 1001,
@@ -53,38 +53,6 @@
     "transitionDestinationId": 1,
     "startAt": 1633118400000,
     "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1118,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "2024 October Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1089",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1089,
-    "startAt": 1728586800000,
-    "endAt": 1730487599000
-  },
-  {
-    "homeBannerId": 1119,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "12M DLs! Gacha Ticket",
-    "assetbundleName": "banner_shop_gachaticket_900dl_gl",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1729191600000,
-    "endAt": 1729861199000
-  },
-  {
-    "homeBannerId": 1120,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "12 Million Downloads! 4★ Guaranteed Gacha",
-    "assetbundleName": "banner_gacha1091",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1091,
-    "startAt": 1729191600000,
-    "endAt": 1729882799000
   },
   {
     "homeBannerId": 1121,
@@ -104,6 +72,6 @@
     "assetbundleName": "banner_cp_invite_friends",
     "transitionDestinationType": "friend_invitation_campaign",
     "startAt": 1727118000000,
-    "endAt": 1733039999000
+    "endAt": 1731484799000
   }
 ]

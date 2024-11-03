@@ -5164,5 +5164,126 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 229,
+    "seq": 229,
+    "name": "第111回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 404,
+        "virtualShopId": 229,
+        "virtualShopItemType": "accessory",
+        "seq": 99891,
+        "resourceBoxId": 301,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1730412000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 230,
+    "seq": 230,
+    "name": "MEIKO's Anniversary",
+    "virtualShopItems": [
+      {
+        "id": 405,
+        "virtualShopId": 230,
+        "virtualShopItemType": "coordinate",
+        "seq": 99845,
+        "resourceBoxId": 302,
+        "costPaidJewel": 1000,
+        "startAt": 1730674800000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 231,
+    "seq": 231,
+    "name": "第112回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 406,
+        "virtualShopId": 231,
+        "virtualShopItemType": "penlight",
+        "seq": 199867,
+        "resourceBoxId": 303,
+        "costPaidJewel": 1000,
+        "startAt": 1731124800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 232,
+    "seq": 232,
+    "name": "彰人 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 407,
+        "virtualShopId": 232,
+        "virtualShopItemType": "coordinate",
+        "seq": 99844,
+        "resourceBoxId": 304,
+        "costPaidJewel": 1000,
+        "startAt": 1731279600000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 233,
+    "seq": 233,
+    "name": "第113回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 408,
+        "virtualShopId": 233,
+        "virtualShopItemType": "accessory",
+        "seq": 99890,
+        "resourceBoxId": 305,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1732316400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 234,
+    "seq": 234,
+    "name": "第114回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 409,
+        "virtualShopId": 234,
+        "virtualShopItemType": "penlight",
+        "seq": 199866,
+        "resourceBoxId": 306,
+        "costPaidJewel": 1000,
+        "startAt": 1733007600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 235,
+    "seq": 235,
+    "name": "雫 BIRTHDAY",
+    "virtualShopItems": [
+      {
+        "id": 410,
+        "virtualShopId": 235,
+        "virtualShopItemType": "coordinate",
+        "seq": 99843,
+        "resourceBoxId": 307,
+        "costPaidJewel": 1000,
+        "startAt": 1733353200000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

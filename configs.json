@@ -844,34 +844,6 @@
     "value": "0.85"
   },
   {
-    "configKey": "weekly_gacha_reset_day_of_week",
-    "value": "MONDAY"
-  },
-  {
-    "configKey": "story_episode_bookmark_thumbnail_path_prefix",
-    "value": "image\/bookmark-story\/thumbnail"
-  },
-  {
-    "configKey": "story_episode_bookmark_count",
-    "value": "20"
-  },
-  {
-    "configKey": "story_episode_bookmark_name_max_length",
-    "value": "21"
-  },
-  {
-    "configKey": "display_story_read_status",
-    "value": "TRUE"
-  },
-  {
-    "configKey": "story_recommend_count",
-    "value": "11"
-  },
-  {
-    "configKey": "redis_story_recommend_expire_sec",
-    "value": "7776000"
-  },
-  {
     "configKey": "user_report_thanks_message",
     "value": "通報いただいたプレイヤーに対して、\\nペナルティ処置を行いました。\\nご協力いただきありがとうございました。"
   },
@@ -900,7 +872,39 @@
     "value": "23456789ABCDEFGHJKMNPQRSTUVWXYZ"
   },
   {
+    "configKey": "weekly_gacha_reset_day_of_week",
+    "value": "MONDAY"
+  },
+  {
+    "configKey": "story_episode_bookmark_thumbnail_path_prefix",
+    "value": "image\/bookmark-story\/thumbnail"
+  },
+  {
+    "configKey": "story_episode_bookmark_count",
+    "value": "20"
+  },
+  {
+    "configKey": "story_episode_bookmark_name_max_length",
+    "value": "21"
+  },
+  {
+    "configKey": "display_story_read_status",
+    "value": "TRUE"
+  },
+  {
+    "configKey": "story_recommend_count",
+    "value": "11"
+  },
+  {
+    "configKey": "redis_story_recommend_expire_sec",
+    "value": "7776000"
+  },
+  {
     "configKey": "beacon_enable",
     "value": "TRUE"
+  },
+  {
+    "configKey": "world_bloom_support_deck_event_item_correction_value",
+    "value": "0.5"
   }
 ]

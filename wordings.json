@@ -252,6 +252,14 @@
     "value": "<color=#444466> and <\/color>{0}"
   },
   {
+    "wordingKey": "MSG_ANOTHER_3DMV_CUTIN_DETAIL_DIALOG_BODY",
+    "value": "When you use this Character in your group and play the following song, a portion of the 3D Music Video will be replaced by an alternate cut."
+  },
+  {
+    "wordingKey": "MSG_ANOTHER_3DMV_CUTIN_DETAIL_DIALOG_NOTES",
+    "value": "<color=#ff5588>*You will need to increase this Character's Mastery Rank to 2.<\/color>"
+  },
+  {
     "wordingKey": "MSG_ANOTHER_COLOR_ACQUISITION_CONDITIONS_NL",
     "value": "Increase the <color=#FF3366>Mastery Rank<\/color> of\n\"{0}\" {1}\nto unlock Color Variants."
   },
@@ -274,6 +282,10 @@
   {
     "wordingKey": "MSG_AROUND_MB",
     "value": "Approx. {0}MB"
+  },
+  {
+    "wordingKey": "MSG_ATTENTION_CONTAINS_SUPPORT_DECK",
+    "value": "There are one or more Characters from your Support Group in this group.\nRemove from Support Group and make this your Main Group?"
   },
   {
     "wordingKey": "MSG_AUTO_LIVE_NOT_ALLOWED",
@@ -401,7 +413,7 @@
   },
   {
     "wordingKey": "MSG_CAN_ENTRY_OFFLINE_EVENT_DIALOG",
-    "value": "{0}の\n申込みが開始されました。\nカラフルパスの「イベント申込み」よりご確認ください。"
+    "value": "{0}の\n申込みを開始しました。\nカラフルパスの「イベント申込み」よりご確認ください。"
   },
   {
     "wordingKey": "MSG_CHALLENGE_CHARACTER_SELECT_BODY",
@@ -425,11 +437,11 @@
   },
   {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_INFO",
-    "value": "<color=#ff5599>*Stamps reset every Monday at 4:00 (PDT).<\/color>"
+    "value": "<color=#ff5599>*Stamps reset every Monday at 4:00 (PST).<\/color>"
   },
   {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_RESET",
-    "value": "Resets on Monday at 4:00 PDT"
+    "value": "Resets on Monday at 4:00 PST"
   },
   {
     "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_SELECT",
@@ -446,6 +458,18 @@
   {
     "wordingKey": "MSG_CHANGE_DAY",
     "value": "The date has changed.\nReturning to title screen."
+  },
+  {
+    "wordingKey": "MSG_CHAPTER_EPISODE_TITLE",
+    "value": "{0} - {1}"
+  },
+  {
+    "wordingKey": "MSG_CHAPTER_EPISODE_TITLE2",
+    "value": "{0} のストーリー"
+  },
+  {
+    "wordingKey": "MSG_CHAPTER_RANKING_REWARD_HEAD_LINE",
+    "value": " Ranking Rewards"
   },
   {
     "wordingKey": "MSG_CHARACTER_MISSION_RECEIVED_MISSION_DIALOG_BODY",
@@ -644,12 +668,24 @@
     "value": "Delete this Bookmark?"
   },
   {
+    "wordingKey": "MSG_CONFIRM_REMOVE_SUPPORT_DECK_ON_SELECT_MEMBER",
+    "value": "The Character you have selected is in your Support Group.\nRemove from Support Group and add to Main Group?"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_REMOVE_SUPPORT_MEMBER",
+    "value": "There are one or more Characters from your Support Group in this group.\nRemove Characters from Support Group and start show with this group?"
+  },
+  {
     "wordingKey": "MSG_CONFIRM_TO_RE_ENTER_STREAMING_LIVE",
     "value": "Re-entering venue.\nWould you like to proceed?"
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_COLORFULPASS_EXPIRED",
     "value": "Auto-Play has been suspended due to your COLORFUL+ Deluxe subscription expiring.\n\n<color=#FF77AA>*Show results up until this point have been reflected.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_CONSECUTIVE_AUTO_EVENT_MAINTENANCE",
+    "value": "Auto-Play has been suspended due to maintenance for an event.\n \n<color=#FF77AA>*Show results up until this point have been reflected.\n*You cannot earn any Event Points or Chapter Tokens once maintenance has started.<\/color>"
   },
   {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_COMPLETE",
@@ -980,6 +1016,10 @@
     "value": "You may set this to a <color=#ff5599>maximum of {0}<\/color> during events."
   },
   {
+    "wordingKey": "MSG_EVENT_MAINTENANCE_ON_GOING_DIALOG",
+    "value": "Unable to acquire Event Points and Event Tokens as the current event is under maintenance.\n \n \n*Please check the in-game announcement for details.\n*Event missions are not affected."
+  },
+  {
     "wordingKey": "MSG_EVENT_MISSION_UPDATED_GL",
     "value": "Event Missions have updated. Returning to home screen."
   },
@@ -1030,6 +1070,10 @@
   {
     "wordingKey": "MSG_EXP",
     "value": "{0} EXP"
+  },
+  {
+    "wordingKey": "MSG_EXPIRED_SUPPORT_UNIT_EDIT",
+    "value": "Support Group editing period has ended.\nReturning to home screen."
   },
   {
     "wordingKey": "MSG_EXP_FRONT_SIZE_FORMAT",
@@ -1304,6 +1348,10 @@
     "value": "Purchase the Golden Charm to unlock Gold tier rewards for ongoing Event Show Missions."
   },
   {
+    "wordingKey": "MSG_HAS_CUTIN",
+    "value": "Has Alternate Cut"
+  },
+  {
     "wordingKey": "MSG_HIGH_SCORE_COMPLETE_REWARD",
     "value": "<color=#FF5599>{0}<\/color> Pts High Score Reward"
   },
@@ -1486,6 +1534,10 @@
   {
     "wordingKey": "MSG_LIVE_MISSION_NOT_HELD",
     "value": "No Show Missions currently available."
+  },
+  {
+    "wordingKey": "MSG_LIVE_RESULT_EVENT_MAINTENANCE",
+    "value": "Unable to acquire Event Points and Event Tokens as the current event is under maintenance.\nPlease check the in-game announcement for details."
   },
   {
     "wordingKey": "MSG_LIVE_SKIP_BODY",
@@ -1812,6 +1864,10 @@
     "value": "A connection error has occurred."
   },
   {
+    "wordingKey": "MSG_NEXT_EPISODE_RELEASE_DATE_AT",
+    "value": "{0}のストーリー\n<color=#ff77AA>{1:MM\/dd HH:mm} 解放<\/color>"
+  },
+  {
     "wordingKey": "MSG_NGWORD_BALLOON",
     "value": "Contains inappropriate words."
   },
@@ -2084,6 +2140,10 @@
     "value": "1 Time Only"
   },
   {
+    "wordingKey": "MSG_ON_GOING_EVENT_MAINTENANCE",
+    "value": "Event currently under maintenance."
+  },
+  {
     "wordingKey": "MSG_OTHER_UNIT",
     "value": "Back"
   },
@@ -2216,6 +2276,30 @@
     "value": "Play with other players"
   },
   {
+    "wordingKey": "MSG_RANKING_CHAPTER_1",
+    "value": "Chapter 1\nRankings"
+  },
+  {
+    "wordingKey": "MSG_RANKING_CHAPTER_2",
+    "value": "Chapter 2\nRankings"
+  },
+  {
+    "wordingKey": "MSG_RANKING_CHAPTER_3",
+    "value": "Chapter 3\nRankings"
+  },
+  {
+    "wordingKey": "MSG_RANKING_CHAPTER_4",
+    "value": "Chapter 4\nRankings"
+  },
+  {
+    "wordingKey": "MSG_RANKING_CHAPTER_5",
+    "value": "Chapter 5\nRankings"
+  },
+  {
+    "wordingKey": "MSG_RANKING_CHAPTER_6",
+    "value": "Chapter 6\nRankings"
+  },
+  {
     "wordingKey": "MSG_RANKING_COUTING",
     "value": "Currently calculating rankings."
   },
@@ -2304,6 +2388,14 @@
     "value": "Costume obtained."
   },
   {
+    "wordingKey": "MSG_RECEIVED_HAIRSTYLE",
+    "value": "Obtained Hairstyle."
+  },
+  {
+    "wordingKey": "MSG_RECEIVED_LIVE_COSTUME",
+    "value": "Obtained Costume.\n<color=#ff77AA>Now available to create for other characters in the Costume Shop.<\/color>"
+  },
+  {
     "wordingKey": "MSG_RECEIVED_LOGIN_BONUS",
     "value": "Claimed rewards."
   },
@@ -2318,6 +2410,10 @@
   {
     "wordingKey": "MSG_RECEIVE_EVENT_MISSION_EXPIRED_REWARD",
     "value": "Obtained unclaimed Bonus Mission rewards."
+  },
+  {
+    "wordingKey": "MSG_RECOMMEND_SUPPORT_DECK",
+    "value": "Available Characters not in your Main Group will be allocated to give you the highest possible Support Bonus. Continue?"
   },
   {
     "wordingKey": "MSG_RECONNCT",
@@ -2357,7 +2453,7 @@
   },
   {
     "wordingKey": "MSG_RESET_AT_HOUR",
-    "value": "Resets at {0}:00 PDT"
+    "value": "Resets at {0}:00 PST"
   },
   {
     "wordingKey": "MSG_RESTRICT_MULTILIVE",
@@ -2473,7 +2569,7 @@
   },
   {
     "wordingKey": "MSG_SHOP_MONTHLY_RESET_PERIOD",
-    "value": "Resets day {0} of every month at 00:00 PDT"
+    "value": "Resets day {0} of every month at 00:00 PST"
   },
   {
     "wordingKey": "MSG_SHOP_NUMBER_OF_PURCHASE",
@@ -2505,7 +2601,7 @@
   },
   {
     "wordingKey": "MSG_SHOP_RESET",
-    "value": "Resets on the last day of every month at 00:00 PDT."
+    "value": "Resets on the last day of every month at 00:00 PST."
   },
   {
     "wordingKey": "MSG_SHOP_RE_REFLECT_CONFIRM",
@@ -2676,6 +2772,22 @@
     "value": "Use COLORFUL+"
   },
   {
+    "wordingKey": "MSG_SUPPORT_DECK_RESET",
+    "value": "Reset selected Support Group?"
+  },
+  {
+    "wordingKey": "MSG_SUPPORT_MEMBER_CONFIRM_DIALOG_1",
+    "value": "There are one or more Characters from your Support Group in this group.\nRemove Characters from Support Group and start show with this group?"
+  },
+  {
+    "wordingKey": "MSG_SUPPORT_MEMBER_CONFIRM_DIALOG_2",
+    "value": "There are one or more Characters from your Support Group in this group.\nRemove from Support Group and make this your Main Group?"
+  },
+  {
+    "wordingKey": "MSG_SUPPORT_MEMBER_CONFIRM_DIALOG_3",
+    "value": "There are one or more Characters from your Support Group in this group.\nRemove from Support Group and make this your Main Group?"
+  },
+  {
     "wordingKey": "MSG_TAP_TO_COMMUNITY_REPORT",
     "value": "Report"
   },
@@ -2745,7 +2857,7 @@
   },
   {
     "wordingKey": "MSG_UNLOCK_EVENTSTORY_BODY",
-    "value": "Event Story {0}\nhas been unlocked!"
+    "value": "Event Story Chapter {0}\n\"{1}\" has been unlocked."
   },
   {
     "wordingKey": "MSG_UNLOCK_FROM_BUY_PREMIUM",
@@ -2758,6 +2870,10 @@
   {
     "wordingKey": "MSG_UNLOCK_WITH_OVER_TOTAL_POWER",
     "value": "Unlocks at Total {0}\/<color={1}>Current: {2}<\/color>"
+  },
+  {
+    "wordingKey": "MSG_UNLOCK_WORLD_BLOOM_EVENTSTORY_BODY",
+    "value": "Event Story {0}\n{1} has been unlocked."
   },
   {
     "wordingKey": "MSG_UPDATE",
@@ -2992,6 +3108,22 @@
     "value": "1 Time Only"
   },
   {
+    "wordingKey": "MSG_WORLD_BLOOM_CHAPTER_INHERIT_LIMIT_START",
+    "value": "You are now in the <color=#ff5588>top {1}<\/color> of the Chapter {0} Rankings.\n In the interests of fairness, a temporary account transfer cap is placed on players in the <color=#ff5588>top {2}<\/color>.\n \n The cap will be lifted when the Chapter ends ({3}).\n Remaining account transfers: {4}\n <color=#ff5588>*The number of transfers is shared with the Overall Event Rankings.<\/color>\n \n Thank you for your understanding."
+  },
+  {
+    "wordingKey": "MSG_WORLD_BLOOM_CHAPTER_YOUR_TOTAL_EVENT_POINT",
+    "value": "Your Chapter {0} Event Pts"
+  },
+  {
+    "wordingKey": "MSG_WORLD_BLOOM_INHERIT_LIMIT_START",
+    "value": "You are now in the <color=#ff5588>top {0}<\/color> of the Overall Event Rankings.\nIn the interests of fairness, a temporary account transfer cap is placed on players in the <color=#ff5588>top {1}<\/color>.\n \nThe cap will be lifted when the event ends ({2}).\nRemaining account transfers: {3}\n<color=#ff5588>*The number of transfers is shared with Chapter Rankings.<\/color>\n \nThank you for your understanding."
+  },
+  {
+    "wordingKey": "MSG_WORLD_BLOOM_YOUR_TOTAL_EVENT_POINT",
+    "value": "Overall Event Pts"
+  },
+  {
     "wordingKey": "MSG_YOUR_CHEER_POINT",
     "value": "Your Fan Pts"
   },
@@ -3106,6 +3238,14 @@
   {
     "wordingKey": "WORD_3DMV",
     "value": "3DMV"
+  },
+  {
+    "wordingKey": "WORD_3DMV_ANOTHER_CUT_IN",
+    "value": "{0}'s 3DMV Alternate Cut \"{1}\""
+  },
+  {
+    "wordingKey": "WORD_3DMV_CUTIN",
+    "value": "3DMV Alternate Cut"
   },
   {
     "wordingKey": "WORD_3DMV_NL",
@@ -3277,7 +3417,7 @@
   },
   {
     "wordingKey": "WORD_AGGREGATION_PERIOD_FORMAT",
-    "value": "{0} {1} at {2}:{3:00} (PDT)"
+    "value": "{0} {1} at {2}:{3:00} (PST)"
   },
   {
     "wordingKey": "WORD_ALL",
@@ -3330,6 +3470,10 @@
   {
     "wordingKey": "WORD_ANNONYMOUS_SEND",
     "value": "Send Anonymously"
+  },
+  {
+    "wordingKey": "WORD_ANOTHER_3DMV_CUTIN_DETAIL_DIALOG_MUSIC",
+    "value": "{0}"
   },
   {
     "wordingKey": "WORD_ANOTHER_COLOR",
@@ -3390,6 +3534,10 @@
   {
     "wordingKey": "WORD_APPLICATION_DETAIL",
     "value": "申込み詳細"
+  },
+  {
+    "wordingKey": "WORD_APPLYING_SUPPORT_DECK",
+    "value": "In Group"
   },
   {
     "wordingKey": "WORD_APRIL_FOOL_TAB",
@@ -3672,6 +3820,26 @@
     "value": "Bonus"
   },
   {
+    "wordingKey": "WORD_BONUS_DETAIL_ANOTHER_CUT",
+    "value": "3DMV Alternate Cut"
+  },
+  {
+    "wordingKey": "WORD_BONUS_DETAIL_ANOTHER_CUT_TITLE",
+    "value": "{0}"
+  },
+  {
+    "wordingKey": "WORD_BONUS_DETAIL_ANOTHER_CUT_TITLE_PREFIX",
+    "value": "{0}'s"
+  },
+  {
+    "wordingKey": "WORD_BONUS_DETAIL_AVATAR_ACCESSORY",
+    "value": "Virtual Avatar Items"
+  },
+  {
+    "wordingKey": "WORD_BONUS_DETAIL_COSTUME",
+    "value": "Costumes"
+  },
+  {
     "wordingKey": "WORD_BONUS_MISSION",
     "value": "Bonus Missions"
   },
@@ -3932,6 +4100,22 @@
     "value": "Parts"
   },
   {
+    "wordingKey": "WORD_CHAPTER_ED_TITLE",
+    "value": "Ending"
+  },
+  {
+    "wordingKey": "WORD_CHAPTER_EVENT_ITEM",
+    "value": "Chapter Token"
+  },
+  {
+    "wordingKey": "WORD_CHAPTER_OP_TITLE",
+    "value": "Opening"
+  },
+  {
+    "wordingKey": "WORD_CHAPTER_TOTAL",
+    "value": "Overall"
+  },
+  {
     "wordingKey": "WORD_CHARA",
     "value": "Character"
   },
@@ -4165,7 +4349,7 @@
   },
   {
     "wordingKey": "WORD_COLLABORATION_AREA",
-    "value": "Limited Crossover SEKAI"
+    "value": "Crossover SEKAI"
   },
   {
     "wordingKey": "WORD_COLLECTION",
@@ -4324,6 +4508,10 @@
     "value": "Delete Bookmark"
   },
   {
+    "wordingKey": "WORD_CONFIRM_START_LIVE",
+    "value": "Start Show"
+  },
+  {
     "wordingKey": "WORD_CONNECT",
     "value": "Connect"
   },
@@ -4385,7 +4573,7 @@
   },
   {
     "wordingKey": "WORD_COPY_ENTRY_ID",
-    "value": "申込みIDをコピー"
+    "value": "Copy"
   },
   {
     "wordingKey": "WORD_COPY_PLAYER_ID",
@@ -4696,6 +4884,10 @@
     "value": "Details"
   },
   {
+    "wordingKey": "WORD_DIFFERENT_ATTRIBUTE_BONUS_DESCRIPTION",
+    "value": "Diff. Types"
+  },
+  {
     "wordingKey": "WORD_DIFFICULTY_APPEND",
     "value": "APPEND"
   },
@@ -4842,6 +5034,10 @@
   {
     "wordingKey": "WORD_EMPTY_SHAPE",
     "value": "There are no Shapes available for display."
+  },
+  {
+    "wordingKey": "WORD_EMPTY_SUPPORT_DECK_MEMBER",
+    "value": "-"
   },
   {
     "wordingKey": "WORD_END",
@@ -5058,6 +5254,10 @@
   {
     "wordingKey": "WORD_EVENT_STORY_TITLE",
     "value": "Episode {0}"
+  },
+  {
+    "wordingKey": "WORD_EVENT_SUPPORT_BONUS",
+    "value": "Support Bonus"
   },
   {
     "wordingKey": "WORD_EVNET_STORY_INFOMATION",
@@ -5488,8 +5688,20 @@
     "value": "Details"
   },
   {
+    "wordingKey": "WORD_GACHA_EXTRA_ANOTHER_CUTIN",
+    "value": "Incl. 3DMV Alternate Cut"
+  },
+  {
+    "wordingKey": "WORD_GACHA_EXTRA_AVATAR_ACCESSORY",
+    "value": "Incl. Virtual Avatar Items"
+  },
+  {
     "wordingKey": "WORD_GACHA_EXTRA_BONUS",
     "value": "Obtain Bonus"
+  },
+  {
+    "wordingKey": "WORD_GACHA_EXTRA_COSTUME",
+    "value": "Incl. Costume"
   },
   {
     "wordingKey": "WORD_GACHA_LIMITED_SET_PERIOD",
@@ -5820,6 +6032,10 @@
     "value": "Hairstyle"
   },
   {
+    "wordingKey": "WORD_HAS_3D_MV_CUTIN",
+    "value": "Has 3DMV Alternate Cut"
+  },
+  {
     "wordingKey": "WORD_HATED_FOOD",
     "value": "Least Favorite Food"
   },
@@ -6072,6 +6288,10 @@
     "value": "In Virtual Show"
   },
   {
+    "wordingKey": "WORD_IS_HOLDING_EXTRA_CHAPTER",
+    "value": "Event Period Extended"
+  },
+  {
     "wordingKey": "WORD_ITEM",
     "value": "Items"
   },
@@ -6269,7 +6489,7 @@
   },
   {
     "wordingKey": "WORD_LIVE_BOOST_PRESENT_RESET",
-    "value": "Resets at 4:00 PDT"
+    "value": "Resets at 4:00 PST"
   },
   {
     "wordingKey": "WORD_LIVE_BOOST_RECOVER",
@@ -6500,8 +6720,16 @@
     "value": "Undergoing Maintenance"
   },
   {
+    "wordingKey": "WORD_MAIN_DECK_SETTING",
+    "value": "Main\nGroup"
+  },
+  {
     "wordingKey": "WORD_MAIN_STORY",
     "value": "Main Story"
+  },
+  {
+    "wordingKey": "WORD_MAIN_UNIT_EDIT",
+    "value": "Group"
   },
   {
     "wordingKey": "WORD_MAIN_UNIT_TOTAL_POWER",
@@ -7224,6 +7452,10 @@
     "value": "Don't send"
   },
   {
+    "wordingKey": "WORD_NOT_VALID_TIMELINE",
+    "value": "Unavailable in this time period. Moving to new location."
+  },
+  {
     "wordingKey": "WORD_NOT_VIEWED",
     "value": "Not Viewed"
   },
@@ -7341,7 +7573,7 @@
   },
   {
     "wordingKey": "WORD_ONCE_A_WEEK_GACHA_END_AT",
-    "value": "Free pull resets every Monday at {0}:00 a.m. (PDT)"
+    "value": "Free pull resets every Monday at {0}:00 a.m. (PST)"
   },
   {
     "wordingKey": "WORD_ONCE_CHECK_AGAIN_LIVE",
@@ -8872,8 +9104,20 @@
     "value": "SUPER \nSTAR"
   },
   {
+    "wordingKey": "WORD_SUPPORT_DECK_BONUS",
+    "value": "Support Bonus"
+  },
+  {
+    "wordingKey": "WORD_SUPPORT_DECK_EDIT",
+    "value": "Edit Support Group"
+  },
+  {
     "wordingKey": "WORD_SUPPORT_MEMBR",
     "value": "Support Member"
+  },
+  {
+    "wordingKey": "WORD_SUPPORT_UNIT_EDIT",
+    "value": "Support Group"
   },
   {
     "wordingKey": "WORD_SUSPENSION",
@@ -9052,6 +9296,10 @@
     "value": "EULA"
   },
   {
+    "wordingKey": "WORD_TOTAL_BONUS",
+    "value": "Total Bonus"
+  },
+  {
     "wordingKey": "WORD_TOTAL_MATCH_COUNT",
     "value": "Total Matches"
   },
@@ -9132,6 +9380,10 @@
     "value": "Return to the present?"
   },
   {
+    "wordingKey": "WORD_TO_DECK_EDIT",
+    "value": "To Groups"
+  },
+  {
     "wordingKey": "WORD_TO_EXCHANGE_SHOP",
     "value": "Trade"
   },
@@ -9186,6 +9438,10 @@
   {
     "wordingKey": "WORD_UNIT_ANY",
     "value": "All Groups"
+  },
+  {
+    "wordingKey": "WORD_UNIT_BONUS",
+    "value": "Group Bonus"
   },
   {
     "wordingKey": "WORD_UNIT_CONFIRM",
@@ -9718,6 +9974,22 @@
   {
     "wordingKey": "WORD_WORD_SIZE",
     "value": "Font Size"
+  },
+  {
+    "wordingKey": "WORD_WORLD_BLOOM_CHAPTER_AND_NUMBER_ENG",
+    "value": "CHAPTER {0}"
+  },
+  {
+    "wordingKey": "WORD_WORLD_BLOOM_CHAPTER_DATE_PERIOD",
+    "value": "{0:MM\/dd HH:mm} - {1:MM\/dd HH:mm}"
+  },
+  {
+    "wordingKey": "WORD_WORLD_BLOOM_CHAPTER_ENG",
+    "value": "CHAPTER"
+  },
+  {
+    "wordingKey": "WORD_WORLD_BLOOM_TOTAL_RANKING",
+    "value": "Overall Rankings"
   },
   {
     "wordingKey": "WORD_YEAR",
