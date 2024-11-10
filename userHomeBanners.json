@@ -62,5 +62,26 @@
     "transitionDestinationType": "friend_invitation_campaign",
     "startAt": 1727118000000,
     "endAt": 1731484799000
+  },
+  {
+    "homeBannerId": 1123,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "Fall 2024 10x Gacha Ticket",
+    "assetbundleName": "banner_shop_gachaticket_miku10_gl",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1731182400000,
+    "endAt": 1732543199000
+  },
+  {
+    "homeBannerId": 1126,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "2024 Fall Campaign Gacha ID:1093",
+    "assetbundleName": "banner_gacha1093",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1093,
+    "startAt": 1731182400000,
+    "endAt": 1732564799000
   }
 ]
