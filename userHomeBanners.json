@@ -33,15 +33,26 @@
     "endAt": 1732316399000
   },
   {
-    "homeBannerId": 779,
+    "homeBannerId": 780,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[東雲彰人]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive265",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 265,
-    "startAt": 1731279600000,
-    "endAt": 1731398399000
+    "name": "Akito Shinonome Happy Birthday 2024 Gacha",
+    "assetbundleName": "banner_gacha408",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 408,
+    "startAt": 1731398400000,
+    "endAt": 1731484799000
+  },
+  {
+    "homeBannerId": 781,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "[It's Back] Spooky Forest Gacha",
+    "assetbundleName": "banner_gacha411",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 411,
+    "startAt": 1731355200000,
+    "endAt": 1732132799000
   },
   {
     "homeBannerId": 1001,
