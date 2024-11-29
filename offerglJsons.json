@@ -197,5 +197,47 @@
     "seq": 9,
     "startAt": 1732276800000,
     "endAt": 4102473599000
+  },
+  {
+    "id": 125,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20124,
+    "offerType": "limited",
+    "offerDisplayCondition": "player_rank",
+    "requirement": 30,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 10080,
+    "assetBundleName": "offer14",
+    "seq": 4,
+    "startAt": 1732881600000,
+    "endAt": 4102473599000
+  },
+  {
+    "id": 126,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20126,
+    "offerType": "limited",
+    "offerDisplayCondition": "player_rank",
+    "requirement": 125,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 10080,
+    "assetBundleName": "offer16",
+    "seq": 2,
+    "startAt": 1732881600000,
+    "endAt": 4102473599000
+  },
+  {
+    "id": 127,
+    "shopItemType": "billing_shop",
+    "shopItemId": 20127,
+    "offerType": "limited",
+    "offerDisplayCondition": "player_rank",
+    "requirement": 175,
+    "buyLimitCount": 1,
+    "saleDurationMinutes": 10080,
+    "assetBundleName": "offer17",
+    "seq": 1,
+    "startAt": 1732881600000,
+    "endAt": 4102473599000
   }
 ]
