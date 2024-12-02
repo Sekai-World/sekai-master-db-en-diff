@@ -22,28 +22,6 @@
     "endAt": 1733342399000
   },
   {
-    "homeBannerId": 784,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショ箱イベ15巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha414",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 414,
-    "startAt": 1732305600000,
-    "endAt": 1732996799000
-  },
-  {
-    "homeBannerId": 785,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ワンダショ箱イベ15巡目_イベントバナー",
-    "assetbundleName": "event_supporting_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 113,
-    "startAt": 1732316400000,
-    "endAt": 1733007599000
-  },
-  {
     "homeBannerId": 788,
     "seq": 90,
     "homeBannerType": "general",
@@ -53,6 +31,28 @@
     "transitionDestinationId": 415,
     "startAt": 1732737600000,
     "endAt": 1733515199000
+  },
+  {
+    "homeBannerId": 789,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフル神高2-Aイベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha416",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 416,
+    "startAt": 1732996800000,
+    "endAt": 1733860799000
+  },
+  {
+    "homeBannerId": 790,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフル神高2-Aイベ_イベントバナー",
+    "assetbundleName": "event_crankup_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 114,
+    "startAt": 1733007600000,
+    "endAt": 1733871599000
   },
   {
     "homeBannerId": 1001,
@@ -76,34 +76,14 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1124,
-    "seq": 190,
-    "homeBannerType": "general",
-    "name": "Black Friday Sale",
-    "assetbundleName": "banner_shop_blackfridaysale2022",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1732262400000,
-    "endAt": 1733039999000
-  },
-  {
-    "homeBannerId": 1128,
+    "homeBannerId": 1129,
     "seq": 150,
     "homeBannerType": "general",
-    "name": "Black Friday 無料10連ガチャ ID:1107",
+    "name": "Black Friday 無料10連ガチャ ID:1108",
     "assetbundleName": "banner_gacha1106",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1107,
-    "startAt": 1732953600000,
-    "endAt": 1733039999000
-  },
-  {
-    "homeBannerId": 1135,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "GL版衣装再販",
-    "assetbundleName": "banner_shop_glcostume_resale",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1732672800000,
-    "endAt": 1733039999000
+    "transitionDestinationId": 1108,
+    "startAt": 1733040000000,
+    "endAt": 1733126399000
   }
 ]
