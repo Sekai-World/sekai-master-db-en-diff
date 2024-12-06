@@ -1166,6 +1166,23 @@
     ]
   },
   {
+    "id": 80,
+    "seq": 80,
+    "name": "Christmas Login Campaign",
+    "startAt": 1735027200000,
+    "endAt": 1735199999000,
+    "assetbundleName": "christmas_2023",
+    "closeAt": 1735199999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 178,
+        "limitedLoginBonusId": 80,
+        "day": 1,
+        "resourceBoxId": 105
+      }
+    ]
+  },
+  {
     "id": 1001,
     "seq": 1001,
     "name": "OBT特別ログインボーナス",
@@ -5000,6 +5017,112 @@
         "limitedLoginBonusId": 1122,
         "day": 7,
         "resourceBoxId": 1387
+      }
+    ]
+  },
+  {
+    "id": 1123,
+    "seq": 1123,
+    "name": "13 Million Players Login Campaign",
+    "startAt": 1734811200000,
+    "endAt": 1736510399000,
+    "assetbundleName": "1300_anniversary",
+    "closeAt": 1735819200000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1422,
+        "limitedLoginBonusId": 1123,
+        "day": 1,
+        "resourceBoxId": 1388
+      },
+      {
+        "id": 1423,
+        "limitedLoginBonusId": 1123,
+        "day": 2,
+        "resourceBoxId": 1389
+      },
+      {
+        "id": 1424,
+        "limitedLoginBonusId": 1123,
+        "day": 3,
+        "resourceBoxId": 1390
+      },
+      {
+        "id": 1425,
+        "limitedLoginBonusId": 1123,
+        "day": 4,
+        "resourceBoxId": 1391
+      },
+      {
+        "id": 1426,
+        "limitedLoginBonusId": 1123,
+        "day": 5,
+        "resourceBoxId": 1392
+      },
+      {
+        "id": 1427,
+        "limitedLoginBonusId": 1123,
+        "day": 6,
+        "resourceBoxId": 1393
+      },
+      {
+        "id": 1428,
+        "limitedLoginBonusId": 1123,
+        "day": 7,
+        "resourceBoxId": 1394
+      },
+      {
+        "id": 1429,
+        "limitedLoginBonusId": 1123,
+        "day": 8,
+        "resourceBoxId": 1395
+      },
+      {
+        "id": 1430,
+        "limitedLoginBonusId": 1123,
+        "day": 9,
+        "resourceBoxId": 1396
+      }
+    ]
+  },
+  {
+    "id": 1124,
+    "seq": 1124,
+    "name": "3rd Aniversary Stamp Login Campaign",
+    "startAt": 1733601600000,
+    "endAt": 1735214399000,
+    "assetbundleName": "3rd_anniversary_stamp_gl",
+    "closeAt": 1734868800000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1431,
+        "limitedLoginBonusId": 1124,
+        "day": 1,
+        "resourceBoxId": 1397
+      },
+      {
+        "id": 1432,
+        "limitedLoginBonusId": 1124,
+        "day": 2,
+        "resourceBoxId": 1398
+      },
+      {
+        "id": 1433,
+        "limitedLoginBonusId": 1124,
+        "day": 3,
+        "resourceBoxId": 1399
+      },
+      {
+        "id": 1434,
+        "limitedLoginBonusId": 1124,
+        "day": 4,
+        "resourceBoxId": 1400
+      },
+      {
+        "id": 1435,
+        "limitedLoginBonusId": 1124,
+        "day": 5,
+        "resourceBoxId": 1401
       }
     ]
   }

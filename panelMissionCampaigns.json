@@ -46,7 +46,7 @@
                 "id": 1010102,
                 "panelMissionSheetId": 10101,
                 "name": "Participate in Virtual Show dressed as a fan",
-                "description": "Participate in a Virtual Show wearing a VIRTUAL SINGER Happi Coat or a T-shirt of a VIRTUAL SINGER.",
+                "description": "Participate in a Virtual Show wearing a VIRTUAL SINGER Happi Coat or a T-Shirt of a VIRTUAL SINGER.",
                 "seq": 2,
                 "panelMissionType": "unit_avatar_join_virtual_live",
                 "requirement1": 1,
@@ -334,7 +334,7 @@
                 "id": 1010302,
                 "panelMissionSheetId": 10103,
                 "name": "Participate in Virtual Show dressed as a fan",
-                "description": "Participate in a Virtual Show wearing a MORE MORE JUMP! Happi Coat or a T-shirt of one of its members.",
+                "description": "Participate in a Virtual Show wearing a MORE MORE JUMP! Happi Coat or a T-Shirt of one of its members.",
                 "seq": 2,
                 "panelMissionType": "unit_avatar_join_virtual_live",
                 "requirement1": 1,
@@ -622,7 +622,7 @@
                 "id": 1010502,
                 "panelMissionSheetId": 10105,
                 "name": "Participate in Virtual Show dressed as a fan",
-                "description": "Participate in a Virtual Show wearing a Wonderlands×Showtime Happi Coat or a T-shirt of one of its members.",
+                "description": "Participate in a Virtual Show wearing a Wonderlands×Showtime Happi Coat or a T-Shirt of one of its members.",
                 "seq": 2,
                 "panelMissionType": "unit_avatar_join_virtual_live",
                 "requirement1": 1,
@@ -766,7 +766,7 @@
                 "id": 1010602,
                 "panelMissionSheetId": 10106,
                 "name": "Participate in Virtual Show dressed as a fan",
-                "description": "Participate in a Virtual Show wearing a Nightcord at 25:00 Happi Coat or a T-shirt of one of its members.",
+                "description": "Participate in a Virtual Show wearing a Nightcord at 25:00 Happi Coat or a T-Shirt of one of its members.",
                 "seq": 2,
                 "panelMissionType": "unit_avatar_join_virtual_live",
                 "requirement1": 1,
@@ -2061,6 +2061,2075 @@
                 "missionId": 10403,
                 "seq": 1,
                 "resourceBoxId": 1362
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "JP 3rd Anniversary Stamp Missions",
+    "assetbundleName": "3rd_anniv_pm",
+    "bgmAssetbundleName": "3rd_anniv_pm_bgm",
+    "selectableLimit": 3,
+    "startAt": 1733558400000,
+    "progressEndAt": 1734638399000,
+    "closedAt": 1734983999000,
+    "informationId": 2072,
+    "panelMissionSheetGroups": [
+      {
+        "id": 201,
+        "panelMissionCampaignId": 2,
+        "name": "Group",
+        "selectableLimit": 2,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 20101,
+            "panelMissionSheetGroupId": 201,
+            "name": "VIRTUAL SINGER Fanatic Card",
+            "seq": 1,
+            "assetbundleName": "sheet_piapro",
+            "panelMissions": [
+              {
+                "id": 2010101,
+                "panelMissionSheetId": 20101,
+                "name": "Play 10 shows with group members",
+                "description": "Play 10 shows with only VIRTUAL SINGER Characters.",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6975,
+                    "missionType": "panel_mission",
+                    "missionId": 2010101,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010102,
+                "panelMissionSheetId": 20101,
+                "name": "Participate in Virtual Show dressed as a fan",
+                "description": "Participate in a Virtual Show wearing a VIRTUAL SINGER Happi Coat or a T-Shirt of a VIRTUAL SINGER.",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 6976,
+                    "missionType": "panel_mission",
+                    "missionId": 2010102,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010103,
+                "panelMissionSheetId": 20101,
+                "name": "Play 10 shows with group songs",
+                "description": "Play 10 shows with songs from the VIRTUAL SINGER tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6977,
+                    "missionType": "panel_mission",
+                    "missionId": 2010103,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010104,
+                "panelMissionSheetId": 20101,
+                "name": "Play 10 shows with group member covers",
+                "description": "Play 10 shows with Cover songs including vocals by VIRTUAL SINGER Characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6978,
+                    "missionType": "panel_mission",
+                    "missionId": 2010104,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010105,
+                "panelMissionSheetId": 20101,
+                "name": "Clear 10 shows with at least 2 players using group fan Titles",
+                "description": "Clear 10 Co-op\/Cheerful Shows with at least 2 participants using VIRTUAL SINGER fan Titles.",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6979,
+                    "missionType": "panel_mission",
+                    "missionId": 2010105,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010106,
+                "panelMissionSheetId": 20101,
+                "name": "Obtain 4 group Costumes",
+                "description": "Obtain 4 VIRTUAL SINGER Costumes.",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 6980,
+                    "missionType": "panel_mission",
+                    "missionId": 2010106,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010107,
+                "panelMissionSheetId": 20101,
+                "name": "Obtain 10 group Characters",
+                "description": "Obtain 10 VIRTUAL SINGER Characters.",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6981,
+                    "missionType": "panel_mission",
+                    "missionId": 2010107,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7073,
+                "missionType": "panel_mission_complete",
+                "missionId": 20101,
+                "seq": 1,
+                "resourceBoxId": 1466
+              }
+            ]
+          },
+          {
+            "id": 20102,
+            "panelMissionSheetGroupId": 201,
+            "name": "Leo\/need Fanatic Card",
+            "seq": 2,
+            "assetbundleName": "sheet_light_sound",
+            "panelMissions": [
+              {
+                "id": 2010201,
+                "panelMissionSheetId": 20102,
+                "name": "Play 10 shows with group members",
+                "description": "Play 10 shows with only Leo\/need Characters (including Characters with Leo\/need as their subgroup).",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6982,
+                    "missionType": "panel_mission",
+                    "missionId": 2010201,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010202,
+                "panelMissionSheetId": 20102,
+                "name": "Participate in Virtual Show dressed as a fan",
+                "description": "Participate in a Virtual Show wearing a Leo\/need Happi Coat or a T-Shirt of one of its members.",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 6983,
+                    "missionType": "panel_mission",
+                    "missionId": 2010202,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010203,
+                "panelMissionSheetId": 20102,
+                "name": "Play 10 shows with group songs",
+                "description": "Play 10 shows with songs from the Leo\/need tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6984,
+                    "missionType": "panel_mission",
+                    "missionId": 2010203,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010204,
+                "panelMissionSheetId": 20102,
+                "name": "Play 10 shows with group member covers",
+                "description": "Play 10 shows with Cover songs including vocals by Leo\/need Characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6985,
+                    "missionType": "panel_mission",
+                    "missionId": 2010204,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010205,
+                "panelMissionSheetId": 20102,
+                "name": "Clear 10 shows with at least 2 players using group fan Titles",
+                "description": "Clear 10 Co-op\/Cheerful Shows with at least 2 participants using Leo\/need fan Titles.",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6986,
+                    "missionType": "panel_mission",
+                    "missionId": 2010205,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010206,
+                "panelMissionSheetId": 20102,
+                "name": "Obtain 4 group Costumes",
+                "description": "Obtain 4 Leo\/need Costumes.",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 6987,
+                    "missionType": "panel_mission",
+                    "missionId": 2010206,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010207,
+                "panelMissionSheetId": 20102,
+                "name": "Obtain 10 group Characters",
+                "description": "Obtain 10 Leo\/need Characters.",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6988,
+                    "missionType": "panel_mission",
+                    "missionId": 2010207,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7074,
+                "missionType": "panel_mission_complete",
+                "missionId": 20102,
+                "seq": 1,
+                "resourceBoxId": 1467
+              }
+            ]
+          },
+          {
+            "id": 20103,
+            "panelMissionSheetGroupId": 201,
+            "name": "MORE MORE JUMP! Fanatic Card",
+            "seq": 3,
+            "assetbundleName": "sheet_idol",
+            "panelMissions": [
+              {
+                "id": 2010301,
+                "panelMissionSheetId": 20103,
+                "name": "Play 10 shows with group members",
+                "description": "Play 10 shows with only MORE MORE JUMP! Characters (including Characters with MORE MORE JUMP! as their subgroup).",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6989,
+                    "missionType": "panel_mission",
+                    "missionId": 2010301,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010302,
+                "panelMissionSheetId": 20103,
+                "name": "Participate in Virtual Show dressed as a fan",
+                "description": "Participate in a Virtual Show wearing a MORE MORE JUMP! Happi Coat or a T-Shirt of one of its members.",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 6990,
+                    "missionType": "panel_mission",
+                    "missionId": 2010302,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010303,
+                "panelMissionSheetId": 20103,
+                "name": "Play 10 shows with group songs",
+                "description": "Play 10 shows with songs from the MORE MORE JUMP! tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6991,
+                    "missionType": "panel_mission",
+                    "missionId": 2010303,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010304,
+                "panelMissionSheetId": 20103,
+                "name": "Play 10 shows with group member covers",
+                "description": "Play 10 shows with Cover songs including vocals by MORE MORE JUMP! Characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6992,
+                    "missionType": "panel_mission",
+                    "missionId": 2010304,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010305,
+                "panelMissionSheetId": 20103,
+                "name": "Clear 10 shows with at least 2 players using group fan Titles",
+                "description": "Clear 10 Co-op\/Cheerful Show with at least 2 participants using MORE MORE JUMP! fan Titles.",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6993,
+                    "missionType": "panel_mission",
+                    "missionId": 2010305,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010306,
+                "panelMissionSheetId": 20103,
+                "name": "Obtain 4 group Costumes",
+                "description": "Obtain 4 MORE MORE JUMP! Costumes.",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 6994,
+                    "missionType": "panel_mission",
+                    "missionId": 2010306,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010307,
+                "panelMissionSheetId": 20103,
+                "name": "Obtain 10 group Characters",
+                "description": "Obtain 10 MORE MORE JUMP! Characters.",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6995,
+                    "missionType": "panel_mission",
+                    "missionId": 2010307,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7075,
+                "missionType": "panel_mission_complete",
+                "missionId": 20103,
+                "seq": 1,
+                "resourceBoxId": 1468
+              }
+            ]
+          },
+          {
+            "id": 20104,
+            "panelMissionSheetGroupId": 201,
+            "name": "Vivid BAD SQUAD Fanatic Card",
+            "seq": 4,
+            "assetbundleName": "sheet_street",
+            "panelMissions": [
+              {
+                "id": 2010401,
+                "panelMissionSheetId": 20104,
+                "name": "Play 10 shows with group members",
+                "description": "Play 10 shows with only Vivid BAD SQUAD Characters (including Characters with Vivid BAD SQUAD as their subgroup).",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6996,
+                    "missionType": "panel_mission",
+                    "missionId": 2010401,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010402,
+                "panelMissionSheetId": 20104,
+                "name": "Participate in Virtual Show dressed as a fan",
+                "description": "Participate in a Virtual Show wearing a Vivid BAD SQUAD Happi Coat or a T-Shirt of one of its members.",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 6997,
+                    "missionType": "panel_mission",
+                    "missionId": 2010402,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010403,
+                "panelMissionSheetId": 20104,
+                "name": "Play 10 shows with group songs",
+                "description": "Play 10 shows with songs from the Vivid BAD SQUAD tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6998,
+                    "missionType": "panel_mission",
+                    "missionId": 2010403,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010404,
+                "panelMissionSheetId": 20104,
+                "name": "Play 10 shows with group member covers",
+                "description": "Play 10 shows with Cover songs including vocals by Vivid BAD SQUAD Characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 6999,
+                    "missionType": "panel_mission",
+                    "missionId": 2010404,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010405,
+                "panelMissionSheetId": 20104,
+                "name": "Clear 10 shows with at least 2 players using group fan Titles",
+                "description": "Clear 10 Co-op\/Cheerful Show with at least 2 participants using Vivid BAD SQUAD fan Titles.",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7000,
+                    "missionType": "panel_mission",
+                    "missionId": 2010405,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010406,
+                "panelMissionSheetId": 20104,
+                "name": "Obtain 4 group Costumes",
+                "description": "Obtain 4 Vivid BAD SQUAD Costumes.",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 7001,
+                    "missionType": "panel_mission",
+                    "missionId": 2010406,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010407,
+                "panelMissionSheetId": 20104,
+                "name": "Obtain 10 group Characters",
+                "description": "Obtain 10 Vivid BAD SQUAD Characters.",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7002,
+                    "missionType": "panel_mission",
+                    "missionId": 2010407,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7076,
+                "missionType": "panel_mission_complete",
+                "missionId": 20104,
+                "seq": 1,
+                "resourceBoxId": 1469
+              }
+            ]
+          },
+          {
+            "id": 20105,
+            "panelMissionSheetGroupId": 201,
+            "name": "Wonderlands×Showtime Fanatic Card",
+            "seq": 5,
+            "assetbundleName": "sheet_theme_park",
+            "panelMissions": [
+              {
+                "id": 2010501,
+                "panelMissionSheetId": 20105,
+                "name": "Play 10 shows with group members",
+                "description": "Play 10 shows with only Wonderlands×Showtime Characters (including Characters with Wonderlands×Showtime as their subgroup).",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7003,
+                    "missionType": "panel_mission",
+                    "missionId": 2010501,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010502,
+                "panelMissionSheetId": 20105,
+                "name": "Participate in Virtual Show dressed as a fan",
+                "description": "Participate in a Virtual Show wearing a Wonderlands×Showtime Happi Coat or a T-Shirt of one of its members.",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7004,
+                    "missionType": "panel_mission",
+                    "missionId": 2010502,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010503,
+                "panelMissionSheetId": 20105,
+                "name": "Play 10 shows with group songs",
+                "description": "Play 10 shows with songs from the Wonderlands×Showtime tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7005,
+                    "missionType": "panel_mission",
+                    "missionId": 2010503,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010504,
+                "panelMissionSheetId": 20105,
+                "name": "Play 10 shows with group member covers",
+                "description": "Play 10 shows with Cover songs including vocals by Wonderlands×Showtime Characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7006,
+                    "missionType": "panel_mission",
+                    "missionId": 2010504,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010505,
+                "panelMissionSheetId": 20105,
+                "name": "Clear 10 shows with at least 2 players using group fan Titles",
+                "description": "Clear 10 Co-op\/Cheerful Show with at least 2 participants using Wonderlands×Showtime fan Titles.",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7007,
+                    "missionType": "panel_mission",
+                    "missionId": 2010505,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010506,
+                "panelMissionSheetId": 20105,
+                "name": "Obtain 4 group Costumes",
+                "description": "Obtain 4 Wonderlands×Showtime Costumes.",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 7008,
+                    "missionType": "panel_mission",
+                    "missionId": 2010506,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010507,
+                "panelMissionSheetId": 20105,
+                "name": "Obtain 10 group Characters",
+                "description": "Obtain 10 Wonderlands×Showtime Characters.",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7009,
+                    "missionType": "panel_mission",
+                    "missionId": 2010507,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7077,
+                "missionType": "panel_mission_complete",
+                "missionId": 20105,
+                "seq": 1,
+                "resourceBoxId": 1470
+              }
+            ]
+          },
+          {
+            "id": 20106,
+            "panelMissionSheetGroupId": 201,
+            "name": "Nightcord at 25:00 Fanatic Card",
+            "seq": 6,
+            "assetbundleName": "sheet_school_refusal",
+            "panelMissions": [
+              {
+                "id": 2010601,
+                "panelMissionSheetId": 20106,
+                "name": "Play 10 shows with group members",
+                "description": "Play 10 shows with only Nightcord at 25:00 Characters (including Characters with Nightcord at 25:00 as their subgroup).",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7010,
+                    "missionType": "panel_mission",
+                    "missionId": 2010601,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010602,
+                "panelMissionSheetId": 20106,
+                "name": "Participate in Virtual Show dressed as a fan",
+                "description": "Participate in a Virtual Show wearing a Nightcord at 25:00 Happi Coat or a T-Shirt of one of its members.",
+                "seq": 2,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7011,
+                    "missionType": "panel_mission",
+                    "missionId": 2010602,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010603,
+                "panelMissionSheetId": 20106,
+                "name": "Play 10 shows with group songs",
+                "description": "Play 10 shows with songs from the Nightcord at 25:00 tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7012,
+                    "missionType": "panel_mission",
+                    "missionId": 2010603,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010604,
+                "panelMissionSheetId": 20106,
+                "name": "Play 10 shows with group member covers",
+                "description": "Play 10 shows with Cover songs including vocals by Nightcord at 25:00 Characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7013,
+                    "missionType": "panel_mission",
+                    "missionId": 2010604,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010605,
+                "panelMissionSheetId": 20106,
+                "name": "Clear 10 shows with at least 2 players using group fan Titles",
+                "description": "Clear 10 Co-op\/Cheerful Shows with at least 2 participants using Nightcord at 25:00 fan Titles.",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7014,
+                    "missionType": "panel_mission",
+                    "missionId": 2010605,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010606,
+                "panelMissionSheetId": 20106,
+                "name": "Obtain 4 group Costumes",
+                "description": "Obtain 4 Nightcord at 25:00 Costumes.",
+                "seq": 6,
+                "panelMissionType": "unit_collect_costume_3d",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 7015,
+                    "missionType": "panel_mission",
+                    "missionId": 2010606,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2010607,
+                "panelMissionSheetId": 20106,
+                "name": "Obtain 10 group Characters",
+                "description": "Obtain 10 Nightcord at 25:00 Characters.",
+                "seq": 7,
+                "panelMissionType": "unit_collect_card",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7016,
+                    "missionType": "panel_mission",
+                    "missionId": 2010607,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7078,
+                "missionType": "panel_mission_complete",
+                "missionId": 20106,
+                "seq": 1,
+                "resourceBoxId": 1471
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "panelMissionCampaignId": 2,
+        "name": "Gameplay",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 20201,
+            "panelMissionSheetGroupId": 202,
+            "name": "Casual Attempt Card",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_try",
+            "panelMissions": [
+              {
+                "id": 2020101,
+                "panelMissionSheetId": 20201,
+                "name": "Clear NEO",
+                "description": "Clear the song NEO.",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7017,
+                    "missionType": "panel_mission",
+                    "missionId": 2020101,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020102,
+                "panelMissionSheetId": 20201,
+                "name": "Clear 10 Co-op\/Cheerful Shows",
+                "description": "Clear 10 Co-op\/Cheerful Shows.",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7018,
+                    "missionType": "panel_mission",
+                    "missionId": 2020102,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020103,
+                "panelMissionSheetId": 20201,
+                "name": "Train specified Character to Level 50",
+                "description": "Train the Character \"Be Careful Of Snatching!\" Ichika Hoshino to Level 50.",
+                "seq": 3,
+                "panelMissionType": "card_level_up",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 7019,
+                    "missionType": "panel_mission",
+                    "missionId": 2020103,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020104,
+                "panelMissionSheetId": 20201,
+                "name": "View final episode of This Way! That Way! Zookeeper Day",
+                "description": "View the final episode of the event story This Way! That Way! Zookeeper Day.",
+                "seq": 4,
+                "panelMissionType": "read_event_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7020,
+                    "missionType": "panel_mission",
+                    "missionId": 2020104,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020105,
+                "panelMissionSheetId": 20201,
+                "name": "Participate in This Way! That Way! Zookeeper Day After Show",
+                "description": "Participate in the This Way! That Way! Zookeeper Day After Show.",
+                "seq": 5,
+                "panelMissionType": "join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7021,
+                    "missionType": "panel_mission",
+                    "missionId": 2020105,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020106,
+                "panelMissionSheetId": 20201,
+                "name": "Earn 200,000 Event Pts",
+                "description": "Obtain a total of 200,000 Event Points from the This Way! That Way! Zookeeper Day event.",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 200000,
+                "rewards": [
+                  {
+                    "id": 7022,
+                    "missionType": "panel_mission",
+                    "missionId": 2020106,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020107,
+                "panelMissionSheetId": 20201,
+                "name": "Pull 3rd Anniversary 10x Free Gacha",
+                "description": "Pull the 3rd Anniversary 10x Free Gacha.",
+                "seq": 7,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7023,
+                    "missionType": "panel_mission",
+                    "missionId": 2020107,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7079,
+                "missionType": "panel_mission_complete",
+                "missionId": 20201,
+                "seq": 1,
+                "resourceBoxId": 1472
+              }
+            ]
+          },
+          {
+            "id": 20202,
+            "panelMissionSheetGroupId": 202,
+            "name": "Normal Attempt Card",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_try",
+            "panelMissions": [
+              {
+                "id": 2020201,
+                "panelMissionSheetId": 20202,
+                "name": "Clear NEO 10 times",
+                "description": "Clear the song NEO 10 times.",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7024,
+                    "missionType": "panel_mission",
+                    "missionId": 2020201,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020202,
+                "panelMissionSheetId": 20202,
+                "name": "Achieve Full Combos across the board",
+                "description": "Clear a Co-op\/Cheerful Show with all 5 participants achieving Full Combos.",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear_party_full_combo",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7025,
+                    "missionType": "panel_mission",
+                    "missionId": 2020202,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020203,
+                "panelMissionSheetId": 20202,
+                "name": "Achieve 20 SUPER FEVERs",
+                "description": "Achieve a SUPER FEVER 20 times in Co-op\/Cheerful Shows.",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 7026,
+                    "missionType": "panel_mission",
+                    "missionId": 2020203,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020204,
+                "panelMissionSheetId": 20202,
+                "name": "Play 10 shows in morning and afternoon",
+                "description": "Play 10 shows each in both periods (PT):\n• 12.00 a.m. - 11:59 a.m.\n• 12:00 p.m. - 11:59 p.m.",
+                "seq": 4,
+                "panelMissionType": "live_clear_am_pm",
+                "requirement1": 2,
+                "requirement2": 10,
+                "rewards": [
+                  {
+                    "id": 7027,
+                    "missionType": "panel_mission",
+                    "missionId": 2020204,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020205,
+                "panelMissionSheetId": 20202,
+                "name": "Be crowned MVP\/Super Star\/Ace 10 times",
+                "description": "Be crowned MVP, Superstar or Ace in Co-op\/Cheerful Shows 10 times total.",
+                "seq": 5,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7028,
+                    "missionType": "panel_mission",
+                    "missionId": 2020205,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020206,
+                "panelMissionSheetId": 20202,
+                "name": "Earn 1,000,000 Event Pts",
+                "description": "Obtain 1,000,000 Event Pts total.",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1000000,
+                "rewards": [
+                  {
+                    "id": 7029,
+                    "missionType": "panel_mission",
+                    "missionId": 2020206,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020207,
+                "panelMissionSheetId": 20202,
+                "name": "Achieve 50,000 PERFECTs",
+                "description": "Achieve a total of 50,000 PERFECT notes in shows.",
+                "seq": 7,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 50000,
+                "rewards": [
+                  {
+                    "id": 7030,
+                    "missionType": "panel_mission",
+                    "missionId": 2020207,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7080,
+                "missionType": "panel_mission_complete",
+                "missionId": 20202,
+                "seq": 1,
+                "resourceBoxId": 1473
+              }
+            ]
+          },
+          {
+            "id": 20203,
+            "panelMissionSheetGroupId": 202,
+            "name": "Bold Attempt Card",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_try",
+            "panelMissions": [
+              {
+                "id": 2020301,
+                "panelMissionSheetId": 20203,
+                "name": "Clear 10 Co-op\/Cheerful Shows with 4 friends",
+                "description": "Clear 10 Co-op\/Cheerful Shows with 4 friends.",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_with_friends",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7031,
+                    "missionType": "panel_mission",
+                    "missionId": 2020301,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020302,
+                "panelMissionSheetId": 20203,
+                "name": "Achieve Full Combos across the board 3 times",
+                "description": "Clear 3 Co-op\/Cheerful Shows with all 5 participants achieving Full Combos.",
+                "seq": 2,
+                "panelMissionType": "multi_live_clear_party_full_combo",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7032,
+                    "missionType": "panel_mission",
+                    "missionId": 2020302,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020303,
+                "panelMissionSheetId": 20203,
+                "name": "Achieve 50 SUPER FEVERs",
+                "description": "Achieve a SUPER FEVER 50 times in Co-op\/Cheerful Shows.",
+                "seq": 3,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 7033,
+                    "missionType": "panel_mission",
+                    "missionId": 2020303,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020304,
+                "panelMissionSheetId": 20203,
+                "name": "Play 30 shows in morning and afternoon",
+                "description": "Play 30 shows each in both periods (PT):\n• 12.00 a.m. - 11:59 a.m.\n• 12:00 p.m. - 11:59 p.m.",
+                "seq": 4,
+                "panelMissionType": "live_clear_am_pm",
+                "requirement1": 2,
+                "requirement2": 30,
+                "rewards": [
+                  {
+                    "id": 7034,
+                    "missionType": "panel_mission",
+                    "missionId": 2020304,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020305,
+                "panelMissionSheetId": 20203,
+                "name": "Be crowned MVP\/Super Star\/Ace 30 times",
+                "description": "Be crowned MVP, Superstar or Ace in Co-op\/Cheerful Shows 30 times total.",
+                "seq": 5,
+                "panelMissionType": "multi_live_clear_top_score",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 7035,
+                    "missionType": "panel_mission",
+                    "missionId": 2020305,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020306,
+                "panelMissionSheetId": 20203,
+                "name": "Earn 3,000,000 Event Pts",
+                "description": "Obtain 3,000,000 Event Pts total.",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 3000000,
+                "rewards": [
+                  {
+                    "id": 7036,
+                    "missionType": "panel_mission",
+                    "missionId": 2020306,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2020307,
+                "panelMissionSheetId": 20203,
+                "name": "Achieve 200,000 PERFECTs",
+                "description": "Achieve a total of 200,000 PERFECT notes in shows.",
+                "seq": 7,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 200000,
+                "rewards": [
+                  {
+                    "id": 7037,
+                    "missionType": "panel_mission",
+                    "missionId": 2020307,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7081,
+                "missionType": "panel_mission_complete",
+                "missionId": 20203,
+                "seq": 1,
+                "resourceBoxId": 1474
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 203,
+        "panelMissionCampaignId": 2,
+        "name": "Gacha",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 20301,
+            "panelMissionSheetGroupId": 203,
+            "name": "Golden Select Card",
+            "seq": 1,
+            "assetbundleName": "sheet_gold_select",
+            "panelMissions": [
+              {
+                "id": 2030101,
+                "panelMissionSheetId": 20301,
+                "name": "Pull Colorful Festival or Regular Gacha 30 times",
+                "description": "Pull the [It's Back] JP 3rd Anniversary Colorful Festival Gacha Dream Pick or 24 Hours With the Animal Police! Gacha 30 times.",
+                "seq": 1,
+                "panelMissionType": "spin_gacha",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 7038,
+                    "missionType": "panel_mission",
+                    "missionId": 2030101,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030102,
+                "panelMissionSheetId": 20301,
+                "name": "Pull Memorial Select Gacha",
+                "description": "Pull the [It's Back] JP 3rd Anniversary Memorial Select Gacha.",
+                "seq": 2,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7039,
+                    "missionType": "panel_mission",
+                    "missionId": 2030102,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030103,
+                "panelMissionSheetId": 20301,
+                "name": "Pull Premium Gift Gacha",
+                "description": "Pull an [It's Back] JP 3rd Anniversary Premium Gift Gacha.",
+                "seq": 3,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7040,
+                    "missionType": "panel_mission",
+                    "missionId": 2030103,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030104,
+                "panelMissionSheetId": 20301,
+                "name": "Purchase Brand New World Anniversary Bundle",
+                "description": "Purchase a Brand New World Anniversary Bundle from the Crystal Shop.",
+                "seq": 4,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7041,
+                    "missionType": "panel_mission",
+                    "missionId": 2030104,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030105,
+                "panelMissionSheetId": 20301,
+                "name": "Purchase Dec. 2024 Premium Mission Pass",
+                "description": "Purchase the December 2024 Premium Mission Pass.",
+                "seq": 5,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7042,
+                    "missionType": "panel_mission",
+                    "missionId": 2030105,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030106,
+                "panelMissionSheetId": 20301,
+                "name": "Earn 3,000 Fan Points",
+                "description": "Earn 3,000 Fan Points in total from Virtual Shows.",
+                "seq": 6,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 3000,
+                "rewards": [
+                  {
+                    "id": 7043,
+                    "missionType": "panel_mission",
+                    "missionId": 2030106,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030107,
+                "panelMissionSheetId": 20301,
+                "name": "Pull 3rd Anniversary 10x Free Gacha",
+                "description": "Pull the 3rd Anniversary 10x Free Gacha.",
+                "seq": 7,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7044,
+                    "missionType": "panel_mission",
+                    "missionId": 2030107,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7082,
+                "missionType": "panel_mission_complete",
+                "missionId": 20301,
+                "seq": 1,
+                "resourceBoxId": 1475
+              }
+            ]
+          },
+          {
+            "id": 20302,
+            "panelMissionSheetGroupId": 203,
+            "name": "Diamond Select Card",
+            "seq": 2,
+            "assetbundleName": "sheet_diamond_select",
+            "panelMissions": [
+              {
+                "id": 2030201,
+                "panelMissionSheetId": 20302,
+                "name": "Pull Colorful Festival or Regular Gacha 100 times",
+                "description": "Pull the [It's Back] JP 3rd Anniversary Colorful Festival Gacha Dream Pick or 24 Hours With the Animal Police! Gacha 100 times.",
+                "seq": 1,
+                "panelMissionType": "spin_gacha",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 7045,
+                    "missionType": "panel_mission",
+                    "missionId": 2030201,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030202,
+                "panelMissionSheetId": 20302,
+                "name": "Pull Memorial Select Gacha",
+                "description": "Pull the [It's Back] JP 3rd Anniversary Memorial Select Gacha.",
+                "seq": 2,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7046,
+                    "missionType": "panel_mission",
+                    "missionId": 2030202,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030203,
+                "panelMissionSheetId": 20302,
+                "name": "Pull Premium Gift Gacha 2 times",
+                "description": "Pull an [It's Back] JP 3rd Anniversary Premium Gift Gacha 2 times.",
+                "seq": 3,
+                "panelMissionType": "execute_gacha_tab",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 7047,
+                    "missionType": "panel_mission",
+                    "missionId": 2030203,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030204,
+                "panelMissionSheetId": 20302,
+                "name": "Purchase Brand New World Anniversary Bundle",
+                "description": "Purchase a Brand New World Anniversary Bundle from the Crystal Shop.",
+                "seq": 4,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7048,
+                    "missionType": "panel_mission",
+                    "missionId": 2030204,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030205,
+                "panelMissionSheetId": 20302,
+                "name": "Purchase Dec. 2024 Premium Mission Pass",
+                "description": "Purchase the December 2024 Premium Mission Pass.",
+                "seq": 5,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7049,
+                    "missionType": "panel_mission",
+                    "missionId": 2030205,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030206,
+                "panelMissionSheetId": 20302,
+                "name": "Pull Your Pick Gacha (Limited Edition)",
+                "description": "Pull the [It's Back] JP 3rd Anniversary Your Pick Gacha (Limited Edition).",
+                "seq": 6,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7050,
+                    "missionType": "panel_mission",
+                    "missionId": 2030206,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2030207,
+                "panelMissionSheetId": 20302,
+                "name": "Pull 3rd Anniversary 10x Free Gacha 3 times",
+                "description": "Pull the 3rd Anniversary 10x Free Gacha 3 times.",
+                "seq": 7,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7051,
+                    "missionType": "panel_mission",
+                    "missionId": 2030207,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7083,
+                "missionType": "panel_mission_complete",
+                "missionId": 20302,
+                "seq": 1,
+                "resourceBoxId": 1476
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 204,
+        "panelMissionCampaignId": 2,
+        "name": "Rhythm",
+        "selectableLimit": 1,
+        "seq": 4,
+        "panelMissionSheets": [
+          {
+            "id": 20401,
+            "panelMissionSheetGroupId": 204,
+            "name": "Light Rhythm Card",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_gamer",
+            "panelMissions": [
+              {
+                "id": 2040101,
+                "panelMissionSheetId": 20401,
+                "name": "Clear with 10 Full Combos",
+                "description": "Achieve a Full Combo 10 times.",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7052,
+                    "missionType": "panel_mission",
+                    "missionId": 2040101,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040102,
+                "panelMissionSheetId": 20401,
+                "name": "Clear 3 shows with Mirrored Lanes",
+                "description": "Clear 3 shows with Mirrored Lanes turned on.",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_mirror",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7053,
+                    "missionType": "panel_mission",
+                    "missionId": 2040102,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040103,
+                "panelMissionSheetId": 20401,
+                "name": "Play 3 shows with Original MV or 2DMV",
+                "description": "Play a show with a song's original or 2D music video 3 times.",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_mv_2d_or_original",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7054,
+                    "missionType": "panel_mission",
+                    "missionId": 2040103,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040104,
+                "panelMissionSheetId": 20401,
+                "name": "Play 3 shows with 3DMV",
+                "description": "Play a show with a song's 3D music video 3 times.",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_mv_3d",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7055,
+                    "missionType": "panel_mission",
+                    "missionId": 2040104,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040105,
+                "panelMissionSheetId": 20401,
+                "name": "Increase Character's Skill Level",
+                "description": "Increase a Character's Skill Level.",
+                "seq": 5,
+                "panelMissionType": "any_member_skill_up",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7056,
+                    "missionType": "panel_mission",
+                    "missionId": 2040105,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040106,
+                "panelMissionSheetId": 20401,
+                "name": "Obtain 20 Music Cards",
+                "description": "Obtain 20 Music Cards.",
+                "seq": 6,
+                "panelMissionType": "collect_material",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 7057,
+                    "missionType": "panel_mission",
+                    "missionId": 2040106,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040107,
+                "panelMissionSheetId": 20401,
+                "name": "Play 10 shows with new JP 3rd Anniversary songs",
+                "description": "Play 10 shows with songs from the JP 3rd Anniversary New Music Campaign.",
+                "seq": 7,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7058,
+                    "missionType": "panel_mission",
+                    "missionId": 2040107,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7084,
+                "missionType": "panel_mission_complete",
+                "missionId": 20401,
+                "seq": 1,
+                "resourceBoxId": 1477
+              }
+            ]
+          },
+          {
+            "id": 20402,
+            "panelMissionSheetGroupId": 204,
+            "name": "Challenging Rhythm Card",
+            "seq": 2,
+            "assetbundleName": "sheet_heavy_gamer",
+            "panelMissions": [
+              {
+                "id": 2040201,
+                "panelMissionSheetId": 20402,
+                "name": "Clear with 10 Full Combos with Lv. 27 - 28 songs",
+                "description": "Clear with 10 Full Combos with Lv. 27 - 28 songs (including Append difficulty).",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7059,
+                    "missionType": "panel_mission",
+                    "missionId": 2040201,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040202,
+                "panelMissionSheetId": 20402,
+                "name": "Clear with 10 Full Combos with Lv. 29 songs",
+                "description": " \nClear with 10 Full Combos with Lv. 29 songs (including Append difficulty).",
+                "seq": 2,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7060,
+                    "missionType": "panel_mission",
+                    "missionId": 2040202,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040203,
+                "panelMissionSheetId": 20402,
+                "name": "Clear 10 shows with Lv. 30 or higher songs",
+                "description": "Clear 10 shows with Lv. 30 or higher songs (including Append difficulty).",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7061,
+                    "missionType": "panel_mission",
+                    "missionId": 2040203,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040204,
+                "panelMissionSheetId": 20402,
+                "name": "Clear with 3 APs on Expert or higher",
+                "description": "Clear with an All Perfect 3 times on Expert, Master or Append difficulty.",
+                "seq": 4,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7062,
+                    "missionType": "panel_mission",
+                    "missionId": 2040204,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040205,
+                "panelMissionSheetId": 20402,
+                "name": "Play 30 Ranked Matches",
+                "description": "Play 30 Ranked Matches.",
+                "seq": 5,
+                "panelMissionType": "live_clear_rank_match",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 7063,
+                    "missionType": "panel_mission",
+                    "missionId": 2040205,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040206,
+                "panelMissionSheetId": 20402,
+                "name": "Play 30 shows with new JP 3rd Anniversary songs",
+                "description": "Play 30 shows with songs from the JP 3rd Anniversary New Music Campaign.",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music_group",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 7064,
+                    "missionType": "panel_mission",
+                    "missionId": 2040206,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040207,
+                "panelMissionSheetId": 20402,
+                "name": "Clear Neo with a Full Combo on 5 difficulties",
+                "description": "Clear Neo with a Full Combo on 5 of the different difficulty levels (Easy, Normal, Hard, Expert, Master or Append).",
+                "seq": 7,
+                "panelMissionType": "live_clear_full_combo_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 7065,
+                    "missionType": "panel_mission",
+                    "missionId": 2040207,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7085,
+                "missionType": "panel_mission_complete",
+                "missionId": 20402,
+                "seq": 1,
+                "resourceBoxId": 1478
+              }
+            ]
+          },
+          {
+            "id": 20403,
+            "panelMissionSheetGroupId": 204,
+            "name": "Ultimate Rhythm Card",
+            "seq": 3,
+            "assetbundleName": "sheet_pro",
+            "panelMissions": [
+              {
+                "id": 2040301,
+                "panelMissionSheetId": 20403,
+                "name": "Clear with 10 Full Combos with Lv. 30 - 31 songs",
+                "description": " \n         \nClear with 10 Full Combos with Lv. 30 - 31 songs (including Append difficulty).",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7066,
+                    "missionType": "panel_mission",
+                    "missionId": 2040301,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040302,
+                "panelMissionSheetId": 20403,
+                "name": "Clear with 10 Full Combos with Lv. 32 songs",
+                "description": "Clear with 10 Full Combos with Lv. 32 songs (including Append difficulty).",
+                "seq": 2,
+                "panelMissionType": "live_clear_full_combo_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7067,
+                    "missionType": "panel_mission",
+                    "missionId": 2040302,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040303,
+                "panelMissionSheetId": 20403,
+                "name": "Clear 10 shows with Lv. 33 or higher songs",
+                "description": "Clear 10 shows with Lv. 33 or higher songs (including Append difficulty).",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music_level",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 7068,
+                    "missionType": "panel_mission",
+                    "missionId": 2040303,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040304,
+                "panelMissionSheetId": 20403,
+                "name": "Clear 3 APs on Master or higher",
+                "description": "Clear 3 All Perfects on Master or Append difficulty.",
+                "seq": 4,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 7069,
+                    "missionType": "panel_mission",
+                    "missionId": 2040304,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040305,
+                "panelMissionSheetId": 20403,
+                "name": "Play 50 Ranked Matches",
+                "description": "Play 50 Ranked Matches.",
+                "seq": 5,
+                "panelMissionType": "live_clear_rank_match",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 7070,
+                    "missionType": "panel_mission",
+                    "missionId": 2040305,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040306,
+                "panelMissionSheetId": 20403,
+                "name": "Clear The Intense Voice of Hatsune Miku (Full ver.) without continues",
+                "description": "Clear The Intense Voice of Hatsune Miku (Full ver.) without using any continues.",
+                "seq": 6,
+                "panelMissionType": "live_clear_no_continue_in_music_and_difficulty",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 7071,
+                    "missionType": "panel_mission",
+                    "missionId": 2040306,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              },
+              {
+                "id": 2040307,
+                "panelMissionSheetId": 20403,
+                "name": "Clear Neo with an AP on 5 difficulties",
+                "description": "Clear Neo with an All Perfect on 5 of the different difficulty levels (Easy, Normal, Hard, Expert, Master or Append).",
+                "seq": 7,
+                "panelMissionType": "live_clear_all_perfect_all_difficulty_in_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 7072,
+                    "missionType": "panel_mission",
+                    "missionId": 2040307,
+                    "seq": 1,
+                    "resourceBoxId": 9999
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 7086,
+                "missionType": "panel_mission_complete",
+                "missionId": 20403,
+                "seq": 1,
+                "resourceBoxId": 1479
               }
             ]
           }
