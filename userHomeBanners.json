@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 788,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "Your Pick Gacha",
-    "assetbundleName": "banner_gacha415",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 415,
-    "startAt": 1732737600000,
-    "endAt": 1733515199000
-  },
-  {
     "homeBannerId": 789,
     "seq": 110,
     "homeBannerType": "general",
@@ -44,17 +33,6 @@
     "endAt": 1733871599000
   },
   {
-    "homeBannerId": 793,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "Shizuku Hinomori Happy Birthday 2024 Gacha",
-    "assetbundleName": "banner_gacha419",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 419,
-    "startAt": 1733472000000,
-    "endAt": 1733558399000
-  },
-  {
     "homeBannerId": 1001,
     "seq": 200,
     "homeBannerType": "general",
@@ -74,5 +52,48 @@
     "transitionDestinationType": "billing_shop_for_value_set",
     "startAt": 1727766000000,
     "endAt": 4102473540000
+  },
+  {
+    "homeBannerId": 1131,
+    "seq": 10,
+    "homeBannerType": "general",
+    "name": "ID:1095[復刻][JP版3周年記念]セレクトリストガチャ LIMITED EDITION",
+    "assetbundleName": "banner_gacha1095",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1095,
+    "startAt": 1733558400000,
+    "endAt": 1734638399000
+  },
+  {
+    "homeBannerId": 1132,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "ID:1097[復刻][JP版3周年記念]プレミアムプレゼントガチャ6つ",
+    "assetbundleName": "banner_gacha_tab28_gl2",
+    "transitionDestinationType": "gacha_tab_parent",
+    "transitionDestinationId": 100002,
+    "startAt": 1733558400000,
+    "endAt": 1734638399000
+  },
+  {
+    "homeBannerId": 1133,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "ID:1103[3周年記念]10連無料ガチャ",
+    "assetbundleName": "banner_gacha1103",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1103,
+    "startAt": 1733558400000,
+    "endAt": 1736279999000
+  },
+  {
+    "homeBannerId": 1142,
+    "seq": 9999,
+    "homeBannerType": "general",
+    "name": "[3周年記念]セカイへようこそ大作戦！！_ホームバナー",
+    "assetbundleName": "banner_cp_invite_friends",
+    "transitionDestinationType": "friend_invitation_campaign",
+    "startAt": 1733558400000,
+    "endAt": 1736841599000
   }
 ]
