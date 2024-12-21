@@ -44,6 +44,17 @@
     "endAt": 1734897599000
   },
   {
+    "homeBannerId": 797,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "[It's Back] Scramble Flower Gacha",
+    "assetbundleName": "banner_gacha424",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 424,
+    "startAt": 1734638400000,
+    "endAt": 1735415999000
+  },
+  {
     "homeBannerId": 1001,
     "seq": 200,
     "homeBannerType": "general",
@@ -63,38 +74,6 @@
     "transitionDestinationType": "billing_shop_for_value_set",
     "startAt": 1727766000000,
     "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1125,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "[Brand New World]セールクリスタル",
-    "assetbundleName": "banner_3rd_anniversary_shop_gl",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1733601600000,
-    "endAt": 1734681599000
-  },
-  {
-    "homeBannerId": 1131,
-    "seq": 10,
-    "homeBannerType": "general",
-    "name": "ID:1095[復刻][JP版3周年記念]セレクトリストガチャ LIMITED EDITION",
-    "assetbundleName": "banner_gacha1095",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1095,
-    "startAt": 1733558400000,
-    "endAt": 1734638399000
-  },
-  {
-    "homeBannerId": 1132,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "ID:1097[復刻][JP版3周年記念]プレミアムプレゼントガチャ6つ",
-    "assetbundleName": "banner_gacha_tab28_gl2",
-    "transitionDestinationType": "gacha_tab_parent",
-    "transitionDestinationId": 100002,
-    "startAt": 1733558400000,
-    "endAt": 1734638399000
   },
   {
     "homeBannerId": 1133,
