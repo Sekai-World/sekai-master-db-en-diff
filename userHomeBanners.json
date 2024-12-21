@@ -11,28 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 794,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル飼育委員イベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha422",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 422,
-    "startAt": 1733860800000,
-    "endAt": 1734724799000
-  },
-  {
-    "homeBannerId": 795,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル飼育委員イベ_イベントバナー",
-    "assetbundleName": "event_keeper_2023",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 115,
-    "startAt": 1733871600000,
-    "endAt": 1734735599000
-  },
-  {
     "homeBannerId": 796,
     "seq": 140,
     "homeBannerType": "general",
@@ -53,6 +31,28 @@
     "transitionDestinationId": 424,
     "startAt": 1734638400000,
     "endAt": 1735415999000
+  },
+  {
+    "homeBannerId": 799,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ニーゴ箱イベ15巡目_定常ガチャバナー",
+    "assetbundleName": "banner_gacha426",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 426,
+    "startAt": 1734724800000,
+    "endAt": 1735675199000
+  },
+  {
+    "homeBannerId": 800,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ニーゴ箱イベ15巡目_イベントバナー",
+    "assetbundleName": "event_tone_2023",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 116,
+    "startAt": 1734735600000,
+    "endAt": 1735685999000
   },
   {
     "homeBannerId": 1001,
