@@ -74,6 +74,7 @@
     "viewType": "side_view",
     "displayTimelineType": "all",
     "name": "Street SEKAI",
+    "subName": "A Cafe",
     "releaseConditionId": 1
   },
   {
@@ -184,5 +185,18 @@
     "subName": "Lake",
     "startAt": 1732161600000,
     "releaseConditionId": 111105
+  },
+  {
+    "id": 22,
+    "assetbundleName": "area22",
+    "groupId": 160,
+    "isBaseArea": true,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "name": "Puroland SEKAI",
+    "startAt": 1736280000000,
+    "endAt": 1737532799000,
+    "releaseConditionId": 1
   }
 ]

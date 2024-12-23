@@ -147,7 +147,7 @@
   },
   {
     "id": 19000,
-    "sentence": "Reach Player Rank 30.\nUnlock MASTER for Preliminary Songs.",
+    "sentence": "• Reach Player Rank 30.\n• Unlock Master for qualifier songs.",
     "releaseConditionType": "user_rank",
     "releaseConditionTypeLevel": 30
   },
@@ -5745,6 +5745,48 @@
     "releaseConditionTypeLevel": 30
   },
   {
+    "id": 30801,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 801,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30802,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 802,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30803,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 803,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30804,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 804,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30805,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 805,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30806,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 806,
+    "releaseConditionTypeLevel": 60
+  },
+  {
     "id": 30827,
     "sentence": "View Part 1 and reach Level 60 to unlock.",
     "releaseConditionType": "card_level",
@@ -5820,6 +5862,76 @@
     "releaseConditionType": "card_level",
     "releaseConditionTypeId": 837,
     "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30838,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 838,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30839,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 839,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30840,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 840,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30841,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 841,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30842,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 842,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30843,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 843,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30844,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 844,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30845,
+    "sentence": "View Part 1 and reach Level 50 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 845,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30846,
+    "sentence": "View Part 1 and reach Level 30 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 846,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30847,
+    "sentence": "View Part 1 and reach Level 60 to unlock.",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 847,
+    "releaseConditionTypeLevel": 60
   },
   {
     "id": 40001,
@@ -9347,6 +9459,13 @@
     "sentence": "Clear on EXPERT with 7 or fewer GOOD or lower taps.",
     "releaseConditionType": "music_difficulty_better_play",
     "releaseConditionTypeId": 2759,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 40563,
+    "sentence": "Clear on EXPERT with 7 or fewer GOOD or lower taps.",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 2814,
     "releaseConditionTypeQuantity": 7
   },
   {
@@ -19694,6 +19813,174 @@
     "releaseConditionTypeLevel": 5
   },
   {
+    "id": 63370,
+    "sentence": "Obtain \"Featuring Hello Kitty\" Hatsune Miku.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 801,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63371,
+    "sentence": "Reach Mastery Rank 1 with \"Featuring Hello Kitty\" Hatsune Miku to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 801,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63372,
+    "sentence": "Reach Mastery Rank 3 with \"Featuring Hello Kitty\" Hatsune Miku to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 801,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63373,
+    "sentence": "Reach Mastery Rank 5 with \"Featuring Hello Kitty\" Hatsune Miku to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 801,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63380,
+    "sentence": "Obtain \"Featuring Pompompurin\" Saki Tenma.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 802,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63381,
+    "sentence": "Reach Mastery Rank 1 with \"Featuring Pompompurin\" Saki Tenma to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 802,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63382,
+    "sentence": "Reach Mastery Rank 3 with \"Featuring Pompompurin\" Saki Tenma to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 802,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63383,
+    "sentence": "Reach Mastery Rank 5 with \"Featuring Pompompurin\" Saki Tenma to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 802,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63390,
+    "sentence": "Obtain \"Featuring My Melody\" Airi Momoi.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 803,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63391,
+    "sentence": "Reach Mastery Rank 1 with \"Featuring My Melody\" Airi Momoi to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 803,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63392,
+    "sentence": "Reach Mastery Rank 3 with \"Featuring My Melody\" Airi Momoi to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 803,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63393,
+    "sentence": "Reach Mastery Rank 5 with \"Featuring My Melody\" Airi Momoi to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 803,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63400,
+    "sentence": "Obtain \"Featuring Pochacco\" Toya Aoyagi.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 804,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63401,
+    "sentence": "Reach Mastery Rank 1 with \"Featuring Pochacco\" Toya Aoyagi to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 804,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63402,
+    "sentence": "Reach Mastery Rank 3 with \"Featuring Pochacco\" Toya Aoyagi to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 804,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63403,
+    "sentence": "Reach Mastery Rank 5 with \"Featuring Pochacco\" Toya Aoyagi to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 804,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63410,
+    "sentence": "Obtain \"Featuring Cinnamoroll\" Emu Otori.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 805,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63411,
+    "sentence": "Reach Mastery Rank 1 with \"Featuring Cinnamoroll\" Emu Otori to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 805,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63412,
+    "sentence": "Reach Mastery Rank 3 with \"Featuring Cinnamoroll\" Emu Otori to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 805,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63413,
+    "sentence": "Reach Mastery Rank 5 with \"Featuring Cinnamoroll\" Emu Otori to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 805,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63420,
+    "sentence": "Obtain \"Featuring KUROMI\" Ena Shinonome.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 806,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63421,
+    "sentence": "Reach Mastery Rank 1 with \"Featuring KUROMI\" Ena Shinonome to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 806,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63422,
+    "sentence": "Reach Mastery Rank 3 with \"Featuring KUROMI\" Ena Shinonome to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 806,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63423,
+    "sentence": "Reach Mastery Rank 5 with \"Featuring KUROMI\" Ena Shinonome to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 806,
+    "releaseConditionTypeLevel": 5
+  },
+  {
     "id": 63430,
     "sentence": "Obtain \"Scurry! Dash! Skitter!\" Minori Hanasato.",
     "releaseConditionType": "master_rank",
@@ -19859,6 +20146,181 @@
     "sentence": "Reach Mastery Rank 5 with \"I Can't Sit Back\" KAITO to unlock.",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 835,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63490,
+    "sentence": "Obtain \"Each Dream Weaves Another\" Minori Hanasato.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 840,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63491,
+    "sentence": "Reach Mastery Rank 1 with \"Each Dream Weaves Another\" Minori Hanasato to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 840,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63492,
+    "sentence": "Reach Mastery Rank 2 with \"Each Dream Weaves Another\" Minori Hanasato to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 840,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 63493,
+    "sentence": "Reach Mastery Rank 3 with \"Each Dream Weaves Another\" Minori Hanasato to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 840,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63494,
+    "sentence": "Reach Mastery Rank 5 with \"Each Dream Weaves Another\" Minori Hanasato to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 840,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63500,
+    "sentence": "Obtain \"Butterflies Not To Forget\" Shizuku Hinomori.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 841,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63501,
+    "sentence": "Reach Mastery Rank 1 with \"Butterflies Not To Forget\" Shizuku Hinomori to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 841,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63502,
+    "sentence": "Reach Mastery Rank 2 with \"Butterflies Not To Forget\" Shizuku Hinomori to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 841,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 63503,
+    "sentence": "Reach Mastery Rank 3 with \"Butterflies Not To Forget\" Shizuku Hinomori to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 841,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63504,
+    "sentence": "Reach Mastery Rank 5 with \"Butterflies Not To Forget\" Shizuku Hinomori to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 841,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63510,
+    "sentence": "Obtain \"Encouraged By Kindness\" Mizuki Akiyama.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 842,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63511,
+    "sentence": "Reach Mastery Rank 1 with \"Encouraged By Kindness\" Mizuki Akiyama to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 842,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63512,
+    "sentence": "Reach Mastery Rank 2 with \"Encouraged By Kindness\" Mizuki Akiyama to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 842,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 63513,
+    "sentence": "Reach Mastery Rank 3 with \"Encouraged By Kindness\" Mizuki Akiyama to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 842,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63514,
+    "sentence": "Reach Mastery Rank 5 with \"Encouraged By Kindness\" Mizuki Akiyama to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 842,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63520,
+    "sentence": "Obtain \"With Some Embarrassment\" Shiho Hinomori.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 843,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63521,
+    "sentence": "Reach Mastery Rank 1 with \"With Some Embarrassment\" Shiho Hinomori to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 843,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63522,
+    "sentence": "Reach Mastery Rank 2 with \"With Some Embarrassment\" Shiho Hinomori to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 843,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 63523,
+    "sentence": "Reach Mastery Rank 3 with \"With Some Embarrassment\" Shiho Hinomori to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 843,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63524,
+    "sentence": "Reach Mastery Rank 5 with \"With Some Embarrassment\" Shiho Hinomori to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 843,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63530,
+    "sentence": "Obtain \"Teach Us, Ms. Shiho!\" MEIKO.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 844,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63531,
+    "sentence": "Reach Mastery Rank 1 with \"Teach Us, Ms. Shiho!\" MEIKO to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 844,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63532,
+    "sentence": "Reach Mastery Rank 2 with \"Teach Us, Ms. Shiho!\" MEIKO to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 844,
+    "releaseConditionTypeLevel": 2
+  },
+  {
+    "id": 63533,
+    "sentence": "Reach Mastery Rank 3 with \"Teach Us, Ms. Shiho!\" MEIKO to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 844,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63534,
+    "sentence": "Reach Mastery Rank 5 with \"Teach Us, Ms. Shiho!\" MEIKO to unlock.",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 844,
     "releaseConditionTypeLevel": 5
   },
   {
@@ -27014,6 +27476,61 @@
     "sentence": "View The Way I Played That Day - Episode 8.",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000938
+  },
+  {
+    "id": 111601,
+    "sentence": "Earn 12,000 Event Pts.",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 117,
+    "releaseConditionTypeQuantity": 12000
+  },
+  {
+    "id": 111602,
+    "sentence": "Earn 32,000 Event Pts.",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 117,
+    "releaseConditionTypeQuantity": 32000
+  },
+  {
+    "id": 111603,
+    "sentence": "Earn 52,000 Event Pts.",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 117,
+    "releaseConditionTypeQuantity": 52000
+  },
+  {
+    "id": 111604,
+    "sentence": "Earn 76,000 Event Pts.",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 117,
+    "releaseConditionTypeQuantity": 76000
+  },
+  {
+    "id": 111605,
+    "sentence": "Earn 100,000 Event Pts.",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 117,
+    "releaseConditionTypeQuantity": 100000
+  },
+  {
+    "id": 111606,
+    "sentence": "Earn 125,000 Event Pts.",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 117,
+    "releaseConditionTypeQuantity": 125000
+  },
+  {
+    "id": 111607,
+    "sentence": "Earn 150,000 Event Pts.",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 117,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 111608,
+    "sentence": "View Beside Unchanging Warmth - Episode 8.",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1000946
   },
   {
     "id": 800001,

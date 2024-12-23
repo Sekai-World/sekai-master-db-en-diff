@@ -191,7 +191,7 @@
   },
   {
     "id": 41,
-    "name": "Never Give Up",
+    "name": "Never Give Up!",
     "honorType": "achievement"
   },
   {
@@ -1568,6 +1568,11 @@
     "honorType": "event"
   },
   {
+    "id": 322,
+    "name": "Happy Birthday Shiho 1\/8\/2025",
+    "honorType": "event"
+  },
+  {
     "id": 324,
     "name": "Happy Birthday Haruka 10\/5\/2024",
     "honorType": "event"
@@ -1580,6 +1585,16 @@
   {
     "id": 329,
     "name": "Happy Birthday Akito 11\/12\/2024",
+    "honorType": "event"
+  },
+  {
+    "id": 340,
+    "name": "Happy Anniversary Rin 12\/27\/2024",
+    "honorType": "event"
+  },
+  {
+    "id": 341,
+    "name": "Happy Anniversary Len 12\/27\/2024",
     "honorType": "event"
   },
   {
@@ -1636,28 +1651,28 @@
     "name": "Searching for Sunken Shadows Chapter 1",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_bg_event_underwater_cp1",
-    "frameName": "_event_underwater_cp1"
+    "frameName": "event_underwater_cp1"
   },
   {
     "id": 354,
     "name": "Searching for Sunken Shadows Chapter 2",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_bg_event_underwater_cp2",
-    "frameName": "_event_underwater_cp2"
+    "frameName": "event_underwater_cp2"
   },
   {
     "id": 355,
     "name": "Searching for Sunken Shadows Chapter 3",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_bg_event_underwater_cp3",
-    "frameName": "_event_underwater_cp3"
+    "frameName": "event_underwater_cp3"
   },
   {
     "id": 356,
     "name": "Searching for Sunken Shadows Chapter 4",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_bg_event_underwater_cp4",
-    "frameName": "_event_underwater_cp4"
+    "frameName": "event_underwater_cp4"
   },
   {
     "id": 357,
@@ -1687,6 +1702,28 @@
     "id": 361,
     "name": "Christmas 2024",
     "honorType": "event"
+  },
+  {
+    "id": 362,
+    "name": "Countdown 2025",
+    "honorType": "event"
+  },
+  {
+    "id": 363,
+    "name": "Happy New Year 2025",
+    "honorType": "event"
+  },
+  {
+    "id": 364,
+    "name": "Beside Unchanging Warmth",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_bg_event_cuddle"
+  },
+  {
+    "id": 365,
+    "name": "Ranked Matches Winter 2025",
+    "honorType": "rank_match",
+    "backgroundAssetbundleName": "season_2024_winter"
   },
   {
     "id": 387,

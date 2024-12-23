@@ -41222,6 +41222,342 @@
     "cardEpisodePartType": "second_part"
   },
   {
+    "id": 1599,
+    "seq": 1,
+    "cardId": 801,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "021045_miku01",
+    "assetbundleName": "res021_no045",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1600,
+    "seq": 2,
+    "cardId": 801,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "021045_miku02",
+    "assetbundleName": "res021_no045",
+    "releaseConditionId": 30801,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1601,
+    "seq": 1,
+    "cardId": 802,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "002032_saki01",
+    "assetbundleName": "res002_no032",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1602,
+    "seq": 2,
+    "cardId": 802,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "002032_saki02",
+    "assetbundleName": "res002_no032",
+    "releaseConditionId": 30802,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1603,
+    "seq": 1,
+    "cardId": 803,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "007031_airi01",
+    "assetbundleName": "res007_no031",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1604,
+    "seq": 2,
+    "cardId": 803,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "007031_airi02",
+    "assetbundleName": "res007_no031",
+    "releaseConditionId": 30803,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1605,
+    "seq": 1,
+    "cardId": 804,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "012030_touya01",
+    "assetbundleName": "res012_no030",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1606,
+    "seq": 2,
+    "cardId": 804,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "012030_touya02",
+    "assetbundleName": "res012_no030",
+    "releaseConditionId": 30804,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 4,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 9,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1607,
+    "seq": 1,
+    "cardId": 805,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "014032_emu01",
+    "assetbundleName": "res014_no032",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1608,
+    "seq": 2,
+    "cardId": 805,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "014032_emu02",
+    "assetbundleName": "res014_no032",
+    "releaseConditionId": 30805,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1609,
+    "seq": 1,
+    "cardId": 806,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "019031_ena01",
+    "assetbundleName": "res019_no031",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1610,
+    "seq": 2,
+    "cardId": 806,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "019031_ena02",
+    "assetbundleName": "res019_no031",
+    "releaseConditionId": 30806,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 7,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
     "id": 1611,
     "seq": 1,
     "cardId": 827,
@@ -41813,6 +42149,556 @@
         "resourceId": 5,
         "resourceType": "material",
         "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1633,
+    "seq": 1,
+    "cardId": 838,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "022033_rin01",
+    "assetbundleName": "res022_no033",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 240,
+    "power2BonusFixed": 240,
+    "power3BonusFixed": 240,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1634,
+    "seq": 2,
+    "cardId": 838,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "022033_rin02",
+    "assetbundleName": "res022_no033",
+    "releaseConditionId": 30838,
+    "power1BonusFixed": 550,
+    "power2BonusFixed": 550,
+    "power3BonusFixed": 550,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1635,
+    "seq": 1,
+    "cardId": 839,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "023034_len01",
+    "assetbundleName": "res023_no034",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 240,
+    "power2BonusFixed": 240,
+    "power3BonusFixed": 240,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1636,
+    "seq": 2,
+    "cardId": 839,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "023034_len02",
+    "assetbundleName": "res023_no034",
+    "releaseConditionId": 30839,
+    "power1BonusFixed": 550,
+    "power2BonusFixed": 550,
+    "power3BonusFixed": 550,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1637,
+    "seq": 1,
+    "cardId": 840,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "005031_minori01",
+    "assetbundleName": "res005_no031",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1638,
+    "seq": 2,
+    "cardId": 840,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "005031_minori02",
+    "assetbundleName": "res005_no031",
+    "releaseConditionId": 30840,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 3,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 8,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1639,
+    "seq": 1,
+    "cardId": 841,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "008032_shizuku01",
+    "assetbundleName": "res008_no032",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1640,
+    "seq": 2,
+    "cardId": 841,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "008032_shizuku02",
+    "assetbundleName": "res008_no032",
+    "releaseConditionId": 30841,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1641,
+    "seq": 1,
+    "cardId": 842,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "020033_mizuki01",
+    "assetbundleName": "res020_no033",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1642,
+    "seq": 2,
+    "cardId": 842,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "020033_mizuki02",
+    "assetbundleName": "res020_no033",
+    "releaseConditionId": 30842,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1643,
+    "seq": 1,
+    "cardId": 843,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "004033_shiho01",
+    "assetbundleName": "res004_no033",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1644,
+    "seq": 2,
+    "cardId": 843,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "004033_shiho02",
+    "assetbundleName": "res004_no033",
+    "releaseConditionId": 30843,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1645,
+    "seq": 1,
+    "cardId": 844,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "025034_meiko01",
+    "assetbundleName": "res025_no034",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 250,
+    "power2BonusFixed": 250,
+    "power3BonusFixed": 250,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1646,
+    "seq": 2,
+    "cardId": 844,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "025034_meiko02",
+    "assetbundleName": "res025_no034",
+    "releaseConditionId": 30844,
+    "power1BonusFixed": 600,
+    "power2BonusFixed": 600,
+    "power3BonusFixed": 600,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1647,
+    "seq": 1,
+    "cardId": 845,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "018032_mafuyu01",
+    "assetbundleName": "res018_no032",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 200,
+    "power2BonusFixed": 200,
+    "power3BonusFixed": 200,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 500
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1648,
+    "seq": 2,
+    "cardId": 845,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "018032_mafuyu02",
+    "assetbundleName": "res018_no032",
+    "releaseConditionId": 30845,
+    "power1BonusFixed": 500,
+    "power2BonusFixed": 500,
+    "power3BonusFixed": 500,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 5,
+        "resourceType": "material",
+        "quantity": 2000
+      },
+      {
+        "resourceId": 10,
+        "resourceType": "material",
+        "quantity": 600
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 80
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1649,
+    "seq": 1,
+    "cardId": 846,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "002033_saki01",
+    "assetbundleName": "res002_no033",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 150,
+    "power2BonusFixed": 150,
+    "power3BonusFixed": 150,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 200
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1650,
+    "seq": 2,
+    "cardId": 846,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "002033_saki02",
+    "assetbundleName": "res002_no033",
+    "releaseConditionId": 30846,
+    "power1BonusFixed": 300,
+    "power2BonusFixed": 300,
+    "power3BonusFixed": 300,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 2,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "second_part"
+  },
+  {
+    "id": 1651,
+    "seq": 1,
+    "cardId": 847,
+    "title": "Side Story (Part 1)",
+    "scenarioId": "004034_shiho01",
+    "assetbundleName": "res004_no034",
+    "releaseConditionId": 1,
+    "power1BonusFixed": 240,
+    "power2BonusFixed": 240,
+    "power3BonusFixed": 240,
+    "rewardResourceBoxIds": [
+      3
+    ],
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 1000
+      }
+    ],
+    "cardEpisodePartType": "first_part"
+  },
+  {
+    "id": 1652,
+    "seq": 2,
+    "cardId": 847,
+    "title": "Side Story (Part 2)",
+    "scenarioId": "004034_shiho02",
+    "assetbundleName": "res004_no034",
+    "releaseConditionId": 30847,
+    "power1BonusFixed": 550,
+    "power2BonusFixed": 550,
+    "power3BonusFixed": 550,
+    "rewardResourceBoxIds": [
+      4
+    ],
+    "costs": [
+      {
+        "resourceId": 1,
+        "resourceType": "material",
+        "quantity": 4000
+      },
+      {
+        "resourceId": 6,
+        "resourceType": "material",
+        "quantity": 1200
+      },
+      {
+        "resourceId": 14,
+        "resourceType": "material",
+        "quantity": 120
       }
     ],
     "cardEpisodePartType": "second_part"

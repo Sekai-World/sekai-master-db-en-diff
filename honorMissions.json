@@ -1312,16 +1312,16 @@
     ]
   },
   {
-    "id": 1301,
+    "id": 1302,
     "seq": 1,
-    "honorMissionType": "clear_live_continued",
+    "honorMissionType": "finish_live_with_empty_life",
     "requirement": 5,
-    "sentence": "Clear a show using five or more continues.",
+    "sentence": "Finish a Solo Show or Challenge Show with zero Life 5 times.",
     "rewards": [
       {
-        "id": 330,
+        "id": 7751,
         "missionType": "honor_mission",
-        "missionId": 1301,
+        "missionId": 1302,
         "seq": 1,
         "resourceBoxId": 1036
       }
@@ -1652,7 +1652,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_school_year_1",
     "requirement": 100,
-    "sentence": "Play 100 shows with five former 1st year students.",
+    "sentence": "Clear 100 shows with five former 1st year students.",
     "rewards": [
       {
         "id": 341,
@@ -1668,7 +1668,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_next_grade_school_year_2",
     "requirement": 100,
-    "sentence": "Play 100 shows with five 2nd year students.",
+    "sentence": "Clear 100 shows with five 2nd year students.",
     "rewards": [
       {
         "id": 6949,
@@ -1684,7 +1684,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_school_year_2",
     "requirement": 100,
-    "sentence": "Play 100 shows with five former 2nd year students.",
+    "sentence": "Clear 100 shows with five former 2nd year students.",
     "rewards": [
       {
         "id": 342,
@@ -1700,7 +1700,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_next_grade_school_year_3",
     "requirement": 100,
-    "sentence": "Play 100 shows with five 3rd year students.",
+    "sentence": "Clear 100 shows with five 3rd year students.",
     "rewards": [
       {
         "id": 6950,
@@ -1716,7 +1716,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_school_miyamasuzaka",
     "requirement": 100,
-    "sentence": "Play 100 shows with five characters from Miyamasuzaka Girls Academy.",
+    "sentence": "Clear 100 shows with five characters from Miyamasuzaka Girls Academy.",
     "rewards": [
       {
         "id": 343,
@@ -1732,7 +1732,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_school_kamiyama",
     "requirement": 100,
-    "sentence": "Play 100 shows with five characters from Kamiyama High School.",
+    "sentence": "Clear 100 shows with five characters from Kamiyama High School.",
     "rewards": [
       {
         "id": 344,
@@ -1748,7 +1748,7 @@
     "seq": 1,
     "honorMissionType": "clear_live_male",
     "requirement": 100,
-    "sentence": "Play 100 shows with only Tsukasa, Akito, Toya, Rui, Len, and KAITO.",
+    "sentence": "Clear 100 shows with only Tsukasa, Akito, Toya, Rui, Len, or KAITO.",
     "rewards": [
       {
         "id": 345,
