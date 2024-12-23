@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 796,
-    "seq": 140,
-    "homeBannerType": "general",
-    "name": "[It's Back] Fly to The Future! Gacha",
-    "assetbundleName": "banner_gacha423",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 423,
-    "startAt": 1734120000000,
-    "endAt": 1734897599000
-  },
-  {
     "homeBannerId": 797,
     "seq": 150,
     "homeBannerType": "general",
@@ -53,6 +42,27 @@
     "transitionDestinationId": 116,
     "startAt": 1734735600000,
     "endAt": 1735685999000
+  },
+  {
+    "homeBannerId": 803,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "Christmas Show 2023",
+    "assetbundleName": "banner_virtuallive271",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 271,
+    "startAt": 1734908400000,
+    "endAt": 1735199999000
+  },
+  {
+    "homeBannerId": 804,
+    "seq": 135,
+    "homeBannerType": "general",
+    "name": "クリスマス衣装販売",
+    "assetbundleName": "banner_shop_xmas_costume_2023",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1734908400000,
+    "endAt": 1735253999000
   },
   {
     "homeBannerId": 1001,
