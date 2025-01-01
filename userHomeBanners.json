@@ -22,26 +22,91 @@
     "endAt": 1735934399000
   },
   {
-    "homeBannerId": 799,
-    "seq": 110,
+    "homeBannerId": 809,
+    "seq": 50,
     "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ15巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha426",
+    "name": "2025 New Year Colorful Festival Gacha",
+    "assetbundleName": "banner_gacha433",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 426,
-    "startAt": 1734724800000,
-    "endAt": 1735675199000
+    "transitionDestinationId": 433,
+    "startAt": 1735675200000,
+    "endAt": 1736020799000
   },
   {
-    "homeBannerId": 800,
+    "homeBannerId": 811,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ15巡目_イベントバナー",
-    "assetbundleName": "event_tone_2023",
+    "name": "[イベント]シャッフルモノノ怪イベ_イベントバナー",
+    "assetbundleName": "event_cuddle_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 116,
-    "startAt": 1734735600000,
-    "endAt": 1735685999000
+    "transitionDestinationId": 117,
+    "startAt": 1735686000000,
+    "endAt": 1736481599000
+  },
+  {
+    "homeBannerId": 812,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "2025 New Year Premium Gift Gacha",
+    "assetbundleName": "banner_gacha434",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 434,
+    "startAt": 1735675200000,
+    "endAt": 1736452799000
+  },
+  {
+    "homeBannerId": 813,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ガチャ_無料10連ガチャバナー",
+    "assetbundleName": "banner_gacha435",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 435,
+    "startAt": 1735675200000,
+    "endAt": 1735991999000
+  },
+  {
+    "homeBannerId": 814,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "お正月ショップ2024",
+    "assetbundleName": "banner_shop_newyear2024",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1735675200000,
+    "endAt": 1736452799000
+  },
+  {
+    "homeBannerId": 815,
+    "seq": 170,
+    "homeBannerType": "general",
+    "name": "New Year's Countdown Show 2024",
+    "assetbundleName": "banner_virtuallive274",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 274,
+    "startAt": 1735686000000,
+    "endAt": 1735891199000
+  },
+  {
+    "homeBannerId": 816,
+    "seq": 180,
+    "homeBannerType": "general",
+    "name": "ハッピーニューイヤー2024ライブ",
+    "assetbundleName": "banner_virtuallive276",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 276,
+    "startAt": 1735686000000,
+    "endAt": 1735977599000
+  },
+  {
+    "homeBannerId": 817,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "セカイ神社訴求用バナー",
+    "assetbundleName": "banner_sekai_jinja_2024",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 274,
+    "startAt": 1735686000000,
+    "endAt": 1736481599000
   },
   {
     "homeBannerId": 1001,
@@ -76,17 +141,6 @@
     "endAt": 1736279999000
   },
   {
-    "homeBannerId": 1139,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "3rd ANNIV. Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1105",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1105,
-    "startAt": 1734379200000,
-    "endAt": 1735675199000
-  },
-  {
     "homeBannerId": 1140,
     "seq": 90,
     "homeBannerType": "general",
@@ -116,16 +170,5 @@
     "transitionDestinationType": "friend_invitation_campaign",
     "startAt": 1733558400000,
     "endAt": 1736841599000
-  },
-  {
-    "homeBannerId": 1143,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "2024 December Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1111",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1111,
-    "startAt": 1734984000000,
-    "endAt": 1735675199000
   }
 ]
