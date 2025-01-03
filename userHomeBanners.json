@@ -76,17 +76,6 @@
     "endAt": 1736452799000
   },
   {
-    "homeBannerId": 815,
-    "seq": 170,
-    "homeBannerType": "general",
-    "name": "New Year's Countdown Show 2024",
-    "assetbundleName": "banner_virtuallive274",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 274,
-    "startAt": 1735686000000,
-    "endAt": 1735891199000
-  },
-  {
     "homeBannerId": 816,
     "seq": 180,
     "homeBannerType": "general",
@@ -107,6 +96,17 @@
     "transitionDestinationId": 274,
     "startAt": 1735686000000,
     "endAt": 1736481599000
+  },
+  {
+    "homeBannerId": 818,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワールドリンクイベントサポートガチャ",
+    "assetbundleName": "banner_gacha437",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 437,
+    "startAt": 1735848000000,
+    "endAt": 1736452799000
   },
   {
     "homeBannerId": 1001,
