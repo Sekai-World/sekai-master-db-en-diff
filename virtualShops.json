@@ -5462,5 +5462,74 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 245,
+    "seq": 245,
+    "name": "第118回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 422,
+        "virtualShopId": 245,
+        "virtualShopItemType": "penlight",
+        "seq": 199863,
+        "resourceBoxId": 318,
+        "costPaidJewel": 1000,
+        "startAt": 1736481600000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 246,
+    "seq": 246,
+    "name": "第119回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 423,
+        "virtualShopId": 246,
+        "virtualShopItemType": "accessory",
+        "seq": 99887,
+        "resourceBoxId": 319,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1737673200000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 247,
+    "seq": 247,
+    "name": "Mafuyu's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 424,
+        "virtualShopId": 247,
+        "virtualShopItemType": "coordinate",
+        "seq": 99838,
+        "resourceBoxId": 320,
+        "costPaidJewel": 1000,
+        "startAt": 1737846000000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 248,
+    "seq": 248,
+    "name": "Luka's Anniversary",
+    "virtualShopItems": [
+      {
+        "id": 425,
+        "virtualShopId": 248,
+        "virtualShopItemType": "coordinate",
+        "seq": 99837,
+        "resourceBoxId": 321,
+        "costPaidJewel": 1000,
+        "startAt": 1738105200000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]
