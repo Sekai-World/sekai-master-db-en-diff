@@ -44,15 +44,15 @@
     "endAt": 1737673199000
   },
   {
-    "homeBannerId": 824,
-    "seq": 140,
+    "homeBannerId": 825,
+    "seq": 150,
     "homeBannerType": "general",
-    "name": "[It's Back] New Year's Divine Beasts Gacha",
-    "assetbundleName": "banner_gacha443",
+    "name": "[It's Back] A Maiden's Hope For The New Year Gacha",
+    "assetbundleName": "banner_gacha444",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 443,
-    "startAt": 1736539200000,
-    "endAt": 1737316799000
+    "transitionDestinationId": 444,
+    "startAt": 1737403200000,
+    "endAt": 1738180799000
   },
   {
     "homeBannerId": 826,
@@ -96,5 +96,26 @@
     "transitionDestinationId": 1113,
     "startAt": 1736798400000,
     "endAt": 1738267199000
+  },
+  {
+    "homeBannerId": 1145,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "ID:1113 2025 Winter Campagin Gacha",
+    "assetbundleName": "banner_gacha1114",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1114,
+    "startAt": 1737316800000,
+    "endAt": 1738439999000
+  },
+  {
+    "homeBannerId": 1146,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "Winter 2025 10x Gacha Ticket",
+    "assetbundleName": "banner_shop_gachaticket_miku10_gl",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1737316800000,
+    "endAt": 1738418399000
   }
 ]
