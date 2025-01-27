@@ -44,15 +44,26 @@
     "endAt": 1738353599000
   },
   {
-    "homeBannerId": 832,
+    "homeBannerId": 830,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "Your Pick Gacha",
+    "assetbundleName": "banner_gacha447",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 447,
+    "startAt": 1737921600000,
+    "endAt": 1738699199000
+  },
+  {
+    "homeBannerId": 833,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[朝比奈まふゆ]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive280",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 280,
-    "startAt": 1737846000000,
-    "endAt": 1737964799000
+    "name": "Mafuyu Asahina Happy Birthday 2025 Gacha",
+    "assetbundleName": "banner_gacha448",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 448,
+    "startAt": 1737964800000,
+    "endAt": 1738051199000
   },
   {
     "homeBannerId": 1001,
