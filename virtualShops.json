@@ -5531,5 +5531,40 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 249,
+    "seq": 249,
+    "name": "第120回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 426,
+        "virtualShopId": 249,
+        "virtualShopItemType": "accessory",
+        "seq": 99886,
+        "resourceBoxId": 322,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1738364400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 250,
+    "seq": 250,
+    "name": "Kanade's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 427,
+        "virtualShopId": 250,
+        "virtualShopItemType": "coordinate",
+        "seq": 99836,
+        "resourceBoxId": 323,
+        "costPaidJewel": 1000,
+        "startAt": 1739055600000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

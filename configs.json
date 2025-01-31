@@ -732,6 +732,10 @@
     "value": "7776000"
   },
   {
+    "configKey": "ranking_border_expire_sec",
+    "value": "300"
+  },
+  {
     "configKey": "cheerful_carnival_party_redis_lock_enable",
     "value": "TRUE"
   },
@@ -902,5 +906,13 @@
   {
     "configKey": "world_bloom_support_deck_event_item_correction_value",
     "value": "0.5"
+  },
+  {
+    "configKey": "card_episode_release_ticket_material_id",
+    "value": "86"
+  },
+  {
+    "configKey": "card_episode_release_cost_quantity",
+    "value": "1"
   }
 ]

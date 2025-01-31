@@ -2814,6 +2814,19 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 10161,
+    "seq": 185,
+    "billingShopItemType": "value_set",
+    "name": "Side Story Ticket x3",
+    "description": "Side Story Ticket x3",
+    "billableLimitType": "unlimited",
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10161",
+    "resourceBoxId": 272,
+    "startAt": 1738134000000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 20100,
     "seq": 100,
     "billingShopItemType": "value_set",
@@ -3201,6 +3214,21 @@
     "resourceBoxId": 20105,
     "bonusResourceBoxId": 20112,
     "startAt": 1732881600000,
+    "endAt": 4102473599000
+  },
+  {
+    "id": 20134,
+    "seq": 100,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 20164,
+    "name": "Bonus Energy Drink Bundle",
+    "description": "Limited time bundle bonus: Free Crystals",
+    "billableLimitType": "unlimited",
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_20128",
+    "resourceBoxId": 20113,
+    "bonusResourceBoxId": 20113,
+    "startAt": 1738137600000,
     "endAt": 4102473599000
   },
   {
