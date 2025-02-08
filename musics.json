@@ -5839,7 +5839,8 @@
     "seq": 1621801,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      "original",
+      "mv_2d"
     ],
     "title": "Gehenna",
     "pronunciation": "gehenna",
@@ -7012,7 +7013,7 @@
     "seq": 1229901,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "mv_2d"
     ],
     "title": "Attract Light",
     "pronunciation": "attractlight",
@@ -8501,7 +8502,8 @@
     "seq": 2239001,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "purpose",
     "pronunciation": "purpose",
@@ -8525,7 +8527,8 @@
     "seq": 2639301,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Twilight Light",
     "pronunciation": "twilightlight",
@@ -8789,7 +8792,8 @@
     "seq": 2539901,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "filament fever",
     "pronunciation": "filamentfever",
@@ -8813,7 +8817,8 @@
     "seq": 2440201,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Beyond the way",
     "pronunciation": "beyondtheway",
@@ -9097,6 +9102,30 @@
     "isFullLength": false
   },
   {
+    "id": 411,
+    "seq": 2543001,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "Tonal Twinkle Tetrad",
+    "pronunciation": "tonaltwinkletetrad",
+    "creatorArtistId": 47,
+    "lyricist": "OSTER project",
+    "composer": "OSTER project",
+    "arranger": "OSTER project",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_411",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1739142000000,
+    "releasedAt": 1707465600000,
+    "liveStageId": 1,
+    "fillerSec": 8.225799560546875,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
     "id": 412,
     "seq": 1138101,
     "releaseConditionId": 5,
@@ -9190,6 +9219,30 @@
     "liveStageId": 1,
     "fillerSec": 7.571400165557861,
     "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 416,
+    "seq": 2143401,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "limbo",
+    "pronunciation": "limbo",
+    "creatorArtistId": 227,
+    "lyricist": "sheeno mirin",
+    "composer": "sheeno mirin",
+    "arranger": "sheeno mirin",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_416",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1739746800000,
+    "releasedAt": 1685779200000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
   {
@@ -9309,6 +9362,78 @@
     "releasedAt": 1697097600000,
     "liveStageId": 1,
     "fillerSec": 9.00100040435791,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 422,
+    "seq": 2343701,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "JUMPIN' OVER !",
+    "pronunciation": "jumpinover",
+    "creatorArtistId": 205,
+    "lyricist": "r-906",
+    "composer": "r-906",
+    "arranger": "r-906",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_422",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1740639900000,
+    "releasedAt": 1709020800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 423,
+    "seq": 2243501,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "Regulus",
+    "pronunciation": "regulus",
+    "creatorArtistId": 133,
+    "lyricist": "Yuuyu",
+    "composer": "Yuuyu",
+    "arranger": "Yuuyu",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_423",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1739948700000,
+    "releasedAt": 1708243200000,
+    "liveStageId": 1,
+    "fillerSec": 7.767099857330322,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 424,
+    "seq": 2243901,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "Integral",
+    "pronunciation": "integral",
+    "creatorArtistId": 99,
+    "lyricist": "*Luna",
+    "composer": "*Luna",
+    "arranger": "*Luna",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_424",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1740870000000,
+    "releasedAt": 1709280000000,
+    "liveStageId": 1,
+    "fillerSec": 8.993300437927246,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -9477,6 +9602,30 @@
     "releasedAt": 1691222400000,
     "liveStageId": 1,
     "fillerSec": 8.205300331115723,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 436,
+    "seq": 1543601,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Kosho Yashiki Satsujin Jiken",
+    "pronunciation": "koshoyashikisatsujinjiken",
+    "creatorArtistId": 98,
+    "lyricist": "teniwoha",
+    "composer": "teniwoha",
+    "arranger": "teniwoha",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_436",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1740265200000,
+    "releasedAt": 1341302400000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -9772,6 +9921,30 @@
     "isFullLength": false
   },
   {
+    "id": 455,
+    "seq": 1644001,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "DOKUZU",
+    "pronunciation": "dokuzu",
+    "creatorArtistId": 228,
+    "lyricist": "NAKISO",
+    "composer": "NAKISO",
+    "arranger": "NAKISO",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_455",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1741129200000,
+    "releasedAt": 1646467200000,
+    "liveStageId": 1,
+    "fillerSec": 7.428100109100342,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 459,
     "seq": 1128401,
     "releaseConditionId": 5,
@@ -9820,6 +9993,30 @@
     "isFullLength": false
   },
   {
+    "id": 463,
+    "seq": 1143101,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "Happy Cheat Day",
+    "pronunciation": "happycheatday",
+    "creatorArtistId": 110,
+    "lyricist": "rerulili",
+    "composer": "rerulili",
+    "arranger": "tepe(OTOIRO)",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_463",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1739228400000,
+    "releasedAt": 1703059200000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 464,
     "seq": 1127001,
     "releaseConditionId": 5,
@@ -9844,6 +10041,78 @@
     "isFullLength": false
   },
   {
+    "id": 468,
+    "seq": 1143201,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Teenager's Heartbeat",
+    "pronunciation": "teenagersheartbeat",
+    "creatorArtistId": 226,
+    "lyricist": "TakoyakiKZY",
+    "composer": "TakoyakiKZY",
+    "arranger": "TakoyakiKZY",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_468",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1739401200000,
+    "releasedAt": 1700812800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 469,
+    "seq": 1643801,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "Lagtrain",
+    "pronunciation": "lagtrain",
+    "creatorArtistId": 224,
+    "lyricist": "inabakumori",
+    "composer": "inabakumori",
+    "arranger": "inabakumori",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_469",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1740783600000,
+    "releasedAt": 1594886400000,
+    "liveStageId": 1,
+    "fillerSec": 8.59179973602295,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 470,
+    "seq": 1144201,
+    "releaseConditionId": 10,
+    "categories": [
+      "image"
+    ],
+    "title": "Hajimete no Oto",
+    "pronunciation": "hajimetenooto",
+    "creatorArtistId": 232,
+    "lyricist": "malo",
+    "composer": "malo",
+    "arranger": "malo",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_470",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1741557600000,
+    "releasedAt": 1192348800000,
+    "liveStageId": 1,
+    "fillerSec": 7.199999809265137,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 479,
     "seq": 1130201,
     "releaseConditionId": 5,
@@ -9864,6 +10133,30 @@
     "releasedAt": 1598860800000,
     "liveStageId": 1,
     "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 481,
+    "seq": 1144101,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Clear and Serene",
+    "pronunciation": "clearandserene",
+    "creatorArtistId": 229,
+    "lyricist": "Tabiji",
+    "composer": "Tabiji",
+    "arranger": "Tabiji",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_481",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1741474800000,
+    "releasedAt": 1700899200000,
+    "liveStageId": 1,
+    "fillerSec": 8.996700286865234,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -10005,6 +10298,30 @@
     "assetbundleName": "jacket_s_568",
     "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
     "publishedAt": 1732759200000,
+    "releasedAt": 1601452800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 593,
+    "seq": 1142901,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "CrystalSnow",
+    "pronunciation": "crystalsnow",
+    "creatorArtistId": 78,
+    "lyricist": "Aqu3ra",
+    "composer": "Aqu3ra",
+    "arranger": "Aqu3ra",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_593",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1738994400000,
     "releasedAt": 1601452800000,
     "liveStageId": 1,
     "fillerSec": 9.0,

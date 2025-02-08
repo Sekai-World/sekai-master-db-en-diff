@@ -1304,6 +1304,23 @@
     ]
   },
   {
+    "id": 85,
+    "seq": 85,
+    "name": "Valentine's Login Campaign",
+    "startAt": 1739520000000,
+    "endAt": 1739692799000,
+    "assetbundleName": "valentine_2024",
+    "closeAt": 1739692799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 189,
+        "limitedLoginBonusId": 85,
+        "day": 1,
+        "resourceBoxId": 111
+      }
+    ]
+  },
+  {
     "id": 1001,
     "seq": 1001,
     "name": "OBT特別ログインボーナス",
@@ -5315,6 +5332,71 @@
         "limitedLoginBonusId": 1125,
         "day": 10,
         "resourceBoxId": 1411
+      }
+    ]
+  },
+  {
+    "id": 1126,
+    "seq": 1126,
+    "name": "14 Million Players Login Campaign",
+    "startAt": 1740427200000,
+    "endAt": 1741604399000,
+    "assetbundleName": "1400_anniversary",
+    "closeAt": 1740913200000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1446,
+        "limitedLoginBonusId": 1126,
+        "day": 1,
+        "resourceBoxId": 1412
+      },
+      {
+        "id": 1447,
+        "limitedLoginBonusId": 1126,
+        "day": 2,
+        "resourceBoxId": 1413
+      },
+      {
+        "id": 1448,
+        "limitedLoginBonusId": 1126,
+        "day": 3,
+        "resourceBoxId": 1414
+      },
+      {
+        "id": 1449,
+        "limitedLoginBonusId": 1126,
+        "day": 4,
+        "resourceBoxId": 1415
+      },
+      {
+        "id": 1450,
+        "limitedLoginBonusId": 1126,
+        "day": 5,
+        "resourceBoxId": 1416
+      },
+      {
+        "id": 1451,
+        "limitedLoginBonusId": 1126,
+        "day": 6,
+        "resourceBoxId": 1417
+      },
+      {
+        "id": 1452,
+        "limitedLoginBonusId": 1126,
+        "day": 7,
+        "resourceBoxId": 1418
+      },
+      {
+        "id": 1453,
+        "limitedLoginBonusId": 1126,
+        "day": 8,
+        "resourceBoxId": 1419
+      },
+      {
+        "id": 1454,
+        "limitedLoginBonusId": 1126,
+        "day": 9,
+        "resourceBoxId": 1420
       }
     ]
   }
