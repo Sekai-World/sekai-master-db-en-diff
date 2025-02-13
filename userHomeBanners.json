@@ -33,15 +33,26 @@
     "endAt": 1740092399000
   },
   {
-    "homeBannerId": 846,
-    "seq": 155,
+    "homeBannerId": 843,
+    "seq": 130,
     "homeBannerType": "general",
-    "name": "[It's Back] Knights of White Gacha",
-    "assetbundleName": "banner_gacha465",
+    "name": "Valentine's Day Show 2024",
+    "assetbundleName": "banner_virtuallive285",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 285,
+    "startAt": 1739401200000,
+    "endAt": 1739833199000
+  },
+  {
+    "homeBannerId": 844,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "[It's Back] Sweet, Cute Valentine! Gacha",
+    "assetbundleName": "banner_gacha460",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 465,
-    "startAt": 1738785600000,
-    "endAt": 1739390399000
+    "transitionDestinationId": 460,
+    "startAt": 1739390400000,
+    "endAt": 1740167999000
   },
   {
     "homeBannerId": 1001,
