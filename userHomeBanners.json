@@ -65,6 +65,16 @@
     "endAt": 4102473540000
   },
   {
+    "homeBannerId": 1147,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "14M DLs! 10x Gacha Ticket",
+    "assetbundleName": "banner_shop_gachaticket_miku10_gl",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1740427200000,
+    "endAt": 1741611599000
+  },
+  {
     "homeBannerId": 1148,
     "seq": 80,
     "homeBannerType": "general",
@@ -74,5 +84,16 @@
     "transitionDestinationId": 1115,
     "startAt": 1739563200000,
     "endAt": 1740772799000
+  },
+  {
+    "homeBannerId": 1149,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "14 Million Downloads! 10x Gacha",
+    "assetbundleName": "banner_gacha1116",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1116,
+    "startAt": 1740427200000,
+    "endAt": 1741633199000
   }
 ]
