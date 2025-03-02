@@ -55,15 +55,26 @@
     "endAt": 1741492799000
   },
   {
-    "homeBannerId": 856,
+    "homeBannerId": 857,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[小豆沢こはね]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive289",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 289,
-    "startAt": 1740783600000,
-    "endAt": 1740902399000
+    "name": "Kohane Azusawa Happy Birthday 2025 Gacha",
+    "assetbundleName": "banner_gacha470",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 470,
+    "startAt": 1740902400000,
+    "endAt": 1740988799000
+  },
+  {
+    "homeBannerId": 858,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワールドリンクイベントサポートガチャ",
+    "assetbundleName": "banner_gacha469",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 469,
+    "startAt": 1740859200000,
+    "endAt": 1741463999000
   },
   {
     "homeBannerId": 1001,
