@@ -1321,6 +1321,40 @@
     ]
   },
   {
+    "id": 87,
+    "seq": 87,
+    "name": "White Day Login Campaign",
+    "startAt": 1741935600000,
+    "endAt": 1742108399000,
+    "assetbundleName": "whiteday_2024",
+    "closeAt": 1742108399000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 191,
+        "limitedLoginBonusId": 87,
+        "day": 1,
+        "resourceBoxId": 113
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "seq": 88,
+    "name": "JP 3.5 Year Anniversary Run-Up Login Campaign",
+    "startAt": 1743188400000,
+    "endAt": 1743361199000,
+    "assetbundleName": "world_3900_pre_anniversary",
+    "closeAt": 1743361199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 192,
+        "limitedLoginBonusId": 88,
+        "day": 1,
+        "resourceBoxId": 114
+      }
+    ]
+  },
+  {
     "id": 1001,
     "seq": 1001,
     "name": "OBT特別ログインボーナス",

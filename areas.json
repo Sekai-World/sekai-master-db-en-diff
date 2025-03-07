@@ -86,6 +86,7 @@
     "viewType": "side_view",
     "displayTimelineType": "all",
     "name": "Wonderland SEKAI",
+    "subName": "Amusement Park",
     "releaseConditionId": 1
   },
   {
@@ -185,6 +186,19 @@
     "subName": "Plaza",
     "startAt": 1737518400000,
     "releaseConditionId": 111705
+  },
+  {
+    "id": 20,
+    "assetbundleName": "area20",
+    "groupId": 80,
+    "isBaseArea": false,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "name": "Wonderland SEKAI",
+    "subName": "Harbor",
+    "startAt": 1742526000000,
+    "releaseConditionId": 112305
   },
   {
     "id": 21,

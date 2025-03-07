@@ -12,6 +12,10 @@
     "value": "x{0} left"
   },
   {
+    "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BUTTON_LABEL",
+    "value": "Purchase"
+  },
+  {
     "wordingKey": "DIALOG_MESSAGE_VIRTUAL_SHOP_TIME_OVER",
     "value": "{0} has ended."
   },
@@ -161,11 +165,11 @@
   },
   {
     "wordingKey": "MSG_AD_REWARD_BOOST_CONFIRM_DIALOG",
-    "value": "CMを視聴してライブボーナスを5回復します。\nよろしいですか？\n<size=24><color=#ff5599>一定時間視聴後に出現する「閉じるマーク」のタップで報酬を貰えます。<\/color><\/size>"
+    "value": "View ad and restore Bonus Energy x5?\n<size=24><color=#ff5599>Close the ad once the option appears to receive your reward.<\/color><\/size>"
   },
   {
     "wordingKey": "MSG_AD_REWARD_CONFIRM_DIALOG",
-    "value": "CM視聴を開始してよろしいですか？\n<size=24><color=#ff5599>一定時間視聴後に出現する「閉じるマーク」のタップで報酬を貰えます。<\/color><\/size>"
+    "value": "View ad?\n<size=24><color=#ff5599>Close the ad once the option appears to receive your reward.<\/color><\/size>"
   },
   {
     "wordingKey": "MSG_AD_REWARD_DAILY_COUNT",
@@ -3385,7 +3389,7 @@
   },
   {
     "wordingKey": "WORD_AD_REWARD_CONFIRM_DIALOG_OK",
-    "value": "視聴開始"
+    "value": "View"
   },
   {
     "wordingKey": "WORD_AD_REWARD_GOOGLE_UMP_SETTING",
@@ -8753,7 +8757,7 @@
   },
   {
     "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW",
-    "value": "Specified Commercial Transactions Law"
+    "value": "Connect Show Information"
   },
   {
     "wordingKey": "WORD_SHOP_YEAR",

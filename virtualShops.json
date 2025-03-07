@@ -5653,5 +5653,57 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 256,
+    "seq": 256,
+    "name": "第124回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 433,
+        "virtualShopId": 256,
+        "virtualShopItemType": "penlight",
+        "seq": 99913,
+        "resourceBoxId": 329,
+        "costPaidJewel": 1000,
+        "startAt": 1741492800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 257,
+    "seq": 257,
+    "name": "Airi's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 434,
+        "virtualShopId": 257,
+        "virtualShopItemType": "coordinate",
+        "seq": 99833,
+        "resourceBoxId": 330,
+        "costPaidJewel": 1000,
+        "startAt": 1742248800000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 258,
+    "seq": 258,
+    "name": "第125回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 435,
+        "virtualShopId": 258,
+        "virtualShopItemType": "accessory",
+        "seq": 99883,
+        "resourceBoxId": 331,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1742680800000
+      }
+    ],
+    "virtualShopType": "event"
   }
 ]
