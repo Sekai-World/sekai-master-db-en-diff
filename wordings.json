@@ -112,6 +112,14 @@
     "value": "Show Missions"
   },
   {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_AD_REWARD_CONTENT",
+    "value": "Once daily, earn <color=#ff5599>30<\/color> Show Points by watching a \"Get Show Pts & Wish Pieces\" ad."
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_AD_REWARD_CONTENT_TITLE",
+    "value": "Watch Ad"
+  },
+  {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT",
     "value": "Earn <color=#ff5599>50<\/color> Show Points for every Bonus Mission cleared during the event period.\nEarn a further <color=#ff5599>150<\/color> Show Points by completing all missions."
   },
@@ -164,12 +172,20 @@
     "value": "The free viewing period has ended."
   },
   {
+    "wordingKey": "MSG_ADREWARD_WEBVIEW_OPEN",
+    "value": "Reward Details"
+  },
+  {
     "wordingKey": "MSG_AD_REWARD_BOOST_CONFIRM_DIALOG",
     "value": "View ad and restore Bonus Energy x5?\n<size=24><color=#ff5599>Close the ad once the option appears to receive your reward.<\/color><\/size>"
   },
   {
     "wordingKey": "MSG_AD_REWARD_CONFIRM_DIALOG",
     "value": "View ad?\n<size=24><color=#ff5599>Close the ad once the option appears to receive your reward.<\/color><\/size>"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_COTION",
+    "value": "We only allow ad categories that we deem appropriate.\nIf you do spot content that seems inappropriate, please let us know through Support. We will investigate and remove the ad if necessary."
   },
   {
     "wordingKey": "MSG_AD_REWARD_DAILY_COUNT",
@@ -273,7 +289,7 @@
   },
   {
     "wordingKey": "MSG_APRIL_FOOL_2022_VOCAL_OUT_OF_PERIOD",
-    "value": "April Fools has ended.\nReturning to home screen."
+    "value": "April Fool's has ended.\nReturning to home screen."
   },
   {
     "wordingKey": "MSG_ARCHIVE_EVENT_STORY_ERROR",
@@ -385,7 +401,7 @@
   },
   {
     "wordingKey": "MSG_BONDS_CHARACTER_SELECT_DESCRIPTION",
-    "value": "Select another Character to check their Trust Rank with <color=#ff77aa>{0}<\/color>."
+    "value": "Select another Character to check their Trust Rank with <color=#77eedd>{0}<\/color>."
   },
   {
     "wordingKey": "MSG_BONDS_RANK_MAX",
@@ -490,6 +506,10 @@
   {
     "wordingKey": "MSG_CHAPTER_RANKING_REWARD_HEAD_LINE",
     "value": " Ranking Rewards"
+  },
+  {
+    "wordingKey": "MSG_CHARACTER_ARCHIVE_VOICE_LOAD_ERROR",
+    "value": "Download failed."
   },
   {
     "wordingKey": "MSG_CHARACTER_MISSION_RECEIVED_MISSION_DIALOG_BODY",
@@ -1080,6 +1100,14 @@
     "value": "Trade for {0}"
   },
   {
+    "wordingKey": "MSG_EXCHANGE_OUT_OF_DATE",
+    "value": "Expiry date has passed. Unable to trade."
+  },
+  {
+    "wordingKey": "MSG_EXCHANGE_SUCCESS",
+    "value": "{0}を交換しました。"
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_TICKET_TIME_LIMIT_NOTICE_TEXT",
     "value": "You have a Select Voucher that is about to expire.\nMove to Voucher Exchange?"
   },
@@ -1089,7 +1117,7 @@
   },
   {
     "wordingKey": "MSG_EXHCHANGE_TICKET_LIMIT_ALERT",
-    "value": "You have a Select Voucher that is about to expire.\nMove to Voucher Exchange?"
+    "value": "You have a ticket or voucher that will expire soon.\nMove to exchange?"
   },
   {
     "wordingKey": "MSG_EXP",
@@ -2468,6 +2496,10 @@
     "value": "<size={0}>x{1}<\/size> left"
   },
   {
+    "wordingKey": "MSG_REPLACE_CUT_IN_NOTE",
+    "value": "*Both versions unlock under the same conditions."
+  },
+  {
     "wordingKey": "MSG_REQUIRE_MEMBER_LV",
     "value": "Character Lv. {0} or higher required."
   },
@@ -2689,7 +2721,7 @@
   },
   {
     "wordingKey": "MSG_STAMP_CARD_BACK_SCREEN_WARNING",
-    "value": "Your Stamp Cards are not yet confirmed.\nYou can tap Start Mission to begin your Stamp Missions once you have selected 3 Stamp Cards.\nSelect cards later?\n\n<color=#ff5588>*You may change your card selection as many times as you like until you start the Missions.<\/color>"
+    "value": "Your Stamp Cards are not yet confirmed.\nYou can tap \"Start Mission\" to begin your Stamp Missions once you have selected {0} Stamp Cards.\nSelect cards later?\n\n<color=#ff5588>*You may change your card selection as many times as you like until you start the Missions.<\/color>"
   },
   {
     "wordingKey": "MSG_STAMP_CARD_CHOOSE_TO_REQUEST",
@@ -2729,7 +2761,7 @@
   },
   {
     "wordingKey": "MSG_STAMP_MISSION_EVENT_END",
-    "value": "3rd Anniversary Stamp Missions have ended.\nReturning to home screen."
+    "value": "These Stamp Missions have ended.\nReturning to home screen."
   },
   {
     "wordingKey": "MSG_STAMP_MISSION_INTERNET_NOT_REACHABLE",
@@ -3569,7 +3601,7 @@
   },
   {
     "wordingKey": "WORD_APRIL_FOOL_TAB",
-    "value": "  April   Fools"
+    "value": "  April   Fool's"
   },
   {
     "wordingKey": "WORD_AP_COMBO_EFFECT",
@@ -3844,6 +3876,10 @@
     "value": "Trust Rank Rewards"
   },
   {
+    "wordingKey": "WORD_BOND_VOICE",
+    "value": "Call Out"
+  },
+  {
     "wordingKey": "WORD_BONUS",
     "value": "Bonus"
   },
@@ -4028,6 +4064,10 @@
     "value": "Wishes"
   },
   {
+    "wordingKey": "WORD_CARD_RELEASE_CONDITION_FORMAT",
+    "value": "Obtained {0} {1}"
+  },
+  {
     "wordingKey": "WORD_CARD_SORT",
     "value": "Sort Characters"
   },
@@ -4192,16 +4232,80 @@
     "value": "Character\nArchive"
   },
   {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CARD_PREFIX_FORMAT",
+    "value": "{0}"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_GACHA",
+    "value": "Gacha"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_LIVE",
+    "value": "Show"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_ONE_WORD",
+    "value": "Comments"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_TRAINING",
+    "value": "Training"
+  },
+  {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_COSTUME",
     "value": "Costumes"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_FILTER_VOICE_TYPE_INGAME",
+    "value": "In Show"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_FILTER_VOICE_TYPE_RESULT",
+    "value": "Results"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_FILTER_VOICE_TYPE_TITLE",
+    "value": "Category"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_GACHA_PLAY_TYPE_ANIMATION",
+    "value": "Art"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_GACHA_PLAY_TYPE_VOICE_ONLY",
+    "value": "Voice"
   },
   {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_MEMORY_AREA_TALK_SPAWN",
     "value": "Occurs at {0} in the previous school year."
   },
   {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_ONE_WORD_PLAY_TYPE_LIVE2D",
+    "value": "Live2D"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_ONE_WORD_PLAY_TYPE_VOICE_ONLY",
+    "value": "Voice"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_SERIF",
+    "value": "Voice Lines"
+  },
+  {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_STAMP",
     "value": "Stamps"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_UNIT_SWITCH_BUTTON_CAPTION",
+    "value": "Subgroup"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_VOICE",
+    "value": "Voice Lines"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_VOICE_LOAD_ERROR_TITLE",
+    "value": "Error"
   },
   {
     "wordingKey": "WORD_CHARACTER_EFFECT",
@@ -4304,6 +4408,10 @@
     "value": "RANDOM MATCH"
   },
   {
+    "wordingKey": "WORD_CHEERFUL_CARNIVAL_GROUP_AREA",
+    "value": "Crew\nArea"
+  },
+  {
     "wordingKey": "WORD_CHEERFUL_CARNIVAL_LIVE",
     "value": "Cheerful Show"
   },
@@ -4381,7 +4489,7 @@
   },
   {
     "wordingKey": "WORD_COLLABORATION_AREA",
-    "value": "Crossover SEKAI"
+    "value": "Special Area!"
   },
   {
     "wordingKey": "WORD_COLLECTION",
@@ -4486,6 +4594,10 @@
   {
     "wordingKey": "WORD_COMMENT_SETTING",
     "value": "Comment"
+  },
+  {
+    "wordingKey": "WORD_COMMON_CUT_IN_RELEASE_CONDITION_FORMAT",
+    "value": "Plays during shows with {0} in your group."
   },
   {
     "wordingKey": "WORD_COMMUNICATION",
@@ -4622,6 +4734,10 @@
   {
     "wordingKey": "WORD_COSTUME_LIST_FILTER",
     "value": "Filter Costumes"
+  },
+  {
+    "wordingKey": "WORD_COSTUME_SET",
+    "value": "Set"
   },
   {
     "wordingKey": "WORD_COSTUME_SHOP",
@@ -5300,6 +5416,10 @@
     "value": "Support Bonus"
   },
   {
+    "wordingKey": "WORD_EVENT_TOP_CHEERFUL_CARNIVAL_LIVE",
+    "value": "Cheerful\nShow"
+  },
+  {
     "wordingKey": "WORD_EVNET_STORY_INFOMATION",
     "value": "About"
   },
@@ -5322,6 +5442,10 @@
   {
     "wordingKey": "WORD_EXCHANGE_ERROR_TITLE",
     "value": "Trade Error"
+  },
+  {
+    "wordingKey": "WORD_EXCHANGE_IS_COMPLETE",
+    "value": " obtained."
   },
   {
     "wordingKey": "WORD_EXCHANGE_LIMIT",
@@ -5457,7 +5581,7 @@
   },
   {
     "wordingKey": "WORD_FEVER_EFFECT",
-    "value": "FEVER Effect"
+    "value": "Fever Effect"
   },
   {
     "wordingKey": "WORD_FIGURE_LADIES",
@@ -5710,6 +5834,42 @@
   {
     "wordingKey": "WORD_GACHA",
     "value": "Gacha"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_ACQUISITION_FILTER_CAPTION",
+    "value": "Owned"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_OBTAIN_FILTER_ACQUIRED",
+    "value": "Obtained"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_OBTAIN_FILTER_NOT_ACQUIRED",
+    "value": "Not Owned"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_RARITY_FILTER_ANNIVERSARY",
+    "value": "BD\/AN"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_RARITY_FILTER_CAPTION",
+    "value": "Rarity"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_RARITY_FILTER_RARITY_FOUR",
+    "value": "4★"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_RARITY_FILTER_RARITY_THREE",
+    "value": "3★"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_SORT_CAPTION_DEFAULT",
+    "value": "Default"
+  },
+  {
+    "wordingKey": "WORD_GACHA_CATEGORY_SORT_CAPTION_RARITY",
+    "value": "Rarity"
   },
   {
     "wordingKey": "WORD_GACHA_DESCRIPTION",
@@ -7620,6 +7780,34 @@
     "value": "Play Again"
   },
   {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_SORT_CAPTION_CATEGORY",
+    "value": "Category"
+  },
+  {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_SORT_CAPTION_DEFAULT",
+    "value": "Default"
+  },
+  {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_VOICE_FILTER_ANNIVERSARY",
+    "value": "BD\/AN"
+  },
+  {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_VOICE_FILTER_CAPTION",
+    "value": "Category"
+  },
+  {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_VOICE_FILTER_NORMAL",
+    "value": "Normal"
+  },
+  {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_VOICE_FILTER_OTHERS",
+    "value": "Other"
+  },
+  {
+    "wordingKey": "WORD_ONE_WORD_CATEGORY_VOICE_FILTER_SEASON_EVENT",
+    "value": "Seasonal"
+  },
+  {
     "wordingKey": "WORD_ONLINE_GL",
     "value": "ONLINE"
   },
@@ -7722,6 +7910,14 @@
   {
     "wordingKey": "WORD_PAID_LIVE_PART",
     "value": "{0} Performance {1}"
+  },
+  {
+    "wordingKey": "WORD_PAIR_CUT_IN_RELEASE_CONDITION_BONDS_FORMAT",
+    "value": "Increase {0} & {1}'s Trust Rank to {2}."
+  },
+  {
+    "wordingKey": "WORD_PAIR_CUT_IN_RELEASE_CONDITION_FORMATION_FORMAT",
+    "value": "Plays during shows with {0} and {1} in your group."
   },
   {
     "wordingKey": "WORD_PAMPHLET_PAGE_NUM",
@@ -7950,6 +8146,10 @@
   {
     "wordingKey": "WORD_PRESENT",
     "value": "Gifts"
+  },
+  {
+    "wordingKey": "WORD_PRESENT_ADS_GL",
+    "value": "Ads"
   },
   {
     "wordingKey": "WORD_PRESENT_HISTORY",
@@ -8366,6 +8566,14 @@
   {
     "wordingKey": "WORD_RESULT_NEW_RECORD",
     "value": "NEW RECORD!"
+  },
+  {
+    "wordingKey": "WORD_RESULT_VOICE_OVER_RANK_C_RELEASE_CONDITION_FORMAT",
+    "value": "Reach Score Rank C or higher with {0} in your group."
+  },
+  {
+    "wordingKey": "WORD_RESULT_VOICE_RANK_D_RELEASE_CONDITION_FORMAT",
+    "value": "Reach Score Rank D with {0} in your group."
   },
   {
     "wordingKey": "WORD_RESUME",

@@ -7,6 +7,7 @@
     "areaType": "reality_world",
     "viewType": "side_view",
     "displayTimelineType": "all",
+    "additionalAreaType": "none",
     "name": "Scramble Crossing",
     "releaseConditionId": 1
   },
@@ -18,6 +19,7 @@
     "areaType": "reality_world",
     "viewType": "quarter_view",
     "displayTimelineType": "all",
+    "additionalAreaType": "none",
     "name": "Main Street",
     "releaseConditionId": 1
   },
@@ -29,6 +31,7 @@
     "areaType": "reality_world",
     "viewType": "side_view",
     "displayTimelineType": "all",
+    "additionalAreaType": "none",
     "name": "Shopping Mall",
     "releaseConditionId": 1
   },
@@ -40,6 +43,7 @@
     "areaType": "reality_world",
     "viewType": "side_view",
     "displayTimelineType": "all",
+    "additionalAreaType": "none",
     "name": "Music Shop",
     "releaseConditionId": 1
   },
@@ -51,6 +55,7 @@
     "areaType": "spirit_world",
     "viewType": "side_view",
     "displayTimelineType": "all",
+    "additionalAreaType": "none",
     "name": "School SEKAI",
     "releaseConditionId": 1
   },
@@ -62,6 +67,7 @@
     "areaType": "spirit_world",
     "viewType": "side_view",
     "displayTimelineType": "all",
+    "additionalAreaType": "none",
     "name": "Stage SEKAI",
     "releaseConditionId": 1
   },
@@ -73,6 +79,7 @@
     "areaType": "spirit_world",
     "viewType": "side_view",
     "displayTimelineType": "all",
+    "additionalAreaType": "none",
     "name": "Street SEKAI",
     "subName": "A Cafe",
     "releaseConditionId": 1
@@ -85,6 +92,7 @@
     "areaType": "spirit_world",
     "viewType": "side_view",
     "displayTimelineType": "all",
+    "additionalAreaType": "none",
     "name": "Wonderland SEKAI",
     "subName": "Amusement Park",
     "releaseConditionId": 1
@@ -97,6 +105,7 @@
     "areaType": "spirit_world",
     "viewType": "side_view",
     "displayTimelineType": "all",
+    "additionalAreaType": "none",
     "name": "Empty SEKAI",
     "subName": "Expanse",
     "releaseConditionId": 1
@@ -109,6 +118,7 @@
     "areaType": "reality_world",
     "viewType": "side_view",
     "displayTimelineType": "all",
+    "additionalAreaType": "none",
     "name": "Kamiyama High School",
     "releaseConditionId": 1
   },
@@ -120,6 +130,7 @@
     "areaType": "reality_world",
     "viewType": "side_view",
     "displayTimelineType": "all",
+    "additionalAreaType": "none",
     "name": "Theme Park",
     "releaseConditionId": 1
   },
@@ -131,6 +142,7 @@
     "areaType": "reality_world",
     "viewType": "side_view",
     "displayTimelineType": "all",
+    "additionalAreaType": "none",
     "name": "Miyamasuzaka Girls Academy",
     "releaseConditionId": 1
   },
@@ -142,6 +154,7 @@
     "areaType": "spirit_world",
     "viewType": "side_view",
     "displayTimelineType": "next_grade",
+    "additionalAreaType": "collaboration",
     "name": "Aku no Taizai Series SEKAI",
     "label": "コラボ中！",
     "startAt": 1707076800000,
@@ -156,6 +169,7 @@
     "areaType": "reality_world",
     "viewType": "side_view",
     "displayTimelineType": "next_grade",
+    "additionalAreaType": "april_fool",
     "name": "MIKUdemy Classroom",
     "startAt": 1711954800000,
     "endAt": 1712041200000,
@@ -169,6 +183,7 @@
     "areaType": "reality_world",
     "viewType": "side_view",
     "displayTimelineType": "next_grade",
+    "additionalAreaType": "april_fool",
     "name": "MIKUdemy Field",
     "startAt": 1711954800000,
     "endAt": 1712041200000,
@@ -182,6 +197,7 @@
     "areaType": "spirit_world",
     "viewType": "side_view",
     "displayTimelineType": "next_grade",
+    "additionalAreaType": "none",
     "name": "Street SEKAI",
     "subName": "Plaza",
     "startAt": 1737518400000,
@@ -195,6 +211,7 @@
     "areaType": "spirit_world",
     "viewType": "side_view",
     "displayTimelineType": "next_grade",
+    "additionalAreaType": "none",
     "name": "Wonderland SEKAI",
     "subName": "Harbor",
     "startAt": 1742526000000,
@@ -208,6 +225,7 @@
     "areaType": "spirit_world",
     "viewType": "side_view",
     "displayTimelineType": "next_grade",
+    "additionalAreaType": "none",
     "name": "Empty SEKAI",
     "subName": "Lake",
     "startAt": 1732161600000,
@@ -221,9 +239,40 @@
     "areaType": "spirit_world",
     "viewType": "side_view",
     "displayTimelineType": "next_grade",
+    "additionalAreaType": "collaboration",
     "name": "Puroland SEKAI",
     "startAt": 1736280000000,
     "endAt": 1737532799000,
+    "releaseConditionId": 1
+  },
+  {
+    "id": 23,
+    "assetbundleName": "area23",
+    "groupId": 170,
+    "isBaseArea": true,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "april_fool",
+    "name": "Time Warp SEKAI",
+    "subName": "Past?",
+    "startAt": 1743490800000,
+    "endAt": 1743577199000,
+    "releaseConditionId": 1
+  },
+  {
+    "id": 24,
+    "assetbundleName": "area24",
+    "groupId": 170,
+    "isBaseArea": false,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "april_fool",
+    "name": "Time Warp SEKAI",
+    "subName": "Future?",
+    "startAt": 1743490800000,
+    "endAt": 1743577199000,
     "releaseConditionId": 1
   }
 ]

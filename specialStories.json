@@ -528,5 +528,52 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 39,
+    "seq": 1,
+    "title": "April Fool's 2024 Opening Cutscene",
+    "assetbundleName": "aprilfool-story-2024",
+    "startAt": 1743490800000,
+    "endAt": 1743577199000,
+    "episodes": [
+      {
+        "id": 44,
+        "specialStoryId": 39,
+        "episodeNo": 1,
+        "title": "April Fool's 2024 Opening Cutscene",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 23,
+        "assetbundleName": "story_aprilfool_2024",
+        "scenarioId": "aprilfool_2024_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "seq": 1,
+    "title": "April Fool's 2024 Ending Cutscene",
+    "assetbundleName": "aprilfool-story-2024",
+    "startAt": 1743577200000,
+    "endAt": 1743663599000,
+    "episodes": [
+      {
+        "id": 45,
+        "specialStoryId": 40,
+        "episodeNo": 1,
+        "title": "April Fool's 2024 Ending Cutscene",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2024",
+        "scenarioId": "aprilfool_2024_02",
+        "releaseConditionId": 1000236,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]

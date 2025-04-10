@@ -5705,5 +5705,92 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 259,
+    "seq": 259,
+    "name": "第126回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 436,
+        "virtualShopId": 259,
+        "virtualShopItemType": "accessory",
+        "seq": 99882,
+        "resourceBoxId": 332,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1743372000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 260,
+    "seq": 260,
+    "name": "第127回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 437,
+        "virtualShopId": 260,
+        "virtualShopItemType": "penlight",
+        "seq": 99912,
+        "resourceBoxId": 333,
+        "costPaidJewel": 1000,
+        "startAt": 1744322400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 261,
+    "seq": 261,
+    "name": "Minori's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 438,
+        "virtualShopId": 261,
+        "virtualShopItemType": "coordinate",
+        "seq": 99832,
+        "resourceBoxId": 334,
+        "costPaidJewel": 1000,
+        "startAt": 1744495200000
+      }
+    ],
+    "virtualShopType": "birthday"
+  },
+  {
+    "id": 262,
+    "seq": 262,
+    "name": "第128回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 439,
+        "virtualShopId": 262,
+        "virtualShopItemType": "accessory",
+        "seq": 99881,
+        "resourceBoxId": 335,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1745186400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 263,
+    "seq": 263,
+    "name": "Ena's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 440,
+        "virtualShopId": 263,
+        "virtualShopItemType": "coordinate",
+        "seq": 99831,
+        "resourceBoxId": 336,
+        "costPaidJewel": 1000,
+        "startAt": 1745877600000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

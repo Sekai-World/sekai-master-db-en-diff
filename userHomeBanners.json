@@ -11,37 +11,58 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 865,
-    "seq": 155,
-    "homeBannerType": "general",
-    "name": "[It's Back] Wanderer's Journey Gacha",
-    "assetbundleName": "banner_gacha478",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 478,
-    "startAt": 1743015600000,
-    "endAt": 1743793199000
-  },
-  {
-    "homeBannerId": 868,
+    "homeBannerId": 876,
     "seq": 110,
     "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ16巡目_定常ガチャバナー",
-    "assetbundleName": "banner_gacha482",
+    "name": "[ガチャ]シャッフル犬イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha489",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 482,
-    "startAt": 1742670000000,
-    "endAt": 1743361199000
+    "transitionDestinationId": 489,
+    "startAt": 1743793200000,
+    "endAt": 1744311599000
   },
   {
-    "homeBannerId": 870,
+    "homeBannerId": 878,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "[ガチャ]3900'sプレミアムプレゼントガチャ",
+    "assetbundleName": "banner_gacha485",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 485,
+    "startAt": 1743361200000,
+    "endAt": 1746082799000
+  },
+  {
+    "homeBannerId": 880,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ガチャ_無料10連ガチャバナー",
+    "assetbundleName": "banner_gacha486",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 486,
+    "startAt": 1743361200000,
+    "endAt": 1746082799000
+  },
+  {
+    "homeBannerId": 881,
     "seq": 100,
     "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ16巡目_イベントバナー",
-    "assetbundleName": "event_concerto_2024",
+    "name": "[イベント]シャッフル犬イベ_イベントバナー",
+    "assetbundleName": "event_rise_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 125,
-    "startAt": 1742680800000,
-    "endAt": 1743371999000
+    "transitionDestinationId": 126,
+    "startAt": 1743372000000,
+    "endAt": 1744322399000
+  },
+  {
+    "homeBannerId": 883,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "3900'sクリスタルショップ",
+    "assetbundleName": "banner_shop_world_3900_anniversary",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1743361200000,
+    "endAt": 1746082799000
   },
   {
     "homeBannerId": 1001,
@@ -63,5 +84,16 @@
     "transitionDestinationType": "billing_shop_for_value_set",
     "startAt": 1727766000000,
     "endAt": 4102473540000
+  },
+  {
+    "homeBannerId": 1151,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "2025 April Premium Gift Gacha",
+    "assetbundleName": "banner_gacha1119",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1119,
+    "startAt": 1744052400000,
+    "endAt": 1746039599000
   }
 ]

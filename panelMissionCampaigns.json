@@ -4136,5 +4136,3567 @@
         ]
       }
     ]
+  },
+  {
+    "id": 3,
+    "name": "JP 3.5 Year Anniversary Stamp Missions",
+    "assetbundleName": "world_3900_anniversary",
+    "bgmAssetbundleName": "world_3900_anniversary_bgm",
+    "selectableLimit": 8,
+    "startAt": 1743361200000,
+    "progressEndAt": 1746082799000,
+    "closedAt": 1746514799000,
+    "informationId": 2403,
+    "panelMissionSheetGroups": [
+      {
+        "id": 301,
+        "panelMissionCampaignId": 3,
+        "name": "Login",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 30101,
+            "panelMissionSheetGroupId": 301,
+            "name": "Casual Login Card",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_login",
+            "panelMissions": [
+              {
+                "id": 3010101,
+                "panelMissionSheetId": 30101,
+                "name": "Log In on 1 Day",
+                "description": "Log in on 1 day.",
+                "seq": 1,
+                "panelMissionType": "login",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8432,
+                    "missionType": "panel_mission",
+                    "missionId": 3010101,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3010102,
+                "panelMissionSheetId": 30101,
+                "name": "Log In on 2 Days",
+                "description": "Log in on 2 days total.",
+                "seq": 2,
+                "panelMissionType": "login",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 8433,
+                    "missionType": "panel_mission",
+                    "missionId": 3010102,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3010103,
+                "panelMissionSheetId": 30101,
+                "name": "Log In on 3 Days",
+                "description": "Log in on 3 days total.",
+                "seq": 3,
+                "panelMissionType": "login",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 8434,
+                    "missionType": "panel_mission",
+                    "missionId": 3010103,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3010104,
+                "panelMissionSheetId": 30101,
+                "name": "Log In on 4 Days",
+                "description": "Log in on 4 days total.",
+                "seq": 4,
+                "panelMissionType": "login",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 8435,
+                    "missionType": "panel_mission",
+                    "missionId": 3010104,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3010105,
+                "panelMissionSheetId": 30101,
+                "name": "Log In on 5 Days",
+                "description": "Log in on 5 days total.",
+                "seq": 5,
+                "panelMissionType": "login",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8436,
+                    "missionType": "panel_mission",
+                    "missionId": 3010105,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3010106,
+                "panelMissionSheetId": 30101,
+                "name": "Log In on 7 Days",
+                "description": "Log in on 7 days total.",
+                "seq": 6,
+                "panelMissionType": "login",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 8437,
+                    "missionType": "panel_mission",
+                    "missionId": 3010106,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3010107,
+                "panelMissionSheetId": 30101,
+                "name": "Log In on 9 Days",
+                "description": "Log in on 9 days total.",
+                "seq": 7,
+                "panelMissionType": "login",
+                "requirement1": 9,
+                "rewards": [
+                  {
+                    "id": 8438,
+                    "missionType": "panel_mission",
+                    "missionId": 3010107,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8600,
+                "missionType": "panel_mission_complete",
+                "missionId": 30101,
+                "seq": 1,
+                "resourceBoxId": 1507
+              }
+            ]
+          },
+          {
+            "id": 30102,
+            "panelMissionSheetGroupId": 301,
+            "name": "Normal Login Card",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_login",
+            "panelMissions": [
+              {
+                "id": 3010201,
+                "panelMissionSheetId": 30102,
+                "name": "Log In on 1 Day",
+                "description": "Log in on 1 day.",
+                "seq": 1,
+                "panelMissionType": "login",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8439,
+                    "missionType": "panel_mission",
+                    "missionId": 3010201,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3010202,
+                "panelMissionSheetId": 30102,
+                "name": "Log In on 2 Days",
+                "description": "Log in on 2 days total.",
+                "seq": 2,
+                "panelMissionType": "login",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 8440,
+                    "missionType": "panel_mission",
+                    "missionId": 3010202,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3010203,
+                "panelMissionSheetId": 30102,
+                "name": "Log In on 3 Days",
+                "description": "Log in on 3 days total.",
+                "seq": 3,
+                "panelMissionType": "login",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 8441,
+                    "missionType": "panel_mission",
+                    "missionId": 3010203,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3010204,
+                "panelMissionSheetId": 30102,
+                "name": "Log In on 5 Days",
+                "description": "Log in on 5 days total.",
+                "seq": 4,
+                "panelMissionType": "login",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8442,
+                    "missionType": "panel_mission",
+                    "missionId": 3010204,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3010205,
+                "panelMissionSheetId": 30102,
+                "name": "Log In on 10 Days",
+                "description": "Log in on 10 days total.",
+                "seq": 5,
+                "panelMissionType": "login",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8443,
+                    "missionType": "panel_mission",
+                    "missionId": 3010205,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3010206,
+                "panelMissionSheetId": 30102,
+                "name": "Log In on 15 Days",
+                "description": "Log in on 15 days total.",
+                "seq": 6,
+                "panelMissionType": "login",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 8444,
+                    "missionType": "panel_mission",
+                    "missionId": 3010206,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3010207,
+                "panelMissionSheetId": 30102,
+                "name": "Log In on 19 Days",
+                "description": "Log in on 19 days total.",
+                "seq": 7,
+                "panelMissionType": "login",
+                "requirement1": 19,
+                "rewards": [
+                  {
+                    "id": 8445,
+                    "missionType": "panel_mission",
+                    "missionId": 3010207,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8601,
+                "missionType": "panel_mission_complete",
+                "missionId": 30102,
+                "seq": 1,
+                "resourceBoxId": 1508
+              }
+            ]
+          },
+          {
+            "id": 30103,
+            "panelMissionSheetGroupId": 301,
+            "name": "Bold Login Card",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_login",
+            "panelMissions": [
+              {
+                "id": 3010301,
+                "panelMissionSheetId": 30103,
+                "name": "Log In on 1 Day",
+                "description": "Log in on 1 day.",
+                "seq": 1,
+                "panelMissionType": "login",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8446,
+                    "missionType": "panel_mission",
+                    "missionId": 3010301,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3010302,
+                "panelMissionSheetId": 30103,
+                "name": "Log In on 3 Days",
+                "description": "Log in on 3 days total.",
+                "seq": 2,
+                "panelMissionType": "login",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 8447,
+                    "missionType": "panel_mission",
+                    "missionId": 3010302,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3010303,
+                "panelMissionSheetId": 30103,
+                "name": "Log In on 5 Days",
+                "description": "Log in on 5 days total.",
+                "seq": 3,
+                "panelMissionType": "login",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8448,
+                    "missionType": "panel_mission",
+                    "missionId": 3010303,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3010304,
+                "panelMissionSheetId": 30103,
+                "name": "Log In on 10 Days",
+                "description": "Log in on 10 days total.",
+                "seq": 4,
+                "panelMissionType": "login",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8449,
+                    "missionType": "panel_mission",
+                    "missionId": 3010304,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3010305,
+                "panelMissionSheetId": 30103,
+                "name": "Log In on 15 Days",
+                "description": "Log in on 15 days total.",
+                "seq": 5,
+                "panelMissionType": "login",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 8450,
+                    "missionType": "panel_mission",
+                    "missionId": 3010305,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3010306,
+                "panelMissionSheetId": 30103,
+                "name": "Log In on 20 Days",
+                "description": "Log in on 20 days total.",
+                "seq": 6,
+                "panelMissionType": "login",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 8451,
+                    "missionType": "panel_mission",
+                    "missionId": 3010306,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3010307,
+                "panelMissionSheetId": 30103,
+                "name": "Log In on 29 Days",
+                "description": "Log in on 29 days total.",
+                "seq": 7,
+                "panelMissionType": "login",
+                "requirement1": 29,
+                "rewards": [
+                  {
+                    "id": 8452,
+                    "missionType": "panel_mission",
+                    "missionId": 3010307,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8602,
+                "missionType": "panel_mission_complete",
+                "missionId": 30103,
+                "seq": 1,
+                "resourceBoxId": 1509
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "panelMissionCampaignId": 3,
+        "name": "Song",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 30201,
+            "panelMissionSheetGroupId": 302,
+            "name": "Casual Song Card",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_music",
+            "panelMissions": [
+              {
+                "id": 3020101,
+                "panelMissionSheetId": 30201,
+                "name": "Clear 1 Song",
+                "description": "Clear 1 song.\n(Includes Auto-Play.)",
+                "seq": 1,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 1,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8453,
+                    "missionType": "panel_mission",
+                    "missionId": 3020101,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3020102,
+                "panelMissionSheetId": 30201,
+                "name": "Clear 3 Songs",
+                "description": "Clear 3 different songs.\n(Includes Auto-Play.)",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8454,
+                    "missionType": "panel_mission",
+                    "missionId": 3020102,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3020103,
+                "panelMissionSheetId": 30201,
+                "name": "Clear 5 Songs",
+                "description": "Clear 5 different songs.\n(Includes Auto-Play.)",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8455,
+                    "missionType": "panel_mission",
+                    "missionId": 3020103,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3020104,
+                "panelMissionSheetId": 30201,
+                "name": "Clear 10 Songs",
+                "description": "Clear 10 different songs.\n(Includes Auto-Play.)",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8456,
+                    "missionType": "panel_mission",
+                    "missionId": 3020104,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3020105,
+                "panelMissionSheetId": 30201,
+                "name": "Clear 15 Songs",
+                "description": "Clear 15 different songs.\n(Includes Auto-Play.)",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8457,
+                    "missionType": "panel_mission",
+                    "missionId": 3020105,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3020106,
+                "panelMissionSheetId": 30201,
+                "name": "Clear 20 Songs",
+                "description": "Clear 20 different songs.\n(Includes Auto-Play.)",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8458,
+                    "missionType": "panel_mission",
+                    "missionId": 3020106,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3020107,
+                "panelMissionSheetId": 30201,
+                "name": "Clear 30 Songs",
+                "description": "Clear 30 different songs.\n(Includes Auto-Play.)",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 30,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8459,
+                    "missionType": "panel_mission",
+                    "missionId": 3020107,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8603,
+                "missionType": "panel_mission_complete",
+                "missionId": 30201,
+                "seq": 1,
+                "resourceBoxId": 1508
+              }
+            ]
+          },
+          {
+            "id": 30202,
+            "panelMissionSheetGroupId": 302,
+            "name": "Normal Song Card",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_music",
+            "panelMissions": [
+              {
+                "id": 3020201,
+                "panelMissionSheetId": 30202,
+                "name": "Clear 1 Song",
+                "description": "Clear 1 song.\n(Includes Auto-Play.)",
+                "seq": 1,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 1,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8460,
+                    "missionType": "panel_mission",
+                    "missionId": 3020201,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3020202,
+                "panelMissionSheetId": 30202,
+                "name": "Clear 5 Songs",
+                "description": "Clear 5 different songs.\n(Includes Auto-Play.)",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8461,
+                    "missionType": "panel_mission",
+                    "missionId": 3020202,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3020203,
+                "panelMissionSheetId": 30202,
+                "name": "Clear 10 Songs",
+                "description": "Clear 10 different songs.\n(Includes Auto-Play.)",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8462,
+                    "missionType": "panel_mission",
+                    "missionId": 3020203,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3020204,
+                "panelMissionSheetId": 30202,
+                "name": "Clear 15 Songs",
+                "description": "Clear 15 different songs.\n(Includes Auto-Play.)",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8463,
+                    "missionType": "panel_mission",
+                    "missionId": 3020204,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3020205,
+                "panelMissionSheetId": 30202,
+                "name": "Clear 20 Songs",
+                "description": "Clear 20 different songs.\n(Includes Auto-Play.)",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8464,
+                    "missionType": "panel_mission",
+                    "missionId": 3020205,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3020206,
+                "panelMissionSheetId": 30202,
+                "name": "Clear 30 Songs",
+                "description": "Clear 30 different songs.\n(Includes Auto-Play.)",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 30,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8465,
+                    "missionType": "panel_mission",
+                    "missionId": 3020206,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3020207,
+                "panelMissionSheetId": 30202,
+                "name": "Clear 50 Songs",
+                "description": "Clear 50 different songs.\n(Includes Auto-Play.)",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 50,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8466,
+                    "missionType": "panel_mission",
+                    "missionId": 3020207,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8604,
+                "missionType": "panel_mission_complete",
+                "missionId": 30202,
+                "seq": 1,
+                "resourceBoxId": 1510
+              }
+            ]
+          },
+          {
+            "id": 30203,
+            "panelMissionSheetGroupId": 302,
+            "name": "Bold Song Card",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_music",
+            "panelMissions": [
+              {
+                "id": 3020301,
+                "panelMissionSheetId": 30203,
+                "name": "Clear 1 Song",
+                "description": "Clear 1 song.\n(Includes Auto-Play.)",
+                "seq": 1,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 1,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8467,
+                    "missionType": "panel_mission",
+                    "missionId": 3020301,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3020302,
+                "panelMissionSheetId": 30203,
+                "name": "Clear 10 Songs",
+                "description": "Clear 10 different songs.\n(Includes Auto-Play.)",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8468,
+                    "missionType": "panel_mission",
+                    "missionId": 3020302,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3020303,
+                "panelMissionSheetId": 30203,
+                "name": "Clear 20 Songs",
+                "description": "Clear 20 different songs.\n(Includes Auto-Play.)",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8469,
+                    "missionType": "panel_mission",
+                    "missionId": 3020303,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3020304,
+                "panelMissionSheetId": 30203,
+                "name": "Clear 30 Songs",
+                "description": "Clear 30 different songs.\n(Includes Auto-Play.)",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 30,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8470,
+                    "missionType": "panel_mission",
+                    "missionId": 3020304,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3020305,
+                "panelMissionSheetId": 30203,
+                "name": "Clear 50 Songs",
+                "description": "Clear 50 different songs.\n(Includes Auto-Play.)",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 50,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8471,
+                    "missionType": "panel_mission",
+                    "missionId": 3020305,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3020306,
+                "panelMissionSheetId": 30203,
+                "name": "Clear 70 Songs",
+                "description": "Clear 70 different songs.\n(Includes Auto-Play.)",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 70,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8472,
+                    "missionType": "panel_mission",
+                    "missionId": 3020306,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3020307,
+                "panelMissionSheetId": 30203,
+                "name": "Clear 100 Songs",
+                "description": "Clear 100 different songs.\n(Includes Auto-Play.)",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 100,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 8473,
+                    "missionType": "panel_mission",
+                    "missionId": 3020307,
+                    "seq": 1,
+                    "resourceBoxId": 1509
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8605,
+                "missionType": "panel_mission_complete",
+                "missionId": 30203,
+                "seq": 1,
+                "resourceBoxId": 1511
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 303,
+        "panelMissionCampaignId": 3,
+        "name": "Show",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 30301,
+            "panelMissionSheetGroupId": 303,
+            "name": "Casual Show Card",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_live",
+            "panelMissions": [
+              {
+                "id": 3030101,
+                "panelMissionSheetId": 30301,
+                "name": "Clear 1 Show",
+                "description": "Clear 1 show.\n(Includes Auto-Play.)",
+                "seq": 1,
+                "panelMissionType": "live_clear",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8474,
+                    "missionType": "panel_mission",
+                    "missionId": 3030101,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3030102,
+                "panelMissionSheetId": 30301,
+                "name": "Clear 5 Shows",
+                "description": "Clear 5 shows.\n(Includes Auto-Play.)",
+                "seq": 2,
+                "panelMissionType": "live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8475,
+                    "missionType": "panel_mission",
+                    "missionId": 3030102,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3030103,
+                "panelMissionSheetId": 30301,
+                "name": "Clear 10 Shows",
+                "description": "Clear 10 shows.\n(Includes Auto-Play.)",
+                "seq": 3,
+                "panelMissionType": "live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8476,
+                    "missionType": "panel_mission",
+                    "missionId": 3030103,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3030104,
+                "panelMissionSheetId": 30301,
+                "name": "Clear 15 Shows",
+                "description": "Clear 15 shows.\n(Includes Auto-Play.)",
+                "seq": 4,
+                "panelMissionType": "live_clear",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 8477,
+                    "missionType": "panel_mission",
+                    "missionId": 3030104,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3030105,
+                "panelMissionSheetId": 30301,
+                "name": "Clear 20 Shows",
+                "description": "Clear 20 shows.\n(Includes Auto-Play.)",
+                "seq": 5,
+                "panelMissionType": "live_clear",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 8478,
+                    "missionType": "panel_mission",
+                    "missionId": 3030105,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3030106,
+                "panelMissionSheetId": 30301,
+                "name": "Clear 30 Shows",
+                "description": "Clear 30 shows.\n(Includes Auto-Play.)",
+                "seq": 6,
+                "panelMissionType": "live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 8479,
+                    "missionType": "panel_mission",
+                    "missionId": 3030106,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3030107,
+                "panelMissionSheetId": 30301,
+                "name": "Clear 50 Shows",
+                "description": "Clear 50 shows.\n(Includes Auto-Play.)",
+                "seq": 7,
+                "panelMissionType": "live_clear",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 8480,
+                    "missionType": "panel_mission",
+                    "missionId": 3030107,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8606,
+                "missionType": "panel_mission_complete",
+                "missionId": 30301,
+                "seq": 1,
+                "resourceBoxId": 1508
+              }
+            ]
+          },
+          {
+            "id": 30302,
+            "panelMissionSheetGroupId": 303,
+            "name": "Normal Show Card",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_live",
+            "panelMissions": [
+              {
+                "id": 3030201,
+                "panelMissionSheetId": 30302,
+                "name": "1 Full Combo",
+                "description": "Achieve 1 Full Combo.",
+                "seq": 1,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8481,
+                    "missionType": "panel_mission",
+                    "missionId": 3030201,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3030202,
+                "panelMissionSheetId": 30302,
+                "name": "5 Full Combos",
+                "description": "Achieve 5 Full Combos.",
+                "seq": 2,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8482,
+                    "missionType": "panel_mission",
+                    "missionId": 3030202,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3030203,
+                "panelMissionSheetId": 30302,
+                "name": "10 Full Combos",
+                "description": "Achieve 10 Full Combos.",
+                "seq": 3,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8483,
+                    "missionType": "panel_mission",
+                    "missionId": 3030203,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3030204,
+                "panelMissionSheetId": 30302,
+                "name": "15 Full Combos",
+                "description": "Achieve 15 Full Combos.",
+                "seq": 4,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 8484,
+                    "missionType": "panel_mission",
+                    "missionId": 3030204,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3030205,
+                "panelMissionSheetId": 30302,
+                "name": "20 Full Combos",
+                "description": "Achieve 20 Full Combos.",
+                "seq": 5,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 8485,
+                    "missionType": "panel_mission",
+                    "missionId": 3030205,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3030206,
+                "panelMissionSheetId": 30302,
+                "name": "30 Full Combos",
+                "description": "Achieve 30 Full Combos.",
+                "seq": 6,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 8486,
+                    "missionType": "panel_mission",
+                    "missionId": 3030206,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3030207,
+                "panelMissionSheetId": 30302,
+                "name": "50 Full Combos",
+                "description": "Achieve 50 Full Combos.",
+                "seq": 7,
+                "panelMissionType": "live_clear_full_combo",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 8487,
+                    "missionType": "panel_mission",
+                    "missionId": 3030207,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8607,
+                "missionType": "panel_mission_complete",
+                "missionId": 30302,
+                "seq": 1,
+                "resourceBoxId": 1510
+              }
+            ]
+          },
+          {
+            "id": 30303,
+            "panelMissionSheetGroupId": 303,
+            "name": "Bold Show Card",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_live",
+            "panelMissions": [
+              {
+                "id": 3030301,
+                "panelMissionSheetId": 30303,
+                "name": "1 AP",
+                "description": "Achieve 1 All Perfect.",
+                "seq": 1,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8488,
+                    "missionType": "panel_mission",
+                    "missionId": 3030301,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3030302,
+                "panelMissionSheetId": 30303,
+                "name": "5 APs",
+                "description": "Achieve 5 All Perfects.",
+                "seq": 2,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8489,
+                    "missionType": "panel_mission",
+                    "missionId": 3030302,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3030303,
+                "panelMissionSheetId": 30303,
+                "name": "10 APs",
+                "description": "Achieve 10 All Perfects.",
+                "seq": 3,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8490,
+                    "missionType": "panel_mission",
+                    "missionId": 3030303,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3030304,
+                "panelMissionSheetId": 30303,
+                "name": "15 APs",
+                "description": "Achieve 15 All Perfects.",
+                "seq": 4,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 8491,
+                    "missionType": "panel_mission",
+                    "missionId": 3030304,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3030305,
+                "panelMissionSheetId": 30303,
+                "name": "20 APs",
+                "description": "Achieve 20 All Perfects.",
+                "seq": 5,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 8492,
+                    "missionType": "panel_mission",
+                    "missionId": 3030305,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3030306,
+                "panelMissionSheetId": 30303,
+                "name": "30 APs",
+                "description": "Achieve 30 All Perfects.",
+                "seq": 6,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 8493,
+                    "missionType": "panel_mission",
+                    "missionId": 3030306,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3030307,
+                "panelMissionSheetId": 30303,
+                "name": "50 APs",
+                "description": "Achieve 50 All Perfects.",
+                "seq": 7,
+                "panelMissionType": "live_clear_all_perfect_in_music_difficulty",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 8494,
+                    "missionType": "panel_mission",
+                    "missionId": 3030307,
+                    "seq": 1,
+                    "resourceBoxId": 1510
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8608,
+                "missionType": "panel_mission_complete",
+                "missionId": 30303,
+                "seq": 1,
+                "resourceBoxId": 1511
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 304,
+        "panelMissionCampaignId": 3,
+        "name": "Event Pts",
+        "selectableLimit": 1,
+        "seq": 4,
+        "panelMissionSheets": [
+          {
+            "id": 30401,
+            "panelMissionSheetGroupId": 304,
+            "name": "Casual Event Point Card",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_eventpoint",
+            "panelMissions": [
+              {
+                "id": 3040101,
+                "panelMissionSheetId": 30401,
+                "name": "10k Event Pts",
+                "description": "Earn 10,000 Event Points.",
+                "seq": 1,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 10000,
+                "rewards": [
+                  {
+                    "id": 8495,
+                    "missionType": "panel_mission",
+                    "missionId": 3040101,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3040102,
+                "panelMissionSheetId": 30401,
+                "name": "100k Event Pts",
+                "description": "Earn 100,000 Event Points.",
+                "seq": 2,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 100000,
+                "rewards": [
+                  {
+                    "id": 8496,
+                    "missionType": "panel_mission",
+                    "missionId": 3040102,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3040103,
+                "panelMissionSheetId": 30401,
+                "name": "200k Event Pts",
+                "description": "Earn 200,000 Event Points.",
+                "seq": 3,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 200000,
+                "rewards": [
+                  {
+                    "id": 8497,
+                    "missionType": "panel_mission",
+                    "missionId": 3040103,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3040104,
+                "panelMissionSheetId": 30401,
+                "name": "300k Event Pts",
+                "description": "Earn 300,000 Event Points.",
+                "seq": 4,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 300000,
+                "rewards": [
+                  {
+                    "id": 8498,
+                    "missionType": "panel_mission",
+                    "missionId": 3040104,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3040105,
+                "panelMissionSheetId": 30401,
+                "name": "500k Event Pts",
+                "description": "Earn 500,000 Event Points.",
+                "seq": 5,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 500000,
+                "rewards": [
+                  {
+                    "id": 8499,
+                    "missionType": "panel_mission",
+                    "missionId": 3040105,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3040106,
+                "panelMissionSheetId": 30401,
+                "name": "700k Event Pts",
+                "description": "Earn 700,000 Event Points.",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 700000,
+                "rewards": [
+                  {
+                    "id": 8500,
+                    "missionType": "panel_mission",
+                    "missionId": 3040106,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3040107,
+                "panelMissionSheetId": 30401,
+                "name": "1M Event Pts",
+                "description": "Earn 1,000,000 Event Points.",
+                "seq": 7,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1000000,
+                "rewards": [
+                  {
+                    "id": 8501,
+                    "missionType": "panel_mission",
+                    "missionId": 3040107,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8609,
+                "missionType": "panel_mission_complete",
+                "missionId": 30401,
+                "seq": 1,
+                "resourceBoxId": 1508
+              }
+            ]
+          },
+          {
+            "id": 30402,
+            "panelMissionSheetGroupId": 304,
+            "name": "Normal Event Point Card",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_eventpoint",
+            "panelMissions": [
+              {
+                "id": 3040201,
+                "panelMissionSheetId": 30402,
+                "name": "10k Event Pts",
+                "description": "Earn 10,000 Event Points.",
+                "seq": 1,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 10000,
+                "rewards": [
+                  {
+                    "id": 8502,
+                    "missionType": "panel_mission",
+                    "missionId": 3040201,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3040202,
+                "panelMissionSheetId": 30402,
+                "name": "200k Event Pts",
+                "description": "Earn 200,000 Event Points.",
+                "seq": 2,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 200000,
+                "rewards": [
+                  {
+                    "id": 8503,
+                    "missionType": "panel_mission",
+                    "missionId": 3040202,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3040203,
+                "panelMissionSheetId": 30402,
+                "name": "500k Event Pts",
+                "description": "Earn 500,000 Event Points.",
+                "seq": 3,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 500000,
+                "rewards": [
+                  {
+                    "id": 8504,
+                    "missionType": "panel_mission",
+                    "missionId": 3040203,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3040204,
+                "panelMissionSheetId": 30402,
+                "name": "1M Event Pts",
+                "description": "Earn 1,000,000 Event Points.",
+                "seq": 4,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1000000,
+                "rewards": [
+                  {
+                    "id": 8505,
+                    "missionType": "panel_mission",
+                    "missionId": 3040204,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3040205,
+                "panelMissionSheetId": 30402,
+                "name": "1.5M Event Pts",
+                "description": "Earn 1,500,000 Event Points.",
+                "seq": 5,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1500000,
+                "rewards": [
+                  {
+                    "id": 8506,
+                    "missionType": "panel_mission",
+                    "missionId": 3040205,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3040206,
+                "panelMissionSheetId": 30402,
+                "name": "2M Event Pts",
+                "description": "Earn 2,000,000 Event Points.",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 2000000,
+                "rewards": [
+                  {
+                    "id": 8507,
+                    "missionType": "panel_mission",
+                    "missionId": 3040206,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3040207,
+                "panelMissionSheetId": 30402,
+                "name": "3M Event Pts",
+                "description": "Earn 3,000,000 Event Points.",
+                "seq": 7,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 3000000,
+                "rewards": [
+                  {
+                    "id": 8508,
+                    "missionType": "panel_mission",
+                    "missionId": 3040207,
+                    "seq": 1,
+                    "resourceBoxId": 1509
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8610,
+                "missionType": "panel_mission_complete",
+                "missionId": 30402,
+                "seq": 1,
+                "resourceBoxId": 1510
+              }
+            ]
+          },
+          {
+            "id": 30403,
+            "panelMissionSheetGroupId": 304,
+            "name": "Bold Event Point Card",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_eventpoint",
+            "panelMissions": [
+              {
+                "id": 3040301,
+                "panelMissionSheetId": 30403,
+                "name": "10k Event Pts",
+                "description": "Earn 10,000 Event Points.",
+                "seq": 1,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 10000,
+                "rewards": [
+                  {
+                    "id": 8509,
+                    "missionType": "panel_mission",
+                    "missionId": 3040301,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3040302,
+                "panelMissionSheetId": 30403,
+                "name": "500k Event Pts",
+                "description": "Earn 500,000 Event Points.",
+                "seq": 2,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 500000,
+                "rewards": [
+                  {
+                    "id": 8510,
+                    "missionType": "panel_mission",
+                    "missionId": 3040302,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3040303,
+                "panelMissionSheetId": 30403,
+                "name": "1M Event Pts",
+                "description": "Earn 1,000,000 Event Points.",
+                "seq": 3,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1000000,
+                "rewards": [
+                  {
+                    "id": 8511,
+                    "missionType": "panel_mission",
+                    "missionId": 3040303,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3040304,
+                "panelMissionSheetId": 30403,
+                "name": "1.5M Event Pts",
+                "description": "Earn 1,500,000 Event Points.",
+                "seq": 4,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 1500000,
+                "rewards": [
+                  {
+                    "id": 8512,
+                    "missionType": "panel_mission",
+                    "missionId": 3040304,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3040305,
+                "panelMissionSheetId": 30403,
+                "name": "2M Event Pts",
+                "description": "Earn 2,000,000 Event Points.",
+                "seq": 5,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 2000000,
+                "rewards": [
+                  {
+                    "id": 8513,
+                    "missionType": "panel_mission",
+                    "missionId": 3040305,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3040306,
+                "panelMissionSheetId": 30403,
+                "name": "3M Event Pts",
+                "description": "Earn 3,000,000 Event Points.",
+                "seq": 6,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 3000000,
+                "rewards": [
+                  {
+                    "id": 8514,
+                    "missionType": "panel_mission",
+                    "missionId": 3040306,
+                    "seq": 1,
+                    "resourceBoxId": 1509
+                  }
+                ]
+              },
+              {
+                "id": 3040307,
+                "panelMissionSheetId": 30403,
+                "name": "5M Event Pts",
+                "description": "Earn 5,000,000 Event Points.",
+                "seq": 7,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 5000000,
+                "rewards": [
+                  {
+                    "id": 8515,
+                    "missionType": "panel_mission",
+                    "missionId": 3040307,
+                    "seq": 1,
+                    "resourceBoxId": 1510
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8611,
+                "missionType": "panel_mission_complete",
+                "missionId": 30403,
+                "seq": 1,
+                "resourceBoxId": 1511
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 305,
+        "panelMissionCampaignId": 3,
+        "name": "Story",
+        "selectableLimit": 1,
+        "seq": 5,
+        "panelMissionSheets": [
+          {
+            "id": 30501,
+            "panelMissionSheetGroupId": 305,
+            "name": "Casual Story Card",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_story",
+            "panelMissions": [
+              {
+                "id": 3050101,
+                "panelMissionSheetId": 30501,
+                "name": "View 1 Story Episode",
+                "description": "View 1 Main\/Event\/Side Story episode without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 1,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8516,
+                    "missionType": "panel_mission",
+                    "missionId": 3050101,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3050102,
+                "panelMissionSheetId": 30501,
+                "name": "View 2 Story Episodes",
+                "description": "View 2 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 2,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 8517,
+                    "missionType": "panel_mission",
+                    "missionId": 3050102,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3050103,
+                "panelMissionSheetId": 30501,
+                "name": "View 3 Story Episodes",
+                "description": "View 3 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 3,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 8518,
+                    "missionType": "panel_mission",
+                    "missionId": 3050103,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3050104,
+                "panelMissionSheetId": 30501,
+                "name": "View 4 Story Episodes",
+                "description": "View 4 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 4,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 8519,
+                    "missionType": "panel_mission",
+                    "missionId": 3050104,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3050105,
+                "panelMissionSheetId": 30501,
+                "name": "View 5 Story Episodes",
+                "description": "View 5 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 5,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8520,
+                    "missionType": "panel_mission",
+                    "missionId": 3050105,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3050106,
+                "panelMissionSheetId": 30501,
+                "name": "View 7 Story Episodes",
+                "description": "View 7 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 6,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 8521,
+                    "missionType": "panel_mission",
+                    "missionId": 3050106,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3050107,
+                "panelMissionSheetId": 30501,
+                "name": "View 10 Story Episodes",
+                "description": "View 10 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 7,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8522,
+                    "missionType": "panel_mission",
+                    "missionId": 3050107,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8612,
+                "missionType": "panel_mission_complete",
+                "missionId": 30501,
+                "seq": 1,
+                "resourceBoxId": 1508
+              }
+            ]
+          },
+          {
+            "id": 30502,
+            "panelMissionSheetGroupId": 305,
+            "name": "Normal Story Card",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_story",
+            "panelMissions": [
+              {
+                "id": 3050201,
+                "panelMissionSheetId": 30502,
+                "name": "View 1 Story Episode",
+                "description": "View 1 Main\/Event\/Side Story episode without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 1,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8523,
+                    "missionType": "panel_mission",
+                    "missionId": 3050201,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3050202,
+                "panelMissionSheetId": 30502,
+                "name": "View 3 Story Episodes",
+                "description": "View 3 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 2,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 8524,
+                    "missionType": "panel_mission",
+                    "missionId": 3050202,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3050203,
+                "panelMissionSheetId": 30502,
+                "name": "View 5 Story Episodes",
+                "description": "View 5 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 3,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8525,
+                    "missionType": "panel_mission",
+                    "missionId": 3050203,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3050204,
+                "panelMissionSheetId": 30502,
+                "name": "View 10 Story Episodes",
+                "description": "View 10 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 4,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8526,
+                    "missionType": "panel_mission",
+                    "missionId": 3050204,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3050205,
+                "panelMissionSheetId": 30502,
+                "name": "View 15 Story Episodes",
+                "description": "View 15 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 5,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 8527,
+                    "missionType": "panel_mission",
+                    "missionId": 3050205,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3050206,
+                "panelMissionSheetId": 30502,
+                "name": "View 20 Story Episodes",
+                "description": "View 20 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 6,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 8528,
+                    "missionType": "panel_mission",
+                    "missionId": 3050206,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3050207,
+                "panelMissionSheetId": 30502,
+                "name": "View 30 Story Episodes",
+                "description": "View 30 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 7,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 8529,
+                    "missionType": "panel_mission",
+                    "missionId": 3050207,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8613,
+                "missionType": "panel_mission_complete",
+                "missionId": 30502,
+                "seq": 1,
+                "resourceBoxId": 1510
+              }
+            ]
+          },
+          {
+            "id": 30503,
+            "panelMissionSheetGroupId": 305,
+            "name": "Bold Story Card",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_story",
+            "panelMissions": [
+              {
+                "id": 3050301,
+                "panelMissionSheetId": 30503,
+                "name": "View 1 Story Episode",
+                "description": "View 1 Main\/Event\/Side Story episode without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 1,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8530,
+                    "missionType": "panel_mission",
+                    "missionId": 3050301,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3050302,
+                "panelMissionSheetId": 30503,
+                "name": "View 5 Story Episodes",
+                "description": "View 5 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 2,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8531,
+                    "missionType": "panel_mission",
+                    "missionId": 3050302,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3050303,
+                "panelMissionSheetId": 30503,
+                "name": "View 10 Story Episodes",
+                "description": "View 10 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 3,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8532,
+                    "missionType": "panel_mission",
+                    "missionId": 3050303,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3050304,
+                "panelMissionSheetId": 30503,
+                "name": "View 15 Story Episodes",
+                "description": "View 15 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 4,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 8533,
+                    "missionType": "panel_mission",
+                    "missionId": 3050304,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3050305,
+                "panelMissionSheetId": 30503,
+                "name": "View 20 Story Episodes",
+                "description": "View 20 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 5,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 8534,
+                    "missionType": "panel_mission",
+                    "missionId": 3050305,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3050306,
+                "panelMissionSheetId": 30503,
+                "name": "View 30 Story Episodes",
+                "description": "View 30 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 6,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 8535,
+                    "missionType": "panel_mission",
+                    "missionId": 3050306,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3050307,
+                "panelMissionSheetId": 30503,
+                "name": "View 50 Story Episodes",
+                "description": "View 50 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 7,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 8536,
+                    "missionType": "panel_mission",
+                    "missionId": 3050307,
+                    "seq": 1,
+                    "resourceBoxId": 1511
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8614,
+                "missionType": "panel_mission_complete",
+                "missionId": 30503,
+                "seq": 1,
+                "resourceBoxId": 1511
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 306,
+        "panelMissionCampaignId": 3,
+        "name": "Gacha & Shop",
+        "selectableLimit": 1,
+        "seq": 6,
+        "panelMissionSheets": [
+          {
+            "id": 30601,
+            "panelMissionSheetGroupId": 306,
+            "name": "Standard Gacha & Shop Card",
+            "seq": 1,
+            "assetbundleName": "sheet_standard_gachashop",
+            "panelMissions": [
+              {
+                "id": 3060101,
+                "panelMissionSheetId": 30601,
+                "name": "1 Gacha Pull",
+                "description": "Pull from Gacha 1 time.\n(Includes free pulls.)",
+                "seq": 1,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8537,
+                    "missionType": "panel_mission",
+                    "missionId": 3060101,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3060102,
+                "panelMissionSheetId": 30601,
+                "name": "10 Gacha Pulls",
+                "description": "Pull from Gacha 10 times.\n(Includes free pulls.)",
+                "seq": 2,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8538,
+                    "missionType": "panel_mission",
+                    "missionId": 3060102,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3060103,
+                "panelMissionSheetId": 30601,
+                "name": "20 Gacha Pulls",
+                "description": "Pull from Gacha 20 times.\n(Includes free pulls.)",
+                "seq": 3,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 8539,
+                    "missionType": "panel_mission",
+                    "missionId": 3060103,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3060104,
+                "panelMissionSheetId": 30601,
+                "name": "30 Gacha Pulls",
+                "description": "Pull from Gacha 30 times.\n(Includes free pulls.)",
+                "seq": 4,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 8540,
+                    "missionType": "panel_mission",
+                    "missionId": 3060104,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3060105,
+                "panelMissionSheetId": 30601,
+                "name": "40 Gacha Pulls",
+                "description": "Pull from Gacha 40 times.\n(Includes free pulls.)",
+                "seq": 5,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 40,
+                "rewards": [
+                  {
+                    "id": 8541,
+                    "missionType": "panel_mission",
+                    "missionId": 3060105,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3060106,
+                "panelMissionSheetId": 30601,
+                "name": "50 Gacha Pulls",
+                "description": "Pull from Gacha 50 times.\n(Includes free pulls.)",
+                "seq": 6,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 8542,
+                    "missionType": "panel_mission",
+                    "missionId": 3060106,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3060107,
+                "panelMissionSheetId": 30601,
+                "name": "100 Gacha Pulls",
+                "description": "Pull from Gacha 100 times.\n(Includes free pulls.)",
+                "seq": 7,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 8543,
+                    "missionType": "panel_mission",
+                    "missionId": 3060107,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8615,
+                "missionType": "panel_mission_complete",
+                "missionId": 30601,
+                "seq": 1,
+                "resourceBoxId": 1511
+              }
+            ]
+          },
+          {
+            "id": 30602,
+            "panelMissionSheetGroupId": 306,
+            "name": "Gold Gacha & Shop Card",
+            "seq": 2,
+            "assetbundleName": "sheet_gold_gachashop",
+            "panelMissions": [
+              {
+                "id": 3060201,
+                "panelMissionSheetId": 30602,
+                "name": "Pull JP 3.5 Year Anniversary 10x Free Gacha 5 Times",
+                "description": "Pull from the JP 3.5 Year Anniversary 10x Free Gacha 5 times.",
+                "seq": 1,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8544,
+                    "missionType": "panel_mission",
+                    "missionId": 3060201,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3060202,
+                "panelMissionSheetId": 30602,
+                "name": "150 Gacha Pulls",
+                "description": "Pull from Gacha 150 times.\n(Includes free pulls.)",
+                "seq": 2,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 150,
+                "rewards": [
+                  {
+                    "id": 8545,
+                    "missionType": "panel_mission",
+                    "missionId": 3060202,
+                    "seq": 1,
+                    "resourceBoxId": 1512
+                  }
+                ]
+              },
+              {
+                "id": 3060203,
+                "panelMissionSheetId": 30602,
+                "name": "Pull JP 3.5 Year Anniversary Premium Gift Gacha 1 Time",
+                "description": "Pull from the JP 3.5 Year Anniversary Premium Gift Gacha 1 time.",
+                "seq": 3,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8546,
+                    "missionType": "panel_mission",
+                    "missionId": 3060203,
+                    "seq": 1,
+                    "resourceBoxId": 1513
+                  }
+                ]
+              },
+              {
+                "id": 3060204,
+                "panelMissionSheetId": 30602,
+                "name": "Pull JP 3.5 Year Anniversary 4★ Character Guaranteed Gacha 1 Time",
+                "description": "Pull from the JP 3.5 Year Anniversary 4★ Character Guaranteed Gacha 1 time.",
+                "seq": 4,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8547,
+                    "missionType": "panel_mission",
+                    "missionId": 3060204,
+                    "seq": 1,
+                    "resourceBoxId": 1513
+                  }
+                ]
+              },
+              {
+                "id": 3060205,
+                "panelMissionSheetId": 30602,
+                "name": "Pull Not Overlap Sounds Gacha 10 Times",
+                "description": "Pull from the Not Overlap Sounds Gacha 10 times.\n*Gacha begins April 20.",
+                "seq": 5,
+                "panelMissionType": "spin_gacha",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8548,
+                    "missionType": "panel_mission",
+                    "missionId": 3060205,
+                    "seq": 1,
+                    "resourceBoxId": 1513
+                  }
+                ]
+              },
+              {
+                "id": 3060206,
+                "panelMissionSheetId": 30602,
+                "name": "Purchase 1 JP 3.5Y Bundle",
+                "description": "Purchase 1 JP 3.5Y Bundle from the Crystal Shop.\n(Does not include the Run-Up Bundle or Sale Crystals.)",
+                "seq": 6,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8549,
+                    "missionType": "panel_mission",
+                    "missionId": 3060206,
+                    "seq": 1,
+                    "resourceBoxId": 1513
+                  }
+                ]
+              },
+              {
+                "id": 3060207,
+                "panelMissionSheetId": 30602,
+                "name": "Purchase Apr. 2025 Premium Mission Pass",
+                "description": "Purchase the April 2025 Premium Mission Pass.",
+                "seq": 7,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8550,
+                    "missionType": "panel_mission",
+                    "missionId": 3060207,
+                    "seq": 1,
+                    "resourceBoxId": 1511
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8616,
+                "missionType": "panel_mission_complete",
+                "missionId": 30602,
+                "seq": 1,
+                "resourceBoxId": 1514
+              }
+            ]
+          },
+          {
+            "id": 30603,
+            "panelMissionSheetGroupId": 306,
+            "name": "Diamond Gacha & Shop Card",
+            "seq": 3,
+            "assetbundleName": "sheet_diamond_gachashop",
+            "panelMissions": [
+              {
+                "id": 3060301,
+                "panelMissionSheetId": 30603,
+                "name": "Pull JP 3.5 Year Anniversary 10x Free Gacha 7 Times",
+                "description": "Pull from the JP 3.5 Year Anniversary 10x Free Gacha 7 times.",
+                "seq": 1,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 8551,
+                    "missionType": "panel_mission",
+                    "missionId": 3060301,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3060302,
+                "panelMissionSheetId": 30603,
+                "name": "200 Gacha Pulls",
+                "description": "Pull from Gacha 200 times.\n(Includes free pulls.)",
+                "seq": 2,
+                "panelMissionType": "spin_any_gacha",
+                "requirement1": 200,
+                "rewards": [
+                  {
+                    "id": 8552,
+                    "missionType": "panel_mission",
+                    "missionId": 3060302,
+                    "seq": 1,
+                    "resourceBoxId": 1513
+                  }
+                ]
+              },
+              {
+                "id": 3060303,
+                "panelMissionSheetId": 30603,
+                "name": "Pull JP 3.5 Year Anniversary Premium Gift Gacha 1 Time",
+                "description": "Pull from the JP 3.5 Year Anniversary Premium Gift Gacha 1 time.",
+                "seq": 3,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8553,
+                    "missionType": "panel_mission",
+                    "missionId": 3060303,
+                    "seq": 1,
+                    "resourceBoxId": 1513
+                  }
+                ]
+              },
+              {
+                "id": 3060304,
+                "panelMissionSheetId": 30603,
+                "name": "Pull JP 3.5 Year Anniversary 4★ Character Guaranteed Gacha 1 Time",
+                "description": "Pull from the JP 3.5 Year Anniversary 4★ Character Guaranteed Gacha 1 time.",
+                "seq": 4,
+                "panelMissionType": "execute_gacha",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8554,
+                    "missionType": "panel_mission",
+                    "missionId": 3060304,
+                    "seq": 1,
+                    "resourceBoxId": 1513
+                  }
+                ]
+              },
+              {
+                "id": 3060305,
+                "panelMissionSheetId": 30603,
+                "name": "Pull Not Overlap Sounds Gacha 10 Times",
+                "description": "Pull from the Not Overlap Sounds Gacha 10 times.\n*Gacha begins April 20.",
+                "seq": 5,
+                "panelMissionType": "spin_gacha",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8555,
+                    "missionType": "panel_mission",
+                    "missionId": 3060305,
+                    "seq": 1,
+                    "resourceBoxId": 1513
+                  }
+                ]
+              },
+              {
+                "id": 3060306,
+                "panelMissionSheetId": 30603,
+                "name": "Purchase 2 JP 3.5Y Bundles",
+                "description": "Purchase 2 JP 3.5Y Bundles from the Crystal Shop.\n(Does not include the Run-Up Bundle or Sale Crystals.)",
+                "seq": 6,
+                "panelMissionType": "purchase_billing_shop_item_in_category",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 8556,
+                    "missionType": "panel_mission",
+                    "missionId": 3060306,
+                    "seq": 1,
+                    "resourceBoxId": 1513
+                  }
+                ]
+              },
+              {
+                "id": 3060307,
+                "panelMissionSheetId": 30603,
+                "name": "Purchase Apr. 2025 Premium Mission Pass",
+                "description": "Purchase the April 2025 Premium Mission Pass.",
+                "seq": 7,
+                "panelMissionType": "purchase_premium_mission_pass",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8557,
+                    "missionType": "panel_mission",
+                    "missionId": 3060307,
+                    "seq": 1,
+                    "resourceBoxId": 1511
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8617,
+                "missionType": "panel_mission_complete",
+                "missionId": 30603,
+                "seq": 1,
+                "resourceBoxId": 1515
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 307,
+        "panelMissionCampaignId": 3,
+        "name": "Fan Point",
+        "selectableLimit": 1,
+        "seq": 7,
+        "panelMissionSheets": [
+          {
+            "id": 30701,
+            "panelMissionSheetGroupId": 307,
+            "name": "Casual Fan Point Card",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_cheer",
+            "panelMissions": [
+              {
+                "id": 3070101,
+                "panelMissionSheetId": 30701,
+                "name": "100 Fan Points",
+                "description": "Earn 100 Fan Points from Virtual Shows.",
+                "seq": 1,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 8558,
+                    "missionType": "panel_mission",
+                    "missionId": 3070101,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3070102,
+                "panelMissionSheetId": 30701,
+                "name": "300 Fan Points",
+                "description": "Earn 300 Fan Points from Virtual Shows.",
+                "seq": 2,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 300,
+                "rewards": [
+                  {
+                    "id": 8559,
+                    "missionType": "panel_mission",
+                    "missionId": 3070102,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3070103,
+                "panelMissionSheetId": 30701,
+                "name": "500 Fan Points",
+                "description": "Earn 500 Fan Points from Virtual Shows.",
+                "seq": 3,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 500,
+                "rewards": [
+                  {
+                    "id": 8560,
+                    "missionType": "panel_mission",
+                    "missionId": 3070103,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3070104,
+                "panelMissionSheetId": 30701,
+                "name": "1k Fan Points",
+                "description": "Earn 1,000 Fan Points from Virtual Shows.",
+                "seq": 4,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 1000,
+                "rewards": [
+                  {
+                    "id": 8561,
+                    "missionType": "panel_mission",
+                    "missionId": 3070104,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3070105,
+                "panelMissionSheetId": 30701,
+                "name": "1.5k Fan Points",
+                "description": "Earn 1,500 Fan Points from Virtual Shows.",
+                "seq": 5,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 1500,
+                "rewards": [
+                  {
+                    "id": 8562,
+                    "missionType": "panel_mission",
+                    "missionId": 3070105,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3070106,
+                "panelMissionSheetId": 30701,
+                "name": "2k Fan Points",
+                "description": "Earn 2,000 Fan Points from Virtual Shows.",
+                "seq": 6,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 2000,
+                "rewards": [
+                  {
+                    "id": 8563,
+                    "missionType": "panel_mission",
+                    "missionId": 3070106,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3070107,
+                "panelMissionSheetId": 30701,
+                "name": "3k Fan Points",
+                "description": "Earn 3,000 Fan Points from Virtual Shows.",
+                "seq": 7,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 3000,
+                "rewards": [
+                  {
+                    "id": 8564,
+                    "missionType": "panel_mission",
+                    "missionId": 3070107,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8618,
+                "missionType": "panel_mission_complete",
+                "missionId": 30701,
+                "seq": 1,
+                "resourceBoxId": 1508
+              }
+            ]
+          },
+          {
+            "id": 30702,
+            "panelMissionSheetGroupId": 307,
+            "name": "Normal Fan Point Card",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_cheer",
+            "panelMissions": [
+              {
+                "id": 3070201,
+                "panelMissionSheetId": 30702,
+                "name": "100 Fan Points",
+                "description": "Earn 100 Fan Points from Virtual Shows.",
+                "seq": 1,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 8565,
+                    "missionType": "panel_mission",
+                    "missionId": 3070201,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3070202,
+                "panelMissionSheetId": 30702,
+                "name": "500 Fan Points",
+                "description": "Earn 500 Fan Points from Virtual Shows.",
+                "seq": 2,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 500,
+                "rewards": [
+                  {
+                    "id": 8566,
+                    "missionType": "panel_mission",
+                    "missionId": 3070202,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3070203,
+                "panelMissionSheetId": 30702,
+                "name": "1k Fan Points",
+                "description": "Earn 1,000 Fan Points from Virtual Shows.",
+                "seq": 3,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 1000,
+                "rewards": [
+                  {
+                    "id": 8567,
+                    "missionType": "panel_mission",
+                    "missionId": 3070203,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3070204,
+                "panelMissionSheetId": 30702,
+                "name": "1.5k Fan Points",
+                "description": "Earn 1,500 Fan Points from Virtual Shows.",
+                "seq": 4,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 1500,
+                "rewards": [
+                  {
+                    "id": 8568,
+                    "missionType": "panel_mission",
+                    "missionId": 3070204,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3070205,
+                "panelMissionSheetId": 30702,
+                "name": "2k Fan Points",
+                "description": "Earn 2,000 Fan Points from Virtual Shows.",
+                "seq": 5,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 2000,
+                "rewards": [
+                  {
+                    "id": 8569,
+                    "missionType": "panel_mission",
+                    "missionId": 3070205,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3070206,
+                "panelMissionSheetId": 30702,
+                "name": "3k Fan Points",
+                "description": "Earn 3,000 Fan Points from Virtual Shows.",
+                "seq": 6,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 3000,
+                "rewards": [
+                  {
+                    "id": 8570,
+                    "missionType": "panel_mission",
+                    "missionId": 3070206,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3070207,
+                "panelMissionSheetId": 30702,
+                "name": "5k Fan Points",
+                "description": "Earn 5,000 Fan Points from Virtual Shows.",
+                "seq": 7,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 5000,
+                "rewards": [
+                  {
+                    "id": 8571,
+                    "missionType": "panel_mission",
+                    "missionId": 3070207,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8619,
+                "missionType": "panel_mission_complete",
+                "missionId": 30702,
+                "seq": 1,
+                "resourceBoxId": 1510
+              }
+            ]
+          },
+          {
+            "id": 30703,
+            "panelMissionSheetGroupId": 307,
+            "name": "Bold Fan Point Card",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_cheer",
+            "panelMissions": [
+              {
+                "id": 3070301,
+                "panelMissionSheetId": 30703,
+                "name": "100 Fan Points",
+                "description": "Earn 100 Fan Points from Virtual Shows.",
+                "seq": 1,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 8572,
+                    "missionType": "panel_mission",
+                    "missionId": 3070301,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3070302,
+                "panelMissionSheetId": 30703,
+                "name": "1k Fan Points",
+                "description": "Earn 1,000 Fan Points from Virtual Shows.",
+                "seq": 2,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 1000,
+                "rewards": [
+                  {
+                    "id": 8573,
+                    "missionType": "panel_mission",
+                    "missionId": 3070302,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3070303,
+                "panelMissionSheetId": 30703,
+                "name": "2k Fan Points",
+                "description": "Earn 2,000 Fan Points from Virtual Shows.",
+                "seq": 3,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 2000,
+                "rewards": [
+                  {
+                    "id": 8574,
+                    "missionType": "panel_mission",
+                    "missionId": 3070303,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3070304,
+                "panelMissionSheetId": 30703,
+                "name": "3k Fan Points",
+                "description": "Earn 3,000 Fan Points from Virtual Shows.",
+                "seq": 4,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 3000,
+                "rewards": [
+                  {
+                    "id": 8575,
+                    "missionType": "panel_mission",
+                    "missionId": 3070304,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3070305,
+                "panelMissionSheetId": 30703,
+                "name": "5k Fan Points",
+                "description": "Earn 5,000 Fan Points from Virtual Shows.",
+                "seq": 5,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 5000,
+                "rewards": [
+                  {
+                    "id": 8576,
+                    "missionType": "panel_mission",
+                    "missionId": 3070305,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3070306,
+                "panelMissionSheetId": 30703,
+                "name": "7k Fan Points",
+                "description": "Earn 7,000 Fan Points from Virtual Shows.",
+                "seq": 6,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 7000,
+                "rewards": [
+                  {
+                    "id": 8577,
+                    "missionType": "panel_mission",
+                    "missionId": 3070306,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              },
+              {
+                "id": 3070307,
+                "panelMissionSheetId": 30703,
+                "name": "10k Fan Points",
+                "description": "Earn 10,000 Fan Points from Virtual Shows.",
+                "seq": 7,
+                "panelMissionType": "collect_virtual_live_cheer_point",
+                "requirement1": 10000,
+                "rewards": [
+                  {
+                    "id": 8578,
+                    "missionType": "panel_mission",
+                    "missionId": 3070307,
+                    "seq": 1,
+                    "resourceBoxId": 1510
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8620,
+                "missionType": "panel_mission_complete",
+                "missionId": 30703,
+                "seq": 1,
+                "resourceBoxId": 1511
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 308,
+        "panelMissionCampaignId": 3,
+        "name": "Music Video",
+        "selectableLimit": 1,
+        "seq": 8,
+        "panelMissionSheets": [
+          {
+            "id": 30801,
+            "panelMissionSheetGroupId": 308,
+            "name": "Casual Music Video Card",
+            "seq": 1,
+            "assetbundleName": "sheet_casual_mv",
+            "panelMissions": [
+              {
+                "id": 3080101,
+                "panelMissionSheetId": 30801,
+                "name": "Watch 1 Music Video",
+                "description": "Watch a video in the Music Video Viewer 1 time.",
+                "seq": 1,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8579,
+                    "missionType": "panel_mission",
+                    "missionId": 3080101,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3080102,
+                "panelMissionSheetId": 30801,
+                "name": "Watch 2 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 2 times.",
+                "seq": 2,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 8580,
+                    "missionType": "panel_mission",
+                    "missionId": 3080102,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3080103,
+                "panelMissionSheetId": 30801,
+                "name": "Watch 3 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 3 times.",
+                "seq": 3,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 8581,
+                    "missionType": "panel_mission",
+                    "missionId": 3080103,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3080104,
+                "panelMissionSheetId": 30801,
+                "name": "Watch 4 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 4 times.",
+                "seq": 4,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 8582,
+                    "missionType": "panel_mission",
+                    "missionId": 3080104,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3080105,
+                "panelMissionSheetId": 30801,
+                "name": "Watch 5 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 5 times.",
+                "seq": 5,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8583,
+                    "missionType": "panel_mission",
+                    "missionId": 3080105,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3080106,
+                "panelMissionSheetId": 30801,
+                "name": "Watch 7 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 7 times.",
+                "seq": 6,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 8584,
+                    "missionType": "panel_mission",
+                    "missionId": 3080106,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3080107,
+                "panelMissionSheetId": 30801,
+                "name": "Watch 10 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 10 times.",
+                "seq": 7,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8585,
+                    "missionType": "panel_mission",
+                    "missionId": 3080107,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8621,
+                "missionType": "panel_mission_complete",
+                "missionId": 30801,
+                "seq": 1,
+                "resourceBoxId": 1508
+              }
+            ]
+          },
+          {
+            "id": 30802,
+            "panelMissionSheetGroupId": 308,
+            "name": "Normal Music Video Card",
+            "seq": 2,
+            "assetbundleName": "sheet_regular_mv",
+            "panelMissions": [
+              {
+                "id": 3080201,
+                "panelMissionSheetId": 30802,
+                "name": "Watch 1 Music Video",
+                "description": "Watch a video in the Music Video Viewer 1 time.",
+                "seq": 1,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8586,
+                    "missionType": "panel_mission",
+                    "missionId": 3080201,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3080202,
+                "panelMissionSheetId": 30802,
+                "name": "Watch 3 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 3 times.",
+                "seq": 2,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 8587,
+                    "missionType": "panel_mission",
+                    "missionId": 3080202,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3080203,
+                "panelMissionSheetId": 30802,
+                "name": "Watch 5 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 5 times.",
+                "seq": 3,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8588,
+                    "missionType": "panel_mission",
+                    "missionId": 3080203,
+                    "seq": 1,
+                    "resourceBoxId": 1505
+                  }
+                ]
+              },
+              {
+                "id": 3080204,
+                "panelMissionSheetId": 30802,
+                "name": "Watch 10 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 10 times.",
+                "seq": 4,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8589,
+                    "missionType": "panel_mission",
+                    "missionId": 3080204,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3080205,
+                "panelMissionSheetId": 30802,
+                "name": "Watch 15 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 15 times.",
+                "seq": 5,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 8590,
+                    "missionType": "panel_mission",
+                    "missionId": 3080205,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3080206,
+                "panelMissionSheetId": 30802,
+                "name": "Watch 20 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 20 times.",
+                "seq": 6,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 8591,
+                    "missionType": "panel_mission",
+                    "missionId": 3080206,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3080207,
+                "panelMissionSheetId": 30802,
+                "name": "Watch 30 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 30 times.",
+                "seq": 7,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 8592,
+                    "missionType": "panel_mission",
+                    "missionId": 3080207,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8622,
+                "missionType": "panel_mission_complete",
+                "missionId": 30802,
+                "seq": 1,
+                "resourceBoxId": 1510
+              }
+            ]
+          },
+          {
+            "id": 30803,
+            "panelMissionSheetGroupId": 308,
+            "name": "Bold Music Video Card",
+            "seq": 3,
+            "assetbundleName": "sheet_unlimited_mv",
+            "panelMissions": [
+              {
+                "id": 3080301,
+                "panelMissionSheetId": 30803,
+                "name": "Watch 1 Music Video",
+                "description": "Watch a video in the Music Video Viewer 1 time.",
+                "seq": 1,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 8593,
+                    "missionType": "panel_mission",
+                    "missionId": 3080301,
+                    "seq": 1,
+                    "resourceBoxId": 1504
+                  }
+                ]
+              },
+              {
+                "id": 3080302,
+                "panelMissionSheetId": 30803,
+                "name": "Watch 5 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 5 times.",
+                "seq": 2,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 8594,
+                    "missionType": "panel_mission",
+                    "missionId": 3080302,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3080303,
+                "panelMissionSheetId": 30803,
+                "name": "Watch 10 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 10 times.",
+                "seq": 3,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 8595,
+                    "missionType": "panel_mission",
+                    "missionId": 3080303,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3080304,
+                "panelMissionSheetId": 30803,
+                "name": "Watch 15 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 15 times.",
+                "seq": 4,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 8596,
+                    "missionType": "panel_mission",
+                    "missionId": 3080304,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3080305,
+                "panelMissionSheetId": 30803,
+                "name": "Watch 20 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 20 times.",
+                "seq": 5,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 8597,
+                    "missionType": "panel_mission",
+                    "missionId": 3080305,
+                    "seq": 1,
+                    "resourceBoxId": 1506
+                  }
+                ]
+              },
+              {
+                "id": 3080306,
+                "panelMissionSheetId": 30803,
+                "name": "Watch 30 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 30 times.",
+                "seq": 6,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 8598,
+                    "missionType": "panel_mission",
+                    "missionId": 3080306,
+                    "seq": 1,
+                    "resourceBoxId": 1507
+                  }
+                ]
+              },
+              {
+                "id": 3080307,
+                "panelMissionSheetId": 30803,
+                "name": "Watch 50 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 50 times.",
+                "seq": 7,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 8599,
+                    "missionType": "panel_mission",
+                    "missionId": 3080307,
+                    "seq": 1,
+                    "resourceBoxId": 1508
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 8623,
+                "missionType": "panel_mission_complete",
+                "missionId": 30803,
+                "seq": 1,
+                "resourceBoxId": 1511
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
