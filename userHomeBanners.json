@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 876,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル犬イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha489",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 489,
-    "startAt": 1743793200000,
-    "endAt": 1744311599000
-  },
-  {
     "homeBannerId": 878,
     "seq": 80,
     "homeBannerType": "general",
@@ -44,17 +33,6 @@
     "endAt": 1746082799000
   },
   {
-    "homeBannerId": 881,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル犬イベ_イベントバナー",
-    "assetbundleName": "event_rise_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 126,
-    "startAt": 1743372000000,
-    "endAt": 1744322399000
-  },
-  {
     "homeBannerId": 883,
     "seq": 150,
     "homeBannerType": "general",
@@ -63,6 +41,28 @@
     "transitionDestinationType": "billing_shop_for_jewel",
     "startAt": 1743361200000,
     "endAt": 1746082799000
+  },
+  {
+    "homeBannerId": 904,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
+    "assetbundleName": "event_unseen_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 127,
+    "startAt": 1744322400000,
+    "endAt": 1745186399000
+  },
+  {
+    "homeBannerId": 907,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha490",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 490,
+    "startAt": 1744311600000,
+    "endAt": 1745175599000
   },
   {
     "homeBannerId": 1001,
