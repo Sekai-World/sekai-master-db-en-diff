@@ -76,6 +76,17 @@
     "endAt": 1745261999000
   },
   {
+    "homeBannerId": 913,
+    "seq": 155,
+    "homeBannerType": "general",
+    "name": "[It's Back] Let's Enjoy Summer! Gacha",
+    "assetbundleName": "banner_gacha497",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 497,
+    "startAt": 1744916400000,
+    "endAt": 1745780399000
+  },
+  {
     "homeBannerId": 1001,
     "seq": 200,
     "homeBannerType": "general",
@@ -106,5 +117,26 @@
     "transitionDestinationId": 1119,
     "startAt": 1744052400000,
     "endAt": 1746039599000
+  },
+  {
+    "homeBannerId": 1152,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "ID:1121 イースター10連ガチャ",
+    "assetbundleName": "banner_gacha1121",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1121,
+    "startAt": 1744830000000,
+    "endAt": 1746039599000
+  },
+  {
+    "homeBannerId": 1154,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "イースター 10x Gacha Ticket",
+    "assetbundleName": "banner_shop_gachaticket_miku10_gl",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1744830000000,
+    "endAt": 1746017999000
   }
 ]
