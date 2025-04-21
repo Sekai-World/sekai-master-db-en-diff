@@ -43,39 +43,6 @@
     "endAt": 1746082799000
   },
   {
-    "homeBannerId": 904,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
-    "assetbundleName": "event_unseen_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 127,
-    "startAt": 1744322400000,
-    "endAt": 1745186399000
-  },
-  {
-    "homeBannerId": 907,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha490",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 490,
-    "startAt": 1744311600000,
-    "endAt": 1745175599000
-  },
-  {
-    "homeBannerId": 911,
-    "seq": 140,
-    "homeBannerType": "general",
-    "name": "[It's Back] Fluttering Maidens Gacha",
-    "assetbundleName": "banner_gacha491",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 491,
-    "startAt": 1744484400000,
-    "endAt": 1745261999000
-  },
-  {
     "homeBannerId": 913,
     "seq": 155,
     "homeBannerType": "general",
@@ -85,6 +52,28 @@
     "transitionDestinationId": 497,
     "startAt": 1744916400000,
     "endAt": 1745780399000
+  },
+  {
+    "homeBannerId": 917,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]レオニ箱イベ_イベントバナー",
+    "assetbundleName": "event_parallel_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 128,
+    "startAt": 1745186400000,
+    "endAt": 1746050399000
+  },
+  {
+    "homeBannerId": 920,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]レオニ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha498",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 498,
+    "startAt": 1745175600000,
+    "endAt": 1746039600000
   },
   {
     "homeBannerId": 1001,
