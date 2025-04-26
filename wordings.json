@@ -4,6 +4,10 @@
     "value": "Memorabilia Box Details"
   },
   {
+    "wordingKey": "CONNECT_LIVE_TICKET_COUNT_OVERFLOW_WARN_MESSAGE",
+    "value": "公演チケット購入数が本コネクトライブの公演数を超過します。\n※余った公演チケットは、別のコネクトライブの公演で\n使用できないほか、払い戻し・キャンセル・返金などの\n対象外となります。\n\n公演チケットを購入しますか？"
+  },
+  {
     "wordingKey": "CONNECT_LIVE_TICKET_EXCHANGE_BTN_BALLOON_LABEL_FORMAT",
     "value": "{0} Pulls Limited"
   },
@@ -170,6 +174,10 @@
   {
     "wordingKey": "MSG_ADMISSION_LIMIT_PAID",
     "value": "The free viewing period has ended."
+  },
+  {
+    "wordingKey": "MSG_ADMISSION_LIMIT_PAID_FOR_AFTER_EVENT",
+    "value": "アフターイベントは「アフターイベントチケット」を\nお持ちの方のみ参加できます。\n公演に参加される場合は、チケットを購入してください。"
   },
   {
     "wordingKey": "MSG_ADREWARD_WEBVIEW_OPEN",
@@ -681,11 +689,11 @@
   },
   {
     "wordingKey": "MSG_CONDITION_GET_CARD",
-    "value": "Obtained {0} {1}"
+    "value": "Obtain \"{0}\" {1}"
   },
   {
     "wordingKey": "MSG_CONDITION_TRAINING_CARD",
-    "value": "Upgraded {0} {1}"
+    "value": "Upgrade \"{0}\" {1}"
   },
   {
     "wordingKey": "MSG_CONFIRM_DATA_LINK",
@@ -1360,8 +1368,16 @@
     "value": "Includes {0}"
   },
   {
+    "wordingKey": "MSG_GET_GACHA_BONUS",
+    "value": "Gacha Bonus rewards earned."
+  },
+  {
     "wordingKey": "MSG_GET_LIVE_MISSION_POINT",
     "value": "Get a total of {0} Show Pts."
+  },
+  {
+    "wordingKey": "MSG_GET_SERIAL_CODE_STAMP_RALLY_REWARD",
+    "value": "Claimed rewards."
   },
   {
     "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
@@ -1916,6 +1932,10 @@
     "value": "A connection error has occurred."
   },
   {
+    "wordingKey": "MSG_NEW_AREA_RELEASE",
+    "value": "New area unlocked."
+  },
+  {
     "wordingKey": "MSG_NEXT_EPISODE_RELEASE_DATE_AT",
     "value": "{0}のストーリー\n<color=#ff77AA>{1:MM\/dd HH:mm} 解放<\/color>"
   },
@@ -2464,6 +2484,42 @@
     "value": "Obtained unclaimed Bonus Mission rewards."
   },
   {
+    "wordingKey": "MSG_RECOLLECTION_APPEAL_SELECT_CARD",
+    "value": "Your Gacha Bonus will reach {0}!\nPlease select a Character to receive."
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_RANDOM_NOTICE",
+    "value": "An applicable 4★ Character that you do not own will appear.\nIf you already own all applicable Characters, one that you already own will appear."
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_RANDOM_ONLY_NORMAL_NOTICE",
+    "value": "An applicable General 4★ Character that you do not own will appear.\nIf you already own all applicable Characters, one that you already own will appear."
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_SELECT",
+    "value": "Select 1 Character from the following."
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_SELECT_END_CONFIRM",
+    "value": "Confirm this Character?"
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_SELECT_NOTICE",
+    "value": "An applicable 4★ Character of your choice will appear."
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_SELECT_ONLY_NORMAL_NOTICE",
+    "value": "An applicable General 4★ Character of your choice will appear."
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_WISH_LIST_CONFIRM",
+    "value": "You have not yet selected a Character.\nYou must select a Character to pull the Gacha.\nSelect later?"
+  },
+  {
+    "wordingKey": "MSG_RECOLLECTION_WISH_LIST_CONFIRM_TIPS",
+    "value": "*You may change your choice until you pull."
+  },
+  {
     "wordingKey": "MSG_RECOMMEND_SUPPORT_DECK",
     "value": "Available Characters not in your Main Group will be allocated to give you the highest possible Support Bonus. Continue?"
   },
@@ -2594,6 +2650,10 @@
   {
     "wordingKey": "MSG_SERCH_MATCHING_OPPONENT",
     "value": "Matchmaking..."
+  },
+  {
+    "wordingKey": "MSG_SERIAL_CODE_STAMP_RALLY_COSTUME_GET",
+    "value": "Obtained Costume."
   },
   {
     "wordingKey": "MSG_SETTABLE_FROM_OPTION",
@@ -2790,6 +2850,10 @@
   {
     "wordingKey": "MSG_STRAGE_ERROR",
     "value": "Insufficient free space available on your device.\nUnable to download data.\nReturning to title screen."
+  },
+  {
+    "wordingKey": "MSG_STREAMINGLIVE_AFTEREVENT_NOTICE",
+    "value": "アフターイベントでは移動はできません"
   },
   {
     "wordingKey": "MSG_STREAMING_LIVE_HOME_REWARD_DIALOG_BODY",
@@ -3016,6 +3080,14 @@
     "value": "In order to use the screenshot function, please allow this app to access your media files."
   },
   {
+    "wordingKey": "MSG_VIRTUAL_LIVE_SHOP_DUPLICATE_CONFIRM",
+    "value": "Do you wish to proceed?"
+  },
+  {
+    "wordingKey": "MSG_VIRTUAL_LIVE_SHOP_DUPLICATE_WARNING",
+    "value": "You have selected a bundle containing the following items \nthat you already own. \nYou will not obtain these again if you purchase the bundle."
+  },
+  {
     "wordingKey": "MSG_VIRTUAL_LIVE_TO_BE_HELD_SOON",
     "value": "Virtual Show Begins Soon!"
   },
@@ -3089,7 +3161,7 @@
   },
   {
     "wordingKey": "MSG_WARN_ENTER_STREAMING_LIVE_WITH_TICKET_DIALOG",
-    "value": "※公演チケットを利用して入場すると、\n本公演のみ自由に再入場できます。\n\n※お試し入場の場合、観覧はライブの序盤までになります。"
+    "value": "※公演チケットを利用して入場すると、\nこの公演に限り、自由に再入場できます。\n\n※お試し入場の場合、観覧はライブの序盤までになります。"
   },
   {
     "wordingKey": "MSG_WEARABLE_MEMBER_1",
@@ -3392,6 +3464,10 @@
     "value": "Actions"
   },
   {
+    "wordingKey": "WORD_ACTION_SET_RELEASE_FORMAT",
+    "value": "{0} Area Conversations unlocked."
+  },
+  {
     "wordingKey": "WORD_ADD",
     "value": "Confirm"
   },
@@ -3466,6 +3542,10 @@
   {
     "wordingKey": "WORD_AD_REWARD_PRIVACY_POLICY_LINK_TITLE",
     "value": "Ad Reward"
+  },
+  {
+    "wordingKey": "WORD_AFTER_EVENT",
+    "value": "アフターイベント"
   },
   {
     "wordingKey": "WORD_AFTER_LIVE",
@@ -4065,7 +4145,7 @@
   },
   {
     "wordingKey": "WORD_CARD_RELEASE_CONDITION_FORMAT",
-    "value": "Obtained {0} {1}"
+    "value": "Obtain \"{0}\" {1}"
   },
   {
     "wordingKey": "WORD_CARD_SORT",
@@ -4692,6 +4772,27 @@
     "value": "Use"
   },
   {
+    "wordingKey": "WORD_CONTACT_MAILER_LAUNCH_ERROR_MESSAGE",
+    "value": "メールの起動に失敗したため、\nお問い合わせメールを作成できませんでした。"
+  },
+  {
+    "wordingKey": "WORD_CONTACT_MAILER_LAUNCH_ERROR_TITLE"
+  },
+  {
+    "wordingKey": "WORD_CONTACT_PERMISSION_DENIED_DIALOG_MESSAGE",
+    "value": "ログファイルの保存先へのアクセス権限がないため、\nログファイルを添付せずにお問い合わせメールを作成します。\n\n<color=#ff5588>※アクセス権限は端末の設定画面より変更できます。<\/color>"
+  },
+  {
+    "wordingKey": "WORD_CONTACT_PERMISSION_DENIED_DIALOG_TITLE"
+  },
+  {
+    "wordingKey": "WORD_CONTACT_PERMISSION_REQUEST_DIALOG_MESSAGE",
+    "value": "ログファイルの保存先へのアクセス権限がありません。\n端末の設定画面を開き、アクセスを許可してください。"
+  },
+  {
+    "wordingKey": "WORD_CONTACT_PERMISSION_REQUEST_DIALOG_TITLE"
+  },
+  {
     "wordingKey": "WORD_CONTAINS_SPOILER_RADIO_BUTTON",
     "value": "Contains spoilers"
   },
@@ -5002,6 +5103,14 @@
   {
     "wordingKey": "WORD_DEFAULT_USER_NAME",
     "value": "SEKAI Player"
+  },
+  {
+    "wordingKey": "WORD_DELAY_OPTION_TIME_TITLE",
+    "value": "判定ラインの位置"
+  },
+  {
+    "wordingKey": "WORD_DELAY_TIME_DESCRIPTION",
+    "value": "ノーツの速さによって、判定ラインの位置は変化します。"
   },
   {
     "wordingKey": "WORD_DELETE",
@@ -5596,6 +5705,30 @@
     "value": "Filter"
   },
   {
+    "wordingKey": "WORD_FILTER_CARD_NORMAL",
+    "value": "General"
+  },
+  {
+    "wordingKey": "WORD_FILTER_CARD_SUPPLY_TYPE",
+    "value": "Category"
+  },
+  {
+    "wordingKey": "WORD_FILTER_COLORFUL_FESTIVAL_LIMITED",
+    "value": "Colorful Festival Exclusive"
+  },
+  {
+    "wordingKey": "WORD_FILTER_COSTUME_BODY_HEAD",
+    "value": "Has Costume"
+  },
+  {
+    "wordingKey": "WORD_FILTER_COSTUME_HAIR",
+    "value": "Has Hairstyle"
+  },
+  {
+    "wordingKey": "WORD_FILTER_PERIOD_LIMITED",
+    "value": "Limited Time"
+  },
+  {
     "wordingKey": "WORD_FILTER_SKILL_SCORE",
     "value": "Score Boost"
   },
@@ -5836,6 +5969,10 @@
     "value": "Gacha"
   },
   {
+    "wordingKey": "WORD_GACHA_BONUS",
+    "value": "Gacha Bonus"
+  },
+  {
     "wordingKey": "WORD_GACHA_CATEGORY_ACQUISITION_FILTER_CAPTION",
     "value": "Owned"
   },
@@ -5926,6 +6063,10 @@
   {
     "wordingKey": "WORD_GET",
     "value": "GET"
+  },
+  {
+    "wordingKey": "WORD_GET_BONUS_ITEM",
+    "value": "Wish Pieces"
   },
   {
     "wordingKey": "WORD_GET_CEIL_ITEM",
@@ -6186,6 +6327,10 @@
   {
     "wordingKey": "WORD_GROWTH",
     "value": "Training"
+  },
+  {
+    "wordingKey": "WORD_GUIDE_ALPHA",
+    "value": "Guideline Transparency"
   },
   {
     "wordingKey": "WORD_HAIR",
@@ -6644,6 +6789,10 @@
     "value": "Show Calibration"
   },
   {
+    "wordingKey": "WORD_LIVE_ASSIST_SETTING",
+    "value": "Helpful Settings"
+  },
+  {
     "wordingKey": "WORD_LIVE_BONUS_PRESENT",
     "value": "Give Bonus Energy?"
   },
@@ -6924,6 +7073,10 @@
     "value": "Main\nGroup"
   },
   {
+    "wordingKey": "WORD_MAIN_PERFORMANCE",
+    "value": "本公演"
+  },
+  {
     "wordingKey": "WORD_MAIN_STORY",
     "value": "Main Story"
   },
@@ -7114,6 +7267,10 @@
   {
     "wordingKey": "WORD_MIGRATION_NL",
     "value": "Account Transfer"
+  },
+  {
+    "wordingKey": "WORD_MILD",
+    "value": "Simple"
   },
   {
     "wordingKey": "WORD_MINI_CHARACTER",
@@ -8168,6 +8325,14 @@
     "value": "Preview"
   },
   {
+    "wordingKey": "WORD_PREVIEW_NOTE_SHOW_TIME_FORMAT",
+    "value": "{0:0.000}秒"
+  },
+  {
+    "wordingKey": "WORD_PREVIEW_NOTE_SHOW_TIME_TEXT",
+    "value": "表示から判定までの時間"
+  },
+  {
     "wordingKey": "WORD_PRE_DOWNLOAD",
     "value": "Pre-Download"
   },
@@ -8392,6 +8557,14 @@
     "value": "Claimed the following items."
   },
   {
+    "wordingKey": "WORD_RECOLLECTION_BONUS_PROVISION_RATE_TAB",
+    "value": "Level {0}"
+  },
+  {
+    "wordingKey": "WORD_RECOLLECTION_CONFIRM_CARD_NAME_FORMAT",
+    "value": "\"{0}\"\n{1}"
+  },
+  {
     "wordingKey": "WORD_RECOMMEND",
     "value": "Auto"
   },
@@ -8566,6 +8739,14 @@
   {
     "wordingKey": "WORD_RESULT_NEW_RECORD",
     "value": "NEW RECORD!"
+  },
+  {
+    "wordingKey": "WORD_RESULT_VOICE_ALL_PERFECT_RELEASE_CONDITION_FORMAT",
+    "value": "Achieve an All Perfect with {0} in your group."
+  },
+  {
+    "wordingKey": "WORD_RESULT_VOICE_FULL_COMBO_RELEASE_CONDITION_FORMAT",
+    "value": "Achieve a Full Combo with {0} in your group."
   },
   {
     "wordingKey": "WORD_RESULT_VOICE_OVER_RANK_C_RELEASE_CONDITION_FORMAT",
@@ -8976,8 +9157,12 @@
     "value": "Get a total of {0} Show Points"
   },
   {
+    "wordingKey": "WORD_SHOW_NOTE_LINE",
+    "value": "Note Start Point"
+  },
+  {
     "wordingKey": "WORD_SHOW_PREVIEW_SETTING",
-    "value": "Calibrate With Preview"
+    "value": "Preview (Advanced)"
   },
   {
     "wordingKey": "WORD_SIDE_STORY_CARD_TITLE",
@@ -9404,6 +9589,10 @@
     "value": "Tap"
   },
   {
+    "wordingKey": "WORD_TAP_EFFECT",
+    "value": "Tap Effect"
+  },
+  {
     "wordingKey": "WORD_TEMPLATE_LAYOUT",
     "value": "Template"
   },
@@ -9434,6 +9623,10 @@
   {
     "wordingKey": "WORD_THREE_POINT_LEADER",
     "value": "…"
+  },
+  {
+    "wordingKey": "WORD_THUMBNAIL_COUNT_FORMAT",
+    "value": "×{0}"
   },
   {
     "wordingKey": "WORD_TICKET_EXCHANGE_SHOP",
@@ -9780,6 +9973,10 @@
     "value": "Venue opens in"
   },
   {
+    "wordingKey": "WORD_USE",
+    "value": "Use"
+  },
+  {
     "wordingKey": "WORD_USE_COUNT",
     "value": "Uses"
   },
@@ -9834,6 +10031,14 @@
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_CAST",
     "value": "Performers"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_LIVE_CAST_AFTER_EVENT",
+    "value": "アフターイベント出演"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_LIVE_CAST_MAIN_PERFORMANCE",
+    "value": "本公演出演"
   },
   {
     "wordingKey": "WORD_VIRTUAL_LIVE_DATETIME",

@@ -5792,5 +5792,40 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 264,
+    "seq": 264,
+    "name": "第129回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 441,
+        "virtualShopId": 264,
+        "virtualShopItemType": "accessory",
+        "seq": 99880,
+        "resourceBoxId": 337,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1746050400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 265,
+    "seq": 265,
+    "name": "Saki's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 442,
+        "virtualShopId": 265,
+        "virtualShopItemType": "coordinate",
+        "seq": 99830,
+        "resourceBoxId": 338,
+        "costPaidJewel": 1000,
+        "startAt": 1746655200000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

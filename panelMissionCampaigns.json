@@ -7698,5 +7698,2664 @@
         ]
       }
     ]
+  },
+  {
+    "id": 7,
+    "name": "COLORFUL STAGE! The Movie Release Stamp Missions",
+    "assetbundleName": "cinema_2025_pm",
+    "bgmAssetbundleName": "cinema_2025_pm_bgm",
+    "selectableLimit": 6,
+    "startAt": 1746558000000,
+    "progressEndAt": 1748717999000,
+    "closedAt": 1749927599000,
+    "informationId": 2482,
+    "panelMissionSheetGroups": [
+      {
+        "id": 701,
+        "panelMissionCampaignId": 7,
+        "name": "VIRTUAL SINGER",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 70101,
+            "panelMissionSheetGroupId": 701,
+            "name": "VIRTUAL SINGER Casual Card",
+            "seq": 1,
+            "assetbundleName": "sheet_piapro_casual",
+            "panelMissions": [
+              {
+                "id": 7010101,
+                "panelMissionSheetId": 70101,
+                "name": "Use 50 Bonus Energy",
+                "description": "Use 50 Bonus Energy.",
+                "seq": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 11843,
+                    "missionType": "panel_mission",
+                    "missionId": 7010101,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010102,
+                "panelMissionSheetId": 70101,
+                "name": "5 Clears With Group Members",
+                "description": "Clear 5 shows with only VIRTUAL SINGER Characters.",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11844,
+                    "missionType": "panel_mission",
+                    "missionId": 7010102,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010103,
+                "panelMissionSheetId": 70101,
+                "name": "5 Shows With Group Songs",
+                "description": "Play 5 shows with songs from the VIRTUAL SINGER tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11845,
+                    "missionType": "panel_mission",
+                    "missionId": 7010103,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010104,
+                "panelMissionSheetId": 70101,
+                "name": "5 Clears With Group Member Covers",
+                "description": "Clear 5 shows with Cover songs including vocals by VIRTUAL SINGER characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11846,
+                    "missionType": "panel_mission",
+                    "missionId": 7010104,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010105,
+                "panelMissionSheetId": 70101,
+                "name": "1 Virtual Show Dressed as a Fan",
+                "description": "Participate in a Virtual Show wearing a VIRTUAL SINGER Happi Coat or a t-shirt of a VIRTUAL SINGER.",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 11847,
+                    "missionType": "panel_mission",
+                    "missionId": 7010105,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010106,
+                "panelMissionSheetId": 70101,
+                "name": "3 Clears With 2 Players Using Fan Titles",
+                "description": "Clear 3 Co-op Shows with at least 2 participants using VIRTUAL SINGER fan Titles.",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11848,
+                    "missionType": "panel_mission",
+                    "missionId": 7010106,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010107,
+                "panelMissionSheetId": 70101,
+                "name": "3M Score on I'm Mine",
+                "description": "Clear the song I'm Mine in a Co-op Show with a total score of at least 3,000,000.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 3000000,
+                "rewards": [
+                  {
+                    "id": 11849,
+                    "missionType": "panel_mission",
+                    "missionId": 7010107,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11850,
+                "missionType": "panel_mission_complete",
+                "missionId": 70101,
+                "seq": 1,
+                "resourceBoxId": 1688
+              }
+            ]
+          },
+          {
+            "id": 70102,
+            "panelMissionSheetGroupId": 701,
+            "name": "VIRTUAL SINGER Normal Card",
+            "seq": 2,
+            "assetbundleName": "sheet_piapro_regular",
+            "panelMissions": [
+              {
+                "id": 7010201,
+                "panelMissionSheetId": 70102,
+                "name": "Use 100 Bonus Energy",
+                "description": "Use 100 Bonus Energy.",
+                "seq": 1,
+                "panelMissionType": "consume_boost_count",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 11851,
+                    "missionType": "panel_mission",
+                    "missionId": 7010201,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010202,
+                "panelMissionSheetId": 70102,
+                "name": "10 Clears With Group Members",
+                "description": "Clear 10 shows with only VIRTUAL SINGER Characters.",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11852,
+                    "missionType": "panel_mission",
+                    "missionId": 7010202,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010203,
+                "panelMissionSheetId": 70102,
+                "name": "10 Shows With Group Songs",
+                "description": "Play 10 shows with songs from the VIRTUAL SINGER tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11853,
+                    "missionType": "panel_mission",
+                    "missionId": 7010203,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010204,
+                "panelMissionSheetId": 70102,
+                "name": "10 Clears With Group Member Covers",
+                "description": "Clear 10 shows with Cover songs including vocals by VIRTUAL SINGER characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11854,
+                    "missionType": "panel_mission",
+                    "missionId": 7010204,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010205,
+                "panelMissionSheetId": 70102,
+                "name": "3 Virtual Shows Dressed as a Fan",
+                "description": "Participate in 3 Virtual Shows wearing a VIRTUAL SINGER Happi Coat or a t-shirt of a VIRTUAL SINGER.",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11855,
+                    "missionType": "panel_mission",
+                    "missionId": 7010205,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010206,
+                "panelMissionSheetId": 70102,
+                "name": "5 Clears With 2 Players Using Fan Titles",
+                "description": "Clear 5 Co-op Shows with at least 2 participants using VIRTUAL SINGER fan Titles.",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11856,
+                    "missionType": "panel_mission",
+                    "missionId": 7010206,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010207,
+                "panelMissionSheetId": 70102,
+                "name": "5M Score on I'm Mine",
+                "description": "Clear the song I'm Mine in a Co-op Show with a total score of at least 5,000,000.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  {
+                    "id": 11857,
+                    "missionType": "panel_mission",
+                    "missionId": 7010207,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11858,
+                "missionType": "panel_mission_complete",
+                "missionId": 70102,
+                "seq": 1,
+                "resourceBoxId": 1689
+              }
+            ]
+          },
+          {
+            "id": 70103,
+            "panelMissionSheetGroupId": 701,
+            "name": "VIRTUAL SINGER Bold Card",
+            "seq": 3,
+            "assetbundleName": "sheet_piapro_unlimited",
+            "panelMissions": [
+              {
+                "id": 7010301,
+                "panelMissionSheetId": 70103,
+                "name": "30 Clears With Group Members",
+                "description": "Clear 30 shows with only VIRTUAL SINGER Characters.",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11859,
+                    "missionType": "panel_mission",
+                    "missionId": 7010301,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010302,
+                "panelMissionSheetId": 70103,
+                "name": "30 Shows With Group Songs",
+                "description": "Play 30 shows with songs from the VIRTUAL SINGER tab of Song Select.",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11860,
+                    "missionType": "panel_mission",
+                    "missionId": 7010302,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010303,
+                "panelMissionSheetId": 70103,
+                "name": "30 Clears With Group Member Covers",
+                "description": "Clear 30 shows with Cover songs including vocals by VIRTUAL SINGER characters.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11861,
+                    "missionType": "panel_mission",
+                    "missionId": 7010303,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010304,
+                "panelMissionSheetId": 70103,
+                "name": "5 Virtual Shows Dressed as a Fan",
+                "description": "Participate in 5 Virtual Shows wearing a VIRTUAL SINGER Happi Coat or a t-shirt of a VIRTUAL SINGER.",
+                "seq": 4,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11862,
+                    "missionType": "panel_mission",
+                    "missionId": 7010304,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010305,
+                "panelMissionSheetId": 70103,
+                "name": "10 Shows With 2 Players Using Fan Titles",
+                "description": "Clear 10 Co-op Shows with at least 2 participants using VIRTUAL SINGER fan Titles.",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11863,
+                    "missionType": "panel_mission",
+                    "missionId": 7010305,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010306,
+                "panelMissionSheetId": 70103,
+                "name": "8M Score on I'm Mine",
+                "description": "Clear the song I'm Mine in a Co-op Show with a total score of at least 8,000,000.",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 8000000,
+                "rewards": [
+                  {
+                    "id": 11864,
+                    "missionType": "panel_mission",
+                    "missionId": 7010306,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              },
+              {
+                "id": 7010307,
+                "panelMissionSheetId": 70103,
+                "name": "50 Recollection Gacha Pulls",
+                "description": "Pull from Recollection Gacha 50 times.",
+                "seq": 7,
+                "panelMissionType": "spin_gacha_group",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 11865,
+                    "missionType": "panel_mission",
+                    "missionId": 7010307,
+                    "seq": 1,
+                    "resourceBoxId": 1687
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11866,
+                "missionType": "panel_mission_complete",
+                "missionId": 70103,
+                "seq": 1,
+                "resourceBoxId": 1690
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 702,
+        "panelMissionCampaignId": 7,
+        "name": "Leo\/need",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 70201,
+            "panelMissionSheetGroupId": 702,
+            "name": "Leo\/need Casual Card",
+            "seq": 1,
+            "assetbundleName": "sheet_lightsound_casual",
+            "panelMissions": [
+              {
+                "id": 7020101,
+                "panelMissionSheetId": 70201,
+                "name": "Achieve 3 Super Fevers",
+                "description": "Achieve a Super Fever 3 times in Co-op Shows.",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11867,
+                    "missionType": "panel_mission",
+                    "missionId": 7020101,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020102,
+                "panelMissionSheetId": 70201,
+                "name": "5 Clears With Group Members",
+                "description": "Clear 5 shows with only Leo\/need Characters (including Characters with Leo\/need as their subgroup).",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11868,
+                    "missionType": "panel_mission",
+                    "missionId": 7020102,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020103,
+                "panelMissionSheetId": 70201,
+                "name": "5 Shows With Group Songs",
+                "description": "Play 5 shows with songs from the Leo\/need tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11869,
+                    "missionType": "panel_mission",
+                    "missionId": 7020103,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020104,
+                "panelMissionSheetId": 70201,
+                "name": "5 Clears With Group Member Covers",
+                "description": "Clear 5 shows with Cover songs including vocals by Leo\/need characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11870,
+                    "missionType": "panel_mission",
+                    "missionId": 7020104,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020105,
+                "panelMissionSheetId": 70201,
+                "name": "1 Virtual Show Dressed as a Fan",
+                "description": "Participate in a Virtual Show wearing a Leo\/need Happi Coat or a t-shirt of one of its members.",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 11871,
+                    "missionType": "panel_mission",
+                    "missionId": 7020105,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020106,
+                "panelMissionSheetId": 70201,
+                "name": "3 Clears With 2 Players Using Fan Titles",
+                "description": "Clear 3 Co-op Shows with at least 2 participants using Leo\/need fan Titles.",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11872,
+                    "missionType": "panel_mission",
+                    "missionId": 7020106,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020107,
+                "panelMissionSheetId": 70201,
+                "name": "3M Score on Integral",
+                "description": "Clear the song Integral in a Co-op Show with a total score of at least 3,000,000.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 3000000,
+                "rewards": [
+                  {
+                    "id": 11873,
+                    "missionType": "panel_mission",
+                    "missionId": 7020107,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11874,
+                "missionType": "panel_mission_complete",
+                "missionId": 70201,
+                "seq": 1,
+                "resourceBoxId": 1692
+              }
+            ]
+          },
+          {
+            "id": 70202,
+            "panelMissionSheetGroupId": 702,
+            "name": "Leo\/need Normal Card",
+            "seq": 2,
+            "assetbundleName": "sheet_lightsound_regular",
+            "panelMissions": [
+              {
+                "id": 7020201,
+                "panelMissionSheetId": 70202,
+                "name": "Achieve 5 Super Fevers",
+                "description": "Achieve a Super Fever 5 times in Co-op Shows.",
+                "seq": 1,
+                "panelMissionType": "multi_live_clear_super_fever",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11875,
+                    "missionType": "panel_mission",
+                    "missionId": 7020201,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020202,
+                "panelMissionSheetId": 70202,
+                "name": "10 Clears With Group Members",
+                "description": "Clear 10 shows with only Leo\/need Characters (including Characters with Leo\/need as their subgroup).",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11876,
+                    "missionType": "panel_mission",
+                    "missionId": 7020202,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020203,
+                "panelMissionSheetId": 70202,
+                "name": "10 Shows With Group Songs",
+                "description": "Play 10 shows with songs from the Leo\/need tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11877,
+                    "missionType": "panel_mission",
+                    "missionId": 7020203,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020204,
+                "panelMissionSheetId": 70202,
+                "name": "10 Clears With Group Member Covers",
+                "description": "Clear 10 shows with Cover songs including vocals by Leo\/need characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11878,
+                    "missionType": "panel_mission",
+                    "missionId": 7020204,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020205,
+                "panelMissionSheetId": 70202,
+                "name": "3 Virtual Shows Dressed as a Fan",
+                "description": "Participate in 3 Virtual Shows wearing a Leo\/need Happi Coat or a t-shirt of one of its members.",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11879,
+                    "missionType": "panel_mission",
+                    "missionId": 7020205,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020206,
+                "panelMissionSheetId": 70202,
+                "name": "5 Clears With 2 Players Using Fan Titles",
+                "description": "Clear 5 Co-op Shows with at least 2 participants using Leo\/need fan Titles.",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11880,
+                    "missionType": "panel_mission",
+                    "missionId": 7020206,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020207,
+                "panelMissionSheetId": 70202,
+                "name": "5M Score on Integral",
+                "description": "Clear the song Integral in a Co-op Show with a total score of at least 5,000,000.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  {
+                    "id": 11881,
+                    "missionType": "panel_mission",
+                    "missionId": 7020207,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11882,
+                "missionType": "panel_mission_complete",
+                "missionId": 70202,
+                "seq": 1,
+                "resourceBoxId": 1693
+              }
+            ]
+          },
+          {
+            "id": 70203,
+            "panelMissionSheetGroupId": 702,
+            "name": "Leo\/need Bold Card",
+            "seq": 3,
+            "assetbundleName": "sheet_lightsound_unlimited",
+            "panelMissions": [
+              {
+                "id": 7020301,
+                "panelMissionSheetId": 70203,
+                "name": "30 Clears With Group Members",
+                "description": "Clear 30 shows with only Leo\/need Characters (including Characters with Leo\/need as their subgroup).",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11883,
+                    "missionType": "panel_mission",
+                    "missionId": 7020301,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020302,
+                "panelMissionSheetId": 70203,
+                "name": "30 Shows With Group Songs",
+                "description": "Play 30 shows with songs from the Leo\/need tab of Song Select.",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11884,
+                    "missionType": "panel_mission",
+                    "missionId": 7020302,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020303,
+                "panelMissionSheetId": 70203,
+                "name": "30 Clears With Group Member Covers",
+                "description": "Clear 30 shows with Cover songs including vocals by Leo\/need characters.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11885,
+                    "missionType": "panel_mission",
+                    "missionId": 7020303,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020304,
+                "panelMissionSheetId": 70203,
+                "name": "5 Virtual Shows Dressed as a Fan",
+                "description": "Participate in 5 Virtual Shows wearing a Leo\/need Happi Coat or a t-shirt of one of its members.",
+                "seq": 4,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11886,
+                    "missionType": "panel_mission",
+                    "missionId": 7020304,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020305,
+                "panelMissionSheetId": 70203,
+                "name": "10 Shows With 2 Players Using Fan Titles",
+                "description": "Clear 10 Co-op Shows with at least 2 participants using Leo\/need fan Titles.",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11887,
+                    "missionType": "panel_mission",
+                    "missionId": 7020305,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020306,
+                "panelMissionSheetId": 70203,
+                "name": "8M Score on Integral",
+                "description": "Clear the song Integral in a Co-op Show with a total score of at least 8,000,000.",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 8000000,
+                "rewards": [
+                  {
+                    "id": 11888,
+                    "missionType": "panel_mission",
+                    "missionId": 7020306,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              },
+              {
+                "id": 7020307,
+                "panelMissionSheetId": 70203,
+                "name": "50 Recollection Gacha Pulls",
+                "description": "Pull from the Leo\/need Recollection Gacha 50 times.",
+                "seq": 7,
+                "panelMissionType": "spin_gacha_group",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 11889,
+                    "missionType": "panel_mission",
+                    "missionId": 7020307,
+                    "seq": 1,
+                    "resourceBoxId": 1691
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11890,
+                "missionType": "panel_mission_complete",
+                "missionId": 70203,
+                "seq": 1,
+                "resourceBoxId": 1694
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 703,
+        "panelMissionCampaignId": 7,
+        "name": "MORE MORE JUMP!",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 70301,
+            "panelMissionSheetGroupId": 703,
+            "name": "MORE MORE JUMP! Casual Card",
+            "seq": 1,
+            "assetbundleName": "sheet_idol_casual",
+            "panelMissions": [
+              {
+                "id": 7030101,
+                "panelMissionSheetId": 70301,
+                "name": "Watch 5 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 5 times.",
+                "seq": 1,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11891,
+                    "missionType": "panel_mission",
+                    "missionId": 7030101,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030102,
+                "panelMissionSheetId": 70301,
+                "name": "5 Clears With Group Members",
+                "description": "Clear 5 shows with only MORE MORE JUMP! Characters (including Characters with MORE MORE JUMP! as their subgroup).",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11892,
+                    "missionType": "panel_mission",
+                    "missionId": 7030102,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030103,
+                "panelMissionSheetId": 70301,
+                "name": "5 Shows With Group Songs",
+                "description": "Play 5 shows with songs from the MORE MORE JUMP! tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11893,
+                    "missionType": "panel_mission",
+                    "missionId": 7030103,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030104,
+                "panelMissionSheetId": 70301,
+                "name": "5 Clears With Group Member Covers",
+                "description": "Clear 5 shows with Cover songs including vocals by MORE MORE JUMP! characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11894,
+                    "missionType": "panel_mission",
+                    "missionId": 7030104,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030105,
+                "panelMissionSheetId": 70301,
+                "name": "1 Virtual Show Dressed as a Fan",
+                "description": "Participate in a Virtual Show wearing a MORE MORE JUMP! Happi Coat or a t-shirt of one of its members.",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 11895,
+                    "missionType": "panel_mission",
+                    "missionId": 7030105,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030106,
+                "panelMissionSheetId": 70301,
+                "name": "3 Clears With 2 Players Using Fan Titles",
+                "description": "Clear 3 Co-op Shows with at least 2 participants using MORE MORE JUMP! fan Titles.",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11896,
+                    "missionType": "panel_mission",
+                    "missionId": 7030106,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030107,
+                "panelMissionSheetId": 70301,
+                "name": "3M Score on MOTTO!!!",
+                "description": "Clear the song MOTTO!!! in a Co-op Show with a total score of at least 3,000,000.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 3000000,
+                "rewards": [
+                  {
+                    "id": 11897,
+                    "missionType": "panel_mission",
+                    "missionId": 7030107,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11898,
+                "missionType": "panel_mission_complete",
+                "missionId": 70301,
+                "seq": 1,
+                "resourceBoxId": 1696
+              }
+            ]
+          },
+          {
+            "id": 70302,
+            "panelMissionSheetGroupId": 703,
+            "name": "MORE MORE JUMP! Normal Card",
+            "seq": 2,
+            "assetbundleName": "sheet_idol_regular",
+            "panelMissions": [
+              {
+                "id": 7030201,
+                "panelMissionSheetId": 70302,
+                "name": "Watch 10 Music Videos",
+                "description": "Watch a video in the Music Video Viewer 10 times.",
+                "seq": 1,
+                "panelMissionType": "replay_any_mv",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11899,
+                    "missionType": "panel_mission",
+                    "missionId": 7030201,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030202,
+                "panelMissionSheetId": 70302,
+                "name": "10 Clears With Group Members",
+                "description": "Clear 10 shows with only MORE MORE JUMP! Characters (including Characters with MORE MORE JUMP! as their subgroup).",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11900,
+                    "missionType": "panel_mission",
+                    "missionId": 7030202,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030203,
+                "panelMissionSheetId": 70302,
+                "name": "10 Shows With Group Songs",
+                "description": "Play 10 shows with songs from the MORE MORE JUMP! tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11901,
+                    "missionType": "panel_mission",
+                    "missionId": 7030203,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030204,
+                "panelMissionSheetId": 70302,
+                "name": "10 Clears With Group Member Covers",
+                "description": "Clear 10 shows with Cover songs including vocals by MORE MORE JUMP! characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11902,
+                    "missionType": "panel_mission",
+                    "missionId": 7030204,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030205,
+                "panelMissionSheetId": 70302,
+                "name": "3 Virtual Shows Dressed as a Fan",
+                "description": "Participate in 3 Virtual Shows wearing a MORE MORE JUMP! Happi Coat or a t-shirt of one of its members.",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11903,
+                    "missionType": "panel_mission",
+                    "missionId": 7030205,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030206,
+                "panelMissionSheetId": 70302,
+                "name": "5 Clears With 2 Players Using Fan Titles",
+                "description": "Clear 5 Co-op Shows with at least 2 participants using MORE MORE JUMP! fan Titles.",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11904,
+                    "missionType": "panel_mission",
+                    "missionId": 7030206,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030207,
+                "panelMissionSheetId": 70302,
+                "name": "5M Score on MOTTO!!!",
+                "description": "Clear the song MOTTO!!! in a Co-op Show with a total score of at least 5,000,000.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  {
+                    "id": 11905,
+                    "missionType": "panel_mission",
+                    "missionId": 7030207,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11906,
+                "missionType": "panel_mission_complete",
+                "missionId": 70302,
+                "seq": 1,
+                "resourceBoxId": 1697
+              }
+            ]
+          },
+          {
+            "id": 70303,
+            "panelMissionSheetGroupId": 703,
+            "name": "MORE MORE JUMP! Bold Card",
+            "seq": 3,
+            "assetbundleName": "sheet_idol_unlimited",
+            "panelMissions": [
+              {
+                "id": 7030301,
+                "panelMissionSheetId": 70303,
+                "name": "30 Clears With Group Members",
+                "description": "Clear 30 shows with only MORE MORE JUMP! Characters (including Characters with MORE MORE JUMP! as their subgroup).",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11907,
+                    "missionType": "panel_mission",
+                    "missionId": 7030301,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030302,
+                "panelMissionSheetId": 70303,
+                "name": "30 Shows With Group Songs",
+                "description": "Play 30 shows with songs from the MORE MORE JUMP! tab of Song Select.",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11908,
+                    "missionType": "panel_mission",
+                    "missionId": 7030302,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030303,
+                "panelMissionSheetId": 70303,
+                "name": "30 Clears With Group Member Covers",
+                "description": "Clear 30 shows with Cover songs including vocals by MORE MORE JUMP! characters.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11909,
+                    "missionType": "panel_mission",
+                    "missionId": 7030303,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030304,
+                "panelMissionSheetId": 70303,
+                "name": "5 Virtual Shows Dressed as a Fan",
+                "description": "Participate in 5 Virtual Shows wearing a MORE MORE JUMP! Happi Coat or a t-shirt of one of its members.",
+                "seq": 4,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11910,
+                    "missionType": "panel_mission",
+                    "missionId": 7030304,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030305,
+                "panelMissionSheetId": 70303,
+                "name": "Clear 10 shows with at least 2 players using group fan Titles",
+                "description": "Clear 10 Co-op Shows with at least 2 participants using MORE MORE JUMP! fan Titles.",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11911,
+                    "missionType": "panel_mission",
+                    "missionId": 7030305,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030306,
+                "panelMissionSheetId": 70303,
+                "name": "8M Score on MOTTO!!!",
+                "description": "Clear the song MOTTO!!! in a Co-op Show with a total score of at least 8,000,000.",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 8000000,
+                "rewards": [
+                  {
+                    "id": 11912,
+                    "missionType": "panel_mission",
+                    "missionId": 7030306,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              },
+              {
+                "id": 7030307,
+                "panelMissionSheetId": 70303,
+                "name": "50 Recollection Gacha Pulls",
+                "description": "Pull from the MORE MORE JUMP! Recollection Gacha 50 times.",
+                "seq": 7,
+                "panelMissionType": "spin_gacha_group",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 11913,
+                    "missionType": "panel_mission",
+                    "missionId": 7030307,
+                    "seq": 1,
+                    "resourceBoxId": 1695
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11914,
+                "missionType": "panel_mission_complete",
+                "missionId": 70303,
+                "seq": 1,
+                "resourceBoxId": 1698
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 704,
+        "panelMissionCampaignId": 7,
+        "name": "Vivid BAD SQUAD",
+        "selectableLimit": 1,
+        "seq": 4,
+        "panelMissionSheets": [
+          {
+            "id": 70401,
+            "panelMissionSheetGroupId": 704,
+            "name": "Vivid BAD SQUAD Casual Card",
+            "seq": 1,
+            "assetbundleName": "sheet_street_casual",
+            "panelMissions": [
+              {
+                "id": 7040101,
+                "panelMissionSheetId": 70401,
+                "name": "View 5 Story Episodes",
+                "description": "View 5 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 1,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11915,
+                    "missionType": "panel_mission",
+                    "missionId": 7040101,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040102,
+                "panelMissionSheetId": 70401,
+                "name": "5 Clears With Group Members",
+                "description": "Clear 5 shows with only Vivid BAD SQUAD Characters (including Characters with Vivid BAD SQUAD as their subgroup).",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11916,
+                    "missionType": "panel_mission",
+                    "missionId": 7040102,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040103,
+                "panelMissionSheetId": 70401,
+                "name": "5 Shows With Group Songs",
+                "description": "Play 5 shows with songs from the Vivid BAD SQUAD tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11917,
+                    "missionType": "panel_mission",
+                    "missionId": 7040103,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040104,
+                "panelMissionSheetId": 70401,
+                "name": "5 Clears With Group Member Covers",
+                "description": "Clear 5 shows with Cover songs including vocals by Vivid BAD SQUAD characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11918,
+                    "missionType": "panel_mission",
+                    "missionId": 7040104,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040105,
+                "panelMissionSheetId": 70401,
+                "name": "1 Virtual Show Dressed as a Fan",
+                "description": "Participate in a Virtual Show wearing a Vivid BAD SQUAD Happi Coat or a t-shirt of one of its members.",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 11919,
+                    "missionType": "panel_mission",
+                    "missionId": 7040105,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040106,
+                "panelMissionSheetId": 70401,
+                "name": "3 Clears With 2 Players Using Fan Titles",
+                "description": "Clear 3 Co-op Shows with at least 2 participants using Vivid BAD SQUAD fan Titles.",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11920,
+                    "missionType": "panel_mission",
+                    "missionId": 7040106,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040107,
+                "panelMissionSheetId": 70401,
+                "name": "3M Score on Beyond the way",
+                "description": "Clear the song Beyond the way in a Co-op Show with a total score of at least 3,000,000.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 3000000,
+                "rewards": [
+                  {
+                    "id": 11921,
+                    "missionType": "panel_mission",
+                    "missionId": 7040107,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11922,
+                "missionType": "panel_mission_complete",
+                "missionId": 70401,
+                "seq": 1,
+                "resourceBoxId": 1700
+              }
+            ]
+          },
+          {
+            "id": 70402,
+            "panelMissionSheetGroupId": 704,
+            "name": "Vivid BAD SQUAD Normal Card",
+            "seq": 2,
+            "assetbundleName": "sheet_street_regular",
+            "panelMissions": [
+              {
+                "id": 7040201,
+                "panelMissionSheetId": 70402,
+                "name": "View 10 Story Episodes",
+                "description": "View 10 Main\/Event\/Side Story episodes without skipping or fast forwarding.\n(Includes rewatching episodes.)",
+                "seq": 1,
+                "panelMissionType": "read_unit_or_event_or_card_story_episode",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11923,
+                    "missionType": "panel_mission",
+                    "missionId": 7040201,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040202,
+                "panelMissionSheetId": 70402,
+                "name": "10 Clears With Group Members",
+                "description": "Clear 10 shows with only Vivid BAD SQUAD Characters (including Characters with Vivid BAD SQUAD as their subgroup).",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11924,
+                    "missionType": "panel_mission",
+                    "missionId": 7040202,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040203,
+                "panelMissionSheetId": 70402,
+                "name": "10 Shows With Group Songs",
+                "description": "Play 10 shows with songs from the Vivid BAD SQUAD tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11925,
+                    "missionType": "panel_mission",
+                    "missionId": 7040203,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040204,
+                "panelMissionSheetId": 70402,
+                "name": "10 Clears With Group Member Covers",
+                "description": "Clear 10 shows with Cover songs including vocals by Vivid BAD SQUAD characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11926,
+                    "missionType": "panel_mission",
+                    "missionId": 7040204,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040205,
+                "panelMissionSheetId": 70402,
+                "name": "3 Virtual Shows Dressed as a Fan",
+                "description": "Participate in 3 Virtual Shows wearing a Vivid BAD SQUAD Happi Coat or a t-shirt of one of its members.",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11927,
+                    "missionType": "panel_mission",
+                    "missionId": 7040205,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040206,
+                "panelMissionSheetId": 70402,
+                "name": "5 Clears With 2 Players Using Fan Titles",
+                "description": "Clear 5 Co-op Shows with at least 2 participants using Vivid BAD SQUAD fan Titles.",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11928,
+                    "missionType": "panel_mission",
+                    "missionId": 7040206,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040207,
+                "panelMissionSheetId": 70402,
+                "name": "5M Score on Beyond the way",
+                "description": "Clear the song Beyond the way in a Co-op Show with a total score of at least 5,000,000.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  {
+                    "id": 11929,
+                    "missionType": "panel_mission",
+                    "missionId": 7040207,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11930,
+                "missionType": "panel_mission_complete",
+                "missionId": 70402,
+                "seq": 1,
+                "resourceBoxId": 1701
+              }
+            ]
+          },
+          {
+            "id": 70403,
+            "panelMissionSheetGroupId": 704,
+            "name": "Vivid BAD SQUAD Bold Card",
+            "seq": 3,
+            "assetbundleName": "sheet_street_unlimited",
+            "panelMissions": [
+              {
+                "id": 7040301,
+                "panelMissionSheetId": 70403,
+                "name": "30 Clears With Group Members",
+                "description": "Clear 30 shows with only Vivid BAD SQUAD Characters (including Characters with Vivid BAD SQUAD as their subgroup).",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11931,
+                    "missionType": "panel_mission",
+                    "missionId": 7040301,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040302,
+                "panelMissionSheetId": 70403,
+                "name": "30 Shows With Group Songs",
+                "description": "Play 30 shows with songs from the Vivid BAD SQUAD tab of Song Select.",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11932,
+                    "missionType": "panel_mission",
+                    "missionId": 7040302,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040303,
+                "panelMissionSheetId": 70403,
+                "name": "30 Clears With Group Member Covers",
+                "description": "Clear 30 shows with Cover songs including vocals by Vivid BAD SQUAD characters.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11933,
+                    "missionType": "panel_mission",
+                    "missionId": 7040303,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040304,
+                "panelMissionSheetId": 70403,
+                "name": "5 Virtual Shows Dressed as a Fan",
+                "description": "Participate in 5 Virtual Shows wearing a Vivid BAD SQUAD Happi Coat or a t-shirt of one of its members.",
+                "seq": 4,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11934,
+                    "missionType": "panel_mission",
+                    "missionId": 7040304,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040305,
+                "panelMissionSheetId": 70403,
+                "name": "10 Shows With 2 Players Using Fan Titles",
+                "description": "Clear 10 Co-op Shows with at least 2 participants using Vivid BAD SQUAD fan Titles.",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11935,
+                    "missionType": "panel_mission",
+                    "missionId": 7040305,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040306,
+                "panelMissionSheetId": 70403,
+                "name": "8M Score on Beyond the way",
+                "description": "Clear the song Beyond the way in a Co-op Show with a total score of at least 8,000,000.",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 8000000,
+                "rewards": [
+                  {
+                    "id": 11936,
+                    "missionType": "panel_mission",
+                    "missionId": 7040306,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              },
+              {
+                "id": 7040307,
+                "panelMissionSheetId": 70403,
+                "name": "50 Recollection Gacha Pulls",
+                "description": "Pull from the Vivid BAD SQUAD Recollection Gacha 50 times.",
+                "seq": 7,
+                "panelMissionType": "spin_gacha_group",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 11937,
+                    "missionType": "panel_mission",
+                    "missionId": 7040307,
+                    "seq": 1,
+                    "resourceBoxId": 1699
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11938,
+                "missionType": "panel_mission_complete",
+                "missionId": 70403,
+                "seq": 1,
+                "resourceBoxId": 1702
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 705,
+        "panelMissionCampaignId": 7,
+        "name": "Wonderlands\n×\nShowtime",
+        "selectableLimit": 1,
+        "seq": 5,
+        "panelMissionSheets": [
+          {
+            "id": 70501,
+            "panelMissionSheetGroupId": 705,
+            "name": "Wonderlands×Showtime Casual Card",
+            "seq": 1,
+            "assetbundleName": "sheet_themepark_casual",
+            "panelMissions": [
+              {
+                "id": 7050101,
+                "panelMissionSheetId": 70501,
+                "name": "Achieve 5k Perfects",
+                "description": "Achieve a total of 5,000 Perfect notes in shows.",
+                "seq": 1,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 5000,
+                "rewards": [
+                  {
+                    "id": 11939,
+                    "missionType": "panel_mission",
+                    "missionId": 7050101,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050102,
+                "panelMissionSheetId": 70501,
+                "name": "5 Clears With Group Members",
+                "description": "Clear 5 shows with only Wonderlands×Showtime Characters (including Characters with Wonderlands×Showtime as their subgroup).",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11940,
+                    "missionType": "panel_mission",
+                    "missionId": 7050102,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050103,
+                "panelMissionSheetId": 70501,
+                "name": "5 Shows With Group Songs",
+                "description": "Play 5 shows with songs from the Wonderlands×Showtime tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11941,
+                    "missionType": "panel_mission",
+                    "missionId": 7050103,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050104,
+                "panelMissionSheetId": 70501,
+                "name": "5 Clears With Group Member Covers",
+                "description": "Clear 5 shows with Cover songs including vocals by Wonderlands×Showtime characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11942,
+                    "missionType": "panel_mission",
+                    "missionId": 7050104,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050105,
+                "panelMissionSheetId": 70501,
+                "name": "1 Virtual Show Dressed as a Fan",
+                "description": "Participate in a Virtual Show wearing a Wonderlands×Showtime Happi Coat or a t-shirt of one of its members.",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 11943,
+                    "missionType": "panel_mission",
+                    "missionId": 7050105,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050106,
+                "panelMissionSheetId": 70501,
+                "name": "3 Clears With 2 Players Using Fan Titles",
+                "description": "Clear 3 Co-op Shows with at least 2 participants using Wonderlands×Showtime fan Titles.",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11944,
+                    "missionType": "panel_mission",
+                    "missionId": 7050106,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050107,
+                "panelMissionSheetId": 70501,
+                "name": "3M Score on Tonal Twinkle Tetrad",
+                "description": "Clear the song Tonal Twinkle Tetrad in a Co-op Show with a total score of at least 3,000,000.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 3000000,
+                "rewards": [
+                  {
+                    "id": 11945,
+                    "missionType": "panel_mission",
+                    "missionId": 7050107,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11946,
+                "missionType": "panel_mission_complete",
+                "missionId": 70501,
+                "seq": 1,
+                "resourceBoxId": 1704
+              }
+            ]
+          },
+          {
+            "id": 70502,
+            "panelMissionSheetGroupId": 705,
+            "name": "Wonderlands×Showtime Normal Card",
+            "seq": 2,
+            "assetbundleName": "sheet_themepark_regular",
+            "panelMissions": [
+              {
+                "id": 7050201,
+                "panelMissionSheetId": 70502,
+                "name": "Achieve 20k Perfects",
+                "description": "Achieve a total of 20,000 Perfect notes in shows.",
+                "seq": 1,
+                "panelMissionType": "get_live_perfect",
+                "requirement1": 20000,
+                "rewards": [
+                  {
+                    "id": 11947,
+                    "missionType": "panel_mission",
+                    "missionId": 7050201,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050202,
+                "panelMissionSheetId": 70502,
+                "name": "10 Clears With Group Members",
+                "description": "Clear 10 shows with only Wonderlands×Showtime Characters (including Characters with Wonderlands×Showtime as their subgroup).",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11948,
+                    "missionType": "panel_mission",
+                    "missionId": 7050202,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050203,
+                "panelMissionSheetId": 70502,
+                "name": "10 Shows With Group Songs",
+                "description": "Play 10 shows with songs from the Wonderlands×Showtime tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11949,
+                    "missionType": "panel_mission",
+                    "missionId": 7050203,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050204,
+                "panelMissionSheetId": 70502,
+                "name": "10 Clears With Group Member Covers",
+                "description": "Clear 10 shows with Cover songs including vocals by Wonderlands×Showtime characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11950,
+                    "missionType": "panel_mission",
+                    "missionId": 7050204,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050205,
+                "panelMissionSheetId": 70502,
+                "name": "3 Virtual Shows Dressed as a Fan",
+                "description": "Participate in 3 Virtual Shows wearing a Wonderlands×Showtime Happi Coat or a t-shirt of one of its members.",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11951,
+                    "missionType": "panel_mission",
+                    "missionId": 7050205,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050206,
+                "panelMissionSheetId": 70502,
+                "name": "5 Clears With 2 Players Using Fan Titles",
+                "description": "Clear 5 Co-op Shows with at least 2 participants using Wonderlands×Showtime fan Titles.",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11952,
+                    "missionType": "panel_mission",
+                    "missionId": 7050206,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050207,
+                "panelMissionSheetId": 70502,
+                "name": "5M Score on Tonal Twinkle Tetrad",
+                "description": "Clear the song Tonal Twinkle Tetrad in a Co-op Show with a total score of at least 5,000,000.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  {
+                    "id": 11953,
+                    "missionType": "panel_mission",
+                    "missionId": 7050207,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11954,
+                "missionType": "panel_mission_complete",
+                "missionId": 70502,
+                "seq": 1,
+                "resourceBoxId": 1705
+              }
+            ]
+          },
+          {
+            "id": 70503,
+            "panelMissionSheetGroupId": 705,
+            "name": "Wonderlands×Showtime Bold Card",
+            "seq": 3,
+            "assetbundleName": "sheet_themepark_unlimited",
+            "panelMissions": [
+              {
+                "id": 7050301,
+                "panelMissionSheetId": 70503,
+                "name": "30 Clears With Group Members",
+                "description": "Clear 30 shows with only Wonderlands×Showtime Characters (including Characters with Wonderlands×Showtime as their subgroup).",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11955,
+                    "missionType": "panel_mission",
+                    "missionId": 7050301,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050302,
+                "panelMissionSheetId": 70503,
+                "name": "30 Shows With Group Songs",
+                "description": "Play 30 shows with songs from the Wonderlands×Showtime tab of Song Select.",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11956,
+                    "missionType": "panel_mission",
+                    "missionId": 7050302,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050303,
+                "panelMissionSheetId": 70503,
+                "name": "30 Clears With Group Member Covers",
+                "description": "Clear 30 shows with Cover songs including vocals by Wonderlands×Showtime characters.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11957,
+                    "missionType": "panel_mission",
+                    "missionId": 7050303,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050304,
+                "panelMissionSheetId": 70503,
+                "name": "5 Virtual Shows Dressed as a Fan",
+                "description": "Participate in 5 Virtual Shows wearing a Wonderlands×Showtime Happi Coat or a t-shirt of one of its members.",
+                "seq": 4,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11958,
+                    "missionType": "panel_mission",
+                    "missionId": 7050304,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050305,
+                "panelMissionSheetId": 70503,
+                "name": "10 Shows With 2 Players Using Fan Titles",
+                "description": "Clear 10 Co-op Shows with at least 2 participants using Wonderlands×Showtime fan Titles.",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11959,
+                    "missionType": "panel_mission",
+                    "missionId": 7050305,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050306,
+                "panelMissionSheetId": 70503,
+                "name": "8M Score on Tonal Twinkle Tetrad",
+                "description": "Clear the song Tonal Twinkle Tetrad in a Co-op Show with a total score of at least 8,000,000.",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 8000000,
+                "rewards": [
+                  {
+                    "id": 11960,
+                    "missionType": "panel_mission",
+                    "missionId": 7050306,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              },
+              {
+                "id": 7050307,
+                "panelMissionSheetId": 70503,
+                "name": "50 Recollection Gacha Pulls",
+                "description": "Pull from the Wonderlands×Showtime Recollection Gacha 50 times.",
+                "seq": 7,
+                "panelMissionType": "spin_gacha_group",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 11961,
+                    "missionType": "panel_mission",
+                    "missionId": 7050307,
+                    "seq": 1,
+                    "resourceBoxId": 1703
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11962,
+                "missionType": "panel_mission_complete",
+                "missionId": 70503,
+                "seq": 1,
+                "resourceBoxId": 1706
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 706,
+        "panelMissionCampaignId": 7,
+        "name": "Nightcord at 25:00",
+        "selectableLimit": 1,
+        "seq": 6,
+        "panelMissionSheets": [
+          {
+            "id": 70601,
+            "panelMissionSheetGroupId": 706,
+            "name": "Nightcord at 25:00 Casual Card",
+            "seq": 1,
+            "assetbundleName": "sheet_schoolrefusal_casual",
+            "panelMissions": [
+              {
+                "id": 7060101,
+                "panelMissionSheetId": 70601,
+                "name": "100k Event Pts",
+                "description": "Earn 100,000 Event Points from shows.",
+                "seq": 1,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 100000,
+                "rewards": [
+                  {
+                    "id": 11963,
+                    "missionType": "panel_mission",
+                    "missionId": 7060101,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060102,
+                "panelMissionSheetId": 70601,
+                "name": "5 Clears With Group Members",
+                "description": "Clear 5 shows with only Nightcord at 25:00 Characters (including Characters with Nightcord at 25:00 as their subgroup).",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11964,
+                    "missionType": "panel_mission",
+                    "missionId": 7060102,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060103,
+                "panelMissionSheetId": 70601,
+                "name": "5 Shows With Group Songs",
+                "description": "Play 5 shows with songs from the Nightcord at 25:00 tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11965,
+                    "missionType": "panel_mission",
+                    "missionId": 7060103,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060104,
+                "panelMissionSheetId": 70601,
+                "name": "5 Clears With Group Member Covers",
+                "description": "Clear 5 shows with Cover songs including vocals by Nightcord at 25:00 characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11966,
+                    "missionType": "panel_mission",
+                    "missionId": 7060104,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060105,
+                "panelMissionSheetId": 70601,
+                "name": "1 Virtual Show Dressed as a Fan",
+                "description": "Participate in a Virtual Show wearing a Nightcord at 25:00 Happi Coat or a t-shirt of one of its members.",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 11967,
+                    "missionType": "panel_mission",
+                    "missionId": 7060105,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060106,
+                "panelMissionSheetId": 70601,
+                "name": "3 Clears With 2 Players Using Fan Titles",
+                "description": "Clear 3 Co-op Shows with at least 2 participants using Nightcord at 25:00 fan Titles.",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11968,
+                    "missionType": "panel_mission",
+                    "missionId": 7060106,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060107,
+                "panelMissionSheetId": 70601,
+                "name": "3M Score on Twilight Light",
+                "description": "Clear the song Twilight Light in a Co-op Show with a total score of at least 3,000,000.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 3000000,
+                "rewards": [
+                  {
+                    "id": 11969,
+                    "missionType": "panel_mission",
+                    "missionId": 7060107,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11970,
+                "missionType": "panel_mission_complete",
+                "missionId": 70601,
+                "seq": 1,
+                "resourceBoxId": 1708
+              }
+            ]
+          },
+          {
+            "id": 70602,
+            "panelMissionSheetGroupId": 706,
+            "name": "Nightcord at 25:00 Normal Card",
+            "seq": 2,
+            "assetbundleName": "sheet_schoolrefusal_regular",
+            "panelMissions": [
+              {
+                "id": 7060201,
+                "panelMissionSheetId": 70602,
+                "name": "300k Event Pts",
+                "description": "Earn 300,000 Event Points from shows.",
+                "seq": 1,
+                "panelMissionType": "collect_event_point",
+                "requirement1": 300000,
+                "rewards": [
+                  {
+                    "id": 11971,
+                    "missionType": "panel_mission",
+                    "missionId": 7060201,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060202,
+                "panelMissionSheetId": 70602,
+                "name": "10 Clears With Group Members",
+                "description": "Clear 10 shows with only Nightcord at 25:00 Characters (including Characters with Nightcord at 25:00 as their subgroup).",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11972,
+                    "missionType": "panel_mission",
+                    "missionId": 7060202,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060203,
+                "panelMissionSheetId": 70602,
+                "name": "10 Shows With Group Songs",
+                "description": "Play 10 shows with songs from the Nightcord at 25:00 tab of Song Select.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11973,
+                    "missionType": "panel_mission",
+                    "missionId": 7060203,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060204,
+                "panelMissionSheetId": 70602,
+                "name": "10 Clears With Group Member Covers",
+                "description": "Clear 10 shows with Cover songs including vocals by Nightcord at 25:00 characters.",
+                "seq": 4,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11974,
+                    "missionType": "panel_mission",
+                    "missionId": 7060204,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060205,
+                "panelMissionSheetId": 70602,
+                "name": "3 Virtual Shows Dressed as a Fan",
+                "description": "Participate in 3 Virtual Shows wearing a Nightcord at 25:00 Happi Coat or a t-shirt of one of its members.",
+                "seq": 5,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 11975,
+                    "missionType": "panel_mission",
+                    "missionId": 7060205,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060206,
+                "panelMissionSheetId": 70602,
+                "name": "5 Clears With 2 Players Using Fan Titles",
+                "description": "Clear 5 Co-op Shows with at least 2 participants using Nightcord at 25:00 fan Titles.",
+                "seq": 6,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11976,
+                    "missionType": "panel_mission",
+                    "missionId": 7060206,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060207,
+                "panelMissionSheetId": 70602,
+                "name": "5M Score on Twilight Light",
+                "description": "Clear the song Twilight Light in a Co-op Show with a total score of at least 5,000,000.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 5000000,
+                "rewards": [
+                  {
+                    "id": 11977,
+                    "missionType": "panel_mission",
+                    "missionId": 7060207,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11978,
+                "missionType": "panel_mission_complete",
+                "missionId": 70602,
+                "seq": 1,
+                "resourceBoxId": 1709
+              }
+            ]
+          },
+          {
+            "id": 70603,
+            "panelMissionSheetGroupId": 706,
+            "name": "Nightcord at 25:00 Bold Card",
+            "seq": 3,
+            "assetbundleName": "sheet_schoolrefusal_unlimited",
+            "panelMissions": [
+              {
+                "id": 7060301,
+                "panelMissionSheetId": 70603,
+                "name": "30 Clears With Group Members",
+                "description": "Clear 30 shows with only Nightcord at 25:00 Characters (including Characters with Nightcord at 25:00 as their subgroup).",
+                "seq": 1,
+                "panelMissionType": "unit_live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11979,
+                    "missionType": "panel_mission",
+                    "missionId": 7060301,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060302,
+                "panelMissionSheetId": 70603,
+                "name": "30 Shows With Group Songs",
+                "description": "Play 30 shows with songs from the Nightcord at 25:00 tab of Song Select.",
+                "seq": 2,
+                "panelMissionType": "unit_live_clear_music",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11980,
+                    "missionType": "panel_mission",
+                    "missionId": 7060302,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060303,
+                "panelMissionSheetId": 70603,
+                "name": "30 Clears With Group Member Covers",
+                "description": "Clear 30 shows with Cover songs including vocals by Nightcord at 25:00 characters.",
+                "seq": 3,
+                "panelMissionType": "unit_live_clear_another_vocal",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 11981,
+                    "missionType": "panel_mission",
+                    "missionId": 7060303,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060304,
+                "panelMissionSheetId": 70603,
+                "name": "5 Virtual Shows Dressed as a Fan",
+                "description": "Participate in 5 Virtual Shows wearing a Nightcord at 25:00 Happi Coat or a t-shirt of one of its members.",
+                "seq": 4,
+                "panelMissionType": "unit_avatar_join_virtual_live",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 11982,
+                    "missionType": "panel_mission",
+                    "missionId": 7060304,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060305,
+                "panelMissionSheetId": 70603,
+                "name": "10 Shows With 2 Players Using Fan Titles",
+                "description": "Clear 10 Co-op Shows with at least 2 participants using Nightcord at 25:00 fan Titles.",
+                "seq": 5,
+                "panelMissionType": "unit_multi_live_clear_honor",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 11983,
+                    "missionType": "panel_mission",
+                    "missionId": 7060305,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060306,
+                "panelMissionSheetId": 70603,
+                "name": "8M Score on Twilight Light",
+                "description": "Clear the song Twilight Light in a Co-op Show with a total score of at least 8,000,000.",
+                "seq": 6,
+                "panelMissionType": "multi_live_clear_music_score",
+                "requirement1": 8000000,
+                "rewards": [
+                  {
+                    "id": 11984,
+                    "missionType": "panel_mission",
+                    "missionId": 7060306,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              },
+              {
+                "id": 7060307,
+                "panelMissionSheetId": 70603,
+                "name": "50 Recollection Gacha Pulls",
+                "description": "Pull from the Nightcord at 25:00 Recollection Gacha 50 times.",
+                "seq": 7,
+                "panelMissionType": "spin_gacha_group",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 11985,
+                    "missionType": "panel_mission",
+                    "missionId": 7060307,
+                    "seq": 1,
+                    "resourceBoxId": 1707
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 11986,
+                "missionType": "panel_mission_complete",
+                "missionId": 70603,
+                "seq": 1,
+                "resourceBoxId": 1710
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
