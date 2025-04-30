@@ -65,26 +65,26 @@
     "endAt": 1746050399000
   },
   {
-    "homeBannerId": 920,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha498",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 498,
-    "startAt": 1745175600000,
-    "endAt": 1746039600000
-  },
-  {
-    "homeBannerId": 924,
+    "homeBannerId": 925,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[東雲絵名]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive298",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 298,
-    "startAt": 1745877600000,
-    "endAt": 1745996399000
+    "name": "Ena Shinonome Happy Birthday 2025 Gacha",
+    "assetbundleName": "banner_gacha500",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 500,
+    "startAt": 1745996400000,
+    "endAt": 1746082800000
+  },
+  {
+    "homeBannerId": 930,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha503",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 503,
+    "startAt": 1746039600000,
+    "endAt": 1746817200000
   },
   {
     "homeBannerId": 1001,
@@ -106,37 +106,5 @@
     "transitionDestinationType": "billing_shop_for_value_set",
     "startAt": 1727766000000,
     "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1151,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "2025 April Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1119",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1119,
-    "startAt": 1744052400000,
-    "endAt": 1746039599000
-  },
-  {
-    "homeBannerId": 1152,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "ID:1121 イースター10連ガチャ",
-    "assetbundleName": "banner_gacha1121",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1121,
-    "startAt": 1744830000000,
-    "endAt": 1746039599000
-  },
-  {
-    "homeBannerId": 1154,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "イースター 10x Gacha Ticket",
-    "assetbundleName": "banner_shop_gachaticket_miku10_gl",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1744830000000,
-    "endAt": 1746017999000
   }
 ]
