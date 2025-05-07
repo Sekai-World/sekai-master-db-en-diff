@@ -63,5 +63,27 @@
     "transitionDestinationType": "billing_shop_for_value_set",
     "startAt": 1727766000000,
     "endAt": 4102473540000
+  },
+  {
+    "homeBannerId": 1153,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "2025 May Premium Gift Gacha",
+    "assetbundleName": "banner_gacha1122",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1122,
+    "startAt": 1746558000000,
+    "endAt": 1748717999000
+  },
+  {
+    "homeBannerId": 100160,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[ガチャ]劇場版リコフェス[Leo\/need]_ガチャバナー",
+    "assetbundleName": "banner_gacha657",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 657,
+    "startAt": 1746558000000,
+    "endAt": 1746989999000
   }
 ]
