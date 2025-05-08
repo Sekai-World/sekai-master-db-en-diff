@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 927,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ_イベントバナー",
-    "assetbundleName": "event_whip_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 129,
-    "startAt": 1746050400000,
-    "endAt": 1746845999000
-  },
-  {
     "homeBannerId": 930,
     "seq": 100,
     "homeBannerType": "general",
@@ -42,6 +31,17 @@
     "transitionDestinationId": 504,
     "startAt": 1746212400000,
     "endAt": 1748026800000
+  },
+  {
+    "homeBannerId": 933,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[天馬咲希]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive300",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 300,
+    "startAt": 1746655200000,
+    "endAt": 1746773999000
   },
   {
     "homeBannerId": 1001,
