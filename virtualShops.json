@@ -5827,5 +5827,39 @@
       }
     ],
     "virtualShopType": "birthday"
+  },
+  {
+    "id": 266,
+    "seq": 266,
+    "name": "第130回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 443,
+        "virtualShopId": 266,
+        "virtualShopItemType": "penlight",
+        "seq": 99911,
+        "resourceBoxId": 339,
+        "costPaidJewel": 1000,
+        "startAt": 1746846000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 267,
+    "seq": 267,
+    "name": "Tsukasa's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 444,
+        "virtualShopId": 267,
+        "virtualShopItemType": "coordinate",
+        "seq": 99829,
+        "resourceBoxId": 340,
+        "costPaidJewel": 1000,
+        "startAt": 1747346400000
+      }
+    ],
+    "virtualShopType": "birthday"
   }
 ]

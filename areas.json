@@ -69,6 +69,7 @@
     "displayTimelineType": "all",
     "additionalAreaType": "none",
     "name": "Stage SEKAI",
+    "subName": "Stage",
     "releaseConditionId": 1
   },
   {
@@ -190,6 +191,20 @@
     "releaseConditionId": 1
   },
   {
+    "id": 18,
+    "assetbundleName": "area18",
+    "groupId": 60,
+    "isBaseArea": false,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "none",
+    "name": "Stage SEKAI",
+    "subName": "Flower Field",
+    "startAt": 1747882800000,
+    "releaseConditionId": 112905
+  },
+  {
     "id": 19,
     "assetbundleName": "area19",
     "groupId": 70,
@@ -285,7 +300,7 @@
     "displayTimelineType": "next_grade",
     "additionalAreaType": "out_of_ring",
     "name": "Unshuttered SEKAI",
-    "startAt": 1745866800000,
+    "startAt": 1745809200000,
     "endAt": 4102473599000,
     "releaseConditionId": 2000000
   }
