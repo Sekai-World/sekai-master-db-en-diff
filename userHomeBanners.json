@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 930,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha503",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 503,
-    "startAt": 1746039600000,
-    "endAt": 1746817200000
-  },
-  {
     "homeBannerId": 932,
     "seq": 130,
     "homeBannerType": "general",
@@ -33,15 +22,26 @@
     "endAt": 1748026800000
   },
   {
-    "homeBannerId": 934,
-    "seq": 130,
+    "homeBannerId": 935,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]モモジャンWLイベ_イベントバナー",
+    "assetbundleName": "event_blooming_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 130,
+    "startAt": 1746846000000,
+    "endAt": 1748037599000
+  },
+  {
+    "homeBannerId": 938,
+    "seq": 110,
     "homeBannerType": "general",
-    "name": "Saki Tenma Happy Birthday 2025 Gacha",
-    "assetbundleName": "banner_gacha506",
+    "name": "[ガチャ]モモジャンWLイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha509",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 506,
-    "startAt": 1746774000000,
-    "endAt": 1746860400000
+    "transitionDestinationId": 509,
+    "startAt": 1746817200000,
+    "endAt": 1748026799000
   },
   {
     "homeBannerId": 1001,
