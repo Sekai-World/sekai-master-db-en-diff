@@ -732,6 +732,10 @@
     "value": "Re-entering venue.\nWould you like to proceed?"
   },
   {
+    "wordingKey": "MSG_CONNECT_LIVE_VOCAL_GET",
+    "value": "コネクトライブver. ボーカルを獲得しました。\n{0}が消費されました。"
+  },
+  {
     "wordingKey": "MSG_CONSECUTIVE_AUTO_COLORFULPASS_EXPIRED",
     "value": "Auto-Play has been suspended due to your COLORFUL+ Deluxe subscription expiring.\n\n<color=#FF77AA>*Show results up until this point have been reflected.<\/color>"
   },
@@ -2596,6 +2600,14 @@
     "value": "x{0} more today"
   },
   {
+    "wordingKey": "MSG_REWARDED_AD_LOADING",
+    "value": "CMの読み込み中です。"
+  },
+  {
+    "wordingKey": "MSG_REWARDED_AD_LOAD_FAILED",
+    "value": "Error loading ad."
+  },
+  {
     "wordingKey": "MSG_REWARD_SCALE",
     "value": "Rewards x{0}"
   },
@@ -3318,6 +3330,10 @@
   {
     "wordingKey": "TITLE_TOURNAMENT_LIVE_NOTICE",
     "value": "Regarding Tournament Mode"
+  },
+  {
+    "wordingKey": "VIRTUAL_SINGER_NAME_SUBUNIT_FORMAT",
+    "value": "{0}[{1}]"
   },
   {
     "wordingKey": "WARD_BONDS_RANK_REWARD_ANOTHER_VOCAL",
@@ -8783,6 +8799,14 @@
   {
     "wordingKey": "WORD_REWARD",
     "value": "Rewards"
+  },
+  {
+    "wordingKey": "WORD_REWARDED_AD_LOAD_CANCEL",
+    "value": "Cancel"
+  },
+  {
+    "wordingKey": "WORD_REWARDED_AD_LOAD_RETRY",
+    "value": "Retry"
   },
   {
     "wordingKey": "WORD_REWARD_AND_EXP",
