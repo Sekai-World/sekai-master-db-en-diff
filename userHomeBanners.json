@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 935,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]モモジャンWLイベ_イベントバナー",
-    "assetbundleName": "event_blooming_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 130,
-    "startAt": 1746846000000,
-    "endAt": 1748037599000
-  },
-  {
     "homeBannerId": 942,
     "seq": 155,
     "homeBannerType": "general",
@@ -33,6 +22,17 @@
     "endAt": 1748545199000
   },
   {
+    "homeBannerId": 946,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
+    "assetbundleName": "event_smile_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 131,
+    "startAt": 1748037600000,
+    "endAt": 1748728799000
+  },
+  {
     "homeBannerId": 949,
     "seq": 100,
     "homeBannerType": "general",
@@ -42,6 +42,17 @@
     "transitionDestinationId": 516,
     "startAt": 1748026800000,
     "endAt": 1748717999000
+  },
+  {
+    "homeBannerId": 952,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[青柳冬弥]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive304",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 304,
+    "startAt": 1748037600000,
+    "endAt": 1748156399000
   },
   {
     "homeBannerId": 1001,
