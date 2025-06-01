@@ -74,5 +74,26 @@
     "transitionDestinationType": "billing_shop_for_value_set",
     "startAt": 1727766000000,
     "endAt": 4102473540000
+  },
+  {
+    "homeBannerId": 1156,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "3.5 Year Anniversary Countdown Happiness Package Gacha",
+    "assetbundleName": "banner_gacha1124",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1124,
+    "startAt": 1748804400000,
+    "endAt": 1749711599000
+  },
+  {
+    "homeBannerId": 1159,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "3.5 Year Anniversary Countdown Bundle",
+    "assetbundleName": "banner_shop_3.5y_pre",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1748804400000,
+    "endAt": 1749322799000
   }
 ]
