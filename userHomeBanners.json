@@ -22,28 +22,6 @@
     "endAt": 1749236399000
   },
   {
-    "homeBannerId": 946,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
-    "assetbundleName": "event_smile_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 131,
-    "startAt": 1748037600000,
-    "endAt": 1748728799000
-  },
-  {
-    "homeBannerId": 949,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha516",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 516,
-    "startAt": 1748026800000,
-    "endAt": 1748717999000
-  },
-  {
     "homeBannerId": 951,
     "seq": 90,
     "homeBannerType": "general",
@@ -55,15 +33,26 @@
     "endAt": 1749063599000
   },
   {
-    "homeBannerId": 953,
-    "seq": 130,
+    "homeBannerId": 955,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルブライダルイベ_イベントバナー",
+    "assetbundleName": "event_wedding_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 132,
+    "startAt": 1748728800000,
+    "endAt": 1749592799000
+  },
+  {
+    "homeBannerId": 957,
+    "seq": 100,
     "homeBannerType": "general",
-    "name": "Toya Aoyagi Happy Birthday 2025 Gacha",
-    "assetbundleName": "banner_gacha517",
+    "name": "[ガチャ]シャッフルブライダルイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha521",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 517,
-    "startAt": 1748156400000,
-    "endAt": 1748761200000
+    "transitionDestinationId": 521,
+    "startAt": 1748718000000,
+    "endAt": 1749581999000
   },
   {
     "homeBannerId": 1001,
@@ -85,27 +74,5 @@
     "transitionDestinationType": "billing_shop_for_value_set",
     "startAt": 1727766000000,
     "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1153,
-    "seq": 80,
-    "homeBannerType": "general",
-    "name": "2025 May Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1122",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1122,
-    "startAt": 1746558000000,
-    "endAt": 1748717999000
-  },
-  {
-    "homeBannerId": 100186,
-    "seq": 140,
-    "homeBannerType": "general",
-    "name": "[ガチャ]劇場版リコフェス[25時、ナイトコードで。]_ガチャバナー",
-    "assetbundleName": "banner_gacha661",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 661,
-    "startAt": 1748286000000,
-    "endAt": 1748717999000
   }
 ]
