@@ -5913,5 +5913,57 @@
       }
     ],
     "virtualShopType": "event"
+  },
+  {
+    "id": 274,
+    "seq": 274,
+    "name": "第133回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 455,
+        "virtualShopId": 274,
+        "virtualShopItemType": "penlight",
+        "seq": 99910,
+        "resourceBoxId": 351,
+        "costPaidJewel": 1000,
+        "startAt": 1749592800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 275,
+    "seq": 275,
+    "name": "第134回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 456,
+        "virtualShopId": 275,
+        "virtualShopItemType": "accessory",
+        "seq": 99877,
+        "resourceBoxId": 352,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1750456800000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 276,
+    "seq": 276,
+    "name": "Rui's Birthday",
+    "virtualShopItems": [
+      {
+        "id": 457,
+        "virtualShopId": 276,
+        "virtualShopItemType": "coordinate",
+        "seq": 99826,
+        "resourceBoxId": 353,
+        "costPaidJewel": 1000,
+        "startAt": 1750629600000
+      }
+    ],
+    "virtualShopType": "event"
   }
 ]

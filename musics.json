@@ -3523,7 +3523,7 @@
     "seq": 2111001,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      "original"
     ],
     "title": "MACHINEGUN POEM DOLL",
     "pronunciation": "machinegunpoemdoll",
@@ -5720,7 +5720,8 @@
     "seq": 2425201,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Kashika",
     "pronunciation": "kashika",
@@ -6153,7 +6154,7 @@
     "seq": 2123101,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      "original"
     ],
     "title": "ÅMARA(The Great Intelligence)",
     "pronunciation": "amarathegreatintelligence",
@@ -9013,7 +9014,8 @@
     "seq": 2343601,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "MOTTO!!!",
     "pronunciation": "motto",
@@ -10237,6 +10239,30 @@
     "isFullLength": false
   },
   {
+    "id": 457,
+    "seq": 2349401,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "Supernova",
+    "pronunciation": "supernova",
+    "creatorArtistId": 247,
+    "lyricist": "Haruno",
+    "composer": "Yunosuke, Haruno",
+    "arranger": "Yunosuke, Haruno",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_457",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1750313100000,
+    "releasedAt": 1718697600000,
+    "liveStageId": 1,
+    "fillerSec": 7.853799819946289,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
     "id": 458,
     "seq": 1249101,
     "releaseConditionId": 5,
@@ -10282,6 +10308,30 @@
     "liveStageId": 1,
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 460,
+    "seq": 2149701,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "LEADER",
+    "pronunciation": "leader",
+    "creatorArtistId": 237,
+    "lyricist": "Moimi Kashii",
+    "composer": "Moimi Kashii",
+    "arranger": "Moimi Kashii",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_460",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1751148000000,
+    "releasedAt": 1692864000000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
   {
@@ -10717,6 +10767,30 @@
     "isFullLength": false
   },
   {
+    "id": 493,
+    "seq": 1549301,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "Kyou mo harebare",
+    "pronunciation": "kyoumoharebare",
+    "creatorArtistId": 246,
+    "lyricist": "Fuwari P",
+    "composer": "Fuwari P",
+    "arranger": "-",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_493",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1749592800000,
+    "releasedAt": 1373616000000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 496,
     "seq": 1146901,
     "releaseConditionId": 5,
@@ -10794,7 +10868,7 @@
     "seq": 1147501,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "mv_2d"
     ],
     "title": "Help me, ERINNNNNN!!",
     "pronunciation": "helpmeerinnnnnn",
@@ -10860,6 +10934,54 @@
     "releasedAt": 1706601600000,
     "liveStageId": 1,
     "fillerSec": 9.036700248718262,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 507,
+    "seq": 2649501,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv_2d"
+    ],
+    "title": "Empurple",
+    "pronunciation": "empurple",
+    "creatorArtistId": 34,
+    "lyricist": "HarumakiGohan",
+    "composer": "HarumakiGohan",
+    "arranger": "HarumakiGohan",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_507",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1750456800000,
+    "releasedAt": 1718870400000,
+    "liveStageId": 1,
+    "fillerSec": 8.111100196838379,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 512,
+    "seq": 1149601,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Synthesize You",
+    "pronunciation": "synthesizeyou",
+    "creatorArtistId": 248,
+    "lyricist": "Asyu",
+    "composer": "Asyu",
+    "arranger": "Asyu",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_512",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1750802400000,
+    "releasedAt": 1708848000000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -11301,6 +11423,30 @@
     "liveStageId": 1,
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 609,
+    "seq": 9999980,
+    "releaseConditionId": 10,
+    "categories": [
+      "image"
+    ],
+    "title": "Sad Machine",
+    "pronunciation": "sadmachine",
+    "creatorArtistId": 10015,
+    "lyricist": "Porter Robinson",
+    "composer": "Porter Robinson",
+    "arranger": "-",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_609",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1749333600000,
+    "releasedAt": 1532937600000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   }
 ]
