@@ -11,48 +11,37 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 941,
-    "seq": 150,
+    "homeBannerId": 966,
+    "seq": 140,
     "homeBannerType": "general",
-    "name": "[It's Back] Sporty Girl♡ Gacha",
-    "assetbundleName": "banner_gacha511",
+    "name": "[It's Back] Under Eternal Bells Gacha",
+    "assetbundleName": "banner_gacha524",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 511,
-    "startAt": 1748458800000,
-    "endAt": 1749236399000
+    "transitionDestinationId": 524,
+    "startAt": 1750186800000,
+    "endAt": 1750964399000
   },
   {
-    "homeBannerId": 955,
+    "homeBannerId": 971,
     "seq": 110,
     "homeBannerType": "event",
-    "name": "[イベント]シャッフルブライダルイベ_イベントバナー",
-    "assetbundleName": "event_wedding_2024",
+    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
+    "assetbundleName": "event_tomoshibi_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 132,
-    "startAt": 1748728800000,
-    "endAt": 1749592799000
+    "transitionDestinationId": 134,
+    "startAt": 1750456800000,
+    "endAt": 1751320799000
   },
   {
-    "homeBannerId": 957,
+    "homeBannerId": 974,
     "seq": 100,
     "homeBannerType": "general",
-    "name": "[ガチャ]シャッフルブライダルイベ_ガチャバナー",
-    "assetbundleName": "banner_gacha521",
+    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha529",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 521,
-    "startAt": 1748718000000,
-    "endAt": 1749581999000
-  },
-  {
-    "homeBannerId": 967,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "[It's Back] Darkness Festa Gacha",
-    "assetbundleName": "banner_gacha525",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 525,
-    "startAt": 1749063600000,
-    "endAt": 1749841199000
+    "transitionDestinationId": 529,
+    "startAt": 1750446000000,
+    "endAt": 1751309999000
   },
   {
     "homeBannerId": 1001,
@@ -76,24 +65,35 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1156,
-    "seq": 90,
+    "homeBannerId": 1155,
+    "seq": 150,
     "homeBannerType": "general",
-    "name": "3.5 Year Anniversary Countdown Happiness Package Gacha",
-    "assetbundleName": "banner_gacha1124",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1124,
-    "startAt": 1748804400000,
-    "endAt": 1749711599000
+    "name": "3.5周年クリスタルショップ",
+    "assetbundleName": "banner_shop_3.5y",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1749322800000,
+    "endAt": 1751353199000
   },
   {
-    "homeBannerId": 1159,
+    "homeBannerId": 1158,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "3.5 Year Anniversary 10x Free Gacha",
+    "assetbundleName": "banner_gacha1126",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1126,
+    "startAt": 1749322800000,
+    "endAt": 1751353199000
+  },
+  {
+    "homeBannerId": 1160,
     "seq": 100,
     "homeBannerType": "general",
-    "name": "3.5 Year Anniversary Countdown Bundle",
-    "assetbundleName": "banner_shop_3.5y_pre",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1748804400000,
-    "endAt": 1749322799000
+    "name": "3.5 Year Anniversary Premium Gift Gacha",
+    "assetbundleName": "banner_gacha1127",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1127,
+    "startAt": 1749322800000,
+    "endAt": 1751353199000
   }
 ]
