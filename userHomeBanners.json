@@ -22,26 +22,26 @@
     "endAt": 1751828399000
   },
   {
-    "homeBannerId": 971,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
-    "assetbundleName": "event_tomoshibi_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 134,
-    "startAt": 1750456800000,
-    "endAt": 1751320799000
+    "homeBannerId": 979,
+    "seq": 10,
+    "homeBannerType": "general",
+    "name": "Colorful Festival Gacha",
+    "assetbundleName": "banner_gacha533",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 533,
+    "startAt": 1751310000000,
+    "endAt": 1751655600000
   },
   {
-    "homeBannerId": 974,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha529",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 529,
-    "startAt": 1750446000000,
-    "endAt": 1751309999000
+    "homeBannerId": 980,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]ビビバス箱イベ_イベントバナー",
+    "assetbundleName": "event_overrad_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 135,
+    "startAt": 1751320800000,
+    "endAt": 1752098399000
   },
   {
     "homeBannerId": 1001,
@@ -63,37 +63,5 @@
     "transitionDestinationType": "billing_shop_for_value_set",
     "startAt": 1727766000000,
     "endAt": 4102473540000
-  },
-  {
-    "homeBannerId": 1155,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "3.5周年クリスタルショップ",
-    "assetbundleName": "banner_shop_3.5y",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1749322800000,
-    "endAt": 1751353199000
-  },
-  {
-    "homeBannerId": 1158,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "3.5 Year Anniversary 10x Free Gacha",
-    "assetbundleName": "banner_gacha1126",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1126,
-    "startAt": 1749322800000,
-    "endAt": 1751353199000
-  },
-  {
-    "homeBannerId": 1160,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "3.5 Year Anniversary Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1127",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1127,
-    "startAt": 1749322800000,
-    "endAt": 1751353199000
   }
 ]

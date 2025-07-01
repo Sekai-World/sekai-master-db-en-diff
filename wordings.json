@@ -125,7 +125,7 @@
   },
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT",
-    "value": "Earn <color=#ff5599>50<\/color> Show Points for every Bonus Mission cleared during the event period.\nEarn a further <color=#ff5599>150<\/color> Show Points by completing all missions."
+    "value": "Earn <color=#ff5599>50<\/color> Show Points for every Bonus Mission cleared during the event period.\nYou will also have the option to receive a further <color=#ff5599>150<\/color> Show Points after completing all missions."
   },
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT_TITLE",
@@ -269,7 +269,7 @@
   },
   {
     "wordingKey": "MSG_ALREADY_CLEARED_LIVE_RETRY",
-    "value": "A disconnection was detected. Returning to Title screen.\nThe Show scores will be reflected correctly."
+    "value": "Connection lost. Returning to home screen.\nShow scores will be reflected correctly."
   },
   {
     "wordingKey": "MSG_ANDROID_RATING",
@@ -948,6 +948,10 @@
     "value": "Don't show me this again."
   },
   {
+    "wordingKey": "MSG_DOUBLE_SKILL_INFO_DIALOG",
+    "value": "This Character has two skills, one associated with the pre-Upgrade version and the other associated with the Upgraded version. Choose which skill will activate during shows by toggling the displayed artwork."
+  },
+  {
     "wordingKey": "MSG_DOWNLOAD_CONFIRM_1",
     "value": "Download necessary game data."
   },
@@ -1150,6 +1154,10 @@
   {
     "wordingKey": "MSG_EXP_SCALE",
     "value": "EXP x{0}"
+  },
+  {
+    "wordingKey": "MSG_EXTERNAL_PAYMENT_LINK_NOTICE",
+    "value": "*An external browser will launch."
   },
   {
     "wordingKey": "MSG_EX_GAGE_MAX",
@@ -1713,7 +1721,7 @@
   },
   {
     "wordingKey": "MSG_MEMBER_DETAIL_EXPLANATION_NL",
-    "value": "Displayed stats are maxed."
+    "value": "Displayed stats and skills are maxed."
   },
   {
     "wordingKey": "MSG_MEMBER_DUPLICATE_CONFIRM",
@@ -2136,6 +2144,10 @@
     "value": "Unfair practices detected from another player.\nCurrent show results have been nullified."
   },
   {
+    "wordingKey": "MSG_NO_EXTERNAL_PAYMENT_LINK",
+    "value": "No external store site."
+  },
+  {
     "wordingKey": "MSG_NO_FILTERING_RESULT",
     "value": "No results found."
   },
@@ -2298,6 +2310,10 @@
   {
     "wordingKey": "MSG_PLACEMENT_MATCH_COUNT",
     "value": "<size=80>{0}<\/size> matches left to determine starting rank."
+  },
+  {
+    "wordingKey": "MSG_PLEASE_SELECT_REWARD",
+    "value": "Select a reward."
   },
   {
     "wordingKey": "MSG_PRACTICE_EXECUTE",
@@ -2984,6 +3000,14 @@
     "value": "*Other Groups' openings will become viewable\nonce the tutorial has been completed."
   },
   {
+    "wordingKey": "MSG_UNABLE_CLAIM_REWARD_EXPIRED",
+    "value": "Expiry date has passed. Unable to receive reward."
+  },
+  {
+    "wordingKey": "MSG_UNCLAIMED_REWARD",
+    "value": "You have not yet claimed a reward."
+  },
+  {
     "wordingKey": "MSG_UNLOCK_AREAITEM",
     "value": "New item added to the {0} Area Shop."
   },
@@ -3482,6 +3506,10 @@
   {
     "wordingKey": "WORD_ACTION_SET_RELEASE_FORMAT",
     "value": "{0} Area Conversations unlocked."
+  },
+  {
+    "wordingKey": "WORD_ACTIVATED_W_SKILL",
+    "value": "2nd Skill Unlocked!"
   },
   {
     "wordingKey": "WORD_ADD",
@@ -4002,6 +4030,10 @@
   {
     "wordingKey": "WORD_BONUS_MISSION",
     "value": "Bonus Missions"
+  },
+  {
+    "wordingKey": "WORD_BONUS_MISSION_COMPLETE_REWARD",
+    "value": "Bonus Mission Completion Reward"
   },
   {
     "wordingKey": "WORD_BONUS_MISSION_TAB",
@@ -5217,6 +5249,10 @@
     "value": "\/"
   },
   {
+    "wordingKey": "WORD_DOUBLE_SKILL",
+    "value": "Dual Skills"
+  },
+  {
     "wordingKey": "WORD_DOWNLOAD",
     "value": "Download"
   },
@@ -5615,6 +5651,14 @@
   {
     "wordingKey": "WORD_EXP_REWARD",
     "value": "EXP"
+  },
+  {
+    "wordingKey": "WORD_EXTERNAL_PAYMENT_LINK_LABEL",
+    "value": "Web Store"
+  },
+  {
+    "wordingKey": "WORD_EXTERNAL_PAYMENT_LINK_TAB",
+    "value": "Web Store"
   },
   {
     "wordingKey": "WORD_EXTRA_SHORT",
@@ -6703,6 +6747,10 @@
   {
     "wordingKey": "WORD_JOIN_STATUS",
     "value": "Participation Status"
+  },
+  {
+    "wordingKey": "WORD_JUMP_TO_EXTERNAL_PAYMENT",
+    "value": "Jump to external store"
   },
   {
     "wordingKey": "WORD_KEY_SOTRY",
@@ -8645,6 +8693,10 @@
     "value": "Unlock Requirements"
   },
   {
+    "wordingKey": "WORD_RELEASE_FROM_TRAINING",
+    "value": "Upgrade to Unlock"
+  },
+  {
     "wordingKey": "WORD_RELEASE_PROFILE",
     "value": "Remove as Profile"
   },
@@ -8941,6 +8993,10 @@
     "value": "Select"
   },
   {
+    "wordingKey": "WORD_SELECTABLE_REWARD",
+    "value": "Your choice of one of the following."
+  },
+  {
     "wordingKey": "WORD_SELECTED_MEMBER",
     "value": "Selected Character"
   },
@@ -8967,6 +9023,10 @@
   {
     "wordingKey": "WORD_SELECTION_ALL_MEMBERS",
     "value": "Select All"
+  },
+  {
+    "wordingKey": "WORD_SELECT_AFTER",
+    "value": "Choose Later"
   },
   {
     "wordingKey": "WORD_SELECT_ALL",
@@ -9211,6 +9271,10 @@
   {
     "wordingKey": "WORD_SKILL",
     "value": "Skill"
+  },
+  {
+    "wordingKey": "WORD_SKILL_CHANGE",
+    "value": "Toggle Skills"
   },
   {
     "wordingKey": "WORD_SKILL_LEVEL",
@@ -9889,6 +9953,14 @@
     "value": "Trace"
   },
   {
+    "wordingKey": "WORD_TRAINING_AFTER",
+    "value": "Post-Upgrade"
+  },
+  {
+    "wordingKey": "WORD_TRAINING_BEFORE",
+    "value": "Pre-Upgrade"
+  },
+  {
     "wordingKey": "WORD_TUTORIAL_GAME_DESCRIPTION_END_CONFIRM_MESSAGE",
     "value": "Exit Gameplay Tutorial?"
   },
@@ -10423,6 +10495,10 @@
   {
     "wordingKey": "WORD_WELCOME_ARCHIVE_TITLE",
     "value": "Welcome Show"
+  },
+  {
+    "wordingKey": "WORD_WILL_ACTIVATE_W_SKILL",
+    "value": "Unlock 2nd Skill"
   },
   {
     "wordingKey": "WORD_WIN",
