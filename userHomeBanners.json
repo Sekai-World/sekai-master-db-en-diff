@@ -11,28 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 968,
-    "seq": 155,
-    "homeBannerType": "general",
-    "name": "[It's Back] Before the storm Gacha",
-    "assetbundleName": "banner_gacha526",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 526,
-    "startAt": 1751050800000,
-    "endAt": 1751828399000
-  },
-  {
-    "homeBannerId": 979,
-    "seq": 10,
-    "homeBannerType": "general",
-    "name": "Colorful Festival Gacha",
-    "assetbundleName": "banner_gacha533",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 533,
-    "startAt": 1751310000000,
-    "endAt": 1751655600000
-  },
-  {
     "homeBannerId": 980,
     "seq": 110,
     "homeBannerType": "event",
@@ -42,6 +20,28 @@
     "transitionDestinationId": 135,
     "startAt": 1751320800000,
     "endAt": 1752098399000
+  },
+  {
+    "homeBannerId": 983,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha535",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 535,
+    "startAt": 1751655600000,
+    "endAt": 1752087600000
+  },
+  {
+    "homeBannerId": 985,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "Star Festival Show 2024",
+    "assetbundleName": "banner_virtuallive312",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 312,
+    "startAt": 1751752800000,
+    "endAt": 1752044400000
   },
   {
     "homeBannerId": 1001,
@@ -63,5 +63,26 @@
     "transitionDestinationType": "billing_shop_for_value_set",
     "startAt": 1727766000000,
     "endAt": 4102473540000
+  },
+  {
+    "homeBannerId": 1161,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "AX25 Bundle",
+    "assetbundleName": "banner_shop_anime_expo_2025_gl",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1751526000000,
+    "endAt": 1751849999000
+  },
+  {
+    "homeBannerId": 1162,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "AX25 10x Gacha",
+    "assetbundleName": "banner_gacha1128",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1128,
+    "startAt": 1751526000000,
+    "endAt": 1751957999000
   }
 ]
