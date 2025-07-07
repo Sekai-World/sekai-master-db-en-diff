@@ -3571,8 +3571,8 @@
     "assetbundleName": "shop_20137",
     "resourceBoxId": 20117,
     "bonusResourceBoxId": 20122,
-    "startAt": 1748156400000,
-    "endAt": 1748761199000
+    "startAt": 1752994800000,
+    "endAt": 1753599599000
   },
   {
     "id": 20141,
@@ -3660,8 +3660,8 @@
     "assetbundleName": "shop_20137",
     "resourceBoxId": 20117,
     "bonusResourceBoxId": 20122,
-    "startAt": 1750748400000,
-    "endAt": 1751353199000
+    "startAt": 1753513200000,
+    "endAt": 1754117999000
   },
   {
     "id": 20147,
@@ -5393,6 +5393,23 @@
     "badgeAssetbundleName": "badge0001_gl",
     "startAt": 1751526000000,
     "endAt": 1751849999000
+  },
+  {
+    "id": 50110,
+    "seq": 340,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50156,
+    "name": "15M DLs! Gacha Ticket ",
+    "description": "4★ Character Guaranteed!",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_50110",
+    "resourceBoxId": 50110,
+    "label": "1 Time Only",
+    "badgeAssetbundleName": "badge0001_gl",
+    "startAt": 1752346800000,
+    "endAt": 1753534799000
   },
   {
     "id": 80000,
@@ -8706,6 +8723,71 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 308,
     "startAt": 1751353200000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300580,
+    "seq": 458699,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "[Casino Dealer\/Ghost] Costumes All Colors",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 309,
+    "startAt": 1754031600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300581,
+    "seq": 458700,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Casino Dealer\/Ghost] Costumes Original Color",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 310,
+    "startAt": 1754031600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300582,
+    "seq": 458701,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Casino Dealer\/Ghost] Costumes Color Variant 1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 311,
+    "startAt": 1754031600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300583,
+    "seq": 458702,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Casino Dealer\/Ghost] Costumes Color Variant 2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 312,
+    "startAt": 1754031600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300584,
+    "seq": 458703,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Casino Dealer\/Ghost] Costumes Color Variant 3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 313,
+    "startAt": 1754031600000,
     "purchaseOption": "exchange"
   },
   {

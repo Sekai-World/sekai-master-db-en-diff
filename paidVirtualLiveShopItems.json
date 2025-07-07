@@ -70,6 +70,60 @@
     "assetbundleName": "vl_archive_thumbnail_10004"
   },
   {
+    "id": 10011,
+    "seq": 10012,
+    "paidVirtualLiveShopItemGroupId": 2,
+    "name": "Performance 1",
+    "description": "*Some audio is missing from this performance.",
+    "resourceBoxId": 10011,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 100111,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 3000,
+        "startAt": 1752807600000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_10011"
+  },
+  {
+    "id": 10012,
+    "seq": 10011,
+    "paidVirtualLiveShopItemGroupId": 2,
+    "name": "Performance 2",
+    "description": "*Some audio is missing from this performance.",
+    "resourceBoxId": 10012,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 100121,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 3000,
+        "startAt": 1752807600000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_10012"
+  },
+  {
+    "id": 10013,
+    "seq": 10013,
+    "paidVirtualLiveShopItemGroupId": 2,
+    "name": "All Performances",
+    "description": "*Please review the warnings for both Performances.",
+    "resourceBoxId": 10013,
+    "paidVirtualLiveShopItemPurchaseType": "bundle",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 100131,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 5000,
+        "startAt": 1752807600000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_10013"
+  },
+  {
     "id": 20001,
     "seq": 20001,
     "name": "Haruka 2021",
@@ -2136,6 +2190,72 @@
       }
     ],
     "assetbundleName": "vl_archive_thumbnail_20094"
+  },
+  {
+    "id": 20095,
+    "seq": 20095,
+    "name": "Saki 2025",
+    "resourceBoxId": 20095,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200951,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1754031600000
+      },
+      {
+        "id": 200952,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1754031600000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20095"
+  },
+  {
+    "id": 20096,
+    "seq": 20096,
+    "name": "Tsukasa 2025",
+    "resourceBoxId": 20096,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200961,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1754031600000
+      },
+      {
+        "id": 200962,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1754031600000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20096"
+  },
+  {
+    "id": 20097,
+    "seq": 20097,
+    "name": "Toya 2025",
+    "resourceBoxId": 20097,
+    "paidVirtualLiveShopItemPurchaseType": "single",
+    "paidVirtualLiveShopCosts": [
+      {
+        "id": 200971,
+        "costResourceType": "jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1754031600000
+      },
+      {
+        "id": 200972,
+        "costResourceType": "paid_jewel",
+        "costResourceQuantity": 300,
+        "startAt": 1754031600000
+      }
+    ],
+    "assetbundleName": "vl_archive_thumbnail_20097"
   },
   {
     "id": 30008,

@@ -33,6 +33,28 @@
     "backgroundAssetbundleName": "archive_bg_1st_live_vbs"
   },
   {
+    "id": 1011,
+    "virtualLiveId": 176,
+    "virtualLivePart": 1,
+    "paidVirtualLiveType": "streaming",
+    "units": [
+      "none"
+    ],
+    "iconAssetbundleName": "vl_archive_icon_1011",
+    "backgroundAssetbundleName": "archive_bg_2nd_live_anv"
+  },
+  {
+    "id": 1012,
+    "virtualLiveId": 176,
+    "virtualLivePart": 2,
+    "paidVirtualLiveType": "streaming",
+    "units": [
+      "none"
+    ],
+    "iconAssetbundleName": "vl_archive_icon_1012",
+    "backgroundAssetbundleName": "archive_bg_2nd_live_anv"
+  },
+  {
     "id": 2001,
     "virtualLiveId": 8,
     "virtualLivePart": 0,
@@ -1065,6 +1087,39 @@
     ],
     "iconAssetbundleName": "vl_archive_icon_2094",
     "backgroundAssetbundleName": "vl_archive_bg_23"
+  },
+  {
+    "id": 2095,
+    "virtualLiveId": 300,
+    "virtualLivePart": 0,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "light_sound"
+    ],
+    "iconAssetbundleName": "vl_archive_icon_2095",
+    "backgroundAssetbundleName": "vl_archive_bg_16"
+  },
+  {
+    "id": 2096,
+    "virtualLiveId": 302,
+    "virtualLivePart": 0,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "theme_park"
+    ],
+    "iconAssetbundleName": "vl_archive_icon_2096",
+    "backgroundAssetbundleName": "vl_archive_bg_08"
+  },
+  {
+    "id": 2097,
+    "virtualLiveId": 304,
+    "virtualLivePart": 0,
+    "paidVirtualLiveType": "birthday",
+    "units": [
+      "street"
+    ],
+    "iconAssetbundleName": "vl_archive_icon_2097",
+    "backgroundAssetbundleName": "vl_archive_bg_18"
   },
   {
     "id": 3008,

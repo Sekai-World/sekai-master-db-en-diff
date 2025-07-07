@@ -4978,7 +4978,8 @@
     "seq": 2221501,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Voices",
     "pronunciation": "voices",
@@ -5793,7 +5794,7 @@
     "seq": 1623501,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "mv_2d"
     ],
     "title": "Bloom in mud",
     "pronunciation": "bloominmud",
@@ -5967,9 +5968,9 @@
     "title": "phony",
     "pronunciation": "phony",
     "creatorArtistId": 145,
-    "lyricist": "Tsumiki",
-    "composer": "Tsumiki",
-    "arranger": "Tsumiki",
+    "lyricist": "tsumiki",
+    "composer": "tsumiki",
+    "arranger": "tsumiki",
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_277",
@@ -6368,7 +6369,7 @@
     "seq": 1626001,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "mv_2d"
     ],
     "title": "Sorega Anata No Shiawase To Shitemo",
     "pronunciation": "soregaanatanoshiawasetoshitemo",
@@ -7790,9 +7791,9 @@
     "title": "kitty",
     "pronunciation": "kitty",
     "creatorArtistId": 145,
-    "lyricist": "Tsumiki",
-    "composer": "Tsumiki",
-    "arranger": "Tsumiki",
+    "lyricist": "tsumiki",
+    "composer": "tsumiki",
+    "arranger": "tsumiki",
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_353",
@@ -9160,7 +9161,8 @@
     "seq": 2543301,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Tonal Twinkle Tetrad",
     "pronunciation": "tonaltwinkletetrad",
@@ -9424,7 +9426,8 @@
     "seq": 2344101,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "JUMPIN' OVER !",
     "pronunciation": "jumpinover",
@@ -9448,7 +9451,8 @@
     "seq": 2243901,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Regulus",
     "pronunciation": "regulus",
@@ -9924,6 +9928,30 @@
     "isFullLength": false
   },
   {
+    "id": 443,
+    "seq": 1249401,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "The Transient Apple Salesgirl",
+    "pronunciation": "thetransientapplesalesgirl",
+    "creatorArtistId": 250,
+    "lyricist": "yukkedoluce",
+    "composer": "yukkedoluce",
+    "arranger": "yukkedoluce",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_443",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1752789600000,
+    "releasedAt": 1353052800000,
+    "liveStageId": 1,
+    "fillerSec": 8.46720027923584,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 444,
     "seq": 1142401,
     "releaseConditionId": 5,
@@ -10072,7 +10100,7 @@
   },
   {
     "id": 450,
-    "seq": 2548301,
+    "seq": 2548201,
     "releaseConditionId": 10,
     "categories": [
       "mv"
@@ -10240,7 +10268,7 @@
   },
   {
     "id": 457,
-    "seq": 2348701,
+    "seq": 2348601,
     "releaseConditionId": 10,
     "categories": [
       "mv"
@@ -10264,7 +10292,7 @@
   },
   {
     "id": 458,
-    "seq": 1248401,
+    "seq": 1248301,
     "releaseConditionId": 5,
     "categories": [
       "mv"
@@ -10312,7 +10340,7 @@
   },
   {
     "id": 460,
-    "seq": 2149001,
+    "seq": 2148901,
     "releaseConditionId": 5,
     "categories": [
       "image"
@@ -10576,7 +10604,7 @@
   },
   {
     "id": 471,
-    "seq": 2449201,
+    "seq": 2449101,
     "releaseConditionId": 10,
     "categories": [
       "mv"
@@ -10595,6 +10623,78 @@
     "releasedAt": 1720339200000,
     "liveStageId": 1,
     "fillerSec": 9.010000228881836,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 472,
+    "seq": 2549301,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "SEIBAIITAAAAASU!",
+    "pronunciation": "seibaiitaaaaasu",
+    "creatorArtistId": 42,
+    "lyricist": "Jizasu-P",
+    "composer": "Jizasu-P",
+    "arranger": "Wonderful★Opportunity!",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_472",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1752645900000,
+    "releasedAt": 1721030400000,
+    "liveStageId": 1,
+    "fillerSec": 8.0,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 473,
+    "seq": 1649701,
+    "releaseConditionId": 5,
+    "categories": [
+      "mv"
+    ],
+    "title": "Mind Brand",
+    "pronunciation": "mindbrand",
+    "creatorArtistId": 183,
+    "lyricist": "MARETU",
+    "composer": "MARETU",
+    "arranger": "MARETU",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_473",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1753826400000,
+    "releasedAt": 1452412800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 474,
+    "seq": 2350001,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "KILLER",
+    "pronunciation": "killer",
+    "creatorArtistId": 37,
+    "lyricist": "Natsushiro Takaaki",
+    "composer": "Natsushiro Takaaki",
+    "arranger": "Heavenz",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_474",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1754633100000,
+    "releasedAt": 1470556800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -10672,7 +10772,7 @@
   },
   {
     "id": 482,
-    "seq": 1348001,
+    "seq": 1347901,
     "releaseConditionId": 5,
     "categories": [
       "original"
@@ -10768,7 +10868,7 @@
   },
   {
     "id": 487,
-    "seq": 1149301,
+    "seq": 1149201,
     "releaseConditionId": 5,
     "categories": [
       "image"
@@ -10816,7 +10916,7 @@
   },
   {
     "id": 493,
-    "seq": 1548601,
+    "seq": 1548501,
     "releaseConditionId": 5,
     "categories": [
       "original"
@@ -10840,7 +10940,7 @@
   },
   {
     "id": 494,
-    "seq": 1349101,
+    "seq": 1349001,
     "releaseConditionId": 5,
     "categories": [
       "original"
@@ -10965,7 +11065,7 @@
     "seq": 3746601,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "original"
     ],
     "title": "Chou Saishuu Kichiku Imouto Flandre S",
     "pronunciation": "chousaishuukichikuimoutoflandres",
@@ -11011,7 +11111,7 @@
   },
   {
     "id": 507,
-    "seq": 2648801,
+    "seq": 2648701,
     "releaseConditionId": 10,
     "categories": [
       "mv_2d"
@@ -11035,7 +11135,7 @@
   },
   {
     "id": 512,
-    "seq": 1148901,
+    "seq": 1148801,
     "releaseConditionId": 5,
     "categories": [
       "image"
@@ -11079,6 +11179,30 @@
     "liveStageId": 1,
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 517,
+    "seq": 1149501,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "merry-go-round",
+    "pronunciation": "merrygoround",
+    "creatorArtistId": 84,
+    "lyricist": "kaga (Negi Shower P)",
+    "composer": "kaga (Negi Shower P)",
+    "arranger": "kaga (Negi Shower P)",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_517",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1753221600000,
+    "releasedAt": 1708848000000,
+    "liveStageId": 1,
+    "fillerSec": 9.517200469970703,
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
@@ -11253,7 +11377,7 @@
   },
   {
     "id": 574,
-    "seq": 2248101,
+    "seq": 2248001,
     "releaseConditionId": 10,
     "categories": [
       "image"
@@ -11328,7 +11452,7 @@
   },
   {
     "id": 577,
-    "seq": 2547901,
+    "seq": 2547801,
     "releaseConditionId": 10,
     "categories": [
       "image"
@@ -11353,7 +11477,7 @@
   },
   {
     "id": 578,
-    "seq": 2148201,
+    "seq": 2148101,
     "releaseConditionId": 10,
     "categories": [
       "image"

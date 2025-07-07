@@ -9797,7 +9797,7 @@
   {
     "id": 77,
     "eventId": 77,
-    "outline": "While wondering what to about the image she was assigned during art class, Ena happens to come across Mafuyu sitting by herself on the side of a walkway. Ena decides to talk to her since it's raining and there's no sign of her moving...",
+    "outline": "While wondering what to do about the theme she was assigned during art class, Ena happens to come across Mafuyu sitting by herself on the side of a walkway. Ena decides to talk to her since it's raining and there's no sign of her moving...",
     "bannerGameCharacterUnitId": 19,
     "assetbundleName": "event_wish_2022",
     "eventStoryEpisodes": [
@@ -9895,7 +9895,7 @@
         "id": 1000623,
         "eventStoryId": 77,
         "episodeNo": 7,
-        "title": "The Light I Saw Next To me",
+        "title": "The Light I Saw Next To Me",
         "assetbundleName": "event_wish_2022_07",
         "scenarioId": "event_77_07",
         "releaseConditionId": 107606,
@@ -17552,6 +17552,431 @@
           {
             "storyType": "event_story",
             "resourceBoxId": 88
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "eventId": 136,
+    "outline": "At Kijima's suggestion, Tsukasa has been putting on muscle to increase his acting chops. He and the others arrive at the Jidaigeki Studio Park with the Mikazukigumi troupe, but news of a theft puts the new production on hold...and that's when Tsukasa spots a suspicious ninja on the lot!",
+    "bannerGameCharacterUnitId": 13,
+    "assetbundleName": "event_torimonothou_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001097,
+        "eventStoryId": 136,
+        "episodeNo": 1,
+        "title": "Let's Build Some Muscle!",
+        "assetbundleName": "event_torimonothou_2024_01",
+        "scenarioId": "event_136_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001098,
+        "eventStoryId": 136,
+        "episodeNo": 2,
+        "title": "Hiori Jidaigeki Studio Park",
+        "assetbundleName": "event_torimonothou_2024_02",
+        "scenarioId": "event_136_02",
+        "releaseConditionId": 113501,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001099,
+        "eventStoryId": 136,
+        "episodeNo": 3,
+        "title": "The Show Can't Go On?!",
+        "assetbundleName": "event_torimonothou_2024_03",
+        "scenarioId": "event_136_03",
+        "releaseConditionId": 113502,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001100,
+        "eventStoryId": 136,
+        "episodeNo": 4,
+        "title": "After That Ninja!",
+        "assetbundleName": "event_torimonothou_2024_04",
+        "scenarioId": "event_136_04",
+        "releaseConditionId": 113503,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001101,
+        "eventStoryId": 136,
+        "episodeNo": 5,
+        "title": "If I Had Been Faster",
+        "assetbundleName": "event_torimonothou_2024_05",
+        "scenarioId": "event_136_05",
+        "releaseConditionId": 113504,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001102,
+        "eventStoryId": 136,
+        "episodeNo": 6,
+        "title": "Up Against a Wall",
+        "assetbundleName": "event_torimonothou_2024_06",
+        "scenarioId": "event_136_06",
+        "releaseConditionId": 113505,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001103,
+        "eventStoryId": 136,
+        "episodeNo": 7,
+        "title": "To Greater Heights",
+        "assetbundleName": "event_torimonothou_2024_07",
+        "scenarioId": "event_136_07",
+        "releaseConditionId": 113506,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001104,
+        "eventStoryId": 136,
+        "episodeNo": 8,
+        "title": "Heart, Technique, Strength",
+        "assetbundleName": "event_torimonothou_2024_08",
+        "scenarioId": "event_136_08",
+        "releaseConditionId": 113507,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 89
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "eventId": 137,
+    "outline": "The VIRTUAL SINGER version of Leo\/need's debut song is generating buzz, and Ichika and the others couldn't be happier. As the band renews their vow to make it as pros, a new area appears in SEKAI!",
+    "bannerGameCharacterUnitId": 1,
+    "assetbundleName": "event_nightsky_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001105,
+        "eventStoryId": 137,
+        "episodeNo": 1,
+        "title": "To Many People",
+        "assetbundleName": "event_nightsky_2024_01",
+        "scenarioId": "wl_band_01_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001106,
+        "eventStoryId": 137,
+        "gameCharacterId": 2,
+        "episodeNo": 2,
+        "title": "A Strange Feeling",
+        "assetbundleName": "event_nightsky_2024_02",
+        "scenarioId": "wl_band_01_02",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001107,
+        "eventStoryId": 137,
+        "gameCharacterId": 2,
+        "episodeNo": 3,
+        "title": "It'll Be Okay",
+        "assetbundleName": "event_nightsky_2024_03",
+        "scenarioId": "wl_band_01_03",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001108,
+        "eventStoryId": 137,
+        "gameCharacterId": 3,
+        "episodeNo": 4,
+        "title": "Stronger",
+        "assetbundleName": "event_nightsky_2024_04",
+        "scenarioId": "wl_band_01_04",
+        "releaseConditionId": 113601,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001109,
+        "eventStoryId": 137,
+        "gameCharacterId": 3,
+        "episodeNo": 5,
+        "title": "Us Back Then",
+        "assetbundleName": "event_nightsky_2024_05",
+        "scenarioId": "wl_band_01_05",
+        "releaseConditionId": 113601,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001110,
+        "eventStoryId": 137,
+        "gameCharacterId": 4,
+        "episodeNo": 6,
+        "title": "Making Music Together",
+        "assetbundleName": "event_nightsky_2024_06",
+        "scenarioId": "wl_band_01_06",
+        "releaseConditionId": 113602,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001111,
+        "eventStoryId": 137,
+        "gameCharacterId": 4,
+        "episodeNo": 7,
+        "title": "What's Ahead",
+        "assetbundleName": "event_nightsky_2024_07",
+        "scenarioId": "wl_band_01_07",
+        "releaseConditionId": 113602,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001112,
+        "eventStoryId": 137,
+        "gameCharacterId": 1,
+        "episodeNo": 8,
+        "title": "What's Amazing About You",
+        "assetbundleName": "event_nightsky_2024_08",
+        "scenarioId": "wl_band_01_08",
+        "releaseConditionId": 113603,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001113,
+        "eventStoryId": 137,
+        "gameCharacterId": 1,
+        "episodeNo": 9,
+        "title": "Beyond the Tracks",
+        "assetbundleName": "event_nightsky_2024_09",
+        "scenarioId": "wl_band_01_09",
+        "releaseConditionId": 113603,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001114,
+        "eventStoryId": 137,
+        "episodeNo": 10,
+        "title": "Toward That Starry Sky",
+        "assetbundleName": "event_nightsky_2024_10",
+        "scenarioId": "wl_band_01_10",
+        "releaseConditionId": 113604,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 90
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "eventId": 138,
+    "outline": "MORE MORE JUMP! receives an offer to appear at Idol Lovers Festival, the big break for many young idol groups. During rehearsals, Airi is shocked by the performance of another group...",
+    "bannerGameCharacterUnitId": 7,
+    "assetbundleName": "event_chase_2024",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001115,
+        "eventStoryId": 138,
+        "episodeNo": 1,
+        "title": "Our Next Job",
+        "assetbundleName": "event_chase_2024_01",
+        "scenarioId": "event_138_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001116,
+        "eventStoryId": 138,
+        "episodeNo": 2,
+        "title": "A New Encounter",
+        "assetbundleName": "event_chase_2024_02",
+        "scenarioId": "event_138_02",
+        "releaseConditionId": 113701,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001117,
+        "eventStoryId": 138,
+        "episodeNo": 3,
+        "title": "A Lit Flame",
+        "assetbundleName": "event_chase_2024_03",
+        "scenarioId": "event_138_03",
+        "releaseConditionId": 113702,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001118,
+        "eventStoryId": 138,
+        "episodeNo": 4,
+        "title": "Special Training, Start!",
+        "assetbundleName": "event_chase_2024_04",
+        "scenarioId": "event_138_04",
+        "releaseConditionId": 113703,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001119,
+        "eventStoryId": 138,
+        "episodeNo": 5,
+        "title": "Chasing an Ideal",
+        "assetbundleName": "event_chase_2024_05",
+        "scenarioId": "event_138_05",
+        "releaseConditionId": 113704,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001120,
+        "eventStoryId": 138,
+        "episodeNo": 6,
+        "title": "To the Stage!",
+        "assetbundleName": "event_chase_2024_06",
+        "scenarioId": "event_138_06",
+        "releaseConditionId": 113705,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001121,
+        "eventStoryId": 138,
+        "episodeNo": 7,
+        "title": "The View I Wanted to See",
+        "assetbundleName": "event_chase_2024_07",
+        "scenarioId": "event_138_07",
+        "releaseConditionId": 113706,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001122,
+        "eventStoryId": 138,
+        "episodeNo": 8,
+        "title": "After the Rush",
+        "assetbundleName": "event_chase_2024_08",
+        "scenarioId": "event_138_08",
+        "releaseConditionId": 113707,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 91
           }
         ]
       }
