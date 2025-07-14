@@ -11,37 +11,59 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 980,
+    "homeBannerId": 987,
     "seq": 110,
     "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ_イベントバナー",
-    "assetbundleName": "event_overrad_2024",
+    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
+    "assetbundleName": "event_torimonothou_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 135,
-    "startAt": 1751320800000,
-    "endAt": 1752098399000
+    "transitionDestinationId": 136,
+    "startAt": 1752098400000,
+    "endAt": 1752807599000
   },
   {
-    "homeBannerId": 983,
+    "homeBannerId": 990,
     "seq": 100,
     "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha535",
+    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha536",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 535,
-    "startAt": 1751655600000,
-    "endAt": 1752087600000
+    "transitionDestinationId": 536,
+    "startAt": 1752087600000,
+    "endAt": 1752778799000
   },
   {
-    "homeBannerId": 985,
+    "homeBannerId": 992,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "Star Festival Show 2024",
-    "assetbundleName": "banner_virtuallive312",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 312,
-    "startAt": 1751752800000,
-    "endAt": 1752044400000
+    "name": "[ガチャ]ワールドリンクイベントサポートガチャ",
+    "assetbundleName": "banner_gacha537",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 537,
+    "startAt": 1752174000000,
+    "endAt": 1752778800000
+  },
+  {
+    "homeBannerId": 993,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "[It's Back] City of Spirits Gacha",
+    "assetbundleName": "banner_gacha538",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 538,
+    "startAt": 1752433200000,
+    "endAt": 1753210799000
+  },
+  {
+    "homeBannerId": 994,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "[It's Back] CYBER SNIPER Gacha",
+    "assetbundleName": "banner_gacha539",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 539,
+    "startAt": 1751914800000,
+    "endAt": 1752692399000
   },
   {
     "homeBannerId": 1001,
@@ -65,24 +87,24 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1161,
+    "homeBannerId": 1163,
     "seq": 90,
     "homeBannerType": "general",
-    "name": "AX25 Bundle",
-    "assetbundleName": "banner_shop_anime_expo_2025_gl",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1751526000000,
-    "endAt": 1751849999000
+    "name": "15 Million Downloads! 4★ Guaranteed Gacha ",
+    "assetbundleName": "banner_gacha1130",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1130,
+    "startAt": 1752346800000,
+    "endAt": 1753556399000
   },
   {
-    "homeBannerId": 1162,
+    "homeBannerId": 1165,
     "seq": 90,
     "homeBannerType": "general",
-    "name": "AX25 10x Gacha",
-    "assetbundleName": "banner_gacha1128",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1128,
-    "startAt": 1751526000000,
-    "endAt": 1751957999000
+    "name": "15M DLs! Gacha Ticket",
+    "assetbundleName": "banner_shop_gachaticket_900dl_gl",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1752346800000,
+    "endAt": 1753534799000
   }
 ]
