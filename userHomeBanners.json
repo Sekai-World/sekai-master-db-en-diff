@@ -11,17 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 987,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
-    "assetbundleName": "event_torimonothou_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 136,
-    "startAt": 1752098400000,
-    "endAt": 1752807599000
-  },
-  {
     "homeBannerId": 993,
     "seq": 140,
     "homeBannerType": "general",
@@ -31,6 +20,17 @@
     "transitionDestinationId": 538,
     "startAt": 1752433200000,
     "endAt": 1753210799000
+  },
+  {
+    "homeBannerId": 996,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]レオニWLイベ_イベントバナー",
+    "assetbundleName": "event_nightsky_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 137,
+    "startAt": 1752807600000,
+    "endAt": 1753999199000
   },
   {
     "homeBannerId": 999,
@@ -84,5 +84,16 @@
     "transitionDestinationType": "billing_shop_for_value_set",
     "startAt": 1752346800000,
     "endAt": 1753534799000
+  },
+  {
+    "homeBannerId": 100001,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[草薙寧々]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive315",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 315,
+    "startAt": 1752876000000,
+    "endAt": 1752994800000
   }
 ]
