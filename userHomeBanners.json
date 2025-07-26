@@ -11,15 +11,15 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 993,
-    "seq": 140,
+    "homeBannerId": 995,
+    "seq": 155,
     "homeBannerType": "general",
-    "name": "[It's Back] City of Spirits Gacha",
-    "assetbundleName": "banner_gacha538",
+    "name": "[It's Back] Growing Feelings, Words in the Snow Gacha",
+    "assetbundleName": "banner_gacha540",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 538,
-    "startAt": 1752433200000,
-    "endAt": 1753210799000
+    "transitionDestinationId": 540,
+    "startAt": 1753210800000,
+    "endAt": 1753988399000
   },
   {
     "homeBannerId": 996,
@@ -65,35 +65,25 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1163,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "15 Million Downloads! 4★ Guaranteed Gacha ",
-    "assetbundleName": "banner_gacha1130",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1130,
-    "startAt": 1752346800000,
-    "endAt": 1753556399000
-  },
-  {
-    "homeBannerId": 1165,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "15M DLs! Gacha Ticket",
-    "assetbundleName": "banner_shop_gachaticket_900dl_gl",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1752346800000,
-    "endAt": 1753534799000
-  },
-  {
-    "homeBannerId": 100001,
+    "homeBannerId": 100004,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[草薙寧々]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive315",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 315,
-    "startAt": 1752876000000,
-    "endAt": 1752994800000
+    "name": "An Shiraishi Happy Birthday 2025 Gacha",
+    "assetbundleName": "banner_gacha545",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 545,
+    "startAt": 1753513200000,
+    "endAt": 1753599600000
+  },
+  {
+    "homeBannerId": 100007,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ハピネスパッケージガチャ",
+    "assetbundleName": "banner_gacha548",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 548,
+    "startAt": 1753556400000,
+    "endAt": 1754333999000
   }
 ]
