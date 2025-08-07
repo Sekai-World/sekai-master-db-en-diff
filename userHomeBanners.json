@@ -11,39 +11,6 @@
     "endAt": 4102473599000
   },
   {
-    "homeBannerId": 995,
-    "seq": 155,
-    "homeBannerType": "general",
-    "name": "[It's Back] Growing Feelings, Words in the Snow Gacha",
-    "assetbundleName": "banner_gacha540",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 540,
-    "startAt": 1753210800000,
-    "endAt": 1753988399000
-  },
-  {
-    "homeBannerId": 996,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]レオニWLイベ_イベントバナー",
-    "assetbundleName": "event_nightsky_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 137,
-    "startAt": 1752807600000,
-    "endAt": 1753999199000
-  },
-  {
-    "homeBannerId": 999,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[イベント]レオニWLイベ_ガチャバナー",
-    "assetbundleName": "banner_gacha541",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 541,
-    "startAt": 1752778800000,
-    "endAt": 1753988399000
-  },
-  {
     "homeBannerId": 1001,
     "seq": 200,
     "homeBannerType": "general",
@@ -76,14 +43,25 @@
     "endAt": 1756666799000
   },
   {
-    "homeBannerId": 100007,
-    "seq": 90,
+    "homeBannerId": 1166,
+    "seq": 50,
     "homeBannerType": "general",
-    "name": "[ガチャ]ハピネスパッケージガチャ",
-    "assetbundleName": "banner_gacha548",
+    "name": "Persona 5 Royal Collaboration Premium Gift Gacha",
+    "assetbundleName": "banner_gacha781",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 548,
-    "startAt": 1753556400000,
-    "endAt": 1754333999000
+    "transitionDestinationId": 781,
+    "startAt": 1754334000000,
+    "endAt": 1755154799000
+  },
+  {
+    "homeBannerId": 100008,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]モモジャン箱イベ_イベントバナー",
+    "assetbundleName": "event_chase_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 138,
+    "startAt": 1753999200000,
+    "endAt": 1754776799000
   }
 ]
