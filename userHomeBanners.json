@@ -54,15 +54,48 @@
     "endAt": 1755154799000
   },
   {
-    "homeBannerId": 100008,
+    "homeBannerId": 100013,
     "seq": 110,
     "homeBannerType": "event",
-    "name": "[イベント]モモジャン箱イベ_イベントバナー",
-    "assetbundleName": "event_chase_2024",
+    "name": "[イベント]シャッフル作曲イベ_イベントバナー",
+    "assetbundleName": "event_beautifulsound_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 138,
-    "startAt": 1753999200000,
-    "endAt": 1754776799000
+    "transitionDestinationId": 139,
+    "startAt": 1754776800000,
+    "endAt": 1755485999000
+  },
+  {
+    "homeBannerId": 100015,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフル作曲イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha551",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 551,
+    "startAt": 1754766000000,
+    "endAt": 1755457199000
+  },
+  {
+    "homeBannerId": 100018,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "Ichika Hoshino Happy Birthday 2025 Gacha",
+    "assetbundleName": "banner_gacha553",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 553,
+    "startAt": 1754895600000,
+    "endAt": 1754982000000
+  },
+  {
+    "homeBannerId": 100019,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワールドリンクイベントサポートガチャ",
+    "assetbundleName": "banner_gacha552",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 552,
+    "startAt": 1754852400000,
+    "endAt": 1755457200000
   },
   {
     "homeBannerId": 100022,
