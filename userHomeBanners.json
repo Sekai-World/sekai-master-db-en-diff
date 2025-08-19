@@ -43,39 +43,6 @@
     "endAt": 1756666799000
   },
   {
-    "homeBannerId": 100013,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル作曲イベ_イベントバナー",
-    "assetbundleName": "event_beautifulsound_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 139,
-    "startAt": 1754776800000,
-    "endAt": 1755485999000
-  },
-  {
-    "homeBannerId": 100015,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル作曲イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha551",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 551,
-    "startAt": 1754766000000,
-    "endAt": 1755457199000
-  },
-  {
-    "homeBannerId": 100019,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ワールドリンクイベントサポートガチャ",
-    "assetbundleName": "banner_gacha552",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 552,
-    "startAt": 1754852400000,
-    "endAt": 1755457200000
-  },
-  {
     "homeBannerId": 100020,
     "seq": 140,
     "homeBannerType": "general",
@@ -85,5 +52,27 @@
     "transitionDestinationId": 556,
     "startAt": 1755111600000,
     "endAt": 1755889199000
+  },
+  {
+    "homeBannerId": 100023,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]バチャシンWLイベ_イベントバナー",
+    "assetbundleName": "event_beginning_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 140,
+    "startAt": 1755486000000,
+    "endAt": 1756677599000
+  },
+  {
+    "homeBannerId": 100025,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]バチャシンWLイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha559",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 559,
+    "startAt": 1755457200000,
+    "endAt": 1756666799000
   }
 ]
