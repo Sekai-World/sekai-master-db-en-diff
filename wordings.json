@@ -5365,6 +5365,10 @@
     "value": "MMM dd, yyyy HH:mm"
   },
   {
+    "wordingKey": "WORD_END_AT_WITHOUT_YEAR_FORMAT",
+    "value": "{0:00}\/{1:00} {2:00}:{3:00}まで"
+  },
+  {
     "wordingKey": "WORD_ENTER_LIMIT",
     "value": "Venue Restrictions"
   },
@@ -6099,6 +6103,14 @@
   {
     "wordingKey": "WORD_GACHA_EXTRA_COSTUME",
     "value": "Incl. Costume"
+  },
+  {
+    "wordingKey": "WORD_GACHA_EXTRA_CUSTOM_PROFILE",
+    "value": "Incl. Custom Profile Item"
+  },
+  {
+    "wordingKey": "WORD_GACHA_EXTRA_STAMP",
+    "value": "Incl. Stamp"
   },
   {
     "wordingKey": "WORD_GACHA_LIMITED_SET_PERIOD",

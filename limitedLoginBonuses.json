@@ -6062,5 +6062,115 @@
         "resourceBoxId": 1474
       }
     ]
+  },
+  {
+    "id": 1144,
+    "seq": 1144,
+    "name": "Magical Mirai 2025 Login Campaign",
+    "startAt": 1756494000000,
+    "endAt": 1756709999000,
+    "assetbundleName": "magicalmirai_2025",
+    "closeAt": 1756709999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1509,
+        "limitedLoginBonusId": 1144,
+        "day": 1,
+        "resourceBoxId": 1475
+      }
+    ]
+  },
+  {
+    "id": 1145,
+    "seq": 1145,
+    "name": "COLORFUL STAGE!×Ensemble Stars!! Music Crossover Celebration Login Campaign",
+    "startAt": 1757023200000,
+    "endAt": 1758265199000,
+    "assetbundleName": "ensemble_collab_2025",
+    "closeAt": 1758265199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1510,
+        "limitedLoginBonusId": 1145,
+        "day": 1,
+        "resourceBoxId": 1476
+      }
+    ]
+  },
+  {
+    "id": 1146,
+    "seq": 1146,
+    "name": "Crossover Celebration Login Bonus",
+    "startAt": 1757023200000,
+    "endAt": 1758265199000,
+    "assetbundleName": "ensemble_collab_2025_2_gl",
+    "closeAt": 1757761200000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1511,
+        "limitedLoginBonusId": 1146,
+        "day": 1,
+        "resourceBoxId": 1477
+      },
+      {
+        "id": 1512,
+        "limitedLoginBonusId": 1146,
+        "day": 2,
+        "resourceBoxId": 1478
+      },
+      {
+        "id": 1513,
+        "limitedLoginBonusId": 1146,
+        "day": 3,
+        "resourceBoxId": 1479
+      },
+      {
+        "id": 1514,
+        "limitedLoginBonusId": 1146,
+        "day": 4,
+        "resourceBoxId": 1480
+      },
+      {
+        "id": 1515,
+        "limitedLoginBonusId": 1146,
+        "day": 5,
+        "resourceBoxId": 1481
+      },
+      {
+        "id": 1516,
+        "limitedLoginBonusId": 1146,
+        "day": 6,
+        "resourceBoxId": 1482
+      },
+      {
+        "id": 1517,
+        "limitedLoginBonusId": 1146,
+        "day": 7,
+        "resourceBoxId": 1483
+      }
+    ]
+  },
+  {
+    "id": 1147,
+    "seq": 1147,
+    "name": "Crossover Special Login Campaign",
+    "startAt": 1757023200000,
+    "endAt": 1758265199000,
+    "assetbundleName": "ensemble_collab_2025_3_gl",
+    "closeAt": 1758193200000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1518,
+        "limitedLoginBonusId": 1147,
+        "day": 1,
+        "resourceBoxId": 1484
+      },
+      {
+        "id": 1519,
+        "limitedLoginBonusId": 1147,
+        "day": 2,
+        "resourceBoxId": 1485
+      }
+    ]
   }
 ]
