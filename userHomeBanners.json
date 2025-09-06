@@ -3,7 +3,7 @@
     "homeBannerId": 48,
     "seq": 9998,
     "homeBannerType": "general",
-    "name": "Welcome Show Banner",
+    "name": "ウェルカムライブバナー",
     "assetbundleName": "banner_virtuallive1",
     "transitionDestinationType": "virtual_live",
     "transitionDestinationId": 20001,
@@ -32,58 +32,57 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1164,
-    "seq": 100,
+    "homeBannerId": 1168,
+    "seq": 50,
     "homeBannerType": "general",
-    "name": "2025 Summer Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1131",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1131,
-    "startAt": 1753729200000,
-    "endAt": 1756666799000
+    "name": "Back to School Bundle",
+    "assetbundleName": "banner_shop_back_to_school_gl",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1756969200000,
+    "endAt": 1758524399000
   },
   {
-    "homeBannerId": 100021,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "[It's Back] Spooky Forest Gacha",
-    "assetbundleName": "banner_gacha557",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 557,
-    "startAt": 1755975600000,
-    "endAt": 1756753199000
-  },
-  {
-    "homeBannerId": 100023,
+    "homeBannerId": 100036,
     "seq": 110,
     "homeBannerType": "event",
-    "name": "[イベント]バチャシンWLイベ_イベントバナー",
-    "assetbundleName": "event_beginning_2024",
+    "name": "[イベント]シャッフル肝試しイベ_イベントバナー",
+    "assetbundleName": "event_horror_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 140,
-    "startAt": 1755486000000,
-    "endAt": 1756677599000
+    "transitionDestinationId": 141,
+    "startAt": 1756677600000,
+    "endAt": 1757541599000
   },
   {
-    "homeBannerId": 100025,
+    "homeBannerId": 100038,
     "seq": 100,
     "homeBannerType": "general",
-    "name": "[ガチャ]バチャシンWLイベ_ガチャバナー",
-    "assetbundleName": "banner_gacha559",
+    "name": "[ガチャ]シャッフル肝試しイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha568",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 559,
-    "startAt": 1755457200000,
-    "endAt": 1756666799000
+    "transitionDestinationId": 568,
+    "startAt": 1756666800000,
+    "endAt": 1757530799000
   },
   {
-    "homeBannerId": 100027,
-    "seq": 130,
+    "homeBannerId": 100205,
+    "seq": 15,
     "homeBannerType": "general",
-    "name": "[暁山瑞希]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive321",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 321,
-    "startAt": 1756159200000,
-    "endAt": 1756278000000
+    "name": "[ガチャ]交わるせかいのアンサンブルガチャ_バナー",
+    "assetbundleName": "banner_gacha685",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 685,
+    "startAt": 1757023200000,
+    "endAt": 1758265199000
+  },
+  {
+    "homeBannerId": 100207,
+    "seq": 20,
+    "homeBannerType": "general",
+    "name": "[ガチャ][プロセカ×あんさんぶるスターズ！！コラボ記念]プレミアムプレゼントガチャ_バナー",
+    "assetbundleName": "banner_gacha686",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 686,
+    "startAt": 1757023200000,
+    "endAt": 1758265199000
   }
 ]
