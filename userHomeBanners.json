@@ -42,26 +42,48 @@
     "endAt": 1758524399000
   },
   {
-    "homeBannerId": 100036,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル肝試しイベ_イベントバナー",
-    "assetbundleName": "event_horror_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 141,
-    "startAt": 1756677600000,
-    "endAt": 1757541599000
-  },
-  {
-    "homeBannerId": 100038,
+    "homeBannerId": 1169,
     "seq": 100,
     "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル肝試しイベ_ガチャバナー",
-    "assetbundleName": "banner_gacha568",
+    "name": "2025 September Premium Gift Gacha",
+    "assetbundleName": "banner_gacha1134",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 568,
-    "startAt": 1756666800000,
-    "endAt": 1757530799000
+    "transitionDestinationId": 1134,
+    "startAt": 1757790000000,
+    "endAt": 1759258799000
+  },
+  {
+    "homeBannerId": 100042,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルストイックイベ_イベントバナー",
+    "assetbundleName": "event_muscle_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 142,
+    "startAt": 1757541600000,
+    "endAt": 1758405599000
+  },
+  {
+    "homeBannerId": 100044,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフルストイックイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha573",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 573,
+    "startAt": 1757530800000,
+    "endAt": 1758394799000
+  },
+  {
+    "homeBannerId": 100047,
+    "seq": 150,
+    "homeBannerType": "general",
+    "name": "[It's Back] Imperial Soldiers Gacha",
+    "assetbundleName": "banner_gacha575",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 575,
+    "startAt": 1758049200000,
+    "endAt": 1758826799000
   },
   {
     "homeBannerId": 100205,
