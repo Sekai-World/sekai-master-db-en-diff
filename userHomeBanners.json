@@ -32,16 +32,6 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1168,
-    "seq": 50,
-    "homeBannerType": "general",
-    "name": "Back to School Bundle",
-    "assetbundleName": "banner_shop_back_to_school_gl",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1756969200000,
-    "endAt": 1758524399000
-  },
-  {
     "homeBannerId": 1169,
     "seq": 100,
     "homeBannerType": "general",
@@ -51,28 +41,6 @@
     "transitionDestinationId": 1134,
     "startAt": 1757790000000,
     "endAt": 1759258799000
-  },
-  {
-    "homeBannerId": 100042,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフルストイックイベ_イベントバナー",
-    "assetbundleName": "event_muscle_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 142,
-    "startAt": 1757541600000,
-    "endAt": 1758405599000
-  },
-  {
-    "homeBannerId": 100044,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフルストイックイベ_ガチャバナー",
-    "assetbundleName": "banner_gacha573",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 573,
-    "startAt": 1757530800000,
-    "endAt": 1758394799000
   },
   {
     "homeBannerId": 100047,
@@ -86,25 +54,25 @@
     "endAt": 1758826799000
   },
   {
-    "homeBannerId": 100205,
-    "seq": 15,
-    "homeBannerType": "general",
-    "name": "[ガチャ]交わるせかいのアンサンブルガチャ_バナー",
-    "assetbundleName": "banner_gacha685",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 685,
-    "startAt": 1757023200000,
-    "endAt": 1758265199000
+    "homeBannerId": 100049,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]レオニ箱イベ_イベントバナー",
+    "assetbundleName": "event_moment_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 143,
+    "startAt": 1758405600000,
+    "endAt": 1759269599000
   },
   {
-    "homeBannerId": 100207,
-    "seq": 20,
+    "homeBannerId": 100051,
+    "seq": 100,
     "homeBannerType": "general",
-    "name": "[ガチャ][プロセカ×あんさんぶるスターズ！！コラボ記念]プレミアムプレゼントガチャ_バナー",
-    "assetbundleName": "banner_gacha686",
+    "name": "[ガチャ]レオニ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha577",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 686,
-    "startAt": 1757023200000,
-    "endAt": 1758265199000
+    "transitionDestinationId": 577,
+    "startAt": 1758394800000,
+    "endAt": 1759258799000
   }
 ]
