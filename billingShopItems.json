@@ -206,7 +206,8 @@
     "billableLimitValue": 8000,
     "billableLimitResetIntervalType": "monthly",
     "assetbundleName": "shop_12",
-    "resourceBoxId": 21
+    "resourceBoxId": 21,
+    "endAt": 1759215599000
   },
   {
     "id": 19,
@@ -428,7 +429,8 @@
     "billableLimitResetIntervalType": "monthly",
     "assetbundleName": "shop_33",
     "resourceBoxId": 33,
-    "startAt": 1655762400000
+    "startAt": 1614294000000,
+    "endAt": 1759215599000
   },
   {
     "id": 34,
@@ -682,7 +684,7 @@
     "resourceBoxId": 24,
     "bonusResourceBoxId": 39,
     "startAt": 1746082800000,
-    "endAt": 4097203199000
+    "endAt": 1759301999000
   },
   {
     "id": 56,
@@ -918,8 +920,8 @@
     "assetbundleName": "shop_76",
     "resourceBoxId": 228,
     "bonusResourceBoxId": 53,
-    "badgeAssetbundleName": "badge0001_gl",
-    "startAt": 1727679600000
+    "startAt": 1727679600000,
+    "endAt": 1760209199000
   },
   {
     "id": 77,
@@ -1038,6 +1040,73 @@
     "bonusResourceBoxId": 39,
     "startAt": 1743490800000,
     "endAt": 1746082799000
+  },
+  {
+    "id": 109,
+    "seq": 300,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 92,
+    "name": "JP 4th Anniversary Sale Crystals (E)",
+    "description": "■商品\n・クリスタル×3,000\n■景品\n・無償クリスタル×500\n・想いのカケラ×50（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 3,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_67",
+    "resourceBoxId": 150,
+    "bonusResourceBoxId": 47,
+    "label": "Limited Time",
+    "startAt": 1759215600000,
+    "endAt": 1761937199000
+  },
+  {
+    "id": 110,
+    "seq": 290,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 93,
+    "name": "JP 4th Anniversary Sale Crystals (F)",
+    "description": "■商品\n・クリスタル×5,000\n■景品\n・無償クリスタル×850\n・想いのカケラ×100（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 3,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_19",
+    "resourceBoxId": 19,
+    "bonusResourceBoxId": 12,
+    "label": "Limited Time",
+    "startAt": 1759215600000,
+    "endAt": 1761937199000
+  },
+  {
+    "id": 111,
+    "seq": 280,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 94,
+    "name": "JP 4th Anniversary Sale Crystals (G)",
+    "description": "■商品\n・クリスタル×10,500\n■景品\n・無償クリスタル×1800\n・想いのカケラ×250（WEB限定ボーナス）",
+    "billableLimitType": "count",
+    "billableLimitValue": 3,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_20",
+    "resourceBoxId": 20,
+    "bonusResourceBoxId": 13,
+    "label": "Limited Time",
+    "startAt": 1759215600000,
+    "endAt": 1761937199000
+  },
+  {
+    "id": 112,
+    "seq": 1,
+    "billingShopItemType": "live_mission_pass",
+    "billingProductGroupId": 63,
+    "name": "[Updates Monthly] Premium Mission Pass",
+    "description": "クリスタル×1800\n想いのカケラ×300（ボーナス）\n今月のプレミアム報酬枠解放\n+各花びら×100",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_missionpass_4th_anniv",
+    "resourceBoxId": 24,
+    "bonusResourceBoxId": 39,
+    "startAt": 1759302000000,
+    "endAt": 1761980399000
   },
   {
     "id": 10001,
@@ -2990,6 +3059,98 @@
     "purchaseOption": "exchange"
   },
   {
+    "id": 10167,
+    "seq": 330,
+    "billingShopItemType": "value_set",
+    "name": "Basic Your World Bundle",
+    "description": "■Product\nGacha Ticket x5\n\n■Bonus\nWish Piece x300\nPractice Score (Advanced) x5\nMagic Thread x30\nMagic Cloth x300\nStamp Voucher x3\nCoins x100,000",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10167",
+    "resourceBoxId": 332,
+    "bonusResourceBoxId": 71,
+    "label": "1 Time Only",
+    "startAt": 1759215600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10168,
+    "seq": 320,
+    "billingShopItemType": "value_set",
+    "name": "Standard Your World Bundle",
+    "description": "■Product\nGacha Ticket x10\n\n■Bonus\nWish Piece x1,000\nPractice Score (Advanced) x10\nSkill Up Score (Intermediate) x5\nMiracle Gem x50\nCover Card Voucher x1\nCoins x300,000\nBonus Energy Drink x5",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10168",
+    "resourceBoxId": 333,
+    "bonusResourceBoxId": 72,
+    "label": "1 Time Only",
+    "startAt": 1759215600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10169,
+    "seq": 310,
+    "billingShopItemType": "value_set",
+    "name": "Deluxe Your World Bundle",
+    "description": "■Product\nGacha Ticket x20\n\n■Bonus\nWish Jewel x1\nPractice Score (Advanced) x20\nSkill Up Score (Advanced) x4\nMiracle Gem x100\nCharm (All types) ×5000\nMagical Seed x100\nCover Card Voucher x1\nCoins x500,000\nBonus Energy Drink x10",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10169",
+    "resourceBoxId": 334,
+    "bonusResourceBoxId": 73,
+    "label": "1 Time Only",
+    "startAt": 1759215600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10170,
+    "seq": 300,
+    "billingShopItemType": "value_set",
+    "name": "Premium Your World Bundle",
+    "description": "■Product\nGacha Ticket x30\n\n■Bonus\nWish Jewel x2\nPractice Score (Advanced) x30\nSkill Up Score (Advanced) x6\nMagical Seed x150\nWish Drop x5\nCoins x500,000\nBonus Energy Drink x15",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10170",
+    "resourceBoxId": 335,
+    "bonusResourceBoxId": 74,
+    "label": "1 Time Only",
+    "startAt": 1759215600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10171,
+    "seq": 10,
+    "billingShopItemType": "value_set",
+    "name": "Show Pts x100",
+    "description": "Show Pts x100",
+    "billableLimitType": "live_point",
+    "billableLimitValue": 8000,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_12",
+    "resourceBoxId": 21,
+    "startAt": 1759215600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 10172,
+    "seq": 20,
+    "billingShopItemType": "value_set",
+    "name": "Show Pts x1,000",
+    "description": "Show Pts x1,000",
+    "billableLimitType": "live_point",
+    "billableLimitValue": 8000,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_33",
+    "resourceBoxId": 33,
+    "startAt": 1759215600000,
+    "purchaseOption": "exchange"
+  },
+  {
     "id": 20100,
     "seq": 100,
     "billingShopItemType": "value_set",
@@ -3571,8 +3732,8 @@
     "assetbundleName": "shop_20137",
     "resourceBoxId": 20117,
     "bonusResourceBoxId": 20122,
-    "startAt": 1756623600000,
-    "endAt": 1757228399000
+    "startAt": 1759647600000,
+    "endAt": 1760252399000
   },
   {
     "id": 20141,
@@ -3737,7 +3898,8 @@
     "resourceBoxId": 39,
     "bonusResourceBoxId": 27,
     "label": "1 Time Only",
-    "startAt": 1665525600000
+    "startAt": 1665525600000,
+    "endAt": 1760209199000
   },
   {
     "id": 50005,
@@ -3753,7 +3915,8 @@
     "resourceBoxId": 40,
     "bonusResourceBoxId": 28,
     "label": "1 Time Only",
-    "startAt": 1665525600000
+    "startAt": 1665525600000,
+    "endAt": 1760209199000
   },
   {
     "id": 50006,
@@ -3769,7 +3932,8 @@
     "resourceBoxId": 41,
     "bonusResourceBoxId": 29,
     "label": "1 Time Only",
-    "startAt": 1665525600000
+    "startAt": 1665525600000,
+    "endAt": 1760209199000
   },
   {
     "id": 50007,
@@ -3785,7 +3949,8 @@
     "resourceBoxId": 42,
     "bonusResourceBoxId": 30,
     "label": "1 Time Only",
-    "startAt": 1665525600000
+    "startAt": 1665525600000,
+    "endAt": 1760209199000
   },
   {
     "id": 50008,
@@ -9189,6 +9354,160 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 318,
     "startAt": 1756710000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300600,
+    "seq": 459309,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "Autumn Costumes All Colors",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 319,
+    "startAt": 1759302000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300601,
+    "seq": 459310,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "Autumn Costumes Original Color",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 320,
+    "startAt": 1759302000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300602,
+    "seq": 459311,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "Autumn Costumes Color Variant 1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 321,
+    "startAt": 1759302000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300603,
+    "seq": 459312,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "Autumn Costumes Color Variant 2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 322,
+    "startAt": 1759302000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300604,
+    "seq": 459313,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "Autumn Costumes Color Variant 3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 323,
+    "startAt": 1759302000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300610,
+    "seq": 300660,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "JP 3rd Anniversary Costumes",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300610",
+    "resourceBoxId": 324,
+    "startAt": 1759302000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300620,
+    "seq": 300650,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "JP 3rd Anniversary Leo\/need Costumes",
+    "description": "*Can only be equipped by Leo\/need and VIRTUAL SINGER characters.",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300620",
+    "resourceBoxId": 325,
+    "startAt": 1759302000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300630,
+    "seq": 300640,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "JP 3rd Anniversary MORE MORE JUMP! Costumes",
+    "description": "*Can only be equipped by MORE MORE JUMP! and VIRTUAL SINGER characters.",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300630",
+    "resourceBoxId": 326,
+    "startAt": 1759302000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300640,
+    "seq": 300630,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "JP 3rd Anniversary Vivid BAD SQUAD Costumes",
+    "description": "*Can only be equipped by Vivid BAD SQUAD and VIRTUAL SINGER characters.",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300640",
+    "resourceBoxId": 327,
+    "startAt": 1759302000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300650,
+    "seq": 300620,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "JP 3rd Anniversary Wonderlands×Showtime Costumes",
+    "description": "*Can only be equipped by Wonderlands×Showtime and VIRTUAL SINGER characters.",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300650",
+    "resourceBoxId": 328,
+    "startAt": 1759302000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300660,
+    "seq": 300610,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "JP 3rd Anniversary Nightcord at 25:00 Costumes",
+    "description": "*Can only be equipped by Nightcord at 25:00 and VIRTUAL SINGER characters.",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300660",
+    "resourceBoxId": 329,
+    "startAt": 1759302000000,
     "purchaseOption": "exchange"
   },
   {

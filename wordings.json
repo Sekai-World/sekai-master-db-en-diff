@@ -213,7 +213,7 @@
   },
   {
     "wordingKey": "MSG_AD_REWARD_LIVE_BOOST_RECOVER_ANOUNCE",
-    "value": "Your Bonus Energy cannot exceed 99.\nExcess energy will be discarded.\nRestore anyway?"
+    "value": "Your Bonus Energy cannot exceed 999.\nExcess energy will be discarded.\nRestore anyway?"
   },
   {
     "wordingKey": "MSG_AD_REWARD_MASTER_EXPIRED",
@@ -688,6 +688,10 @@
     "value": "The player you reported has received a penalty.\nThank you for reporting them."
   },
   {
+    "wordingKey": "MSG_COMPLETE_READ_REWARD_TIPS",
+    "value": "Earn 1 completion stamp for each Main or Event Story episode you view without skipping or fast forwarding."
+  },
+  {
     "wordingKey": "MSG_CONDITION_GET_CARD",
     "value": "Obtain \"{0}\" {1}"
   },
@@ -1088,8 +1092,16 @@
     "value": "{0} purchased."
   },
   {
+    "wordingKey": "MSG_EXCHANGE_CONFIRM_DIALOG_FREEBIE",
+    "value": "As you already own this Character, you will receive a bonus item.\n<color=#ff5588>*Previously obtained Characters are sent to the Green Room.<\/color>"
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_ERROR",
     "value": "No items available to trade.\nReturning to home screen."
+  },
+  {
+    "wordingKey": "MSG_EXCHANGE_FREEBIE_CONFIRM_DIALOG",
+    "value": "As you already own this Character, you will receive this bonus."
   },
   {
     "wordingKey": "MSG_EXCHANGE_GACHA_CIEL_1",
@@ -1269,7 +1281,7 @@
   },
   {
     "wordingKey": "MSG_FRIEND_INVITE_REWARD_DIALOG",
-    "value": "Reward for <color=#ff5588>{0}<\/color> completing the Invitee Missions by viewing the {1}, {2} and {3} Main Stories."
+    "value": "<color=#ff5588>{0}<\/color> has completed the Invitee Missions. You got a reward!"
   },
   {
     "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_OTHER",
@@ -1310,6 +1322,14 @@
   {
     "wordingKey": "MSG_FRIEND_UNDEFINED_ERROR",
     "value": "A connection error has occurred."
+  },
+  {
+    "wordingKey": "MSG_GACHA_BONUS_ITEM_DESCRIPTION",
+    "value": "When the Gacha Bonus gauge reaches {0}, you will receive one of the following based on existing drop rates."
+  },
+  {
+    "wordingKey": "MSG_GACHA_BONUS_ITEM_REWARD_SELECT_CONFIRM_TIPS",
+    "value": "Receive this item?"
   },
   {
     "wordingKey": "MSG_GACHA_CEIL_TICKET_CONVERT_CONFIRM",
@@ -1712,6 +1732,10 @@
     "value": "Trade {0} <color=#FF5599>x{1}<\/color>\nfor this item?"
   },
   {
+    "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM_BY_GACHA_CIEL",
+    "value": "Trade {0} <color=#FF5599>x{1}<\/color> for this item?"
+  },
+  {
     "wordingKey": "MSG_MAX_ANOUNCE",
     "value": "*Max of {0}."
   },
@@ -1846,6 +1870,14 @@
   {
     "wordingKey": "MSG_MULTIPLAY_ROOM_NOT_FOUND_WITH_ERROR_CODE",
     "value": "Unable to find room. ({0})"
+  },
+  {
+    "wordingKey": "MSG_MULTI_COSTUME_COST_CONFIRM",
+    "value": "Trade the following item for this Costume?"
+  },
+  {
+    "wordingKey": "MSG_MULTI_COST_CONFIRM",
+    "value": "Trade the following item for this item?"
   },
   {
     "wordingKey": "MSG_MULTI_DISSOLUSION",
@@ -2144,6 +2176,10 @@
     "value": "Unfair practices detected from another player.\nCurrent show results have been nullified."
   },
   {
+    "wordingKey": "MSG_NO_DEMETION_RANK_MATCH",
+    "value": "You will not be demoted to a lower rank."
+  },
+  {
     "wordingKey": "MSG_NO_EXTERNAL_PAYMENT_LINK",
     "value": "No external store site."
   },
@@ -2253,7 +2289,7 @@
   },
   {
     "wordingKey": "MSG_OVER_RECOVER",
-    "value": "Bonus Energy limit: 99"
+    "value": "Bonus Energy Limit: 999"
   },
   {
     "wordingKey": "MSG_PAID_LIVE_DISC",
@@ -2342,6 +2378,10 @@
   {
     "wordingKey": "MSG_PRESENT_COUNT",
     "value": "x{0}"
+  },
+  {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_1",
+    "value": "You will receive a prize of one or more items for each pull.\n\n *Prizes will be randomly selected on the Gacha results screen.\n *Prizes are pulled one at a time based on existing drop rates. The drop rates therefore do not mean that, for example, items with a drop rate of 1% are guaranteed to appear once every 100 pulls.\n *One of the prizes is a JP 4th Anniversary Bloom Festival Gacha Ticket. These tickets can only be used in the JP 4th Anniversary Bloom Festival Gacha Dream Pick scheduled to be held from Sep. 30, 2025 12:00 PM (PT). Furthermore, please note that once the Gacha ends, you will no longer be able to use any JP 4th Anniversary Bloom Festival Gacha Tickets.\n *One of the prizes is a JP 4th Anniversary 10x Free Gacha Ticket. These tickets can only be used in the JP 4th Anniversary 10x Free Gacha Ticket scheduled to be held from Sep. 30, 2025 12:00 PM (PT). Please note that once that Gacha ends, you will no longer be able to use any JP 4th Anniversary 10x Free Gacha Tickets."
   },
   {
     "wordingKey": "MSG_PRODUCT_IS_PENDING",
@@ -2508,6 +2548,10 @@
     "value": "Your Gacha Bonus will reach {0}!\nPlease select a Character to receive."
   },
   {
+    "wordingKey": "MSG_RECOLLECTION_APPEAL_SELECT_ITEM",
+    "value": "Your Gacha Bonus will reach {0}!\nPlease select an item to receive."
+  },
+  {
     "wordingKey": "MSG_RECOLLECTION_RANDOM_NOTICE",
     "value": "An applicable 4★ Character that you do not own will appear.\nIf you already own all applicable Characters, one that you already own will appear."
   },
@@ -2616,6 +2660,10 @@
     "value": "x{0} more today"
   },
   {
+    "wordingKey": "MSG_REVIEW_GIFT",
+    "value": "See Prizes"
+  },
+  {
     "wordingKey": "MSG_REWARDED_AD_LOADING",
     "value": "CMの読み込み中です。"
   },
@@ -2661,7 +2709,7 @@
   },
   {
     "wordingKey": "MSG_SELECT_LIST",
-    "value": "Select 10 Characters from the following."
+    "value": "Select {0} Characters from the following."
   },
   {
     "wordingKey": "MSG_SELECT_ONE_GIFT",
@@ -3096,6 +3144,10 @@
     "value": "Reward for partial participation in the {0}."
   },
   {
+    "wordingKey": "MSG_VIRTUAL_LIVE_HOME_REWARD_LIST_DIALOG_BODY",
+    "value": "Received Virtual Show reward."
+  },
+  {
     "wordingKey": "MSG_VIRTUAL_LIVE_IN_SESSION",
     "value": "Virtual Show Now Live!"
   },
@@ -3192,6 +3244,10 @@
     "value": "Please get ready and wait for the show to begin."
   },
   {
+    "wordingKey": "MSG_WARNING_LEAVE_CHARACTER",
+    "value": "After you view this story, Mizuki Akiyama will temporarily no longer appear in the Real World on the home screen.\nAre you sure you want to continue?"
+  },
+  {
     "wordingKey": "MSG_WARN_ALREADY_USE_STREAMING_LIVE_TICKET",
     "value": "*You have already used {0}."
   },
@@ -3257,7 +3313,7 @@
   },
   {
     "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_UNDECID_CONFIRM",
-    "value": "Your Dream Picks have not been confirmed yet.\nYou must choose all of your Dream Picks to pull the Gacha. Choose Dream Picks later?"
+    "value": "Unselected Characters remaining.\nYou must fill every slot to pull the Bloom Festival Gacha Dream Pick.\nChoose later?"
   },
   {
     "wordingKey": "MSG_WISH_LIST_SELECT_MEMBER_UNDECID_CONFIRM_TITLE",
@@ -4036,6 +4092,10 @@
     "value": "Bonus Mission Completion Reward"
   },
   {
+    "wordingKey": "WORD_BONUS_MISSION_EVENT_BUTTON",
+    "value": "Bonus\nMissions"
+  },
+  {
     "wordingKey": "WORD_BONUS_MISSION_TAB",
     "value": "Bonus"
   },
@@ -4756,6 +4816,14 @@
     "value": "Purchase Complete"
   },
   {
+    "wordingKey": "WORD_COMPLETE_READ_RATE",
+    "value": "Story Completion"
+  },
+  {
+    "wordingKey": "WORD_COMPLETE_READ_STAMP",
+    "value": "Completion Stamps"
+  },
+  {
     "wordingKey": "WORD_COMPOSER",
     "value": "Music"
   },
@@ -5441,6 +5509,10 @@
     "value": "Side Story Bonus"
   },
   {
+    "wordingKey": "WORD_EPISODE_SKIP_OR_FAST",
+    "value": "Skipped\/FFed"
+  },
+  {
     "wordingKey": "WORD_EPISODE_UNLOCK",
     "value": "Side Story Unlock"
   },
@@ -5451,6 +5523,10 @@
   {
     "wordingKey": "WORD_EPISODE_UNREAD_ALL",
     "value": "None Viewed"
+  },
+  {
+    "wordingKey": "WORD_EPISODE_UNREAD_OR_SKIP_OR_FAST",
+    "value": "Unviewed\/Skipped\/FFed"
   },
   {
     "wordingKey": "WORD_EQUIP_MEMBER",
@@ -5845,6 +5921,10 @@
     "value": "Good Blessing"
   },
   {
+    "wordingKey": "WORD_FORTUNE_FLOWER",
+    "value": "Fortune Flower"
+  },
+  {
     "wordingKey": "WORD_FORTUNE_GACHA",
     "value": "Omikuji"
   },
@@ -6037,6 +6117,18 @@
     "value": "Gacha Bonus"
   },
   {
+    "wordingKey": "WORD_GACHA_BONUS_ITEM_PROVISION",
+    "value": "Item Drop Rates"
+  },
+  {
+    "wordingKey": "WORD_GACHA_BONUS_ITEM_REWARD_SELECT_TITLE",
+    "value": "Select a {0} to receive."
+  },
+  {
+    "wordingKey": "WORD_GACHA_BONUS_SUMMARY",
+    "value": "Gacha Bonus"
+  },
+  {
     "wordingKey": "WORD_GACHA_CATEGORY_ACQUISITION_FILTER_CAPTION",
     "value": "Owned"
   },
@@ -6115,6 +6207,10 @@
   {
     "wordingKey": "WORD_GACHA_LIMITED_SET_PERIOD",
     "value": "Ends on {0}"
+  },
+  {
+    "wordingKey": "WORD_GACHA_OMAKE_CHARA_TICKET_EXCHANGE_DIALOG",
+    "value": "Incl.\nBonus"
   },
   {
     "wordingKey": "WORD_GACHA_SELECT_LIST",
@@ -6538,7 +6634,7 @@
   },
   {
     "wordingKey": "WORD_HONOR_ACHIEVEMENT",
-    "value": "Titles\n(Achievements)"
+    "value": "Achievements"
   },
   {
     "wordingKey": "WORD_HONOR_AND_PROFILE",
@@ -7549,6 +7645,10 @@
     "value": "{0}×{1}"
   },
   {
+    "wordingKey": "WORD_MULTIPLE_ITEM_SPACE_FORMAT",
+    "value": "{0} x{1}"
+  },
+  {
     "wordingKey": "WORD_MULTIPLY_FORMAT",
     "value": "×{0}"
   },
@@ -7945,6 +8045,10 @@
     "value": "{0} Players"
   },
   {
+    "wordingKey": "WORD_OBTAINED_COMPLETE_READ_STAMP",
+    "value": "Stamps Earned"
+  },
+  {
     "wordingKey": "WORD_OBTAIN_ALL",
     "value": "Claim All"
   },
@@ -7955,6 +8059,10 @@
   {
     "wordingKey": "WORD_OFFER",
     "value": "Special promotion!"
+  },
+  {
+    "wordingKey": "WORD_OFFER_ITEM_LIST",
+    "value": "Item List"
   },
   {
     "wordingKey": "WORD_OFFLINE_EVENT_LIST_DIALOG_TITLE",
@@ -8427,6 +8535,14 @@
   {
     "wordingKey": "WORD_PRIVATE_ROOM_ID",
     "value": "Private Room ID"
+  },
+  {
+    "wordingKey": "WORD_PRIZE_GIFT",
+    "value": "Prizes"
+  },
+  {
+    "wordingKey": "WORD_PRIZE_GIFT_SUMMARY",
+    "value": "Prize Summary"
   },
   {
     "wordingKey": "WORD_PROFILE",
@@ -9559,6 +9675,10 @@
   {
     "wordingKey": "WORD_STORY_INTRODUCTION",
     "value": "About"
+  },
+  {
+    "wordingKey": "WORD_STORY_READ_STATUS",
+    "value": "View Status"
   },
   {
     "wordingKey": "WORD_STORY_REWARD",

@@ -443,7 +443,7 @@
   {
     "id": 101,
     "title": "Auto-Play",
-    "description": "You can use Auto-Play to clear Solo Shows for you.",
+    "description": "You can use Auto-Play to clear Solo Shows and Challenge Shows for you.",
     "fromUserRank": 1,
     "toUserRank": 999
   },
@@ -471,7 +471,7 @@
   {
     "id": 105,
     "title": "Challenge Shows - EX Levels",
-    "description": "When a character's Challenge Show Level reaches 100, it will switch to EX Levels.",
+    "description": "When a character's Challenge Show Level reaches 150, it will switch to EX Levels.",
     "fromUserRank": 250,
     "toUserRank": 999
   },
@@ -710,6 +710,13 @@
     "id": 140,
     "title": "フルコンボ・ALL PERFECT専用のライブリザルトセリフ",
     "description": "If you achieve a Full Combo or All Perfect, you will hear a special voice line on the results screen.",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
+    "id": 141,
+    "title": "ストーリーの完読",
+    "description": "View Main or Event Story episodes without skipping or fast forwarding to earn rewards.",
     "fromUserRank": 1,
     "toUserRank": 999
   },

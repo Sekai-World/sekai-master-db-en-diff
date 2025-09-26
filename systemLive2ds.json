@@ -59098,7 +59098,7 @@
     "motion": "w-cute02-forward",
     "expression": "face_smile_02",
     "publishedAt": 1756677600000,
-    "closedAt": 1760220000000,
+    "closedAt": 1760306400000,
     "weight": 1
   },
   {
@@ -59111,7 +59111,7 @@
     "motion": "w-cool10-nod",
     "expression": "face_smile_01",
     "publishedAt": 1756677600000,
-    "closedAt": 1760220000000,
+    "closedAt": 1760306400000,
     "weight": 1
   },
   {
@@ -59124,7 +59124,7 @@
     "motion": "w-cute02-nodB",
     "expression": "face_smile_01",
     "publishedAt": 1756677600000,
-    "closedAt": 1760220000000,
+    "closedAt": 1760306400000,
     "weight": 1
   },
   {
@@ -60061,6 +60061,32 @@
     "expression": "face_idol_smile_03",
     "publishedAt": 1759647600000,
     "closedAt": 1759733999000,
+    "weight": 1
+  },
+  {
+    "id": 4700,
+    "characterId": 20,
+    "unit": "school_refusal",
+    "serif": "Usually I'd do something to distract myself, but now I just feel nothing...",
+    "assetbundleName": "voicepack_20",
+    "voice": "system_mizukirinji_020_001",
+    "motion": "w-normal07-tilthead",
+    "expression": "face_nhisad_05",
+    "publishedAt": 1760220000000,
+    "closedAt": 1765005137000,
+    "weight": 1
+  },
+  {
+    "id": 4701,
+    "characterId": 20,
+    "unit": "school_refusal",
+    "serif": "Oh yeah, I have work today. Ugh... It'd be bad if I didn't show up.",
+    "assetbundleName": "voicepack_20",
+    "voice": "system_mizukirinji_020_002",
+    "motion": "w-normal15-shy",
+    "expression": "face_nhisad_02",
+    "publishedAt": 1760220000000,
+    "closedAt": 1765005137000,
     "weight": 1
   }
 ]
