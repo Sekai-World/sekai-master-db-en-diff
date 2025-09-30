@@ -32,15 +32,14 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1169,
-    "seq": 100,
+    "homeBannerId": 1171,
+    "seq": 150,
     "homeBannerType": "general",
-    "name": "2025 September Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1134",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1134,
-    "startAt": 1757790000000,
-    "endAt": 1759258799000
+    "name": "4周年クリスタルショップ",
+    "assetbundleName": "banner_shop_4y",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1759215600000,
+    "endAt": 1761937199000
   },
   {
     "homeBannerId": 1172,
@@ -75,25 +74,58 @@
     "endAt": 1759269599000
   },
   {
-    "homeBannerId": 100051,
-    "seq": 100,
+    "homeBannerId": 100057,
+    "seq": 20,
     "homeBannerType": "general",
-    "name": "[ガチャ]レオニ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha577",
+    "name": "JP 3rd Anniversary Colorful Festival Gacha Dream Pick",
+    "assetbundleName": "banner_gacha581",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 577,
-    "startAt": 1758394800000,
-    "endAt": 1759258799000
+    "transitionDestinationId": 581,
+    "startAt": 1759258800000,
+    "endAt": 1759604399000
   },
   {
-    "homeBannerId": 100055,
-    "seq": 60,
+    "homeBannerId": 100058,
+    "seq": 30,
     "homeBannerType": "general",
-    "name": "JP 4th Anniversary Run-Up Special Prize Gacha",
-    "assetbundleName": "banner_gacha578",
+    "name": "[ガチャ]セレクトリストガチャ LIMITED EDITION",
+    "assetbundleName": "banner_gacha588",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 578,
-    "startAt": 1759086000000,
-    "endAt": 1759258799000
+    "transitionDestinationId": 588,
+    "startAt": 1759215600000,
+    "endAt": 1761937199000
+  },
+  {
+    "homeBannerId": 100059,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "[ガチャ]メモリアルセレクトガチャ",
+    "assetbundleName": "banner_gacha589",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 589,
+    "startAt": 1759215600000,
+    "endAt": 1761937199000
+  },
+  {
+    "homeBannerId": 100060,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ガチャ_プレプレガチャ全体バナー",
+    "assetbundleName": "banner_gacha_tab32",
+    "transitionDestinationType": "gacha_tab_parent",
+    "transitionDestinationId": 67,
+    "startAt": 1759215600000,
+    "endAt": 1761937199000
+  },
+  {
+    "homeBannerId": 100061,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ガチャ_無料10連ガチャバナー",
+    "assetbundleName": "banner_gacha590",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 590,
+    "startAt": 1759258800000,
+    "endAt": 1764532799000
   }
 ]
