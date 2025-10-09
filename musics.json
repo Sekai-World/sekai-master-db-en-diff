@@ -10111,7 +10111,8 @@
     "seq": 2550301,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Opera! Space Opera!",
     "pronunciation": "operaspaceopera",
@@ -10279,7 +10280,8 @@
     "seq": 2351101,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Supernova",
     "pronunciation": "supernova",
@@ -10779,6 +10781,30 @@
     "isFullLength": false
   },
   {
+    "id": 478,
+    "seq": 2456201,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "FUEL",
+    "pronunciation": "fuel",
+    "creatorArtistId": 262,
+    "lyricist": "Utsu-P",
+    "composer": "Utsu-P",
+    "arranger": "Utsu-P",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_478",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1761804300000,
+    "releasedAt": 1730188800000,
+    "liveStageId": 1,
+    "fillerSec": 8.230799674987793,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
     "id": 479,
     "seq": 1129901,
     "releaseConditionId": 5,
@@ -10967,6 +10993,30 @@
     "releasedAt": 1696320000000,
     "liveStageId": 1,
     "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 488,
+    "seq": 1156001,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Memoria",
+    "pronunciation": "memoria",
+    "creatorArtistId": 260,
+    "lyricist": "Aira",
+    "composer": "Aira",
+    "arranger": "Aira",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_488",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1761084000000,
+    "releasedAt": 1698652800000,
+    "liveStageId": 1,
+    "fillerSec": 9.170999526977539,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -11479,7 +11529,7 @@
   },
   {
     "id": 522,
-    "seq": 1453402,
+    "seq": 1442901,
     "releaseConditionId": 5,
     "categories": [
       "image"
@@ -11495,7 +11545,7 @@
     "assetbundleName": "jacket_s_522",
     "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
     "publishedAt": 1755122400000,
-    "releasedAt": 1552377600000,
+    "releasedAt": 1348300800000,
     "liveStageId": 1,
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
@@ -11670,6 +11720,30 @@
     "isFullLength": false
   },
   {
+    "id": 530,
+    "seq": 1355901,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "Cat Food",
+    "pronunciation": "catfood",
+    "creatorArtistId": 67,
+    "lyricist": "doriko",
+    "composer": "doriko",
+    "arranger": "doriko",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_530",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1760565600000,
+    "releasedAt": 1289980800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 531,
     "seq": 1154901,
     "releaseConditionId": 5,
@@ -11811,6 +11885,78 @@
     "liveStageId": 1,
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 543,
+    "seq": 2155701,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "Birthright Syndrome",
+    "pronunciation": "birthrightsyndrome",
+    "creatorArtistId": 220,
+    "lyricist": "Camellia",
+    "composer": "Camellia",
+    "arranger": "Camellia",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_543",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1760133600000,
+    "releasedAt": 1728547200000,
+    "liveStageId": 1,
+    "fillerSec": 8.466699600219727,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 545,
+    "seq": 1156101,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Noten",
+    "pronunciation": "noten",
+    "creatorArtistId": 261,
+    "lyricist": "Murata Shiyuu",
+    "composer": "Murata Shiyuu",
+    "arranger": "Murata Shiyuu",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_545",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1761688800000,
+    "releasedAt": 1717660800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 549,
+    "seq": 2655801,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv_2d"
+    ],
+    "title": "BAKENOHANA",
+    "pronunciation": "bakenohana",
+    "creatorArtistId": 228,
+    "lyricist": "NAKISO",
+    "composer": "NAKISO",
+    "arranger": "NAKISO",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_549",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1760306400000,
+    "releasedAt": 1728720000000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
   {
