@@ -32,17 +32,6 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1170,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "2025 October Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1135",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1135,
-    "startAt": 1759345200000,
-    "endAt": 1760986799000
-  },
-  {
     "homeBannerId": 1171,
     "seq": 150,
     "homeBannerType": "general",
@@ -61,6 +50,17 @@
     "transitionDestinationType": "friend_invitation_campaign",
     "startAt": 1758913200000,
     "endAt": 1762675199000
+  },
+  {
+    "homeBannerId": 1173,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "2025 Halloween Premium Gift Gacha",
+    "assetbundleName": "banner_gacha1136",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1136,
+    "startAt": 1760986800000,
+    "endAt": 1762459199000
   },
   {
     "homeBannerId": 100058,
@@ -107,36 +107,47 @@
     "endAt": 1764532799000
   },
   {
-    "homeBannerId": 100062,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]4周年シャッフルイベ_イベントバナー",
-    "assetbundleName": "event_dreamstage_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 144,
-    "startAt": 1759269600000,
-    "endAt": 1760306399000
+    "homeBannerId": 100075,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "JP 4th Anniversary Happiness Package Gacha",
+    "assetbundleName": "banner_gacha599",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 599,
+    "startAt": 1760382000000,
+    "endAt": 1761937199000
   },
   {
-    "homeBannerId": 100064,
+    "homeBannerId": 100078,
     "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]4周年シャッフルイベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha591",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 591,
-    "startAt": 1759604400000,
-    "endAt": 1760295599000
+    "homeBannerType": "event",
+    "name": "[イベント]ビビバス箱イベ_イベントバナー",
+    "assetbundleName": "event_rekindle_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 146,
+    "startAt": 1761084000000,
+    "endAt": 1761947999000
   },
   {
-    "homeBannerId": 100076,
-    "seq": 140,
+    "homeBannerId": 100080,
+    "seq": 100,
     "homeBannerType": "general",
-    "name": "[It's Back] Grow Up With Me! Gacha",
-    "assetbundleName": "banner_gacha600",
+    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha603",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 600,
-    "startAt": 1759950000000,
-    "endAt": 1760727599000
+    "transitionDestinationId": 603,
+    "startAt": 1761073200000,
+    "endAt": 1761937199000
+  },
+  {
+    "homeBannerId": 100086,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "Honami Mochizuki Happy Birthday 2025 Gacha",
+    "assetbundleName": "banner_gacha604",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 604,
+    "startAt": 1761548400000,
+    "endAt": 1761634800000
   }
 ]
