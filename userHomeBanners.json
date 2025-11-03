@@ -32,16 +32,6 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1171,
-    "seq": 150,
-    "homeBannerType": "general",
-    "name": "4周年クリスタルショップ",
-    "assetbundleName": "banner_shop_4y",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1759215600000,
-    "endAt": 1761937199000
-  },
-  {
     "homeBannerId": 1172,
     "seq": 9999,
     "homeBannerType": "general",
@@ -63,39 +53,6 @@
     "endAt": 1762459199000
   },
   {
-    "homeBannerId": 100058,
-    "seq": 30,
-    "homeBannerType": "general",
-    "name": "[ガチャ]セレクトリストガチャ LIMITED EDITION",
-    "assetbundleName": "banner_gacha588",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 588,
-    "startAt": 1759215600000,
-    "endAt": 1761937199000
-  },
-  {
-    "homeBannerId": 100059,
-    "seq": 40,
-    "homeBannerType": "general",
-    "name": "[ガチャ]メモリアルセレクトガチャ",
-    "assetbundleName": "banner_gacha589",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 589,
-    "startAt": 1759215600000,
-    "endAt": 1761937199000
-  },
-  {
-    "homeBannerId": 100060,
-    "seq": 50,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ガチャ_プレプレガチャ全体バナー",
-    "assetbundleName": "banner_gacha_tab32",
-    "transitionDestinationType": "gacha_tab_parent",
-    "transitionDestinationId": 67,
-    "startAt": 1759215600000,
-    "endAt": 1761937199000
-  },
-  {
     "homeBannerId": 100061,
     "seq": 200,
     "homeBannerType": "general",
@@ -107,47 +64,47 @@
     "endAt": 1764532799000
   },
   {
-    "homeBannerId": 100075,
-    "seq": 60,
+    "homeBannerId": 100087,
+    "seq": 140,
     "homeBannerType": "general",
-    "name": "JP 4th Anniversary Happiness Package Gacha",
-    "assetbundleName": "banner_gacha599",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 599,
-    "startAt": 1760382000000,
-    "endAt": 1761937199000
+    "name": "Halloween Show 2025",
+    "assetbundleName": "banner_virtuallive333",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 333,
+    "startAt": 1761775200000,
+    "endAt": 1762210799000
   },
   {
-    "homeBannerId": 100078,
+    "homeBannerId": 100088,
     "seq": 110,
     "homeBannerType": "event",
-    "name": "[イベント]ビビバス箱イベ_イベントバナー",
-    "assetbundleName": "event_rekindle_2024",
+    "name": "[イベント]レオニ箱イベ_イベントバナー",
+    "assetbundleName": "event_enjoymusic_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 146,
-    "startAt": 1761084000000,
-    "endAt": 1761947999000
+    "transitionDestinationId": 147,
+    "startAt": 1761948000000,
+    "endAt": 1762815599000
   },
   {
-    "homeBannerId": 100080,
+    "homeBannerId": 100090,
     "seq": 100,
     "homeBannerType": "general",
-    "name": "[ガチャ]ビビバス箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha603",
+    "name": "[ガチャ]レオニ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha609",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 603,
-    "startAt": 1761073200000,
-    "endAt": 1761937199000
+    "transitionDestinationId": 609,
+    "startAt": 1761937200000,
+    "endAt": 1762804799000
   },
   {
-    "homeBannerId": 100084,
-    "seq": 60,
+    "homeBannerId": 100351,
+    "seq": 45,
     "homeBannerType": "general",
-    "name": "JP 4th Anniversary After-Party Flower Power Gacha",
-    "assetbundleName": "banner_gacha608",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 608,
-    "startAt": 1761591600000,
-    "endAt": 1761937199000
+    "name": "公式ストア",
+    "assetbundleName": "banner_official_store",
+    "transitionDestinationType": "web",
+    "startAt": 1756927800000,
+    "endAt": 4102473599000,
+    "url": "https:\/\/www.colorfulstage.com\/news\/detail\/000852.html"
   }
 ]

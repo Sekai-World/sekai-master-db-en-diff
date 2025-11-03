@@ -3732,8 +3732,8 @@
     "assetbundleName": "shop_20137",
     "resourceBoxId": 20117,
     "bonusResourceBoxId": 20122,
-    "startAt": 1759647600000,
-    "endAt": 1760252399000
+    "startAt": 1762329600000,
+    "endAt": 1762934399000
   },
   {
     "id": 20141,
@@ -5696,6 +5696,22 @@
     "startAt": 1756969200000,
     "endAt": 1758524399000,
     "purchaseOption": "exchange"
+  },
+  {
+    "id": 50118,
+    "seq": 340,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50168,
+    "name": "Fall 2025 10x Gacha Ticket",
+    "description": "2025 Fall Campagin Gacha 10x Ticket",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_50118",
+    "resourceBoxId": 50118,
+    "label": "1 Time Only",
+    "startAt": 1762545600000,
+    "endAt": 1763819999000
   },
   {
     "id": 80000,
@@ -9508,6 +9524,85 @@
     "assetbundleName": "shop_300660",
     "resourceBoxId": 329,
     "startAt": 1759302000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300670,
+    "seq": 459619,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "Elegant Costumes All Colors",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 336,
+    "startAt": 1761980400000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300671,
+    "seq": 459620,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "Elegant Costumes Original Color",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 337,
+    "startAt": 1761980400000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300672,
+    "seq": 459621,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "Elegant Costumes Color Variant 1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 338,
+    "startAt": 1761980400000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300673,
+    "seq": 459622,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "Elegant Costumes Color Variant 2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 339,
+    "startAt": 1761980400000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300674,
+    "seq": 459623,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "Elegant Costumes Color Variant 3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 340,
+    "startAt": 1761980400000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300680,
+    "seq": 300680,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "2024 Halloween Costumes",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300680",
+    "resourceBoxId": 341,
+    "startAt": 1761980400000,
     "purchaseOption": "exchange"
   },
   {

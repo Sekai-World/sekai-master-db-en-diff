@@ -880,6 +880,26 @@
     "value": "Please select a template."
   },
   {
+    "wordingKey": "MSG_DAILY_PROGRESS_MISSION_COMPLETED_DIALOG_GL",
+    "value": "You received {0} x{1} and more!"
+  },
+  {
+    "wordingKey": "MSG_DAILY_PROGRESS_MISSION_EVENT_END_GL",
+    "value": "These Daily Progress Missions have ended. Returning to home screen."
+  },
+  {
+    "wordingKey": "MSG_DAILY_PROGRESS_MISSION_HOME_ACTIVE_GL",
+    "value": "Available Now!"
+  },
+  {
+    "wordingKey": "MSG_DAILY_PROGRESS_MISSION_HOME_CLEARED_GL",
+    "value": "Today's Mission Cleared!"
+  },
+  {
+    "wordingKey": "MSG_DAILY_PROGRESS_MISSION_HOME_COMPLETED_GL",
+    "value": "COMPLETE!"
+  },
+  {
     "wordingKey": "MSG_DATA_DOWNLOADING",
     "value": "Now Loading..."
   },
@@ -1920,6 +1940,14 @@
     "value": "The original song is on an external website. Leave app?"
   },
   {
+    "wordingKey": "MSG_MUSIC_SAVE_CAPACITY_DESCRIPTION",
+    "value": "You can free up memory by limiting how many versions of songs are saved to your device. Once you reach the limit, older files will be deleted and downloaded again when needed."
+  },
+  {
+    "wordingKey": "MSG_MUSIC_SAVE_NUM_SETTING_CONFIRM",
+    "value": "Set this limit on song version file storage?"
+  },
+  {
     "wordingKey": "MSG_MUSIC_SHOP_PURCHASE",
     "value": "Trade {0} x{1} for this song?"
   },
@@ -2114,6 +2142,10 @@
   {
     "wordingKey": "MSG_NOT_EVENT_INSESSION",
     "value": "No ongoing Events."
+  },
+  {
+    "wordingKey": "MSG_NOT_PLAYABLE_DAILY_PROGRESS_MISSION_GL",
+    "value": "Daily Progress Missions have updated. Returning to home screen."
   },
   {
     "wordingKey": "MSG_NOT_PLAYABLE_EVENT",
@@ -5133,6 +5165,18 @@
     "value": "Cut-in Effect"
   },
   {
+    "wordingKey": "WORD_DAILY_PROGRESS_MISSION_COMPLETE_MISSION_GL",
+    "value": "Clear all Missions."
+  },
+  {
+    "wordingKey": "WORD_DAILY_PROGRESS_MISSION_COMPLETE_REWARD_GL",
+    "value": "Completion Reward"
+  },
+  {
+    "wordingKey": "WORD_DAILY_PROGRESS_MISSION_GL",
+    "value": "Daily Progress Mission"
+  },
+  {
     "wordingKey": "WORD_DANCE",
     "value": "Dance"
   },
@@ -6465,6 +6509,10 @@
     "value": "To Crystal Shop"
   },
   {
+    "wordingKey": "WORD_GO_TO_EVENT_EXCHANGE_GL",
+    "value": "To Event Exchange"
+  },
+  {
     "wordingKey": "WORD_GO_TO_EVENT_TOP",
     "value": "To Event Screen"
   },
@@ -7693,6 +7741,10 @@
     "value": "Song Info"
   },
   {
+    "wordingKey": "WORD_MUSIC_DATA_SAVE_CAPACITY",
+    "value": "Song Version Files"
+  },
+  {
     "wordingKey": "WORD_MUSIC_DECIDE",
     "value": "Song Confirmed"
   },
@@ -7727,6 +7779,22 @@
   {
     "wordingKey": "WORD_MUSIC_REWARD",
     "value": "Song Rewards"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_SAVE_ALL",
+    "value": "Always Save"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_SAVE_NONE",
+    "value": "Never Save"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_SAVE_NUM_CAPTION",
+    "value": "Song Versions"
+  },
+  {
+    "wordingKey": "WORD_MUSIC_SAVE_NUM_FORMAT",
+    "value": "{0}"
   },
   {
     "wordingKey": "WORD_MUSIC_SELECT",
