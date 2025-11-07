@@ -30251,6 +30251,122 @@
     "gachaCeilItemId": 372
   },
   {
+    "id": 373,
+    "seq": 374,
+    "gachaId": 615,
+    "assetbundleName": "ab_gacha_615",
+    "startAt": 1762804800000,
+    "endAt": 1766260799000,
+    "gachaCeilExchanges": [
+      {
+        "id": 1323,
+        "gachaCeilExchangeSummaryId": 373,
+        "seq": 1,
+        "resourceBoxId": 1102,
+        "startAt": 1762804800000,
+        "endAt": 1766260799000,
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1323,
+          "gachaCeilItemId": 373,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 373
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 668,
+            "resourceType": "material",
+            "resourceId": 47,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1324,
+        "gachaCeilExchangeSummaryId": 373,
+        "seq": 2,
+        "resourceBoxId": 1103,
+        "startAt": 1762804800000,
+        "endAt": 1766260799000,
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1324,
+          "gachaCeilItemId": 373,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 373
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 669,
+            "resourceType": "material",
+            "resourceId": 47,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1325,
+        "gachaCeilExchangeSummaryId": 373,
+        "seq": 3,
+        "resourceBoxId": 1104,
+        "startAt": 1762804800000,
+        "endAt": 1766260799000,
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1325,
+          "gachaCeilItemId": 373,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 373
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 670,
+            "resourceType": "material",
+            "resourceId": 47,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1326,
+        "gachaCeilExchangeSummaryId": 373,
+        "seq": 4,
+        "resourceBoxId": 1105,
+        "exchangeLimit": 10,
+        "startAt": 1762804800000,
+        "endAt": 1766260799000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1326,
+          "gachaCeilItemId": 373,
+          "quantity": 10,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 373
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 1327,
+        "gachaCeilExchangeSummaryId": 373,
+        "seq": 5,
+        "resourceBoxId": 9999,
+        "startAt": 1762804800000,
+        "endAt": 1766260799000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1327,
+          "gachaCeilItemId": 373,
+          "quantity": 1,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 373
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      }
+    ],
+    "gachaCeilItemId": 373
+  },
+  {
     "id": 374,
     "seq": 372,
     "gachaId": 616,
@@ -30368,6 +30484,575 @@
       }
     ],
     "gachaCeilItemId": 374
+  },
+  {
+    "id": 375,
+    "seq": 376,
+    "gachaId": 617,
+    "assetbundleName": "ab_gacha_617",
+    "startAt": 1763236800000,
+    "endAt": 1766606399000,
+    "gachaCeilExchanges": [
+      {
+        "id": 1333,
+        "gachaCeilExchangeSummaryId": 375,
+        "seq": 1,
+        "resourceBoxId": 1110,
+        "startAt": 1763236800000,
+        "endAt": 1766606399000,
+        "gachaCeilExchangeLabelType": "limited",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1333,
+          "gachaCeilItemId": 375,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 375
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 674,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1334,
+        "gachaCeilExchangeSummaryId": 375,
+        "seq": 2,
+        "resourceBoxId": 1111,
+        "startAt": 1763236800000,
+        "endAt": 1766606399000,
+        "gachaCeilExchangeLabelType": "limited",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1334,
+          "gachaCeilItemId": 375,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 375
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 675,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1335,
+        "gachaCeilExchangeSummaryId": 375,
+        "seq": 3,
+        "resourceBoxId": 1112,
+        "startAt": 1763236800000,
+        "endAt": 1766606399000,
+        "gachaCeilExchangeLabelType": "limited",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1335,
+          "gachaCeilItemId": 375,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 375
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 676,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1336,
+        "gachaCeilExchangeSummaryId": 375,
+        "seq": 4,
+        "resourceBoxId": 1113,
+        "startAt": 1763236800000,
+        "endAt": 1766606399000,
+        "gachaCeilExchangeLabelType": "limited",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1336,
+          "gachaCeilItemId": 375,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 375
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 677,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1337,
+        "gachaCeilExchangeSummaryId": 375,
+        "seq": 5,
+        "resourceBoxId": 1114,
+        "exchangeLimit": 10,
+        "startAt": 1763236800000,
+        "endAt": 1766606399000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1337,
+          "gachaCeilItemId": 375,
+          "quantity": 10,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 375
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 1338,
+        "gachaCeilExchangeSummaryId": 375,
+        "seq": 6,
+        "resourceBoxId": 9999,
+        "startAt": 1763236800000,
+        "endAt": 1766606399000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1338,
+          "gachaCeilItemId": 375,
+          "quantity": 1,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 375
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      }
+    ],
+    "gachaCeilItemId": 375
+  },
+  {
+    "id": 376,
+    "seq": 375,
+    "gachaId": 618,
+    "assetbundleName": "ab_gacha_tab_5",
+    "startAt": 1762934400000,
+    "endAt": 1766098799000,
+    "gachaCeilExchanges": [
+      {
+        "id": 1339,
+        "gachaCeilExchangeSummaryId": 376,
+        "seq": 1,
+        "resourceBoxId": 1115,
+        "startAt": 1762934400000,
+        "endAt": 1766098799000,
+        "gachaCeilExchangeLabelType": "limited",
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1339,
+          "gachaCeilItemId": 376,
+          "quantity": 100,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 376
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 1340,
+        "gachaCeilExchangeSummaryId": 376,
+        "seq": 2,
+        "resourceBoxId": 1116,
+        "startAt": 1762934400000,
+        "endAt": 1766098799000,
+        "gachaCeilExchangeLabelType": "limited",
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1340,
+          "gachaCeilItemId": 376,
+          "quantity": 100,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 376
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 1341,
+        "gachaCeilExchangeSummaryId": 376,
+        "seq": 3,
+        "resourceBoxId": 1117,
+        "startAt": 1762934400000,
+        "endAt": 1766098799000,
+        "gachaCeilExchangeLabelType": "limited",
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1341,
+          "gachaCeilItemId": 376,
+          "quantity": 100,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 376
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 1342,
+        "gachaCeilExchangeSummaryId": 376,
+        "seq": 4,
+        "resourceBoxId": 1118,
+        "startAt": 1762934400000,
+        "endAt": 1766098799000,
+        "gachaCeilExchangeLabelType": "limited",
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1342,
+          "gachaCeilItemId": 376,
+          "quantity": 100,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 376
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 1343,
+        "gachaCeilExchangeSummaryId": 376,
+        "seq": 5,
+        "resourceBoxId": 9999,
+        "startAt": 1762934400000,
+        "endAt": 1766098799000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1343,
+          "gachaCeilItemId": 376,
+          "quantity": 1,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 376
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      }
+    ],
+    "gachaCeilItemId": 376
+  },
+  {
+    "id": 377,
+    "seq": 377,
+    "gachaId": 622,
+    "assetbundleName": "ab_gacha_622",
+    "startAt": 1763668800000,
+    "endAt": 1767211199000,
+    "gachaCeilExchanges": [
+      {
+        "id": 1344,
+        "gachaCeilExchangeSummaryId": 377,
+        "seq": 1,
+        "resourceBoxId": 1119,
+        "startAt": 1763668800000,
+        "endAt": 1767211199000,
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1344,
+          "gachaCeilItemId": 377,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 377
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 678,
+            "resourceType": "material",
+            "resourceId": 47,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1345,
+        "gachaCeilExchangeSummaryId": 377,
+        "seq": 2,
+        "resourceBoxId": 1120,
+        "startAt": 1763668800000,
+        "endAt": 1767211199000,
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1345,
+          "gachaCeilItemId": 377,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 377
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 679,
+            "resourceType": "material",
+            "resourceId": 47,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1346,
+        "gachaCeilExchangeSummaryId": 377,
+        "seq": 3,
+        "resourceBoxId": 1121,
+        "startAt": 1763668800000,
+        "endAt": 1767211199000,
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1346,
+          "gachaCeilItemId": 377,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 377
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 680,
+            "resourceType": "material",
+            "resourceId": 47,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1347,
+        "gachaCeilExchangeSummaryId": 377,
+        "seq": 4,
+        "resourceBoxId": 1122,
+        "exchangeLimit": 10,
+        "startAt": 1763668800000,
+        "endAt": 1767211199000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1347,
+          "gachaCeilItemId": 377,
+          "quantity": 10,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 377
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 1348,
+        "gachaCeilExchangeSummaryId": 377,
+        "seq": 5,
+        "resourceBoxId": 9999,
+        "startAt": 1763668800000,
+        "endAt": 1767211199000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1348,
+          "gachaCeilItemId": 377,
+          "quantity": 1,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 377
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      }
+    ],
+    "gachaCeilItemId": 377
+  },
+  {
+    "id": 378,
+    "seq": 378,
+    "gachaId": 624,
+    "assetbundleName": "ab_gacha_624",
+    "startAt": 1764532800000,
+    "endAt": 1768161599000,
+    "gachaCeilExchanges": [
+      {
+        "id": 1349,
+        "gachaCeilExchangeSummaryId": 378,
+        "seq": 1,
+        "resourceBoxId": 1123,
+        "startAt": 1764532800000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeLabelType": "limited",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1349,
+          "gachaCeilItemId": 378,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 378
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 681,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1350,
+        "gachaCeilExchangeSummaryId": 378,
+        "seq": 2,
+        "resourceBoxId": 1124,
+        "startAt": 1764532800000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeLabelType": "limited",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1350,
+          "gachaCeilItemId": 378,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 378
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 682,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1351,
+        "gachaCeilExchangeSummaryId": 378,
+        "seq": 3,
+        "resourceBoxId": 1125,
+        "startAt": 1764532800000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeLabelType": "limited",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1351,
+          "gachaCeilItemId": 378,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 378
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 683,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 1352,
+        "gachaCeilExchangeSummaryId": 378,
+        "seq": 4,
+        "resourceBoxId": 1126,
+        "exchangeLimit": 10,
+        "startAt": 1764532800000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1352,
+          "gachaCeilItemId": 378,
+          "quantity": 10,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 378
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 1353,
+        "gachaCeilExchangeSummaryId": 378,
+        "seq": 5,
+        "resourceBoxId": 9999,
+        "startAt": 1764532800000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1353,
+          "gachaCeilItemId": 378,
+          "quantity": 1,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 378
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      }
+    ],
+    "gachaCeilItemId": 378
+  },
+  {
+    "id": 379,
+    "seq": 379,
+    "gachaId": 626,
+    "assetbundleName": "ab_gacha_tab_6",
+    "startAt": 1765008000000,
+    "endAt": 1768258799000,
+    "gachaCeilExchanges": [
+      {
+        "id": 1354,
+        "gachaCeilExchangeSummaryId": 379,
+        "seq": 1,
+        "resourceBoxId": 1127,
+        "startAt": 1765008000000,
+        "endAt": 1768258799000,
+        "gachaCeilExchangeLabelType": "limited",
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1354,
+          "gachaCeilItemId": 379,
+          "quantity": 100,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 379
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 1355,
+        "gachaCeilExchangeSummaryId": 379,
+        "seq": 2,
+        "resourceBoxId": 1128,
+        "startAt": 1765008000000,
+        "endAt": 1768258799000,
+        "gachaCeilExchangeLabelType": "limited",
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1355,
+          "gachaCeilItemId": 379,
+          "quantity": 100,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 379
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 1356,
+        "gachaCeilExchangeSummaryId": 379,
+        "seq": 3,
+        "resourceBoxId": 1129,
+        "startAt": 1765008000000,
+        "endAt": 1768258799000,
+        "gachaCeilExchangeLabelType": "limited",
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1356,
+          "gachaCeilItemId": 379,
+          "quantity": 100,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 379
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 1357,
+        "gachaCeilExchangeSummaryId": 379,
+        "seq": 4,
+        "resourceBoxId": 1130,
+        "startAt": 1765008000000,
+        "endAt": 1768258799000,
+        "gachaCeilExchangeLabelType": "limited",
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1357,
+          "gachaCeilItemId": 379,
+          "quantity": 100,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 379
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 1358,
+        "gachaCeilExchangeSummaryId": 379,
+        "seq": 5,
+        "resourceBoxId": 9999,
+        "startAt": 1765008000000,
+        "endAt": 1768258799000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 1358,
+          "gachaCeilItemId": 379,
+          "quantity": 1,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 379
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      }
+    ],
+    "gachaCeilItemId": 379
   },
   {
     "id": 392,
@@ -31865,5 +32550,199 @@
       }
     ],
     "gachaCeilItemId": 1125
+  },
+  {
+    "id": 1144,
+    "seq": 380,
+    "gachaId": 1144,
+    "assetbundleName": "ab_gacha_1144",
+    "startAt": 1765137600000,
+    "endAt": 1768161599000,
+    "gachaCeilExchanges": [
+      {
+        "id": 10045,
+        "gachaCeilExchangeSummaryId": 1144,
+        "seq": 1,
+        "resourceBoxId": 10043,
+        "startAt": 1765137600000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeLabelType": "fes",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 10045,
+          "gachaCeilItemId": 1144,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 1144
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 10037,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 10046,
+        "gachaCeilExchangeSummaryId": 1144,
+        "seq": 2,
+        "resourceBoxId": 10044,
+        "startAt": 1765137600000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeLabelType": "fes",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 10046,
+          "gachaCeilItemId": 1144,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 1144
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 10038,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 10047,
+        "gachaCeilExchangeSummaryId": 1144,
+        "seq": 3,
+        "resourceBoxId": 10045,
+        "startAt": 1765137600000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeLabelType": "limited",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 10047,
+          "gachaCeilItemId": 1144,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 1144
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 10039,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 10048,
+        "gachaCeilExchangeSummaryId": 1144,
+        "seq": 4,
+        "resourceBoxId": 10046,
+        "startAt": 1765137600000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeLabelType": "limited",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 10048,
+          "gachaCeilItemId": 1144,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 1144
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 10040,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 10049,
+        "gachaCeilExchangeSummaryId": 1144,
+        "seq": 5,
+        "resourceBoxId": 10047,
+        "startAt": 1765137600000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeLabelType": "limited",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 10049,
+          "gachaCeilItemId": 1144,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 1144
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 10041,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 10050,
+        "gachaCeilExchangeSummaryId": 1144,
+        "seq": 6,
+        "resourceBoxId": 10048,
+        "startAt": 1765137600000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeLabelType": "limited",
+        "substituteLimit": 10,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 10050,
+          "gachaCeilItemId": 1144,
+          "quantity": 300,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 1144
+        },
+        "gachaCeilExchangeSubstituteCosts": [
+          {
+            "id": 10042,
+            "resourceType": "material",
+            "resourceId": 48,
+            "substituteQuantity": 10
+          }
+        ]
+      },
+      {
+        "id": 10051,
+        "gachaCeilExchangeSummaryId": 1144,
+        "seq": 7,
+        "resourceBoxId": 10049,
+        "exchangeLimit": 10,
+        "startAt": 1765137600000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 10051,
+          "gachaCeilItemId": 1144,
+          "quantity": 10,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 1144
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      },
+      {
+        "id": 10052,
+        "gachaCeilExchangeSummaryId": 1144,
+        "seq": 8,
+        "resourceBoxId": 9999,
+        "startAt": 1765137600000,
+        "endAt": 1768161599000,
+        "gachaCeilExchangeCost": {
+          "gachaCeilExchangeId": 10052,
+          "gachaCeilItemId": 1144,
+          "quantity": 1,
+          "resourceType": "gacha_ceil_item",
+          "resourceId": 1144
+        },
+        "gachaCeilExchangeSubstituteCosts": []
+      }
+    ],
+    "gachaCeilItemId": 1144
   }
 ]
