@@ -43,14 +43,14 @@
     "endAt": 1763841599000
   },
   {
-    "homeBannerId": 1175,
-    "seq": 100,
+    "homeBannerId": 1185,
+    "seq": 120,
     "homeBannerType": "general",
-    "name": "Fall 2025 10x Gacha Ticket",
-    "assetbundleName": "banner_shop_gachaticket_miku10_gl",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1762545600000,
-    "endAt": 1763819999000
+    "name": "Black Friday Sale",
+    "assetbundleName": "banner_shop_blackfridaysale2022",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1763798400000,
+    "endAt": 1764748799000
   },
   {
     "homeBannerId": 100061,
@@ -64,28 +64,6 @@
     "endAt": 1764532799000
   },
   {
-    "homeBannerId": 100095,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフルイベ_イベントバナー",
-    "assetbundleName": "event_foliage_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 148,
-    "startAt": 1762815600000,
-    "endAt": 1763679599000
-  },
-  {
-    "homeBannerId": 100097,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフルイベ_ガチャバナー",
-    "assetbundleName": "banner_gacha615",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 615,
-    "startAt": 1762804800000,
-    "endAt": 1763668799000
-  },
-  {
     "homeBannerId": 100100,
     "seq": 150,
     "homeBannerType": "general",
@@ -95,6 +73,28 @@
     "transitionDestinationId": 617,
     "startAt": 1763236800000,
     "endAt": 1764014399000
+  },
+  {
+    "homeBannerId": 100103,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
+    "assetbundleName": "event_regret_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 149,
+    "startAt": 1763679600000,
+    "endAt": 1764543599000
+  },
+  {
+    "homeBannerId": 100104,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha622",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 622,
+    "startAt": 1763668800000,
+    "endAt": 1764532799000
   },
   {
     "homeBannerId": 100351,
