@@ -535,5 +535,21 @@
         "externalId": 10002
       }
     ]
+  },
+  {
+    "id": 10003,
+    "serialCodeCampaignType": "obtain_reward_directly",
+    "useCountLimit": 1,
+    "startAt": 1764230400000,
+    "serialCodeCampaignRewards": [
+      {
+        "id": 10003,
+        "serialCodeCampaignId": 10003,
+        "requirement": 1,
+        "seq": 1,
+        "serialCodeCampaignRewardType": "resource_box",
+        "externalId": 10003
+      }
+    ]
   }
 ]

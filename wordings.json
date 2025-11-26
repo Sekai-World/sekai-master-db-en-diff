@@ -204,6 +204,10 @@
     "value": "Today's limit reached"
   },
   {
+    "wordingKey": "MSG_AD_REWARD_DIALOG_AUTO_LIVE_DAILY_LIMIT_INCREASED_GL",
+    "value": "Auto-Play limit increased."
+  },
+  {
     "wordingKey": "MSG_AD_REWARD_ERROR",
     "value": "Reward could not be obtained due to interrupted ad viewing."
   },
@@ -214,6 +218,10 @@
   {
     "wordingKey": "MSG_AD_REWARD_LIVE_BOOST_RECOVER_ANOUNCE",
     "value": "Your Bonus Energy cannot exceed 999.\nExcess energy will be discarded.\nRestore anyway?"
+  },
+  {
+    "wordingKey": "MSG_AD_REWARD_LIVE_GET_EVENT_TOKEN_GL",
+    "value": "Watch ad for double Tokens!"
   },
   {
     "wordingKey": "MSG_AD_REWARD_MASTER_EXPIRED",
@@ -1426,6 +1434,10 @@
   {
     "wordingKey": "MSG_GET_LIVE_MISSION_POINT",
     "value": "Get a total of {0} Show Pts."
+  },
+  {
+    "wordingKey": "MSG_GET_SERIAL_CODE_REWARD",
+    "value": "Obtained serial code reward(s)."
   },
   {
     "wordingKey": "MSG_GET_SERIAL_CODE_STAMP_RALLY_REWARD",
@@ -3640,6 +3652,14 @@
     "value": "Privacy Settings"
   },
   {
+    "wordingKey": "WORD_AD_REWARD_LIST_AUTO_LIVE_DAILY_COUNT_GL",
+    "value": "x<size=32>{0}<\/size> left"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_LIST_AUTO_LIVE_WATCH_GL",
+    "value": "+1 Auto-Play\ntoday"
+  },
+  {
     "wordingKey": "WORD_AD_REWARD_LIST_CRYSTAL",
     "value": "Get Crystals"
   },
@@ -3666,6 +3686,10 @@
   {
     "wordingKey": "WORD_AD_REWARD_LIVE_BONUS_LIMIT",
     "value": "Bonus Energy at cap"
+  },
+  {
+    "wordingKey": "WORD_AD_REWARD_MUSIC_SELECT_AUTO_LIVE_WATCH_GL",
+    "value": "+1\nAuto-Play\ntoday"
   },
   {
     "wordingKey": "WORD_AD_REWARD_MUSIC_SHOP",
@@ -4757,7 +4781,7 @@
   },
   {
     "wordingKey": "WORD_COLORFULPASS_INFORMATION_BUTTON",
-    "value": "詳細・特典"
+    "value": "Details & Bonuses"
   },
   {
     "wordingKey": "WORD_COLORFULPLUS_BASIC_DETAIL",
