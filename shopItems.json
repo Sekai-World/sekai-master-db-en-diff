@@ -52388,5 +52388,25 @@
       }
     ],
     "startAt": 1761343200000
+  },
+  {
+    "id": 100023,
+    "shopId": 2,
+    "seq": 996435,
+    "releaseConditionId": 1,
+    "resourceBoxId": 100023,
+    "costs": [
+      {
+        "shopItemId": 100023,
+        "seq": 1,
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1764403200000
   }
 ]
