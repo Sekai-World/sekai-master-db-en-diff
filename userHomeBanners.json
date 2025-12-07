@@ -32,17 +32,6 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1176,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "2025 Black Friday Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1139",
-    "transitionDestinationType": "gacha_tab_parent",
-    "transitionDestinationId": 100003,
-    "startAt": 1763841600000,
-    "endAt": 1764705599000
-  },
-  {
     "homeBannerId": 1177,
     "seq": 200,
     "homeBannerType": "general",
@@ -51,61 +40,72 @@
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 1142,
     "startAt": 1764360000000,
-    "endAt": 1764705599000
+    "endAt": 1765137599000
   },
   {
-    "homeBannerId": 1185,
-    "seq": 120,
+    "homeBannerId": 1178,
+    "seq": 60,
     "homeBannerType": "general",
-    "name": "Black Friday Sale",
-    "assetbundleName": "banner_shop_blackfridaysale2022",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1763798400000,
-    "endAt": 1764748799000
-  },
-  {
-    "homeBannerId": 100061,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ガチャ_無料10連ガチャバナー",
-    "assetbundleName": "banner_gacha590",
+    "name": "4th Anniversary Run-Up Special Prize Gacha",
+    "assetbundleName": "banner_gacha1143",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 590,
-    "startAt": 1759258800000,
-    "endAt": 1764532799000
+    "transitionDestinationId": 1143,
+    "startAt": 1764964800000,
+    "endAt": 1765137599000
   },
   {
-    "homeBannerId": 100103,
+    "homeBannerId": 1180,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "4th Anniversary Memorial Select Gacha",
+    "assetbundleName": "banner_gacha1145",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1145,
+    "startAt": 1765094400000,
+    "endAt": 1767124799000
+  },
+  {
+    "homeBannerId": 1181,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "4th Anniversary Your Pick Gacha (Limited Edition)",
+    "assetbundleName": "banner_gacha1146",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1146,
+    "startAt": 1765094400000,
+    "endAt": 1767124799000
+  },
+  {
+    "homeBannerId": 1184,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "4周年クリスタルショップ",
+    "assetbundleName": "banner_shop_4y_gl",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1765094400000,
+    "endAt": 1767124799000
+  },
+  {
+    "homeBannerId": 100108,
     "seq": 110,
     "homeBannerType": "event",
-    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
-    "assetbundleName": "event_regret_2024",
+    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
+    "assetbundleName": "event_scratch_2024",
     "transitionDestinationType": "event",
-    "transitionDestinationId": 149,
-    "startAt": 1763679600000,
-    "endAt": 1764543599000
+    "transitionDestinationId": 150,
+    "startAt": 1764543600000,
+    "endAt": 1765493999000
   },
   {
-    "homeBannerId": 100104,
+    "homeBannerId": 100110,
     "seq": 100,
     "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha622",
+    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha624",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 622,
-    "startAt": 1763668800000,
-    "endAt": 1764532799000
-  },
-  {
-    "homeBannerId": 100105,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "[ガチャ]セレクトリストガチャ",
-    "assetbundleName": "banner_gacha623",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 623,
-    "startAt": 1764187200000,
-    "endAt": 1764878399000
+    "transitionDestinationId": 624,
+    "startAt": 1764532800000,
+    "endAt": 1765483199000
   },
   {
     "homeBannerId": 100351,
