@@ -6412,6 +6412,94 @@
     "virtualShopType": "event"
   },
   {
+    "id": 301,
+    "seq": 301,
+    "name": "第151回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 486,
+        "virtualShopId": 301,
+        "virtualShopItemType": "penlight",
+        "seq": 99901,
+        "resourceBoxId": 382,
+        "costPaidJewel": 1000,
+        "startAt": 1765494000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 302,
+    "seq": 302,
+    "name": "第152回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 487,
+        "virtualShopId": 302,
+        "virtualShopItemType": "coordinate",
+        "seq": 99817,
+        "resourceBoxId": 383,
+        "costPaidJewel": 1000,
+        "startAt": 1766358000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 303,
+    "seq": 303,
+    "name": "第153回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 488,
+        "virtualShopId": 303,
+        "virtualShopItemType": "penlight",
+        "seq": 99900,
+        "resourceBoxId": 384,
+        "costPaidJewel": 1000,
+        "startAt": 1767222000000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
+    "id": 304,
+    "seq": 304,
+    "name": "New Year's Countdown Show\/Happy New Year Show",
+    "virtualShopItems": [
+      {
+        "id": 489,
+        "virtualShopId": 304,
+        "virtualShopItemType": "coordinate",
+        "seq": 99816,
+        "resourceBoxId": 385,
+        "costPaidJewel": 1000,
+        "startAt": 1767222000000
+      }
+    ],
+    "virtualShopType": "special_live"
+  },
+  {
+    "id": 305,
+    "seq": 305,
+    "name": "2025甘酒ショップ",
+    "virtualShopItems": [
+      {
+        "id": 490,
+        "virtualShopId": 305,
+        "virtualShopItemType": "boost_item",
+        "seq": 299999,
+        "resourceBoxId": 147,
+        "costVirtualCoin": 0,
+        "costJewel": 0,
+        "startAt": 1767222000000,
+        "endAt": 1768172399000,
+        "limitValue": 1
+      }
+    ],
+    "virtualShopType": "other"
+  },
+  {
     "id": 308,
     "seq": 308,
     "name": "「Eコラボ」チケットショップ_物販",
