@@ -613,11 +613,11 @@
   },
   {
     "wordingKey": "MSG_COLORFUL_PASS_EXPIRED_UNTIL_HOUR",
-    "value": "有効期限あと{0}時間"
+    "value": "{0} hr. left"
   },
   {
     "wordingKey": "MSG_COLORFUL_PASS_EXPIRED_UNTIL_MINUTE",
-    "value": "有効期限あと{0}分"
+    "value": "{0} min. left"
   },
   {
     "wordingKey": "MSG_COLORFUL_PASS_GACHA_TIME_OVER",
@@ -4797,7 +4797,7 @@
   },
   {
     "wordingKey": "WORD_COLORFUL_PASS_BALLOON_EXPIRED_AT",
-    "value": "有効期限{0}まで"
+    "value": "Until {0}"
   },
   {
     "wordingKey": "WORD_COLORFUL_PASS_BALLOON_GRACE_PERIOD_AT",
@@ -8138,7 +8138,7 @@
   },
   {
     "wordingKey": "WORD_NUMBER_OF_PEPLE",
-    "value": "{0} Players"
+    "value": "{0} Characters"
   },
   {
     "wordingKey": "WORD_OBTAINED_COMPLETE_READ_STAMP",
