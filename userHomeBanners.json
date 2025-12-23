@@ -108,28 +108,6 @@
     "endAt": 1766519999000
   },
   {
-    "homeBannerId": 100116,
-    "seq": 110,
-    "homeBannerType": "event",
-    "name": "[イベント]モモジャン箱イベ_イベントバナー",
-    "assetbundleName": "event_grow_2024",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 151,
-    "startAt": 1765494000000,
-    "endAt": 1766357999000
-  },
-  {
-    "homeBannerId": 100118,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "[ガチャ]モモジャン箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha631",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 631,
-    "startAt": 1765483200000,
-    "endAt": 1766347199000
-  },
-  {
     "homeBannerId": 100121,
     "seq": 140,
     "homeBannerType": "general",
@@ -139,6 +117,39 @@
     "transitionDestinationId": 632,
     "startAt": 1766001600000,
     "endAt": 1766779199000
+  },
+  {
+    "homeBannerId": 100123,
+    "seq": 110,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフルイベ_イベントバナー",
+    "assetbundleName": "event_specialpresent_2024",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 152,
+    "startAt": 1766358000000,
+    "endAt": 1767221999000
+  },
+  {
+    "homeBannerId": 100125,
+    "seq": 100,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフルイベ_ガチャバナー",
+    "assetbundleName": "banner_gacha634",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 634,
+    "startAt": 1766347200000,
+    "endAt": 1767211199000
+  },
+  {
+    "homeBannerId": 100127,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "Christmas Show 2025",
+    "assetbundleName": "banner_virtuallive343",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 343,
+    "startAt": 1766444400000,
+    "endAt": 1766735999000
   },
   {
     "homeBannerId": 100351,
