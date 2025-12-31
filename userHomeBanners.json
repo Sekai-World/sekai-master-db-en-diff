@@ -32,39 +32,6 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1180,
-    "seq": 40,
-    "homeBannerType": "general",
-    "name": "4th Anniversary Memorial Select Gacha",
-    "assetbundleName": "banner_gacha1145",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1145,
-    "startAt": 1765094400000,
-    "endAt": 1767124799000
-  },
-  {
-    "homeBannerId": 1181,
-    "seq": 30,
-    "homeBannerType": "general",
-    "name": "4th Anniversary Your Pick Gacha (Limited Edition)",
-    "assetbundleName": "banner_gacha1146",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1146,
-    "startAt": 1765094400000,
-    "endAt": 1767124799000
-  },
-  {
-    "homeBannerId": 1182,
-    "seq": 200,
-    "homeBannerType": "general",
-    "name": "4th Anniversary 10x Free Gacha",
-    "assetbundleName": "banner_gacha1147",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1147,
-    "startAt": 1765137600000,
-    "endAt": 1767124799000
-  },
-  {
     "homeBannerId": 1183,
     "seq": 100,
     "homeBannerType": "general",
@@ -74,16 +41,6 @@
     "transitionDestinationId": 1148,
     "startAt": 1765137600000,
     "endAt": 1767211199000
-  },
-  {
-    "homeBannerId": 1184,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "4周年クリスタルショップ",
-    "assetbundleName": "banner_shop_4y_gl",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1765094400000,
-    "endAt": 1767124799000
   },
   {
     "homeBannerId": 1186,
@@ -128,6 +85,28 @@
     "transitionDestinationId": 634,
     "startAt": 1766347200000,
     "endAt": 1767211199000
+  },
+  {
+    "homeBannerId": 100142,
+    "seq": 180,
+    "homeBannerType": "general",
+    "name": "New Year's Countdown Show 2026",
+    "assetbundleName": "banner_virtuallive346",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 346,
+    "startAt": 1767049200000,
+    "endAt": 1767427199000
+  },
+  {
+    "homeBannerId": 100143,
+    "seq": 190,
+    "homeBannerType": "general",
+    "name": "Happy New Year 2026 Show",
+    "assetbundleName": "banner_virtuallive347",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 347,
+    "startAt": 1767135600000,
+    "endAt": 1767513599000
   },
   {
     "homeBannerId": 100351,
