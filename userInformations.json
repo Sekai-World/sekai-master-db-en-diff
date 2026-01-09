@@ -3762,14 +3762,14 @@
   {
     "id": 2854,
     "seq": 1,
-    "displayOrder": 4603100,
+    "displayOrder": 4603150,
     "informationType": "normal",
     "informationTag": "information",
     "browseType": "internal",
     "platform": "all",
     "title": "Regarding Addition of Characters to the Character Exchange",
     "path": "information\/index.html?id=info_v1000_member-update_20260109",
-    "startAt": 1767945600000,
+    "startAt": 1767988800000,
     "endAt": 1769932799000
   },
   {
@@ -4712,6 +4712,34 @@
     "endAt": 1768031999000
   },
   {
+    "id": 2927,
+    "seq": 1,
+    "displayOrder": 4603350,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Unknown Tone Gacha",
+    "path": "information\/index.html?id=info_gacha654_held",
+    "startAt": 1768161600000,
+    "endAt": 1769025599000,
+    "bannerAssetbundleName": "banner_news_gacha654"
+  },
+  {
+    "id": 2928,
+    "seq": 1,
+    "displayOrder": 4603650,
+    "informationType": "normal",
+    "informationTag": "gacha",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "[It's Back] New Year's Enchanting Flowers Bloom Bright Gacha",
+    "path": "information\/index.html?id=info_gacha655_notice",
+    "startAt": 1768420800000,
+    "endAt": 1769284799000,
+    "bannerAssetbundleName": "banner_news_gacha655"
+  },
+  {
     "id": 2935,
     "seq": 1,
     "displayOrder": 4602863,
@@ -4724,6 +4752,34 @@
     "startAt": 1767740400000,
     "endAt": 1768085999000,
     "bannerAssetbundleName": "banner_news_banner_virtuallive349"
+  },
+  {
+    "id": 2936,
+    "seq": 1,
+    "displayOrder": 4603263,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "[Announcement] Time to Take Off!",
+    "path": "information\/index.html?id=info_event154_notice",
+    "startAt": 1768086000000,
+    "endAt": 1768172399000,
+    "bannerAssetbundleName": "news_event_takeoff_2025"
+  },
+  {
+    "id": 2937,
+    "seq": 1,
+    "displayOrder": 4603363,
+    "informationType": "normal",
+    "informationTag": "event",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "[Event] Time to Take Off!",
+    "path": "information\/index.html?id=info_event154_held",
+    "startAt": 1768172400000,
+    "endAt": 1769749199000,
+    "bannerAssetbundleName": "news_event_takeoff_2025"
   },
   {
     "id": 2944,
@@ -4834,28 +4890,28 @@
   {
     "id": 2952,
     "seq": 1,
-    "displayOrder": 4603097,
+    "displayOrder": 4603688,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
     "title": "New Covers Added",
-    "path": "information\/index.html?id=info_add_cover_20260105",
-    "startAt": 1767942900000,
-    "endAt": 1769241599000
+    "path": "information\/index.html?id=info_add_cover_20260114",
+    "startAt": 1768453200000,
+    "endAt": 1769759999000
   },
   {
     "id": 2953,
     "seq": 1,
-    "displayOrder": 4603097,
+    "displayOrder": 4603688,
     "informationType": "normal",
     "informationTag": "music",
     "browseType": "internal",
     "platform": "all",
     "title": "Append Difficulty Now Available!",
-    "path": "information\/index.html?id=info_music_append_20260105",
-    "startAt": 1767942900000,
-    "endAt": 1769241599000
+    "path": "information\/index.html?id=info_music_append_20260114",
+    "startAt": 1768453200000,
+    "endAt": 1769759999000
   },
   {
     "id": 2955,
@@ -4869,6 +4925,58 @@
     "path": "information\/index.html?id=info_support_newyear2025",
     "startAt": 1766952000000,
     "endAt": 1767599999000
+  },
+  {
+    "id": 2956,
+    "seq": 1,
+    "displayOrder": 4603663,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, \"Outburst Dreamer Boys\", now available!",
+    "path": "information\/index.html?id=info_music_Outburst Dreamer Boys",
+    "startAt": 1768431600000,
+    "endAt": 1768690799000
+  },
+  {
+    "id": 2958,
+    "seq": 1,
+    "displayOrder": 4604196,
+    "informationType": "normal",
+    "informationTag": "music",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "New song, \"HAVEN\", now available!",
+    "path": "information\/index.html?id=info_music_HAVEN",
+    "startAt": 1768892700000,
+    "endAt": 1769151899000
+  },
+  {
+    "id": 2962,
+    "seq": 1,
+    "displayOrder": 4603363,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Time to Take Off! Event Points and Tokens",
+    "path": "information\/index.html?id=info_event154_add",
+    "startAt": 1768172400000,
+    "endAt": 1769749199000
+  },
+  {
+    "id": 2965,
+    "seq": 1,
+    "displayOrder": 4603096,
+    "informationType": "normal",
+    "informationTag": "information",
+    "browseType": "internal",
+    "platform": "all",
+    "title": "Maintenance (Ver.5.0.0 Update)",
+    "path": "information\/index.html?id=info_update500_0109",
+    "startAt": 1767942000000,
+    "bannerAssetbundleName": "banner_patch_note"
   },
   {
     "id": 10012,

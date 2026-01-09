@@ -6500,6 +6500,24 @@
     "virtualShopType": "other"
   },
   {
+    "id": 306,
+    "seq": 306,
+    "name": "第154回イベント物販",
+    "virtualShopItems": [
+      {
+        "id": 491,
+        "virtualShopId": 306,
+        "virtualShopItemType": "accessory",
+        "seq": 99869,
+        "resourceBoxId": 386,
+        "costVirtualCoin": 3000,
+        "costJewel": 1000,
+        "startAt": 1768172400000
+      }
+    ],
+    "virtualShopType": "event"
+  },
+  {
     "id": 308,
     "seq": 308,
     "name": "「Eコラボ」チケットショップ_物販",
