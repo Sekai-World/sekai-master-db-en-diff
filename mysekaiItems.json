@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "mysekaiItemType": "white_blueprint",
+    "name": "Blank Blueprint",
+    "pronunciation": "blankblueprint",
+    "description": "This Blueprint is still a blank slate. Use it to sketch furniture in someone else's SEKAI.",
+    "iconAssetbundleName": "item_blank_blueprint"
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "mysekaiItemType": "surplus_blueprint",
+    "name": "Surplus Blueprint",
+    "pronunciation": "surplusblueprint",
+    "description": "A Blueprint that you already owned. Convert it into another Blueprint in the Converter.",
+    "iconAssetbundleName": "item_surplus_blueprint"
+  },
+  {
+    "id": 5,
+    "seq": 5,
+    "mysekaiItemType": "surplus_music_record",
+    "name": "Surplus Record",
+    "pronunciation": "surplusrecord",
+    "description": "A Record that you already owned. Convert it into another Record in the Converter.",
+    "iconAssetbundleName": "item_surplus_music_record"
+  },
+  {
+    "id": 6,
+    "seq": 6,
+    "mysekaiItemType": "mysekai_photo_film",
+    "name": "Film",
+    "pronunciation": "film",
+    "description": "Plastic with a light-sensitive coating. You need this to take photos.",
+    "iconAssetbundleName": "item_photofilm"
+  },
+  {
+    "id": 7,
+    "seq": 7,
+    "mysekaiItemType": "blueprint_fragment",
+    "name": "Blueprint Scrap",
+    "pronunciation": "blueprintscrap",
+    "description": "A torn fragment of a Blueprint. Gather enough of them to make a random Blueprint in the Converter.",
+    "iconAssetbundleName": "item_blueprint_fragment"
+  }
+]

@@ -1,0 +1,757 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "mysekaiMaterialType": "wood",
+    "name": "Wish Lumber",
+    "pronunciation": "wishlumber",
+    "description": "Something that resembles wood, but is formed from your feelings. Obtained from trees.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_1",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop01",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6
+    ]
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "mysekaiMaterialType": "wood",
+    "name": "Dense Lumber",
+    "pronunciation": "denselumber",
+    "description": "Extremely solid and inflexible wood. Obtained from broadleaf trees.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_2",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop03",
+    "mysekaiSiteIds": [
+      5
+    ]
+  },
+  {
+    "id": 3,
+    "seq": 3,
+    "mysekaiMaterialType": "wood",
+    "name": "Lightweight Lumber",
+    "pronunciation": "lightweightlumber",
+    "description": "Soft, workable wood. Perfect for making paper. Obtained from conifer trees.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_3",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop02",
+    "mysekaiSiteIds": [
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "seq": 4,
+    "mysekaiMaterialType": "wood",
+    "name": "Sticky Resin",
+    "pronunciation": "stickyresin",
+    "description": "Viscous tree sap with similar properties to rubber. Obtained from tropical trees.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_wood_4",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      6
+    ]
+  },
+  {
+    "id": 5,
+    "seq": 5,
+    "mysekaiMaterialType": "wood",
+    "name": "Dusky Lumber",
+    "pronunciation": "duskylumber",
+    "description": "A valuable variety of wood. Obtained from dusky trees, which appear sometimes at dusk.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_wood_5",
+    "modelAssetbundleName": "mdl_site_wood_common_logdrop04",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6
+    ]
+  },
+  {
+    "id": 6,
+    "seq": 101,
+    "mysekaiMaterialType": "mineral",
+    "name": "Wish Rocks",
+    "pronunciation": "wishrocks",
+    "description": "Something that resembles ordinary rubble, but is formed from your feelings. Obtained from stone deposits.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_1",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop01",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 7,
+    "seq": 102,
+    "mysekaiMaterialType": "mineral",
+    "name": "Copper",
+    "pronunciation": "copper",
+    "description": "A metal that conducts electricity. Obtained from copper deposits.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_2",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop02",
+    "mysekaiSiteIds": [
+      5,
+      8
+    ]
+  },
+  {
+    "id": 8,
+    "seq": 103,
+    "mysekaiMaterialType": "mineral",
+    "name": "Iron",
+    "pronunciation": "iron",
+    "description": "A very sturdy metal. Obtained from iron deposits.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_3",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop03",
+    "mysekaiSiteIds": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": 9,
+    "seq": 104,
+    "mysekaiMaterialType": "mineral",
+    "name": "Clay",
+    "pronunciation": "clay",
+    "description": "A soft substance that can be molded to suit your needs. Obtained from stone deposits.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_4",
+    "modelAssetbundleName": "mdl_site_rock_common_claydrop01",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 10,
+    "seq": 105,
+    "mysekaiMaterialType": "mineral",
+    "name": "Shiny Glass",
+    "pronunciation": "shinyglass",
+    "description": "Translucent glass. Obtained from glass deposits.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_mineral_5",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop04",
+    "mysekaiSiteIds": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": 11,
+    "seq": 106,
+    "mysekaiMaterialType": "mineral",
+    "name": "Shining Quartz",
+    "pronunciation": "shiningquartz",
+    "description": "A naturally occurring crystal with a mystical allure. Obtained from crystal deposits. Appears more at night.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_6",
+    "modelAssetbundleName": "mdl_site_rock_common_stonedrop05",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 12,
+    "seq": 107,
+    "mysekaiMaterialType": "mineral",
+    "name": "Diamond",
+    "pronunciation": "diamond",
+    "description": "A precious stone with an entrancing gleam. Obtained, with an extremely low probability, from mineral deposits.",
+    "mysekaiMaterialRarityType": "rarity_3",
+    "iconAssetbundleName": "item_mineral_7",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop03",
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 13,
+    "seq": 201,
+    "mysekaiMaterialType": "junk",
+    "name": "Screw",
+    "pronunciation": "screw",
+    "description": "A ubiquitous part of household appliances. Obtained from tool boxes.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_1",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 14,
+    "seq": 202,
+    "mysekaiMaterialType": "junk",
+    "name": "Nail",
+    "pronunciation": "nail",
+    "description": "Used to hold furniture together. Obtained from tool boxes.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_2",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 15,
+    "seq": 203,
+    "mysekaiMaterialType": "junk",
+    "name": "Plastic",
+    "pronunciation": "plastic",
+    "description": "A material prized for its pliability and impermeability. Obtained from tool boxes.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_3",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 16,
+    "seq": 204,
+    "mysekaiMaterialType": "junk",
+    "name": "Motor",
+    "pronunciation": "motor",
+    "description": "The pulsing heart of any appliance with moving parts. Obtained from tool boxes.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_4",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 17,
+    "seq": 205,
+    "mysekaiMaterialType": "junk",
+    "name": "Battery",
+    "pronunciation": "battery",
+    "description": "You'll need this to power your appliances. Obtained from tool boxes.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_5",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 18,
+    "seq": 206,
+    "mysekaiMaterialType": "junk",
+    "name": "Lightbulb",
+    "pronunciation": "lightbulb",
+    "description": "A component that converts electricity into light waves. Obtained from tool boxes.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_6",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 19,
+    "seq": 207,
+    "mysekaiMaterialType": "junk",
+    "name": "Circuit Board",
+    "pronunciation": "circuitboard",
+    "description": "A component that keeps your wires from getting crossed. Obtained from tool boxes.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_junk_7",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 20,
+    "seq": 301,
+    "mysekaiMaterialType": "plant",
+    "name": "Four-Leaf Clover",
+    "pronunciation": "four-leafclover",
+    "description": "A lucky find! Very occasionally obtained from plants. Appears more when it's rainy.",
+    "mysekaiMaterialRarityType": "rarity_3",
+    "iconAssetbundleName": "item_plant_1",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop03",
+    "mysekaiSiteIds": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": 21,
+    "seq": 302,
+    "mysekaiMaterialType": "plant",
+    "name": "Smooth Linen",
+    "pronunciation": "smoothlinen",
+    "description": "A lightweight, silky material used in textiles. Obtained from plants.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_plant_2",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      7
+    ]
+  },
+  {
+    "id": 22,
+    "seq": 303,
+    "mysekaiMaterialType": "plant",
+    "name": "Fluffy Cotton",
+    "pronunciation": "fluffycotton",
+    "description": "A soft, versatile material used in textiles. Obtained from plants.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_plant_3",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      5
+    ]
+  },
+  {
+    "id": 23,
+    "seq": 304,
+    "mysekaiMaterialType": "plant",
+    "name": "Petal",
+    "pronunciation": "petal",
+    "description": "Put some color in your life with the prettiest part of a flower. Obtained from flowers.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_plant_4",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
+    "mysekaiSiteIds": [
+      7
+    ]
+  },
+  {
+    "id": 24,
+    "seq": 401,
+    "mysekaiMaterialType": "tone",
+    "name": "Plain Note",
+    "pronunciation": "plainnote",
+    "description": "A straightforward musical note, untouched by anything else. Obtained by listening carefully in the Forgotten Place. Use it in the Converter to obtain materials.",
+    "mysekaiMaterialRarityType": "rarity_1",
+    "iconAssetbundleName": "item_tone_8",
+    "modelAssetbundleName": "mdl_site_tone_common_tonedrop08",
+    "mysekaiSiteIds": [
+      8
+    ]
+  },
+  {
+    "id": 32,
+    "seq": 501,
+    "mysekaiMaterialType": "junk",
+    "name": "Sky Blue Sea Glass",
+    "pronunciation": "skyblueseaglass",
+    "description": "Glass that's spent time soaking up sun rays. Sometimes found on the ground on summer days.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_8",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 4,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 33,
+    "seq": 502,
+    "mysekaiMaterialType": "mineral",
+    "name": "Moonstone",
+    "pronunciation": "moonstone",
+    "description": "A mystical stone that gleams like the moon. Sometimes found on the ground during the full moon.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_8",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 5,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 34,
+    "seq": 503,
+    "mysekaiMaterialType": "junk",
+    "name": "Comet Fragment",
+    "pronunciation": "cometfragment",
+    "description": "A piece of a shooting star that broke off and fell to earth. Sometimes found on the ground during meteor showers.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_9",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 9,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 35,
+    "seq": 601,
+    "mysekaiMaterialType": "game_character",
+    "name": "Sky Blue Memoria",
+    "pronunciation": "skybluememoria",
+    "description": "A fragment of a memory made with Ichika Hoshino. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_1",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 36,
+    "seq": 602,
+    "mysekaiMaterialType": "game_character",
+    "name": "Passionfruit Yellow Memoria",
+    "pronunciation": "passionfruityellowmemoria",
+    "description": "A fragment of a memory made with Saki Tenma. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_2",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 37,
+    "seq": 603,
+    "mysekaiMaterialType": "game_character",
+    "name": "Poppy Red Memoria",
+    "pronunciation": "poppyredmemoria",
+    "description": "A fragment of a memory made with Honami Mochizuki. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_3",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 38,
+    "seq": 604,
+    "mysekaiMaterialType": "game_character",
+    "name": "Yellow-Green Memoria",
+    "pronunciation": "yellow-greenmemoria",
+    "description": "A fragment of a memory made with Shiho Hinomori. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_4",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 39,
+    "seq": 605,
+    "mysekaiMaterialType": "game_character",
+    "name": "Apricot Memoria",
+    "pronunciation": "apricotmemoria",
+    "description": "A fragment of a memory made with Minori Hanasato. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_5",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 40,
+    "seq": 606,
+    "mysekaiMaterialType": "game_character",
+    "name": "Strong Blue Memoria",
+    "pronunciation": "strongbluememoria",
+    "description": "A fragment of a memory made with Haruka Kiritani. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_6",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 41,
+    "seq": 607,
+    "mysekaiMaterialType": "game_character",
+    "name": "Lovely Pink Memoria",
+    "pronunciation": "lovelypinkmemoria",
+    "description": "A fragment of a memory made with Airi Momoi. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_7",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 42,
+    "seq": 608,
+    "mysekaiMaterialType": "game_character",
+    "name": "Pastel Green Memoria",
+    "pronunciation": "pastelgreenmemoria",
+    "description": "A fragment of a memory made with Shizuku Hinomori. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_8",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 43,
+    "seq": 609,
+    "mysekaiMaterialType": "game_character",
+    "name": "Cerise Memoria",
+    "pronunciation": "cerisememoria",
+    "description": "A fragment of a memory made with Kohane Azusawa. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_9",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 44,
+    "seq": 610,
+    "mysekaiMaterialType": "game_character",
+    "name": "Turquoise Memoria",
+    "pronunciation": "turquoisememoria",
+    "description": "A fragment of a memory made with An Shiraishi. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_10",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 45,
+    "seq": 611,
+    "mysekaiMaterialType": "game_character",
+    "name": "Coral Memoria",
+    "pronunciation": "coralmemoria",
+    "description": "A fragment of a memory made with Akito Shinonome. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_11",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 46,
+    "seq": 612,
+    "mysekaiMaterialType": "game_character",
+    "name": "Royal Blue Memoria",
+    "pronunciation": "royalbluememoria",
+    "description": "A fragment of a memory made with Toya Aoyagi. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_12",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 47,
+    "seq": 613,
+    "mysekaiMaterialType": "game_character",
+    "name": "Sunflower Memoria",
+    "pronunciation": "sunflowermemoria",
+    "description": "A fragment of a memory made with Tsukasa Tenma. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_13",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 48,
+    "seq": 614,
+    "mysekaiMaterialType": "game_character",
+    "name": "Warm Pink Memoria",
+    "pronunciation": "warmpinkmemoria",
+    "description": "A fragment of a memory made with Emu Otori. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_14",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 49,
+    "seq": 615,
+    "mysekaiMaterialType": "game_character",
+    "name": "Spring Green Memoria",
+    "pronunciation": "springgreenmemoria",
+    "description": "A fragment of a memory made with Nene Kusanagi. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_15",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 50,
+    "seq": 616,
+    "mysekaiMaterialType": "game_character",
+    "name": "Bellflower Purple Memoria",
+    "pronunciation": "bellflowerpurplememoria",
+    "description": "A fragment of a memory made with Rui Kamishiro. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_16",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 51,
+    "seq": 617,
+    "mysekaiMaterialType": "game_character",
+    "name": "Farida Memoria",
+    "pronunciation": "faridamemoria",
+    "description": "A fragment of a memory made with Kanade Yoisaki. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_17",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 52,
+    "seq": 618,
+    "mysekaiMaterialType": "game_character",
+    "name": "Wisteria Memoria",
+    "pronunciation": "wisteriamemoria",
+    "description": "A fragment of a memory made with Mafuyu Asahina. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_18",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 53,
+    "seq": 619,
+    "mysekaiMaterialType": "game_character",
+    "name": "Caramel Memoria",
+    "pronunciation": "caramelmemoria",
+    "description": "A fragment of a memory made with Ena Shinonome. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_19",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 54,
+    "seq": 620,
+    "mysekaiMaterialType": "game_character",
+    "name": "Thistle Memoria",
+    "pronunciation": "thistlememoria",
+    "description": "A fragment of a memory made with Mizuki Akiyama. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_20",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 55,
+    "seq": 621,
+    "mysekaiMaterialType": "game_character",
+    "name": "Blue-Green Memoria",
+    "pronunciation": "blue-greenmemoria",
+    "description": "A fragment of a memory made with Hatsune Miku. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_21",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 56,
+    "seq": 622,
+    "mysekaiMaterialType": "game_character",
+    "name": "Orange Memoria",
+    "pronunciation": "orangememoria",
+    "description": "A fragment of a memory made with Kagamine Rin. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_22",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 57,
+    "seq": 623,
+    "mysekaiMaterialType": "game_character",
+    "name": "Yellow Memoria",
+    "pronunciation": "yellowmemoria",
+    "description": "A fragment of a memory made with Kagamine Len. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_23",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 58,
+    "seq": 624,
+    "mysekaiMaterialType": "game_character",
+    "name": "Pink Memoria",
+    "pronunciation": "pinkmemoria",
+    "description": "A fragment of a memory made with Megurine Luka. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_24",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 59,
+    "seq": 625,
+    "mysekaiMaterialType": "game_character",
+    "name": "Red Memoria",
+    "pronunciation": "redmemoria",
+    "description": "A fragment of a memory made with MEIKO. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_25",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 60,
+    "seq": 626,
+    "mysekaiMaterialType": "game_character",
+    "name": "Blue Memoria",
+    "pronunciation": "bluememoria",
+    "description": "A fragment of a memory made with KAITO. Use it to make certain furniture items.",
+    "mysekaiMaterialRarityType": "rarity_4",
+    "iconAssetbundleName": "item_memoria_26",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 61,
+    "seq": 504,
+    "mysekaiMaterialType": "junk",
+    "name": "Snow Crystal",
+    "pronunciation": "snowcrystal",
+    "description": "Instead of melting, this snowflake has crystalized. Sometimes found on the ground on snowy days.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_10",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 9,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 62,
+    "seq": 701,
+    "mysekaiMaterialType": "junk",
+    "name": "Ultimate Axe Head",
+    "pronunciation": "ultimateaxehead",
+    "description": "Needed to make an Ultimate Axe.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_11",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiSiteIds": [
+      8
+    ]
+  },
+  {
+    "id": 63,
+    "seq": 702,
+    "mysekaiMaterialType": "junk",
+    "name": "Ultimate Pickaxe Head",
+    "pronunciation": "ultimatepickaxehead",
+    "description": "Needed to make an Ultimate Pickaxe.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_12",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiSiteIds": [
+      8
+    ]
+  }
+]

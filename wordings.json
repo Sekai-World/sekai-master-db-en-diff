@@ -72,6 +72,10 @@
     "value": "{0} x {1}"
   },
   {
+    "wordingKey": "FORMAT_CONVERT_SHORTEN_TIME_HAVE_JOINED_PASS",
+    "value": "Shortened {0}% by World Pass"
+  },
+  {
     "wordingKey": "FORMAT_DAY",
     "value": "DAY {0}"
   },
@@ -80,12 +84,76 @@
     "value": "Lv. {0}"
   },
   {
+    "wordingKey": "FORMAT_MSG_CONFIRM_CANCEL_INVITATION",
+    "value": "Uninvite {0}?"
+  },
+  {
+    "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE",
+    "value": "Switch to {0}?\n\n<color=#FF5588>*You won't be able to collect Memoria until 5:00 AM (PT) tomorrow.\n*You won't be able to change your Gate for {1} days.\n*Anyone invited to your SEKAI will be uninvited.<\/color>"
+  },
+  {
+    "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE_TUTORIAL",
+    "value": "Switch to {0}?"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_BLUEPRINT_NAME",
+    "value": "{0} Blueprint"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_CONVERT_SLOT_NO",
+    "value": "<size=36><color=#0faf9d>SLOT<\/color><\/size><size=80><color=#0faf9d>0{0}<\/color><\/size>"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_CONFIRM",
+    "value": "Your World Pass expired {0} days ago.\nYour MYSEKAI Presets saved to extra slots will now be wiped. Renew your pass and keep your Presets?"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_GATE_MAX_LEVEL",
+    "value": "{0} <size=28>MAX<\/size>"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_GATE_VISIT_CHARACTER",
+    "value": "ゲートレベル{0}以降に来訪するキャラクター"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_HARVEST_TOOL_QUANTITY",
+    "value": "x{0}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_PHOTO_ALBUM_PAGE_COUNT",
+    "value": "{0}\/{1}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_PHOTO_FILM_QUANTITY",
+    "value": "x{0}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_PUT_LIMIT",
+    "value": "{0}\/{1}"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_SECRET_SHOP_PURCHASE_LIMIT_COUNT",
+    "value": "{0}\/{1}回"
+  },
+  {
+    "wordingKey": "FORMAT_MYSEKAI_SITE_LAYOUT_SIZE",
+    "value": "{0}×{1}"
+  },
+  {
     "wordingKey": "FORMAT_RECEIVE_PRESENTED_MUSIC",
     "value": "Claimed gift song\n{0}."
   },
   {
     "wordingKey": "FORMAT_RELEASE_EVENT_RELATED_MUSIC_INFO",
     "value": "View up to episode {0} to unlock."
+  },
+  {
+    "wordingKey": "FORMAT_SECRET_SHOP_PURCHASE_CONFIRM",
+    "value": "Use Crystals <color=#ff5599>x{0}<\/color> to purchase {1}?"
+  },
+  {
+    "wordingKey": "FORMAT_SEND_INVITATION_CHARACTER",
+    "value": "{0} - {1}"
   },
   {
     "wordingKey": "MEG_VERSUS_MATCH_TIMEOUT",
@@ -154,6 +222,14 @@
   {
     "wordingKey": "MSG_ABOUT_LIVE_POINT_DAILY_BONUS_CONTENT_TITLE",
     "value": "Daily Bonus"
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_HARVEST_CONTENT",
+    "value": "Normally, using 1 segment of your Stamina wheel earns you <color=#ff55AA>1<\/color> Show Point.\nWhen you are Boosted, each segment grants <color=#ff55AA>5<\/color> Show Points.\n*It is possible to earn fractions of Show Points, which accumulate separately.\n*Each time fractions of Show Points add up to 1 whole Show Point, this is added to your total Show Points.\n*Be aware that you will lose any fractions of Show Points at midnight (PT) daily."
+  },
+  {
+    "wordingKey": "MSG_ABOUT_LIVE_POINT_HARVEST_TITLE",
+    "value": "MYSEKAI Harvesting"
   },
   {
     "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
@@ -278,6 +354,10 @@
   {
     "wordingKey": "MSG_ALREADY_CLEARED_LIVE_RETRY",
     "value": "Connection lost. Returning to home screen.\nShow scores will be reflected correctly."
+  },
+  {
+    "wordingKey": "MSG_ALREADY_GET_BLUEPRINT",
+    "value": "Already Owned"
   },
   {
     "wordingKey": "MSG_ANDROID_RATING",
@@ -448,8 +528,32 @@
     "value": "Use Crystals <color=#ff5599>x{0}<\/color>\nto restore <color=#ff5599>{1}<\/color> Bonus Energy?"
   },
   {
+    "wordingKey": "MSG_BOOST_STAMINA_HARVEST_SPEED",
+    "value": "Boosted Stamina makes you harvest materials much more quickly."
+  },
+  {
+    "wordingKey": "MSG_BOOST_STAMINA_RECOVER_COMPLETE",
+    "value": "Stamina restored."
+  },
+  {
+    "wordingKey": "MSG_BOOST_STAMINA_RECOVER_CONFIRM",
+    "value": "Recover Stamina <color=#ff5599>x{0}<\/color> and become Boosted?"
+  },
+  {
+    "wordingKey": "MSG_BOOST_STAMINA_RECOVER_METHOD_JEWEL_CONFIRM",
+    "value": "Use Crystals <color=#ff5599>x{0}<\/color> to restore Stamina by <color=#ff5599>{1}<\/color> and become Boosted?"
+  },
+  {
+    "wordingKey": "MSG_BOOST_STAMINA_RECOVER_METHOD_LIVE_BONUS_CONFIRM",
+    "value": "Use Bonus Energy <color=#ff5599>x{0}<\/color> to restore Stamina by <color=#ff5599>{1}<\/color> and become Boosted?"
+  },
+  {
     "wordingKey": "MSG_BORDER_RANKING",
     "value": "Highlights"
+  },
+  {
+    "wordingKey": "MSG_BROKEN_TOOL",
+    "value": "Your tool broke."
   },
   {
     "wordingKey": "MSG_BUY_COMPLETE",
@@ -458,6 +562,10 @@
   {
     "wordingKey": "MSG_BUY_GOLD_TICKET",
     "value": "Purchase the paid Golden Charm"
+  },
+  {
+    "wordingKey": "MSG_CANVAS_BONUS_DIALOG_DESCRIPTION",
+    "value": "Make a Painting of this Character\nin MYSEKAI to boost its Talent."
   },
   {
     "wordingKey": "MSG_CAN_BUY_BY_COSTUME_SHOP",
@@ -534,6 +642,10 @@
   {
     "wordingKey": "MSG_CHARACTER_SELECT_DESCRIPTION",
     "value": "Please select a character."
+  },
+  {
+    "wordingKey": "MSG_CHARA_MATERIAL_DROP",
+    "value": "Found {0}."
   },
   {
     "wordingKey": "MSG_CHARA_NOT_HAVE",
@@ -652,6 +764,10 @@
     "value": "*You may edit your Dream Picks as many times as you like before pulling the Gacha."
   },
   {
+    "wordingKey": "MSG_COMBINATION_FURNITURE_NONE_GL",
+    "value": "No Displays available."
+  },
+  {
     "wordingKey": "MSG_COMMUNITY_REPORT_BUSINESS_CONDUCT",
     "value": "Soliciting players for sales or game boosting"
   },
@@ -696,6 +812,10 @@
     "value": "The player you reported has received a penalty.\nThank you for reporting them."
   },
   {
+    "wordingKey": "MSG_COMPLETE_CANCEL_INVITATION",
+    "value": "Invitation withdrawn."
+  },
+  {
     "wordingKey": "MSG_COMPLETE_READ_REWARD_TIPS",
     "value": "Earn 1 completion stamp for each Main or Event Story episode you view without skipping or fast forwarding."
   },
@@ -708,8 +828,24 @@
     "value": "Upgrade \"{0}\" {1}"
   },
   {
+    "wordingKey": "MSG_CONFIRME_KICK_DIALOG",
+    "value": "Kick this player from your MYSEKAI?"
+  },
+  {
+    "wordingKey": "MSG_CONFIRME_OTHER_PLAYER_MYSEKAI_VISIT",
+    "value": "Visit {0}'s MYSEKAI?"
+  },
+  {
     "wordingKey": "MSG_CONFIRM_DATA_LINK",
     "value": "Link the following account.\nContinue?"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_GATE_LEVEL_UP",
+    "value": "Level up the {0}?"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_LEAVE_MYSEKAI",
+    "value": "Leave {0}'s MYSEKAI?"
   },
   {
     "wordingKey": "MSG_CONFIRM_MYLIST_RESET",
@@ -726,6 +862,10 @@
   {
     "wordingKey": "MSG_CONFIRM_PLAY_LOGIN_STORY_DIALOG",
     "value": "View login story?"
+  },
+  {
+    "wordingKey": "MSG_CONFIRM_RANDOM_VISIT",
+    "value": "Visit a random MYSEKAI?"
   },
   {
     "wordingKey": "MSG_CONFIRM_REMOVE_BOOK_MARK",
@@ -812,8 +952,64 @@
     "value": "Use <size={0}>{1}<\/size>"
   },
   {
+    "wordingKey": "MSG_CONVERT_BLUEPRINT_RANDOM_BOX_CHOICE_DESCRIPTION",
+    "value": "Receive a random Blueprint from {0}."
+  },
+  {
+    "wordingKey": "MSG_CONVERT_BLUEPRINT_RANDOM_BOX_DESCRIPTION",
+    "value": "Receive a random Blueprint."
+  },
+  {
+    "wordingKey": "MSG_CONVERT_ITEM_NONE",
+    "value": "No Converter outputs available."
+  },
+  {
     "wordingKey": "MSG_CONVERT_MESSAGE",
     "value": "The trade period for {0} has ended.\nAutomatically traded for {1}."
+  },
+  {
+    "wordingKey": "MSG_CONVERT_NOT_ENOUGH_CONSUMED_RESOURCE",
+    "value": "Need more materials"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_NOT_EXPIRED_PASS",
+    "value": "Cannot Convert as your World Pass has expired."
+  },
+  {
+    "wordingKey": "MSG_CONVERT_RECORD_RANDOM_BOX_CHOICE_DESCRIPTION",
+    "value": "Receive a random {0} Record."
+  },
+  {
+    "wordingKey": "MSG_CONVERT_RECORD_RANDOM_BOX_DESCRIPTION",
+    "value": "Receive a random Record."
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SLOT_LOCK_EXPIRED_PASS",
+    "value": "Slots locked as your World Pass has expired."
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SLOT_SHORTEN_CONFIRM",
+    "value": "Use Crystals <color=#ff5588>x{0}<\/color> to instantly Convert {1}?"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SURPLUS_BLUEPRINT_CHOICE_ATTENTION",
+    "value": "※設計図は被る可能性があります。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SURPLUS_BLUEPRINT_CHOICE_TITLE",
+    "value": "ヘンカンする設計図のカテゴリを選択してください。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SURPLUS_RECORD_CHOICE_ATTENTION",
+    "value": "※レコードは被る可能性があります。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_SURPLUS_RECORD_CHOICE_TITLE",
+    "value": "ヘンカンするレコードのユニットを選択してください。"
+  },
+  {
+    "wordingKey": "MSG_CONVERT_UPPER_LIMIT_PASS",
+    "value": "Cannot convert this quantity before your World Pass expires.\nPlease select a smaller number."
   },
   {
     "wordingKey": "MSG_COPY_COMPLETE_ROOM_ID",
@@ -834,6 +1030,22 @@
   {
     "wordingKey": "MSG_COUNTING_NOW",
     "value": "Results available after all shows have ended.\nScheduled Time: {0}\/{1} {2}."
+  },
+  {
+    "wordingKey": "MSG_CRAFT_NOT_ENOUGH_MATERIAL",
+    "value": "Need more materials"
+  },
+  {
+    "wordingKey": "MSG_CRAFT_NOT_ENOUGH_MATERIAL_GL",
+    "value": "Need more materials."
+  },
+  {
+    "wordingKey": "MSG_CRAFT_REACHED_POSSESSION_LIMIT",
+    "value": "Inventory full."
+  },
+  {
+    "wordingKey": "MSG_CRAFT_TABLE_GL",
+    "value": "Build at Workbench first"
   },
   {
     "wordingKey": "MSG_CREATE_PRIVATE_ROOM",
@@ -976,6 +1188,10 @@
     "value": "Connection lost. Returning to home screen. <size=28>({0})<\/size>"
   },
   {
+    "wordingKey": "MSG_DL_MYSEKAI_VOICE",
+    "value": "MYSEKAI dialogue is fully voiced.\nDownload MYSEKAI voice files?\n\nSize: <color=#ff5599>Approx. {0}MB<\/color>\n\n*You can do this later in your MYSEKAI settings."
+  },
+  {
     "wordingKey": "MSG_DONT_SHOW_ME_THIS_AGAIN",
     "value": "Don't show me this again."
   },
@@ -1006,6 +1222,10 @@
   {
     "wordingKey": "MSG_DO_UPDATE",
     "value": "Update"
+  },
+  {
+    "wordingKey": "MSG_EACH_COLOR_ONE_ONLY",
+    "value": "※この家具は各カラー{0}つしか製作できません。"
   },
   {
     "wordingKey": "MSG_EDITABLE_MYLIST",
@@ -1094,6 +1314,10 @@
   {
     "wordingKey": "MSG_ERROR_NAME_INPUT_MIN",
     "value": "Please enter at least 1 character."
+  },
+  {
+    "wordingKey": "MSG_ERROR_TO_HOME",
+    "value": "Something went wrong.\nReturning to home screen."
   },
   {
     "wordingKey": "MSG_ERROR_TO_TITLE",
@@ -1208,6 +1432,10 @@
     "value": "EX Mission #{0}"
   },
   {
+    "wordingKey": "MSG_FAILED_SAVE_GL",
+    "value": "Save failed."
+  },
+  {
     "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
     "value": "Liked by <color=#f7a>{0}<\/color> and {1} other(s)"
   },
@@ -1230,6 +1458,18 @@
   {
     "wordingKey": "MSG_FINISHED_TODAY_CHALLENGE",
     "value": "Today's number of attempts have already been played."
+  },
+  {
+    "wordingKey": "MSG_FIXTURE_ACTION_WARNING_OWNER_EDIT_MODE",
+    "value": "Cannot use furniture while your host is editing."
+  },
+  {
+    "wordingKey": "MSG_FIXTURE_BONUS_UP_DIALOG",
+    "value": "Furniture Bonus increased."
+  },
+  {
+    "wordingKey": "MSG_FIXTURE_POSSESSION",
+    "value": "Your inventory can hold more furniture."
   },
   {
     "wordingKey": "MSG_FIX_MIKU_COSTUME",
@@ -1428,6 +1668,18 @@
     "value": "Includes {0}"
   },
   {
+    "wordingKey": "MSG_GATE_LEVEL_UP_INCREASE_VISITS",
+    "value": "ゲートレベルが上がると、複数人での来訪が増えます。"
+  },
+  {
+    "wordingKey": "MSG_GATE_SEND_INVITATION_CHARACTER_SELECT",
+    "value": "招待状を送るキャラクターを選んでください。"
+  },
+  {
+    "wordingKey": "MSG_GET_BLUEPRINT",
+    "value": "Obtained {0}."
+  },
+  {
     "wordingKey": "MSG_GET_GACHA_BONUS",
     "value": "Gacha Bonus rewards earned."
   },
@@ -1436,12 +1688,24 @@
     "value": "Get a total of {0} Show Pts."
   },
   {
+    "wordingKey": "MSG_GET_RECORD",
+    "value": "Obtained Record."
+  },
+  {
     "wordingKey": "MSG_GET_SERIAL_CODE_REWARD",
     "value": "Obtained serial code reward(s)."
   },
   {
     "wordingKey": "MSG_GET_SERIAL_CODE_STAMP_RALLY_REWARD",
     "value": "Claimed rewards."
+  },
+  {
+    "wordingKey": "MSG_GET_SURPLUS_BLUEPRINT",
+    "value": "You already own this Blueprint, so you obtained a <color=#ff5588>{0}<\/color> instead."
+  },
+  {
+    "wordingKey": "MSG_GET_SURPLUS_RECORD",
+    "value": "You already own this Record, so you obtained a <color=#ff5588>Surplus Record<\/color> instead."
   },
   {
     "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
@@ -1480,6 +1744,10 @@
     "value": "Purchase the Golden Charm to unlock Gold tier rewards for ongoing Event Show Missions."
   },
   {
+    "wordingKey": "MSG_HARVST_SITE_RELEASE_NEW_SITE",
+    "value": "New area unlocked."
+  },
+  {
     "wordingKey": "MSG_HAS_CUTIN",
     "value": "Has Alternate Cut"
   },
@@ -1490,6 +1758,14 @@
   {
     "wordingKey": "MSG_HIGH_SCORE_UPDATE_REWARD",
     "value": "<color=#FF5599>+{0}<\/color> Pts Score Reward"
+  },
+  {
+    "wordingKey": "MSG_HOME_SITE_SIZE_EXPAND",
+    "value": "Your yard grew in size."
+  },
+  {
+    "wordingKey": "MSG_HOUSING_PRESET_SLOT_LOCK_EXPIRED_PASS",
+    "value": "Slots locked as your World Pass has expired."
   },
   {
     "wordingKey": "MSG_ID_NOT_FOUND",
@@ -1544,6 +1820,14 @@
     "value": "Enter Player ID."
   },
   {
+    "wordingKey": "MSG_INVENTORY_OVER",
+    "value": "Can't carry any more."
+  },
+  {
+    "wordingKey": "MSG_INVITATION_SELECT_CHARA_GL",
+    "value": "Choose who to invite to your SEKAI"
+  },
+  {
     "wordingKey": "MSG_INVITE_FAILED_CHEERFUL_INVALID_TEAM",
     "value": "Unable to join room as you have chosen different Teams."
   },
@@ -1568,8 +1852,16 @@
     "value": "Live Now!"
   },
   {
+    "wordingKey": "MSG_IN_SETTING_GL",
+    "value": "Setting"
+  },
+  {
     "wordingKey": "MSG_JOINED_GROUP_REWARD",
     "value": "Obtained the Crew's Avatar Costume."
+  },
+  {
+    "wordingKey": "MSG_KICKOUT_DIALOG_TEXT",
+    "value": "Left due to change in host's settings.\nReturning to your MYSEKAI."
   },
   {
     "wordingKey": "MSG_KICKOUT_TO_HOME",
@@ -1588,6 +1880,10 @@
     "value": "Latest Shows"
   },
   {
+    "wordingKey": "MSG_LAYOUT_UPDATE",
+    "value": "Updating MYSEKAI..."
+  },
+  {
     "wordingKey": "MSG_LB_RECEIVE_LIMIT",
     "value": "The player you are trying to give Bonus Energy to has reached their receivable limit."
   },
@@ -1598,6 +1894,18 @@
   {
     "wordingKey": "MSG_LEADER_SETTING_CAUTION",
     "value": "Please set a Leader."
+  },
+  {
+    "wordingKey": "MSG_LEARN_PHENOMENA",
+    "value": "New weather type! <color=#ff5588>{0}<\/color> is now available at your house."
+  },
+  {
+    "wordingKey": "MSG_LEAVE_CHARACTER",
+    "value": "{0}が帰りました。"
+  },
+  {
+    "wordingKey": "MSG_LEFTOVER_BLUEPRINT_CHANGE_GL",
+    "value": "You already own this Blueprint.\nIf you purchase it, you will get a Surplus Blueprint instead."
   },
   {
     "wordingKey": "MSG_LEFT_ROOM",
@@ -1678,6 +1986,10 @@
   {
     "wordingKey": "MSG_LOADING_WARNING",
     "value": "*Please check your signal strength before downloading. Weak signal strength may result in longer download times."
+  },
+  {
+    "wordingKey": "MSG_LOCK_GL",
+    "value": "LOCKED"
   },
   {
     "wordingKey": "MSG_LOGINBONUS_RECEIVE",
@@ -1766,6 +2078,10 @@
   {
     "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM_BY_GACHA_CIEL",
     "value": "Trade {0} <color=#FF5599>x{1}<\/color> for this item?"
+  },
+  {
+    "wordingKey": "MSG_MATERIAL_POSSESSION",
+    "value": "Your inventory can hold more materials."
   },
   {
     "wordingKey": "MSG_MAX_ANOUNCE",
@@ -1992,6 +2308,178 @@
     "value": "*This can be changed later."
   },
   {
+    "wordingKey": "MSG_MYROOM_SITE_RELEASE_NEW_FLOOR",
+    "value": "You unlocked a new floor."
+  },
+  {
+    "wordingKey": "MSG_MYROOM_SITE_SIZE_EXPAND",
+    "value": "Your room grew in size."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_COLORFUL_PASS_ALERT",
+    "value": "Colorful Pass has expired.\nPurchase another?"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
+    "value": "You can now place more <color=#ff5599>fences and paths<\/color>."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
+    "value": "You can now place more <color=#ff5599>furniture<\/color>."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_CHANGE_INTERVAL_FORMAT",
+    "value": "Change Gates in {0}"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_DETAIL_ATTENTION",
+    "value": "*Includes VIRTUAL SINGER Characters with this as their subgroup.\n*For VIRTUAL SINGER Characters with no subgroup, the highest bonus of all Gates is applied."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_IN_INVITATION",
+    "value": "Sending an invitation."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_IN_SETTING",
+    "value": "Already Set"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_NOT_ENOUGH_MATERIAL_TO_LEVEL_UP",
+    "value": "Need more materials"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_REACHED_TO_MAX_LEVEL",
+    "value": "Gate Level at Max"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION",
+    "value": "Mail the invitation!"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION_COMPLETED",
+    "value": "Invited {0} to MYSEKAI."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION_CONFIRM",
+    "value": "Send an invitation to {0}?\n<color=#FF3366>You will have to wait {1} days before inviting someone else.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SKIN_NOT_SETUP",
+    "value": "This skin can only be equipped to the {0}."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SKIN_RELEASE",
+    "value": "Unlocked skin."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_GATE_SKIN_RELEASE_CONFIRM",
+    "value": "Unlock {0}?"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_INVALID_TO_TRIPOD_MODE",
+    "value": "No space to place tripod."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_JOIN_ERROR",
+    "value": "You can't visit this player's MYSEKAI right now.\nThe number of visitors is at capacity."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_LAYOUT_EDIT_PLANNING_COUNT",
+    "value": "{0} left"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_MATCHING_MODEL_ROOM_DESCRIPTION",
+    "value": "Looking for Model Room..."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_MATCHING_NOW_DESCRIPTION",
+    "value": "Going to MYSEKAI..."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_MISSION_COMING_SOON",
+    "value": "coming soon..."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_MOVE_TO_PRESET_CONFIRM",
+    "value": "Save changes and go to Presets?"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_NOT_ENOUGH_PHOTO_FILM",
+    "value": "Not enough Film to take Photos.\nGet more Film with the Converter."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_OPEN_SITE_MESSAGE",
+    "value": "New area unlocked: {0}"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_OWNER_LEAVE",
+    "value": "通信が切断されました。\n自分のマイセカイに戻ります。"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_PHOTO_RELEASE_INFO",
+    "value": "Removed cover."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_PHOTO_SETTING_INFO",
+    "value": "Set photo as cover."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_PHOTO_SHOT_SAVE",
+    "value": "Saved photo to Album."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_PUT_LIMIT",
+    "value": "You cannot place any more furniture."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SECRET_SHOP_ALL_COLOR_CRAFT_GL",
+    "value": "• One Blueprint allows you to build all colors of an item.\n• Each product can only be purchased once.\n• You will receive the product immediately on purchase."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SECRET_SHOP_PURCHASE_LIMIT_REACHED",
+    "value": "You have reached your purchase limit for this week."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SITE_EDIT_SAVE",
+    "value": "Saved"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SITE_LAYOUT_EDIT_CLEAN_UP_CONFIRM",
+    "value": "Put away all furniture in the area being edited?"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_BLUPRINT_CONFIRM_GL",
+    "value": "Use a Blank Blueprint to Sketch this item?"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_CONFIRM",
+    "value": "Use Blank Blueprint to Sketch this item?"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_CRYSTAL_SHOP_GO",
+    "value": "クリスタル ショップへ"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_HAD_BLUE_PRINT",
+    "value": "You already have a Blueprint for this."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_HAS_NOT_FIXTURE",
+    "value": "There are no Sketchable items in this MYSEKAI."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_SPECIAL_FIXTURE",
+    "value": "This item cannot be Sketched."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_SKETCH_TRADE_GO",
+    "value": "ヘンカンへ"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TUTORIAL_CALL_CHARACTER_IN_PHOTO_MODE",
+    "value": "Tap to call out to the characters!"
+  },
+  {
     "wordingKey": "MSG_NAME_INPUT",
     "value": "Please enter a name (up to 20 characters)."
   },
@@ -2024,6 +2512,10 @@
     "value": "{0}のストーリー\n<color=#ff77AA>{1:MM\/dd HH:mm} 解放<\/color>"
   },
   {
+    "wordingKey": "MSG_NEXT_INVITATION_GL",
+    "value": "Invite again in:"
+  },
+  {
     "wordingKey": "MSG_NGWORD_BALLOON",
     "value": "Contains inappropriate words."
   },
@@ -2052,8 +2544,20 @@
     "value": "You have no Practice Scores."
   },
   {
+    "wordingKey": "MSG_NONE_INVITATION",
+    "value": "No invitations."
+  },
+  {
+    "wordingKey": "MSG_NONE_MYSEKAI_FRIEND_LIST",
+    "value": "No friends available to visit."
+  },
+  {
     "wordingKey": "MSG_NONE_PAID_LIVE_REWARD",
     "value": "No reward available."
+  },
+  {
+    "wordingKey": "MSG_NONE_TAG_OPTIONS",
+    "value": "Search for tags to see results here."
   },
   {
     "wordingKey": "MSG_NOTHING_ACCESSORY_ITEM",
@@ -2116,8 +2620,16 @@
     "value": "Late Night Notifications"
   },
   {
+    "wordingKey": "MSG_NOT_CANCEL_INVITATION_EXPIRED_PASS",
+    "value": "Cannot uninvite as your World Pass has expired.\nReturning to your house."
+  },
+  {
     "wordingKey": "MSG_NOT_CONSUME",
     "value": "None"
+  },
+  {
+    "wordingKey": "MSG_NOT_EDIT_LAYOUT_VISITING_CHARACTER_FROM_GATE",
+    "value": "Cannot edit layout while a character is using the Gate."
   },
   {
     "wordingKey": "MSG_NOT_ENOUGH_CURRENCY",
@@ -2144,6 +2656,10 @@
     "value": "You do not have enough tickets."
   },
   {
+    "wordingKey": "MSG_NOT_ENOUGH_WHITE_BLUE_PRINT",
+    "value": "You have no Blank Blueprints.\nGet them from the MYSEKAI Mission Pass or a Converter."
+  },
+  {
     "wordingKey": "MSG_NOT_ENTRY_EVENT",
     "value": "You are not participating in this event."
   },
@@ -2154,6 +2670,14 @@
   {
     "wordingKey": "MSG_NOT_EVENT_INSESSION",
     "value": "No ongoing Events."
+  },
+  {
+    "wordingKey": "MSG_NOT_HAVE_TOOL",
+    "value": "You don't have the right tool.\nMake one at a Workbench."
+  },
+  {
+    "wordingKey": "MSG_NOT_INVITATION_EXPIRED_PASS",
+    "value": "Cannot invite as your World Pass has expired.\nReturning to your house."
   },
   {
     "wordingKey": "MSG_NOT_PLAYABLE_DAILY_PROGRESS_MISSION_GL",
@@ -2172,12 +2696,24 @@
     "value": "This song is unavailable to play."
   },
   {
+    "wordingKey": "MSG_NOT_PURCHASE_SECRET_SHOP_EXPIRED_PASS",
+    "value": "Cannot access Secret Shop as your World Pass has expired.\nReturning to your house."
+  },
+  {
+    "wordingKey": "MSG_NOT_RECYCLE_FURNITURE_GL",
+    "value": "This furniture cannot be Recycled."
+  },
+  {
     "wordingKey": "MSG_NOT_RESULT_CONFIRM_NOW",
     "value": "No results found."
   },
   {
     "wordingKey": "MSG_NOT_SHOW_AGAIN",
     "value": "Do not show again."
+  },
+  {
+    "wordingKey": "MSG_NOT_TALK_GL",
+    "value": "Can't talk now"
   },
   {
     "wordingKey": "MSG_NOT_TARGET_MUSIC",
@@ -2308,8 +2844,16 @@
     "value": "1 Time Only"
   },
   {
+    "wordingKey": "MSG_ONE_ONLY_CRAFT",
+    "value": "※この家具は{0}つしか製作できません。"
+  },
+  {
     "wordingKey": "MSG_ON_GOING_EVENT_MAINTENANCE",
     "value": "Event currently under maintenance."
+  },
+  {
+    "wordingKey": "MSG_OTHER_MYSEKAI_NAME",
+    "value": "{0}'s MYSEKAI"
   },
   {
     "wordingKey": "MSG_OTHER_UNIT",
@@ -2324,6 +2868,10 @@
     "value": "Currently off-season. Returning to Ranked Matches screen."
   },
   {
+    "wordingKey": "MSG_OVER_BOOST_STAMINA_RECOVER",
+    "value": "Maxed Out"
+  },
+  {
     "wordingKey": "MSG_OVER_RARITY_3_ONCE",
     "value": "1 Guaranteed 3★ or higher!"
   },
@@ -2334,6 +2882,14 @@
   {
     "wordingKey": "MSG_OVER_RECOVER",
     "value": "Bonus Energy Limit: 999"
+  },
+  {
+    "wordingKey": "MSG_OWNER_JOIN_NOTICE",
+    "value": "{0}\nhas returned to their MYSEKAI."
+  },
+  {
+    "wordingKey": "MSG_OWNER_LEAVE_NOTICE",
+    "value": "{0} has left.\nReturning to your MYSEKAI in {1} seconds."
   },
   {
     "wordingKey": "MSG_PAID_LIVE_DISC",
@@ -2380,6 +2936,10 @@
     "value": "There are items for which payment has not yet been completed."
   },
   {
+    "wordingKey": "MSG_PHOTOSHOT_UNSAVE",
+    "value": "Go back and retake photo?"
+  },
+  {
     "wordingKey": "MSG_PIN_THE_LEADER",
     "value": "Set as Leader"
   },
@@ -2392,8 +2952,28 @@
     "value": "<size=80>{0}<\/size> matches left to determine starting rank."
   },
   {
+    "wordingKey": "MSG_PLAYER_KICKOUT_AND_BLOCK_RESULT",
+    "value": "This player has been blocked and kicked from your MYSEKAI."
+  },
+  {
+    "wordingKey": "MSG_PLAYER_KICKOUT_RESULT",
+    "value": "This player has been kicked from your MYSEKAI."
+  },
+  {
+    "wordingKey": "MSG_PLAYER_LEAVE_NOTICE",
+    "value": "{0}がマイセカイから\n退出しました。"
+  },
+  {
+    "wordingKey": "MSG_PLAYER_VISIT_NOTICE",
+    "value": "{0}\nhas come to your MYSEKAI."
+  },
+  {
     "wordingKey": "MSG_PLEASE_SELECT_REWARD",
     "value": "Select a reward."
+  },
+  {
+    "wordingKey": "MSG_POSSESSION_OVER_LIMIT",
+    "value": "Could not collect item. Inventory cannot hold any more."
   },
   {
     "wordingKey": "MSG_PRACTICE_EXECUTE",
@@ -2568,6 +3148,10 @@
     "value": "Checking venue status..."
   },
   {
+    "wordingKey": "MSG_RECEIVED_CONVERT_REWARD",
+    "value": "Claimed Conversion output."
+  },
+  {
     "wordingKey": "MSG_RECEIVED_COSTUME",
     "value": "Costume obtained."
   },
@@ -2582,6 +3166,10 @@
   {
     "wordingKey": "MSG_RECEIVED_LOGIN_BONUS",
     "value": "Claimed rewards."
+  },
+  {
+    "wordingKey": "MSG_RECEIVED_PARTIAL_REWARD_DUE_TO_POSSESSION_LIMIT",
+    "value": "Could not collect some items. Inventory cannot hold any more items."
   },
   {
     "wordingKey": "MSG_RECEIVED_PRESENT_MUSIC",
@@ -2660,12 +3248,24 @@
     "value": "Skill Up is now available.\nGo to Skill Up now?"
   },
   {
+    "wordingKey": "MSG_RELEASING_AT_MYSEKAI_COLORFUL_PASS_PURCHASE",
+    "value": "Purchase World Pass to unlock"
+  },
+  {
+    "wordingKey": "MSG_RELEASING_AT_MYSEKAI_MISSION_PASS_PURCHASE",
+    "value": "Purchase MYSEKAI Mission Pass to unlock"
+  },
+  {
     "wordingKey": "MSG_RELEASING_AT_PREMIUM_MISSION_PATH_PURCHASE",
     "value": "Purchase Premium Mission Pass to unlock."
   },
   {
     "wordingKey": "MSG_REMING_COUNT_SIZE_FORMAT",
     "value": "<size={0}>x{1}<\/size> left"
+  },
+  {
+    "wordingKey": "MSG_REPAIR_TOOL",
+    "value": "You don't have the right tool.\nMake one at a Workbench."
   },
   {
     "wordingKey": "MSG_REPLACE_CUT_IN_NOTE",
@@ -2752,6 +3352,18 @@
     "value": "You can make Costumes at the Costume Shop located in the Shopping Mall."
   },
   {
+    "wordingKey": "MSG_SECRET_COMPLETE_GL",
+    "value": "Please shop with us again."
+  },
+  {
+    "wordingKey": "MSG_SECRET_SHOP_PASS_LOGIN_GL",
+    "value": "Purchase the World Pass to access\nthe Secret Shop."
+  },
+  {
+    "wordingKey": "MSG_SECRET_SHOP_URL_GL",
+    "value": "secretshop\/mysekai"
+  },
+  {
     "wordingKey": "MSG_SELECT_ACTION_FROM_BELOW",
     "value": "Select your favorite Actions from those available below."
   },
@@ -2766,6 +3378,14 @@
   {
     "wordingKey": "MSG_SELECT_ONE_GIFT",
     "value": "Select the item you would like to claim after pulling the Gacha."
+  },
+  {
+    "wordingKey": "MSG_SELECT_PHOTO_FLAME_SAVE_GL",
+    "value": "Choose a border to save your photo in the Album."
+  },
+  {
+    "wordingKey": "MSG_SELECT_SKETCH_GL",
+    "value": "Select an item to Sketch"
   },
   {
     "wordingKey": "MSG_SEND_WAIT_ROOM",
@@ -2786,6 +3406,10 @@
   {
     "wordingKey": "MSG_SETTABLE_FROM_OPTION",
     "value": "*This can be changed from the Options screen."
+  },
+  {
+    "wordingKey": "MSG_SET_DISCOUNT_ANNOTATION",
+    "value": "*Discount applied for purchasing both Mission Passes together."
   },
   {
     "wordingKey": "MSG_SHOP_DAY_RESET_PERIOD",
@@ -2813,7 +3437,7 @@
   },
   {
     "wordingKey": "MSG_SHOP_MONTHLY_RESET_PERIOD",
-    "value": "Resets day {0} of every month at 12:00 AM (PT)"
+    "value": "Resets day {0} of every month\nat 12:00 AM (PT)"
   },
   {
     "wordingKey": "MSG_SHOP_NUMBER_OF_PURCHASE",
@@ -2872,6 +3496,10 @@
     "value": "Vocals: {0}"
   },
   {
+    "wordingKey": "MSG_SKETCH_WARNING_OWNER_EDIT_MODE",
+    "value": "Cannot Sketch while your host is editing."
+  },
+  {
     "wordingKey": "MSG_SKILL_PRACTICE_EXECUTE",
     "value": "Use {0} to Skill Up.\nContinue?"
   },
@@ -2882,6 +3510,10 @@
   {
     "wordingKey": "MSG_SKILL_PRACTICE_NOTHING",
     "value": "No members able to undergo Skill Practice."
+  },
+  {
+    "wordingKey": "MSG_SKIP_SCENE_CONFIRM",
+    "value": "Skip this cutscene?"
   },
   {
     "wordingKey": "MSG_SPECIAL_MISSION_UPDATED_GL",
@@ -3052,6 +3684,10 @@
     "value": "Top 100"
   },
   {
+    "wordingKey": "MSG_TOP_SETTING_PHOTO_GL",
+    "value": "Select a photo to set as your cover."
+  },
+  {
     "wordingKey": "MSG_TOTAL_LIVE_POINT",
     "value": "Total Monthly Show Pts♪"
   },
@@ -3076,8 +3712,24 @@
     "value": "Returning to title screen."
   },
   {
+    "wordingKey": "MSG_TRADE_MACHINE_LEVEL_UP",
+    "value": "Your Converter levelled up."
+  },
+  {
+    "wordingKey": "MSG_TREASURE_BOX_NOTICE",
+    "value": "There's a chest in\n{0}!"
+  },
+  {
     "wordingKey": "MSG_TROUBLE_MULTILIVE",
     "value": "Inappropriate conduct towards other players detected.\nCurrent show results have been nullified.\n\nIf inappropriate conduct is detected again,\nyour account may be suspended."
+  },
+  {
+    "wordingKey": "MSG_TUTORIAL_HARVEST_LIMIT",
+    "value": "You have enough materials from this area.\n*If you have an incomplete mission, you may have forgotten to pick something up after harvesting."
+  },
+  {
+    "wordingKey": "MSG_TUTORIAL_NEXT_CONFIRM",
+    "value": "Advance to the next part of the tutorial?"
   },
   {
     "wordingKey": "MSG_TUTORIAL_QUESTION1",
@@ -3090,6 +3742,10 @@
   {
     "wordingKey": "MSG_TUTORIAL_QUESTION3",
     "value": "The scenery I saw was..."
+  },
+  {
+    "wordingKey": "MSG_TUTORIAL_REQUIRE_RECORD",
+    "value": "You cannot use this until you have a Record."
   },
   {
     "wordingKey": "MSG_TUTORIAL_UNIT_CONFIRM_BODY",
@@ -3114,6 +3770,10 @@
   {
     "wordingKey": "MSG_UNLOCK_EVENTSTORY_BODY",
     "value": "Event Story Chapter {0}\n\"{1}\" has been unlocked."
+  },
+  {
+    "wordingKey": "MSG_UNLOCK_FROM_BUY_MYSEKAI_MISSION_PASS",
+    "value": "Purchase MYSEKAI Mission Pass to unlock"
   },
   {
     "wordingKey": "MSG_UNLOCK_FROM_BUY_PREMIUM",
@@ -3158,6 +3818,14 @@
   {
     "wordingKey": "MSG_USE_VSYNC_DIALOG",
     "value": "The show frame rate will automatically adjust accordingly to your device for best efficiency.\n\n<color=#FF3366>*Please note that this feature is still in development. If it does not operate properly, please toggle it on and contact Support.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_VALID_SET_UP_IN_FLOOR",
+    "value": "Floor Only"
+  },
+  {
+    "wordingKey": "MSG_VALID_SET_UP_IN_WALL",
+    "value": "Wall Only"
   },
   {
     "wordingKey": "MSG_VETERAN_ROOM_DESCRIPTION",
@@ -3260,6 +3928,10 @@
     "value": "Begins in:"
   },
   {
+    "wordingKey": "MSG_VISIT_CHARACTER",
+    "value": "{0}から\n{1}が遊びに来ました。"
+  },
+  {
     "wordingKey": "MSG_VL_ADDMESSAGE",
     "value": "You can attach a message of support to this item."
   },
@@ -3300,6 +3972,14 @@
     "value": "After you view this story, Mizuki Akiyama will temporarily no longer appear in the Real World on the home screen.\nAre you sure you want to continue?"
   },
   {
+    "wordingKey": "MSG_WARNING_SKETCH_OTHER_PLAYER",
+    "value": "Cannot edit while a guest is Sketching."
+  },
+  {
+    "wordingKey": "MSG_WARNING_USE_FIXTURE_OTHER_PLAYER",
+    "value": "Cannot edit while a guest is using furniture."
+  },
+  {
     "wordingKey": "MSG_WARN_ALREADY_USE_STREAMING_LIVE_TICKET",
     "value": "*You have already used {0}."
   },
@@ -3326,6 +4006,10 @@
   {
     "wordingKey": "MSG_WEAR_COSTUME_RESULT",
     "value": "Costume changed."
+  },
+  {
+    "wordingKey": "MSG_WEAR_OUT_TOOL",
+    "value": "Your tool is about to break."
   },
   {
     "wordingKey": "MSG_WEB_LINK_BANNER_CONFIRM_DIALOG_BODY",
@@ -3420,6 +4104,14 @@
     "value": "Clear Rewards"
   },
   {
+    "wordingKey": "MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_CONFIRM",
+    "value": "Delete MYSEKAI Presets saved to extra slots and go to MYSEKAI?"
+  },
+  {
+    "wordingKey": "MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_DELETE",
+    "value": "Delete & Go"
+  },
+  {
     "wordingKey": "OMIKUJI_PROVISION_TAB_TITLE",
     "value": "About Omikuji"
   },
@@ -3464,6 +4156,10 @@
     "value": "Regarding Tournament Mode"
   },
   {
+    "wordingKey": "TOTAL_POSSESSION_NUMBER",
+    "value": "Owned"
+  },
+  {
     "wordingKey": "VIRTUAL_SINGER_NAME_SUBUNIT_FORMAT",
     "value": "{0}[{1}]"
   },
@@ -3478,6 +4174,10 @@
   {
     "wordingKey": "WARD_BONDS_RANK_REWARD_INGAME_VOICE",
     "value": "Unlocked original Show Call Out Voice {0}×{1}"
+  },
+  {
+    "wordingKey": "WARD_EXCHANGE_ANOTHER_VOCAL",
+    "value": "Obtain From Cover Shop"
   },
   {
     "wordingKey": "WORD_\bEXCHANGE_NUM",
@@ -3566,6 +4266,10 @@
   {
     "wordingKey": "WORD_ACCESSORIES_CHANGE_CONFIRM_TITLE",
     "value": "Change Accessory"
+  },
+  {
+    "wordingKey": "WORD_ACCESSORIES_FURNITURE",
+    "value": "Small"
   },
   {
     "wordingKey": "WORD_ACCESSORY",
@@ -3708,6 +4412,10 @@
     "value": "Ad Reward"
   },
   {
+    "wordingKey": "WORD_AFTER",
+    "value": "アフター"
+  },
+  {
     "wordingKey": "WORD_AFTER_EVENT",
     "value": "アフターイベント"
   },
@@ -3810,6 +4518,10 @@
   {
     "wordingKey": "WORD_ANOTHER_VOCAL_SHOP_NL",
     "value": "Cover Shop"
+  },
+  {
+    "wordingKey": "WORD_ANYONE_GL",
+    "value": "Anyone"
   },
   {
     "wordingKey": "WORD_AP",
@@ -3964,6 +4676,14 @@
     "value": "Avatar Costumes\n& Accessories"
   },
   {
+    "wordingKey": "WORD_AVATOR_PENLIGHT_INFO",
+    "value": "Glow Stick settings only apply to Virtual Shows."
+  },
+  {
+    "wordingKey": "WORD_AXE",
+    "value": "Axes"
+  },
+  {
     "wordingKey": "WORD_A_PARENTHESES_B_FORMAT",
     "value": "{0}（{1}）"
   },
@@ -3986,6 +4706,14 @@
   {
     "wordingKey": "WORD_BATTERY_ALERT",
     "value": "Battery Alert"
+  },
+  {
+    "wordingKey": "WORD_BED",
+    "value": "Beds"
+  },
+  {
+    "wordingKey": "WORD_BEFORE",
+    "value": "ビフォー"
   },
   {
     "wordingKey": "WORD_BEGINNER_MISSION",
@@ -4014,6 +4742,10 @@
   {
     "wordingKey": "WORD_BLOCKED_USER",
     "value": "Blocked Players"
+  },
+  {
+    "wordingKey": "WORD_BLOCK_AND_KICK",
+    "value": "Kick & Block"
   },
   {
     "wordingKey": "WORD_BLOCK_LIST",
@@ -4188,6 +4920,10 @@
     "value": "０ Life {0}"
   },
   {
+    "wordingKey": "WORD_BONUS_TARGET",
+    "value": "ボーナス対象"
+  },
+  {
     "wordingKey": "WORD_BOOKMARK",
     "value": "Bookmarked"
   },
@@ -4220,6 +4956,10 @@
     "value": "Crystals"
   },
   {
+    "wordingKey": "WORD_BOOST_STAMINA_RECOVER_TIME_GL",
+    "value": "Restores at 5:00 AM (PT) daily"
+  },
+  {
     "wordingKey": "WORD_BORDER_TRANSPARENCY",
     "value": "Outline Transparency"
   },
@@ -4244,6 +4984,10 @@
     "value": "Issues"
   },
   {
+    "wordingKey": "WORD_BUILDING",
+    "value": "ディスプレイ"
+  },
+  {
     "wordingKey": "WORD_BULK_DOWNLOAD",
     "value": "Full Download"
   },
@@ -4260,6 +5004,10 @@
     "value": "Purchase Show Pts"
   },
   {
+    "wordingKey": "WORD_BUY_PASS_OK_GL",
+    "value": "Purchase World Pass"
+  },
+  {
     "wordingKey": "WORD_BUY_PREMIUM",
     "value": "Purchase Premium\nMission Pass"
   },
@@ -4272,12 +5020,52 @@
     "value": "Cancel"
   },
   {
+    "wordingKey": "WORD_CANCEL_INVITATION",
+    "value": "Uninvite"
+  },
+  {
+    "wordingKey": "WORD_CANVAS",
+    "value": "キャンバス"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_BONUS",
+    "value": "Painting Bonus"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_BONUS_DESCRIPTION",
+    "value": "<color=#FF5588>{2}<\/color> Talent boost for \"{0}\" {1}. (Once per Character)"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_BONUS_DIALOG_DESCRIPTION",
+    "value": "マイセカイで「キャンバス」のいずれか1種類に描くことでパフォーマンス<color=#ff5599>{0}<\/color>UP。"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_FINISHED_FILTER",
+    "value": "Painted"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_FINISH_FILTER",
+    "value": "Painted\/Unpainted"
+  },
+  {
+    "wordingKey": "WORD_CANVAS_MENBER_CARD_FINISH",
+    "value": "No change.\nAlready painted."
+  },
+  {
+    "wordingKey": "WORD_CANVAS_NOT_FINISHED_FILTER",
+    "value": "Unpainted"
+  },
+  {
     "wordingKey": "WORD_CAN_ARCHIVE_EVENT_STORY_TIME_SORT",
     "value": "New\/Old"
   },
   {
     "wordingKey": "WORD_CAN_ENTRY_OFFLINE_EVENT_DIALOG_TITLE",
     "value": "Confirm"
+  },
+  {
+    "wordingKey": "WORD_CAN_NOT_RECYCLED",
+    "value": "Non-Recyclable"
   },
   {
     "wordingKey": "WORD_CAPACITY_SETTING",
@@ -4332,6 +5120,14 @@
     "value": "Category"
   },
   {
+    "wordingKey": "WORD_CARPET",
+    "value": "Carpets"
+  },
+  {
+    "wordingKey": "WORD_CATEGORY_ORDER",
+    "value": "Type"
+  },
+  {
     "wordingKey": "WORD_CCU_BUSY",
     "value": "Limited Space Available"
   },
@@ -4342,6 +5138,10 @@
   {
     "wordingKey": "WORD_CCU_FULL",
     "value": "Full"
+  },
+  {
+    "wordingKey": "WORD_CHAIR",
+    "value": "Chairs"
   },
   {
     "wordingKey": "WORD_CHALLENGE",
@@ -4608,6 +5408,10 @@
     "value": "Character Rank EXP +{0}"
   },
   {
+    "wordingKey": "WORD_CHARACTER_SEARCH",
+    "value": "Filter With Reactions"
+  },
+  {
     "wordingKey": "WORD_CHARACTER_SELECT",
     "value": "Character Select"
   },
@@ -4720,8 +5524,20 @@
     "value": "Fan Rankings"
   },
   {
+    "wordingKey": "WORD_CHEST_FURNITURE_NUM",
+    "value": "Total Furniture Owned"
+  },
+  {
+    "wordingKey": "WORD_CHEST_MATERIAL_NUM",
+    "value": "Total Materials Owned"
+  },
+  {
     "wordingKey": "WORD_CLASS",
     "value": "Class {0}"
+  },
+  {
+    "wordingKey": "WORD_CLEAN_UP",
+    "value": "Put Away"
   },
   {
     "wordingKey": "WORD_CLEAR",
@@ -4730,6 +5546,10 @@
   {
     "wordingKey": "WORD_CLOSE",
     "value": "Close"
+  },
+  {
+    "wordingKey": "WORD_CLOSET",
+    "value": "クローゼット"
   },
   {
     "wordingKey": "WORD_CLOTH_COUNT",
@@ -4746,6 +5566,10 @@
   {
     "wordingKey": "WORD_COLLECTION",
     "value": "Memorabilia"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_BOARD",
+    "value": "コレクションボード"
   },
   {
     "wordingKey": "WORD_COLLECTION_GACHA",
@@ -4770,6 +5594,14 @@
   {
     "wordingKey": "WORD_COLLECTION_GOODS",
     "value": "Amazake"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_STAGE",
+    "value": "コレクションステージ"
+  },
+  {
+    "wordingKey": "WORD_COLLECTION_STAND",
+    "value": "コレクションスタンド"
   },
   {
     "wordingKey": "WORD_COLLECTION_STATE",
@@ -4888,6 +5720,10 @@
     "value": "Completion Stamps"
   },
   {
+    "wordingKey": "WORD_COMPLETE_REWARD",
+    "value": "Completion Reward"
+  },
+  {
     "wordingKey": "WORD_COMPOSER",
     "value": "Music"
   },
@@ -4989,6 +5825,102 @@
     "value": "{0}ヶ月"
   },
   {
+    "wordingKey": "WORD_CONVERSATION_DETAIL",
+    "value": "Reactions"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_COMPLETE_FORMAT",
+    "value": "<size=60><color=#f280b7>{0}<\/color><\/size><size=60><color=#ffffff>\/<\/color><\/size><size=32><color=#ffffff>{1}<\/color><\/size>"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_COMPLETE_STATUS",
+    "value": "Complete"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_FIXTURE_LEVEL_RELEASE",
+    "value": "Unlock by Clearing\nMYSEKAI Missions"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_END_AT",
+    "value": "Until {0}"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_REFRESH",
+    "value": "Resets at {0}"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_REMAINING_COUNT",
+    "value": "x{0} left"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SELECT",
+    "value": "Select Item"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SELECT_GL",
+    "value": "Select Output"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SELECT_TAB",
+    "value": "Output"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_BLUEPRINT_FIXTURE_MAIN_GENRE_CHOICE",
+    "value": "Blueprint\n(Random From Category)"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_BLUEPRINT_RANDOM",
+    "value": "Blueprint\n(Random From All)"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_RECORD_CATEGORY_CHOICE",
+    "value": "Record\n(Random From Group)"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_RECORD_RANDOM",
+    "value": "Record\n(Random From All)"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_MACHINE_LEVEL",
+    "value": "Reach Converter Lv. {0}"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_NOTIFICATION",
+    "value": "Conversion Completion Notifications"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_PROGRESS_FORMAT",
+    "value": "<size=60><color=#f280b7>{0}<\/color><\/size><size=60><color=#ffffff>\/<\/color><\/size><size=32><color=#ffffff>{1}<\/color><\/size>"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_RECEIVE_COMPLETED_ALL",
+    "value": "Collect"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_RECEIVE_COMPLETED_PART",
+    "value": "完成分受け取り"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_RECEIVE_PROGRESS",
+    "value": "アイテムヘンカン中"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_RECEIVE_PROGRESS_GL",
+    "value": "Converting"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_SLOT_COMPLETED_MOBILE_NOTIFICATION",
+    "value": "Item Conversion complete."
+  },
+  {
+    "wordingKey": "WORD_CONVERT_SLOT_SHORTEN_DECIDE",
+    "value": "Skip"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_START",
+    "value": "Convert"
+  },
+  {
     "wordingKey": "WORD_COPY",
     "value": "Copy"
   },
@@ -5073,8 +6005,28 @@
     "value": "Costume to Create"
   },
   {
+    "wordingKey": "WORD_CRAFT_COUNT",
+    "value": "Quantity"
+  },
+  {
+    "wordingKey": "WORD_CRAFT_GL",
+    "value": "Painted"
+  },
+  {
+    "wordingKey": "WORD_CRAFT_REACHED_POSSESSION_LIMIT",
+    "value": "作成不可"
+  },
+  {
     "wordingKey": "WORD_CREATE",
     "value": "Create"
+  },
+  {
+    "wordingKey": "WORD_CREATED",
+    "value": "Painted"
+  },
+  {
+    "wordingKey": "WORD_CREATE_CONFIRM",
+    "value": "Build {0} <color=#ff5599>x{1}<\/color>?"
   },
   {
     "wordingKey": "WORD_CREATE_PRIVATE_ROOM",
@@ -5083,6 +6035,10 @@
   {
     "wordingKey": "WORD_CREATE_ROOM",
     "value": "Create Room"
+  },
+  {
+    "wordingKey": "WORD_CREATOR",
+    "value": "作者"
   },
   {
     "wordingKey": "WORD_CREATOR_NAME",
@@ -5119,6 +6075,22 @@
   {
     "wordingKey": "WORD_CURRENT_HIGH_SCORE",
     "value": "Current High Score"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_DISPLAY_TITLE",
+    "value": "ディスプレイ"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_FURNITURE",
+    "value": "Displays"
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_GOODS_DISPLAY",
+    "value": "Select how to display this Merch."
+  },
+  {
+    "wordingKey": "WORD_CUSTOM_PHOTO_DISPLAY",
+    "value": "Select how to display this photo."
   },
   {
     "wordingKey": "WORD_CUSTOM_PROFILE",
@@ -5195,6 +6167,10 @@
   {
     "wordingKey": "WORD_CUTIN_EFFECT",
     "value": "Cut-in Effect"
+  },
+  {
+    "wordingKey": "WORD_DAILY_LINEUP_GL",
+    "value": "DAILY LINEUP"
   },
   {
     "wordingKey": "WORD_DAILY_PROGRESS_MISSION_COMPLETE_MISSION_GL",
@@ -5313,6 +6289,10 @@
     "value": "Delete\nAccount"
   },
   {
+    "wordingKey": "WORD_DEMOLITION",
+    "value": "Recycle"
+  },
+  {
     "wordingKey": "WORD_DESC_ORDER",
     "value": "Descending"
   },
@@ -5369,6 +6349,10 @@
     "value": "Difficulty Unlocked"
   },
   {
+    "wordingKey": "WORD_DiSASSEMBLE_FIXTURE_CONFIRM",
+    "value": "Recycle selected furniture?"
+  },
+  {
     "wordingKey": "WORD_DISCONNECT",
     "value": "Disconnected"
   },
@@ -5387,6 +6371,10 @@
   {
     "wordingKey": "WORD_DIVIDE_FORMAT",
     "value": "÷{0}"
+  },
+  {
+    "wordingKey": "WORD_DOLL",
+    "value": "Plushies"
   },
   {
     "wordingKey": "WORD_DOT",
@@ -5437,8 +6425,16 @@
     "value": "Select"
   },
   {
+    "wordingKey": "WORD_DRAW_MEMBER",
+    "value": "Character to Paint"
+  },
+  {
     "wordingKey": "WORD_DURING_SHOW",
     "value": "Live Now!"
+  },
+  {
+    "wordingKey": "WORD_EARN_MATERIAL",
+    "value": "Salvaged Materials"
   },
   {
     "wordingKey": "WORD_EASY_FILTER",
@@ -5453,12 +6449,20 @@
     "value": "編集破棄"
   },
   {
+    "wordingKey": "WORD_EDIT_MODE",
+    "value": "編集モード"
+  },
+  {
     "wordingKey": "WORD_EDIT_MYLIST",
     "value": "Editing Playlist"
   },
   {
     "wordingKey": "WORD_EDIT_MYLIST_DECIDE",
     "value": "Edit Playlist"
+  },
+  {
+    "wordingKey": "WORD_EDIT_SAVE_CONFIRMATION",
+    "value": "You have unsaved changes.\nSave and exit?"
   },
   {
     "wordingKey": "WORD_EFFECT",
@@ -5473,20 +6477,76 @@
     "value": "x{0}"
   },
   {
+    "wordingKey": "WORD_ELEMENT",
+    "value": "Materials"
+  },
+  {
+    "wordingKey": "WORD_ELEMENT_COUNT",
+    "value": "Materials Owned"
+  },
+  {
     "wordingKey": "WORD_ELIPSIS_SCREEN_SHOT",
     "value": "Screenshot"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_AVATAR",
+    "value": "表示できるアバターがありません。"
   },
   {
     "wordingKey": "WORD_EMPTY_BACKGROUND",
     "value": "There are no Backgrounds available for display."
   },
   {
+    "wordingKey": "WORD_EMPTY_CHEKI",
+    "value": "You have no displayable photos."
+  },
+  {
     "wordingKey": "WORD_EMPTY_COLLECTION",
     "value": "You have no Memorabilia available for display."
   },
   {
+    "wordingKey": "WORD_EMPTY_FURNITURE",
+    "value": "You have no furniture."
+  },
+  {
+    "wordingKey": "WORD_EMPTY_HONOR",
+    "value": "You have no displayable Titles."
+  },
+  {
+    "wordingKey": "WORD_EMPTY_ITEM",
+    "value": "No items found."
+  },
+  {
+    "wordingKey": "WORD_EMPTY_MATERIAL",
+    "value": "You have no materials."
+  },
+  {
     "wordingKey": "WORD_EMPTY_MEMBER",
     "value": "There are no Characters available for display."
+  },
+  {
+    "wordingKey": "WORD_EMPTY_MYSEKAI_COLLECTION",
+    "value": "You have no Memorabilia available for display."
+  },
+  {
+    "wordingKey": "WORD_EMPTY_MYSEKAI_MEMBER",
+    "value": "There are no Characters available for display."
+  },
+  {
+    "wordingKey": "WORD_EMPTY_PENLIGHT",
+    "value": "You have no displayable Glow Sticks."
+  },
+  {
+    "wordingKey": "WORD_EMPTY_PRESET",
+    "value": "表示できるプリセットがありません。"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_RECORDJACKET",
+    "value": "You have no displayable cover art."
+  },
+  {
+    "wordingKey": "WORD_EMPTY_RECYCLE_FURNITURE",
+    "value": "リサイクルできる家具がありません。"
   },
   {
     "wordingKey": "WORD_EMPTY_SHAPE",
@@ -5495,6 +6555,10 @@
   {
     "wordingKey": "WORD_EMPTY_SUPPORT_DECK_MEMBER",
     "value": "-"
+  },
+  {
+    "wordingKey": "WORD_EMPTY_TOOL",
+    "value": "You have no tools."
   },
   {
     "wordingKey": "WORD_END",
@@ -5905,6 +6969,10 @@
     "value": "Let us know your feedback"
   },
   {
+    "wordingKey": "WORD_FENCE",
+    "value": "Fencing"
+  },
+  {
     "wordingKey": "WORD_FEVER_EFFECT",
     "value": "Fever Effect"
   },
@@ -5965,6 +7033,14 @@
     "value": "Setup"
   },
   {
+    "wordingKey": "WORD_FIND_FROM_SONG_TITLE_CREATOR_NAME",
+    "value": "Search by song title or artist"
+  },
+  {
+    "wordingKey": "WORD_FIRST_CRAFT_BONUS",
+    "value": "First Time! <size=32>+{0}<\/size>"
+  },
+  {
     "wordingKey": "WORD_FIRST_REWARD",
     "value": "First Time Participation Reward"
   },
@@ -5977,8 +7053,52 @@
     "value": "Guaranteed Drop Rates"
   },
   {
+    "wordingKey": "WORD_FIXTURE",
+    "value": "Furniture"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_BONUS_DESCRIPTION",
+    "value": "<color=#FF5588>{1}%<\/color> Talent boost for {0}. (Once per size)"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_CRAFT_CONFIRM",
+    "value": "Build {0} <color=#ff5599>x{1}<\/color>?"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_CREATE_RESULT",
+    "value": "Furniture built."
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_DETAIL",
+    "value": "Furniture Details"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_POSSESSION",
+    "value": "Carry More Furniture"
+  },
+  {
+    "wordingKey": "WORD_FIXTURE_RECYCLE_RESULT",
+    "value": "Recycled furniture and obtained items."
+  },
+  {
     "wordingKey": "WORD_FLICK",
     "value": "Flick"
+  },
+  {
+    "wordingKey": "WORD_FLOOR",
+    "value": "Floors"
+  },
+  {
+    "wordingKey": "WORD_FLOORING",
+    "value": "Floors"
+  },
+  {
+    "wordingKey": "WORD_FLOWER",
+    "value": "Flowers"
+  },
+  {
+    "wordingKey": "WORD_FOLIAGE_PLANT",
+    "value": "Ornamental Plants"
   },
   {
     "wordingKey": "WORD_FONT",
@@ -5991,6 +7111,10 @@
   {
     "wordingKey": "WORD_FONT_OUTLINE_COLOR_SELECT",
     "value": "Select Outline Color"
+  },
+  {
+    "wordingKey": "WORD_FORMAT_RECORD_NAME",
+    "value": "{0} Record"
   },
   {
     "wordingKey": "WORD_FORTUNE",
@@ -6121,6 +7245,10 @@
     "value": "{0}"
   },
   {
+    "wordingKey": "WORD_FRIEND_ONLY_GL",
+    "value": "Friends Only"
+  },
+  {
     "wordingKey": "WORD_FRIEND_RELEASE",
     "value": "Remove Friend"
   },
@@ -6183,6 +7311,14 @@
   {
     "wordingKey": "WORD_FULL_HONOR_SIZE",
     "value": "Main"
+  },
+  {
+    "wordingKey": "WORD_FURNITURE",
+    "value": "Furniture"
+  },
+  {
+    "wordingKey": "WORD_FURNITURE_COUNT_GL",
+    "value": "Furniture Owned"
   },
   {
     "wordingKey": "WORD_GACHA",
@@ -6301,12 +7437,40 @@
     "value": "Gacha Ticket"
   },
   {
+    "wordingKey": "WORD_GARDEN",
+    "value": "Yard"
+  },
+  {
+    "wordingKey": "WORD_GATE_CONTENT_INVITATION",
+    "value": "招待状"
+  },
+  {
+    "wordingKey": "WORD_GATE_CONTENT_SKIN",
+    "value": "スキン"
+  },
+  {
+    "wordingKey": "WORD_GATE_CONTENT_UNIT",
+    "value": "Group"
+  },
+  {
+    "wordingKey": "WORD_GATE_SEND_INVITATION_GL",
+    "value": "Invite"
+  },
+  {
+    "wordingKey": "WORD_GATE_SEND_NOT_INVITATION_GL",
+    "value": "Uninvite"
+  },
+  {
     "wordingKey": "WORD_GENERAL",
     "value": "General"
   },
   {
     "wordingKey": "WORD_GET",
     "value": "GET"
+  },
+  {
+    "wordingKey": "WORD_GET_BLUE_PRINT_TYPE_GL",
+    "value": "Categories"
   },
   {
     "wordingKey": "WORD_GET_BONUS_ITEM",
@@ -6329,6 +7493,10 @@
     "value": "GET!"
   },
   {
+    "wordingKey": "WORD_GET_FIRST_PURCHASE_BONUS",
+    "value": "Received first-time purchase bonus."
+  },
+  {
     "wordingKey": "WORD_GET_ITEM",
     "value": "Item Acquired"
   },
@@ -6339,6 +7507,10 @@
   {
     "wordingKey": "WORD_GET_RANK_UP_REWARD",
     "value": "Claimed Rank Up Rewards."
+  },
+  {
+    "wordingKey": "WORD_GET_RECORD_TYPE_GL",
+    "value": "Groups"
   },
   {
     "wordingKey": "WORD_GET_REWARD",
@@ -6425,6 +7597,10 @@
     "value": "Shows Played"
   },
   {
+    "wordingKey": "WORD_GOTO_SELECT_MEMBER",
+    "value": "Select Character"
+  },
+  {
     "wordingKey": "WORD_GOTO_SHOP_TEXT",
     "value": "To Shop"
   },
@@ -6439,6 +7615,10 @@
   {
     "wordingKey": "WORD_GO_AREA_SHOP",
     "value": "To Decoration Shop"
+  },
+  {
+    "wordingKey": "WORD_GO_BACK",
+    "value": "Go Back"
   },
   {
     "wordingKey": "WORD_GO_CHALLENGE_LIVE",
@@ -6549,6 +7729,26 @@
     "value": "To Event Screen"
   },
   {
+    "wordingKey": "WORD_GO_TO_FRIEND_MYSEKAI_LIST",
+    "value": "Visit a Friend"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_MYSEKAI",
+    "value": "Go"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_MYSEKAI＿HOUSING_COMPETITION",
+    "value": "COMING SOON..."
+  },
+  {
+    "wordingKey": "WORD_GO_TO_MY_SEKAI",
+    "value": "MYSEKAI"
+  },
+  {
+    "wordingKey": "WORD_GO_TO_OTHER_MYSEKAI",
+    "value": "Visit Random"
+  },
+  {
     "wordingKey": "WORD_GO_VIRTUAL_LIVE",
     "value": "To Virtual Show"
   },
@@ -6559,6 +7759,10 @@
   {
     "wordingKey": "WORD_GRATE_MISFORTUNE",
     "value": "Terrible Luck"
+  },
+  {
+    "wordingKey": "WORD_GROUND",
+    "value": "Ground"
   },
   {
     "wordingKey": "WORD_GROUP_DECIDE",
@@ -6623,6 +7827,18 @@
   {
     "wordingKey": "WORD_HAIR_TYPE",
     "value": "Hairstyle"
+  },
+  {
+    "wordingKey": "WORD_HANGING_FURNITURE",
+    "value": "Wall Decor"
+  },
+  {
+    "wordingKey": "WORD_HARVST_SITE_RELEASE_NEW_SITE",
+    "value": "New Harvesting Area"
+  },
+  {
+    "wordingKey": "WORD_HASH_TAG_FORMAT",
+    "value": "#{0}"
   },
   {
     "wordingKey": "WORD_HAS_3D_MV_CUTIN",
@@ -6709,6 +7925,22 @@
     "value": "Home Screen"
   },
   {
+    "wordingKey": "WORD_HOME_ELECTRONICS",
+    "value": "Appliances"
+  },
+  {
+    "wordingKey": "WORD_HOME_SITE_GARDEN",
+    "value": "ホームサイト（庭）"
+  },
+  {
+    "wordingKey": "WORD_HOME_SITE_ROOM",
+    "value": "ホームサイト（部屋）"
+  },
+  {
+    "wordingKey": "WORD_HOME_SITE_SIZE_EXPAND",
+    "value": "Bigger Yard"
+  },
+  {
     "wordingKey": "WORD_HONOR",
     "value": "Titles"
   },
@@ -6761,6 +7993,30 @@
     "value": "Title: {0}"
   },
   {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_ACHIEVEMENT",
+    "value": "Achievements"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_ALL",
+    "value": "All"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_BONDS",
+    "value": "Trust"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_CHARACTER",
+    "value": "Character"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_EVENT",
+    "value": "Event"
+  },
+  {
+    "wordingKey": "WORD_HONOR_GROUP_FILTER_TITLE",
+    "value": "Titles"
+  },
+  {
     "wordingKey": "WORD_HONOR_NO_SETTING",
     "value": "Title Not Set"
   },
@@ -6779,6 +8035,14 @@
   {
     "wordingKey": "WORD_HOURS_LEFT",
     "value": "{0} hours left"
+  },
+  {
+    "wordingKey": "WORD_HOUSE",
+    "value": "家"
+  },
+  {
+    "wordingKey": "WORD_HOUSING_COMPETITION_COMING_SOON",
+    "value": "Update Planned"
   },
   {
     "wordingKey": "WORD_ICON_LIST",
@@ -6869,12 +8133,28 @@
     "value": "Pending invitation."
   },
   {
+    "wordingKey": "WORD_INVITING_GL",
+    "value": "Invited!"
+  },
+  {
     "wordingKey": "WORD_IN_EVENT_HOLDING",
     "value": "Now On"
   },
   {
+    "wordingKey": "WORD_IN_JOIN_GL",
+    "value": "Active"
+  },
+  {
     "wordingKey": "WORD_IN_LIVE",
     "value": "In Show"
+  },
+  {
+    "wordingKey": "WORD_IN_POSSESSION_GL",
+    "value": "Held"
+  },
+  {
+    "wordingKey": "WORD_IN_SETTING",
+    "value": "Placed"
   },
   {
     "wordingKey": "WORD_IN_VIRTUAL_LIVE",
@@ -6885,8 +8165,20 @@
     "value": "Event Period Extended"
   },
   {
+    "wordingKey": "WORD_IS_TO_MOVING",
+    "value": "Go to {0}?"
+  },
+  {
+    "wordingKey": "WORD_IS_TO_MOVING_NOT_DROP",
+    "value": "Go to {0}?\n<color=#FF3366>*This material will not appear in the current weather.<\/color>"
+  },
+  {
     "wordingKey": "WORD_ITEM",
     "value": "Items"
+  },
+  {
+    "wordingKey": "WORD_ITEM_CRYSTAL",
+    "value": "Items & Crystals"
   },
   {
     "wordingKey": "WORD_ITEM_DETAIL",
@@ -6906,6 +8198,10 @@
   },
   {
     "wordingKey": "WORD_JACKET",
+    "value": "Cover Art"
+  },
+  {
+    "wordingKey": "WORD_JACKET_MUSIC_SELECT",
     "value": "Cover Art"
   },
   {
@@ -6945,6 +8241,10 @@
     "value": "Key Story"
   },
   {
+    "wordingKey": "WORD_LAG",
+    "value": "ラグ"
+  },
+  {
     "wordingKey": "WORD_LATEST_STORY",
     "value": "New"
   },
@@ -6965,6 +8265,18 @@
     "value": "Forward"
   },
   {
+    "wordingKey": "WORD_LAYOUT_GL",
+    "value": "Layout"
+  },
+  {
+    "wordingKey": "WORD_LAYOUT_LIST",
+    "value": "レイアウト一覧"
+  },
+  {
+    "wordingKey": "WORD_LEFTOVER_BLUEPRINT_GL",
+    "value": "Surplus Blueprint"
+  },
+  {
     "wordingKey": "WORD_LEFT_ROOM",
     "value": "Exit"
   },
@@ -6979,6 +8291,10 @@
   {
     "wordingKey": "WORD_LEVELUP_ITEM",
     "value": "Decoration Level Up"
+  },
+  {
+    "wordingKey": "WORD_LEVELUP_MATERIAL_GL",
+    "value": "Level Up Materials"
   },
   {
     "wordingKey": "WORD_LEVEL_CAP",
@@ -7033,6 +8349,10 @@
     "value": "Available Character List"
   },
   {
+    "wordingKey": "WORD_LIST_MUSIC_SELECT",
+    "value": "List"
+  },
+  {
     "wordingKey": "WORD_LIVE",
     "value": "Show"
   },
@@ -7043,6 +8363,14 @@
   {
     "wordingKey": "WORD_LIVE_ASSIST_SETTING",
     "value": "Helpful Settings"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BONUS",
+    "value": "Bonus Energy"
+  },
+  {
+    "wordingKey": "WORD_LIVE_BONUS_NOT_ENOUGH",
+    "value": "Not enough Bonus Energy."
   },
   {
     "wordingKey": "WORD_LIVE_BONUS_PRESENT",
@@ -7289,6 +8617,10 @@
     "value": "Ends on {0}"
   },
   {
+    "wordingKey": "WORD_LOGIN_GL",
+    "value": "Login"
+  },
+  {
     "wordingKey": "WORD_LONG",
     "value": "Hold"
   },
@@ -7421,6 +8753,18 @@
     "value": "{0} Win Streak!"
   },
   {
+    "wordingKey": "WORD_MATERIAL_MISSING",
+    "value": "材料不足"
+  },
+  {
+    "wordingKey": "WORD_MATERIAL_POSSESSION",
+    "value": "Carry More Materials"
+  },
+  {
+    "wordingKey": "WORD_MATERIAL_RECYCLE_RESULT",
+    "value": "Recycled materials and obtained Coins."
+  },
+  {
     "wordingKey": "WORD_MAX",
     "value": "MAX"
   },
@@ -7435,6 +8779,10 @@
   {
     "wordingKey": "WORD_MEMBER",
     "value": "Characters"
+  },
+  {
+    "wordingKey": "WORD_MEMBER_CANVAS_CRAFT_CONFIRM",
+    "value": "Create <color=#ff5599>{0}<\/color> Painting(s) of this Character?"
   },
   {
     "wordingKey": "WORD_MEMBER_CONFIRM",
@@ -7507,6 +8855,10 @@
   {
     "wordingKey": "WORD_MENU_COSTUME",
     "value": "Menu Costume"
+  },
+  {
+    "wordingKey": "WORD_MENU_MYSEKAI_RANK",
+    "value": "MYSEKAI Rank"
   },
   {
     "wordingKey": "WORD_MESSAGE",
@@ -7601,6 +8953,10 @@
     "value": "Collect Characters"
   },
   {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_MYSEKAI_FIXTURE",
+    "value": "マイセカイ家具"
+  },
+  {
     "wordingKey": "WORD_MISSION_TITLE_COLLECT_STAMP",
     "value": "Collect Stamps"
   },
@@ -7651,6 +9007,10 @@
   {
     "wordingKey": "WORD_MODE",
     "value": "Mode"
+  },
+  {
+    "wordingKey": "WORD_MODEL_ROOM",
+    "value": "Model Rooms"
   },
   {
     "wordingKey": "WORD_MODE_SETTING",
@@ -7809,6 +9169,10 @@
     "value": "OK"
   },
   {
+    "wordingKey": "WORD_MUSIC_PLAYER",
+    "value": "MUSIC PLAYER"
+  },
+  {
     "wordingKey": "WORD_MUSIC_REWARD",
     "value": "Song Rewards"
   },
@@ -7913,6 +9277,170 @@
     "value": "You have unsaved changes to this Playlist.\nSave and exit?"
   },
   {
+    "wordingKey": "WORD_MYROOM_SITE_RELEASE_NEW_FLOOR",
+    "value": "New Floor"
+  },
+  {
+    "wordingKey": "WORD_MYROOM_SITE_SIZE_EXPAND",
+    "value": "Bigger Room"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI",
+    "value": "MYSEKAI"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_CAN_PUT",
+    "value": "Placed Furniture"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_COLORFUL_PASS_ALERT_TITLE",
+    "value": "Expired"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_COLORFUL_PASS_OK",
+    "value": "To Crystal Shop"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_CONVERT_OUT_OF_STOCK_DETAIL",
+    "value": "OUT OF STOCK"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_CONVERT_OUT_OF_STOCK_THUMBNAIL",
+    "value": "OUT OF\nSTOCK"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_DAILY_UPDATE",
+    "value": "Resets daily."
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_FIXTURE_JOINT_LAYOUT_COUNT",
+    "value": "Placed Paths and Fencing"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_FIXTURE_LAYOUT_COUNT",
+    "value": "Placed Furniture"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
+    "value": "Higher Placement Limit"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_CHARACTER_VISIT_COUNT_RATE",
+    "value": "Visitor Number Probabilities"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_LEVEL",
+    "value": "Gate Level"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_POWER_BONUS_RATE",
+    "value": "Talent Bonus"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_POWER_BONUS_UNIT",
+    "value": "Members"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_VISIT_CHARACTER",
+    "value": "来訪するキャラクター"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_VISIT_COUNT",
+    "value": "{0} Players"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_VISIT_COUNT_LEVEL",
+    "value": "レベル{0}"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_GATE_VISIT_DEFAULT_CHARACTER",
+    "value": "最初から来訪するキャラクター"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INFO",
+    "value": "マイセカイインフォ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INVALID_ANIMATION_SPACE",
+    "value": "アニメーションスペースの確保が必要な家具があります。\n配置を見直してください。"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INVALID_LAYOUT",
+    "value": "Some furniture placement is invalid.\nDiscard all changes and return to home screen?"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INVALID_PUT_SPACE",
+    "value": "Not enough space to place this furniture."
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_IN_DOOR_NAME",
+    "value": "室内({0})"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_ITEM_MAX",
+    "value": "999+"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_MATERIAL_MAX",
+    "value": "9,999+"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_MATERIAL_TO_LEVEL_UP_GL",
+    "value": "Level Up Materials"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_NOT_ENOUGH_PHOTO_FILM_TO_CONVERT",
+    "value": "ヘンカンへ"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_NOT_ENOUGH_PHOTO_FILM_TO_CRYSTAL_SHOP",
+    "value": "To Crystal Shop"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_PHOTO_ALBUM_EMPTY",
+    "value": "No saved Photos."
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_PHOTO_ALBUM_NAME",
+    "value": "Album"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_PUT_LIMIT_FIXTURE_COUNT",
+    "value": "Furniture Limit"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_PUT_LIMIT_FIXTURE_JOINT_COUNT",
+    "value": "Path & Fencing Limit"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_RANK",
+    "value": "MYSEKAI Rank"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_RANK_EXP_GL",
+    "value": "MYSEKAI Rank EXP"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_RANK_UP_ICON_TITLE",
+    "value": "Rank"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_SIZE",
+    "value": "Size"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_VISIST",
+    "value": "Who Can Visit You"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_VOICE",
+    "value": "MYSEKAI Voice Files"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_WEEKLY_UPDATE",
+    "value": "Resets every Monday."
+  },
+  {
     "wordingKey": "WORD_MY_FAVORITE_STORY",
     "value": "Fav. Story"
   },
@@ -7923,6 +9451,10 @@
   {
     "wordingKey": "WORD_MY_LIST_TAB",
     "value": "Playlist"
+  },
+  {
+    "wordingKey": "WORD_MY_SEKAI_MATERIAL_GAME_CHARACTER",
+    "value": "Rainbow Memoria"
   },
   {
     "wordingKey": "WORD_NAME",
@@ -7981,8 +9513,16 @@
     "value": "No Record"
   },
   {
+    "wordingKey": "WORD_NORMAL_FURNITURE",
+    "value": "General"
+  },
+  {
     "wordingKey": "WORD_NORMAL_MISSION",
     "value": "Regular Missions"
+  },
+  {
+    "wordingKey": "WORD_NORMAL_VOICE",
+    "value": "Basic Voice Files"
   },
   {
     "wordingKey": "WORD_NOTATION",
@@ -8005,12 +9545,20 @@
     "value": "Notification"
   },
   {
+    "wordingKey": "WORD_NOT_BLOCK_AND_KICK",
+    "value": "Kick Without Blocking"
+  },
+  {
     "wordingKey": "WORD_NOT_CLEAR",
     "value": "Not Cleared"
   },
   {
     "wordingKey": "WORD_NOT_CONTAINS_SPOILER_RADIO_BUTTON",
     "value": "Spoiler-free"
+  },
+  {
+    "wordingKey": "WORD_NOT_CRAFT_GL",
+    "value": "Unpainted"
   },
   {
     "wordingKey": "WORD_NOT_ENOUGH_CURRENCY",
@@ -8105,6 +9653,10 @@
     "value": "Select Now"
   },
   {
+    "wordingKey": "WORD_NO_BLUE_PRINT",
+    "value": "There is no furniture you can build."
+  },
+  {
     "wordingKey": "WORD_NO_CHANGE1",
     "value": "Unaffected"
   },
@@ -8119,6 +9671,14 @@
   {
     "wordingKey": "WORD_NO_ENTER",
     "value": "Entry prohibited"
+  },
+  {
+    "wordingKey": "WORD_NO_HAS_FIXTURE_TALK",
+    "value": "No reactions for this item."
+  },
+  {
+    "wordingKey": "WORD_NO_ONE_GL",
+    "value": "No One"
   },
   {
     "wordingKey": "WORD_NO_PLACE_CONTENT",
@@ -8137,6 +9697,10 @@
     "value": "Not Set"
   },
   {
+    "wordingKey": "WORD_NUMBER_I_HAVE",
+    "value": "Owned"
+  },
+  {
     "wordingKey": "WORD_NUMBER_OF_ITEM",
     "value": "x{0}"
   },
@@ -8147,6 +9711,10 @@
   {
     "wordingKey": "WORD_OBTAINED_COMPLETE_READ_STAMP",
     "value": "Stamps Earned"
+  },
+  {
+    "wordingKey": "WORD_OBTAINING_LOCATION",
+    "value": "Where to Find"
   },
   {
     "wordingKey": "WORD_OBTAIN_ALL",
@@ -8253,6 +9821,10 @@
     "value": "ONLINE"
   },
   {
+    "wordingKey": "WORD_ON_HAND_GL",
+    "value": "Handheld"
+  },
+  {
     "wordingKey": "WORD_OP",
     "value": "OP"
   },
@@ -8331,6 +9903,18 @@
   {
     "wordingKey": "WORD_OTHER",
     "value": "Other"
+  },
+  {
+    "wordingKey": "WORD_OTHER_COUNT",
+    "value": "+{0}"
+  },
+  {
+    "wordingKey": "WORD_OTHER_KIND_COUNT",
+    "value": "+{0} More"
+  },
+  {
+    "wordingKey": "WORD_OUTING_LIST",
+    "value": "お出かけリスト"
   },
   {
     "wordingKey": "WORD_OUT_OF_RANKING",
@@ -8433,6 +10017,26 @@
     "value": "Limited Time"
   },
   {
+    "wordingKey": "WORD_PERSON_CONVERSATION",
+    "value": "{0}-Person Reactions"
+  },
+  {
+    "wordingKey": "WORD_PHENOMENA_DEFAULT",
+    "value": "Change Over Time"
+  },
+  {
+    "wordingKey": "WORD_PHOTO",
+    "value": "Photos"
+  },
+  {
+    "wordingKey": "WORD_PHOTO_ALBUM_GL",
+    "value": "PHOTO ALBUM"
+  },
+  {
+    "wordingKey": "WORD_PHOTO_STAND",
+    "value": "卓上キャンバス(写真立て)"
+  },
+  {
     "wordingKey": "WORD_PIAPRO_IDOL_STORY_TITLE",
     "value": "Stage SEKAI Story"
   },
@@ -8453,12 +10057,32 @@
     "value": "Wonderland SEKAI Story"
   },
   {
+    "wordingKey": "WORD_PICKAXE",
+    "value": "Pickaxes"
+  },
+  {
     "wordingKey": "WORD_PICKUP_LIST",
     "value": "Dream Picks"
   },
   {
     "wordingKey": "WORD_PICKUP_MEMBER",
     "value": "Dream Picks"
+  },
+  {
+    "wordingKey": "WORD_PILLAR",
+    "value": "柱"
+  },
+  {
+    "wordingKey": "WORD_PLACEHOLDER_SEARCH_KEYWORD_TAG",
+    "value": "キーワード・タグから探す"
+  },
+  {
+    "wordingKey": "WORD_PLACEHOLDER_SEARCH_TAG",
+    "value": "Search for Tags"
+  },
+  {
+    "wordingKey": "WORD_PLANT",
+    "value": "Plants"
   },
   {
     "wordingKey": "WORD_PLAYER_COMMENT",
@@ -8479,6 +10103,10 @@
   {
     "wordingKey": "WORD_PLAYER_RANK",
     "value": "Player Rank"
+  },
+  {
+    "wordingKey": "WORD_PLAYER_RANK_EXP",
+    "value": "Player Rank EXP"
   },
   {
     "wordingKey": "WORD_PLAYER_RANK_REWARD",
@@ -8525,6 +10153,10 @@
     "value": "Play"
   },
   {
+    "wordingKey": "WORD_PLEASE_SELECT_MEMBER",
+    "value": "Choose a Character to paint."
+  },
+  {
     "wordingKey": "WORD_PLUS_PERCENT_VALUE",
     "value": "+{0}％"
   },
@@ -8533,8 +10165,24 @@
     "value": "12:00 PM - 11:59 PM"
   },
   {
+    "wordingKey": "WORD_POPULARITY",
+    "value": "人気"
+  },
+  {
     "wordingKey": "WORD_POSSESSION",
     "value": "Owned"
+  },
+  {
+    "wordingKey": "WORD_POSSESSION_COUNT_ORDER",
+    "value": "No. Owned"
+  },
+  {
+    "wordingKey": "WORD_POSSIBLE_TO_RECYCLED",
+    "value": "解体できる"
+  },
+  {
+    "wordingKey": "WORD_POST",
+    "value": "Post"
   },
   {
     "wordingKey": "WORD_PRACTICE",
@@ -8605,6 +10253,58 @@
     "value": "This Gift has expired."
   },
   {
+    "wordingKey": "WORD_PRESET",
+    "value": "Presets"
+  },
+  {
+    "wordingKey": "WORD_PRESET_COUNT_MAX",
+    "value": "Furniture limit exceeded. Unable to load Preset."
+  },
+  {
+    "wordingKey": "WORD_PRESET_DELETE_CONFIRMATION",
+    "value": "Delete <color=#F59>{0}<\/color>?"
+  },
+  {
+    "wordingKey": "WORD_PRESET_DELETE_FINISH",
+    "value": "Preset deleted."
+  },
+  {
+    "wordingKey": "WORD_PRESET_HAD_BEEN_SET_CONFIRMATION",
+    "value": "Load the Preset <color=#F59>{0}<\/color>?\nYour currently placed furniture will be put away.\n\n<color=#F36>*Any furniture already placed in MYSEKAI will be placed once it is put away.<\/color>"
+  },
+  {
+    "wordingKey": "WORD_PRESET_NO_HAVE_CONFIRMATION",
+    "value": "Load the Preset <color=#F59>{0}<\/color>?\nYour currently placed furniture will be put away.\n\n<color=#F36>*Any furniture in the Preset that you do not own will not be placed.<\/color>"
+  },
+  {
+    "wordingKey": "WORD_PRESET_OVERWRITE_CONFIRMATION",
+    "value": "Save your current layout to <color=#F59>{0}<\/color>?\nThis will overwrite the Preset saved to this slot."
+  },
+  {
+    "wordingKey": "WORD_PRESET_SAVE_FINISH",
+    "value": "Preset saved."
+  },
+  {
+    "wordingKey": "WORD_PRESET_SETUP",
+    "value": "Load"
+  },
+  {
+    "wordingKey": "WORD_PRESET_SET_CONFIRMATION",
+    "value": "Load the Preset <color=#F59>{0}<\/color>?\nYour currently placed furniture will be put away."
+  },
+  {
+    "wordingKey": "WORD_PRESET_SET_FINISH",
+    "value": "Preset loaded."
+  },
+  {
+    "wordingKey": "WORD_PRESET_SLOT_NAME",
+    "value": "Presets"
+  },
+  {
+    "wordingKey": "WORD_PRESET_WARNING",
+    "value": "Renew your World Pass by the following date to keep locked Presets from being deleted."
+  },
+  {
     "wordingKey": "WORD_PREVIEW",
     "value": "Preview"
   },
@@ -8643,6 +10343,10 @@
   {
     "wordingKey": "WORD_PRIZE_GIFT_SUMMARY",
     "value": "Prize Summary"
+  },
+  {
+    "wordingKey": "WORD_PRODUCTION",
+    "value": "Build"
   },
   {
     "wordingKey": "WORD_PROFILE",
@@ -8725,6 +10429,14 @@
     "value": "Purchase Status"
   },
   {
+    "wordingKey": "WORD_PUT",
+    "value": "Place"
+  },
+  {
+    "wordingKey": "WORD_QUALITY_SETTING",
+    "value": "MYSEKAI Quality Settings"
+  },
+  {
     "wordingKey": "WORD_RANGE",
     "value": "Large"
   },
@@ -8777,6 +10489,10 @@
     "value": "Rank Point Bonus"
   },
   {
+    "wordingKey": "WORD_RANK_REACHING_BY_RELEASE",
+    "value": "Unlocked at MYSEKAI Rank {0}"
+  },
+  {
     "wordingKey": "WORD_RARITY",
     "value": "Rarity"
   },
@@ -8819,6 +10535,10 @@
   {
     "wordingKey": "WORD_REACH_BONUS",
     "value": "Clear Bonus"
+  },
+  {
+    "wordingKey": "WORD_REACTION_CHARACTER",
+    "value": "Reactions"
   },
   {
     "wordingKey": "WORD_READ",
@@ -8873,6 +10593,10 @@
     "value": "Song Versions"
   },
   {
+    "wordingKey": "WORD_RECORDJACKET",
+    "value": "Cover Art"
+  },
+  {
     "wordingKey": "WORD_RECOVER",
     "value": "Restore"
   },
@@ -8883,6 +10607,30 @@
   {
     "wordingKey": "WORD_RECRUITTING",
     "value": "Matchmaking..."
+  },
+  {
+    "wordingKey": "WORD_RECYCLE",
+    "value": "Recycle"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_FURNITURE",
+    "value": "Furniture to Recycle"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_MATERIAL",
+    "value": "Materials to Recycle"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_MATERIAL_CONFIRM",
+    "value": "Recycle selected material?"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_TOOL",
+    "value": "Tools to Recycle"
+  },
+  {
+    "wordingKey": "WORD_RECYCLE_TOOL_CONFIRM",
+    "value": "Recycle this tool?"
   },
   {
     "wordingKey": "WORD_REGISTER",
@@ -8961,8 +10709,20 @@
     "value": "Delete"
   },
   {
+    "wordingKey": "WORD_REMOVE_FIXTURE",
+    "value": "Put Away"
+  },
+  {
+    "wordingKey": "WORD_REMOVE_GL",
+    "value": "Remove"
+  },
+  {
     "wordingKey": "WORD_REMOVING_ASSET",
     "value": "Decluttering"
+  },
+  {
+    "wordingKey": "WORD_REPOST",
+    "value": "再投稿"
   },
   {
     "wordingKey": "WORD_REQUEST",
@@ -8977,12 +10737,20 @@
     "value": "必要継続期間"
   },
   {
+    "wordingKey": "WORD_REQUIRED_MATERIAL",
+    "value": "Required Materials"
+  },
+  {
     "wordingKey": "WORD_REQUIRE_ITEM",
     "value": "Required Items"
   },
   {
     "wordingKey": "WORD_RESET",
     "value": "Reset"
+  },
+  {
+    "wordingKey": "WORD_RESET_ROTATION",
+    "value": "回転リセット"
   },
   {
     "wordingKey": "WORD_RESTRICT_TIME",
@@ -9101,6 +10869,10 @@
     "value": "Reward expires:"
   },
   {
+    "wordingKey": "WORD_RIGHT_ARROW",
+    "value": "→"
+  },
+  {
     "wordingKey": "WORD_RIGHT_NATATION",
     "value": "Licenses"
   },
@@ -9109,12 +10881,20 @@
     "value": "Rival Team found！"
   },
   {
+    "wordingKey": "WORD_ROAD",
+    "value": "Ground"
+  },
+  {
     "wordingKey": "WORD_ROOM_ID",
     "value": "Room ID"
   },
   {
     "wordingKey": "WORD_ROOM_TYPE",
     "value": "Room Type"
+  },
+  {
+    "wordingKey": "WORD_ROTATE",
+    "value": "Rotate"
   },
   {
     "wordingKey": "WORD_SANDWITCH",
@@ -9177,8 +10957,16 @@
     "value": "Search"
   },
   {
+    "wordingKey": "WORD_SEARCH_CANDIDATES",
+    "value": "Results"
+  },
+  {
     "wordingKey": "WORD_SEARCH_FIELD",
     "value": "Search by song title or artist"
+  },
+  {
+    "wordingKey": "WORD_SEARCH_GL",
+    "value": "Filtering for"
   },
   {
     "wordingKey": "WORD_SEARCH_ID",
@@ -9205,8 +10993,28 @@
     "value": "Previous Season"
   },
   {
+    "wordingKey": "WORD_SECRET_DAILY_PICKUP",
+    "value": "HOME > DAILY LINEUP"
+  },
+  {
+    "wordingKey": "WORD_SECRET_SHOP_NAME_GL",
+    "value": "secret-shop.com"
+  },
+  {
+    "wordingKey": "WORD_SECRET_WEEKLY_PICKUP",
+    "value": "HOME > WEEKLY LINEUP"
+  },
+  {
     "wordingKey": "WORD_SEE_CONTENT",
     "value": "Check content"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_MISSION",
+    "value": "MYSEKAI Missions"
+  },
+  {
+    "wordingKey": "WORD_SEKAI_RANK_EXP",
+    "value": "MYSEKAI Rank EXP"
   },
   {
     "wordingKey": "WORD_SEKAI_VERSION",
@@ -9333,8 +11141,20 @@
     "value": "Send Message"
   },
   {
+    "wordingKey": "WORD_SERIES_LIST",
+    "value": "Tag Overview"
+  },
+  {
     "wordingKey": "WORD_SETTING",
     "value": "Select"
+  },
+  {
+    "wordingKey": "WORD_SETTINGS_QUALITY",
+    "value": "Image Quality"
+  },
+  {
+    "wordingKey": "WORD_SETTING_MYSITE",
+    "value": "Selected"
   },
   {
     "wordingKey": "WORD_SETTING_UP",
@@ -9345,8 +11165,16 @@
     "value": "Select later"
   },
   {
+    "wordingKey": "WORD_SET_MYSITE",
+    "value": "Select"
+  },
+  {
     "wordingKey": "WORD_SET_PROFILE",
     "value": "Set as Profile"
+  },
+  {
+    "wordingKey": "WORD_SET_PURCHASE",
+    "value": "Buy Together"
   },
   {
     "wordingKey": "WORD_SHAPE",
@@ -9367,6 +11195,10 @@
   {
     "wordingKey": "WORD_SHAPE_TRANSPARENCY",
     "value": "Shape Transparency"
+  },
+  {
+    "wordingKey": "WORD_SHELF",
+    "value": "シェルフ"
   },
   {
     "wordingKey": "WORD_SHOP_AD",
@@ -9413,8 +11245,20 @@
     "value": "Regarding In-App Purchases"
   },
   {
+    "wordingKey": "WORD_SHOP_MISSION_PASS_SET_DETAIL",
+    "value": "Mission Pass Set Details"
+  },
+  {
     "wordingKey": "WORD_SHOP_MONTH",
     "value": "Month"
+  },
+  {
+    "wordingKey": "WORD_SHOP_MYSEKAI_COLORFUL_PASS_DETAIL",
+    "value": "World Pass Details"
+  },
+  {
+    "wordingKey": "WORD_SHOP_MYSEKAI_MISSION_PASS_DETAIL",
+    "value": "MYSEKAI Mission Pass Details"
   },
   {
     "wordingKey": "WORD_SHOP_PREMIUM_MISSION_PASS_DETAIL",
@@ -9485,6 +11329,14 @@
     "value": "Side\nStory"
   },
   {
+    "wordingKey": "WORD_SIGHTSEEING",
+    "value": "SIGHTSEEING"
+  },
+  {
+    "wordingKey": "WORD_SIGHTSEEING_JP",
+    "value": "SIGHTSEE"
+  },
+  {
     "wordingKey": "WORD_SIMULTANEOUS_PUSHI_LINE",
     "value": "Multi-Tap Line"
   },
@@ -9493,8 +11345,52 @@
     "value": "Vocals:"
   },
   {
+    "wordingKey": "WORD_SITE_1_NAME",
+    "value": "Your House"
+  },
+  {
+    "wordingKey": "WORD_SITE_2_NAME",
+    "value": "1F"
+  },
+  {
+    "wordingKey": "WORD_SITE_3_NAME",
+    "value": "2F"
+  },
+  {
+    "wordingKey": "WORD_SITE_4_NAME",
+    "value": "3F"
+  },
+  {
+    "wordingKey": "WORD_SITE_5_NAME",
+    "value": "Fledgling Field"
+  },
+  {
+    "wordingKey": "WORD_SITE_6_NAME",
+    "value": "Colorful Canyon"
+  },
+  {
+    "wordingKey": "WORD_SITE_7_NAME",
+    "value": "Wisher's Cove"
+  },
+  {
+    "wordingKey": "WORD_SITE_8_NAME",
+    "value": "Forgotten Place"
+  },
+  {
+    "wordingKey": "WORD_SITE_ENVIRONMENT",
+    "value": "Weather"
+  },
+  {
+    "wordingKey": "WORD_SITE_RELEASE",
+    "value": "Reach MYSEKAI Rank {0}"
+  },
+  {
     "wordingKey": "WORD_SIZE",
     "value": "Display"
+  },
+  {
+    "wordingKey": "WORD_SKETCH",
+    "value": "Sketch"
   },
   {
     "wordingKey": "WORD_SKILL",
@@ -9549,6 +11445,14 @@
     "value": "Skip"
   },
   {
+    "wordingKey": "WORD_SKYROKETING",
+    "value": "急上昇"
+  },
+  {
+    "wordingKey": "WORD_SKYROKETING_TAB",
+    "value": "急上昇！"
+  },
+  {
     "wordingKey": "WORD_SL_SETTINGS_CAMERA_SHAKE",
     "value": "Camera Shake When Moving"
   },
@@ -9571,6 +11475,10 @@
   {
     "wordingKey": "WORD_SMALL_FORTUNE",
     "value": "Small Blessing"
+  },
+  {
+    "wordingKey": "WORD_SMALL_FURNITURE",
+    "value": "Small"
   },
   {
     "wordingKey": "WORD_SOHW_ONLINE",
@@ -9645,8 +11553,16 @@
     "value": "x50"
   },
   {
+    "wordingKey": "WORD_SPECIAL_FEATURE",
+    "value": "特集"
+  },
+  {
     "wordingKey": "WORD_SPECIAL_MISSION_GL",
     "value": "Special Missions"
+  },
+  {
+    "wordingKey": "WORD_SPECIAL_OFFER_DETAIL",
+    "value": "特典詳細"
   },
   {
     "wordingKey": "WORD_SPECIAL_SKILL",
@@ -9893,12 +11809,24 @@
     "value": "System"
   },
   {
+    "wordingKey": "WORD_TABLE",
+    "value": "Tables"
+  },
+  {
     "wordingKey": "WORD_TAB_NEWLY_WRITTEN_MUSIC_DETAIL_INFO",
     "value": "Song Info"
   },
   {
+    "wordingKey": "WORD_TAG_OPTIONS",
+    "value": "候補タグ"
+  },
+  {
     "wordingKey": "WORD_TALK",
     "value": "Chat"
+  },
+  {
+    "wordingKey": "WORD_TALK_CHARACTER",
+    "value": "Speakers"
   },
   {
     "wordingKey": "WORD_TALK_LOG",
@@ -9939,6 +11867,22 @@
   {
     "wordingKey": "WORD_THANK_YOU",
     "value": "Thank you very much!"
+  },
+  {
+    "wordingKey": "WORD_THEMA",
+    "value": "テーマ"
+  },
+  {
+    "wordingKey": "WORD_THIS_FURNITURE_IS_CREATED",
+    "value": "This item has been made before"
+  },
+  {
+    "wordingKey": "WORD_THIS_FURNITURE_IS_CREATED_COLOR",
+    "value": "Has been made in this color before"
+  },
+  {
+    "wordingKey": "WORD_THREE_HYPHEN",
+    "value": "---"
   },
   {
     "wordingKey": "WORD_THREE_POINT_LEADER",
@@ -10033,8 +11977,28 @@
     "value": "Frame Rate"
   },
   {
+    "wordingKey": "WORD_TITLE_PANEL",
+    "value": "タイトルパネル"
+  },
+  {
+    "wordingKey": "WORD_TITLE_SEARCH_KEYWORD_TAG",
+    "value": "キーワード・タグ検索"
+  },
+  {
+    "wordingKey": "WORD_TITLE_SEARCH_TAG",
+    "value": "Filter With Tags"
+  },
+  {
+    "wordingKey": "WORD_TITLE_STAND",
+    "value": "タイトルスタンド"
+  },
+  {
     "wordingKey": "WORD_TITLE_STREAMING_LIVE_TICKET_EXCHANGE_CONFIRM",
     "value": "Confirm Purchase"
+  },
+  {
+    "wordingKey": "WORD_TODAY",
+    "value": "TODAY"
   },
   {
     "wordingKey": "WORD_TODAY_CHALLENGE",
@@ -10057,6 +12021,22 @@
     "value": "Basic Data Only"
   },
   {
+    "wordingKey": "WORD_TOOL",
+    "value": "Tools"
+  },
+  {
+    "wordingKey": "WORD_TOOL_COUNT",
+    "value": "Tools Owned"
+  },
+  {
+    "wordingKey": "WORD_TOOL_CREATE_RESULT",
+    "value": "Tool built."
+  },
+  {
+    "wordingKey": "WORD_TOOL_RECYCLE_RESULT",
+    "value": "Recycled tools and obtained Coins."
+  },
+  {
     "wordingKey": "WORD_TOP",
     "value": "TOP"
   },
@@ -10067,6 +12047,10 @@
   {
     "wordingKey": "WORD_TOTAL_BONUS",
     "value": "Total Bonus"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_FURNITURE_IS_CREATED",
+    "value": "Inventory full."
   },
   {
     "wordingKey": "WORD_TOTAL_MATCH_COUNT",
@@ -10086,6 +12070,10 @@
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_BONUS",
+    "value": "Talent Bonus"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_POWER_BONUS_RATE",
     "value": "Talent Bonus"
   },
   {
@@ -10121,6 +12109,14 @@
     "value": "Character Rank Bonus"
   },
   {
+    "wordingKey": "WORD_TOTAL_POWER_FIXTURE_BONUS",
+    "value": "Furniture Bonus"
+  },
+  {
+    "wordingKey": "WORD_TOTAL_POWER_GATE_BONUS",
+    "value": "Gate Bonus"
+  },
+  {
     "wordingKey": "WORD_TOTAL_POWER_HONOR_BONUS",
     "value": "Title Bonus"
   },
@@ -10147,6 +12143,10 @@
   {
     "wordingKey": "WORD_TOURNAMENT_SCORE_NONE",
     "value": "--------"
+  },
+  {
+    "wordingKey": "WORD_TO_CHEST",
+    "value": "Inventory"
   },
   {
     "wordingKey": "WORD_TO_CURRENT_TIME_ANNOTATION",
@@ -10181,8 +12181,20 @@
     "value": "To Shop"
   },
   {
+    "wordingKey": "WORD_TO_VISIT",
+    "value": "Destination"
+  },
+  {
     "wordingKey": "WORD_TRACE",
     "value": "Trace"
+  },
+  {
+    "wordingKey": "WORD_TRADE_MACHINE_LEVEL_UP",
+    "value": "Converter Level Up"
+  },
+  {
+    "wordingKey": "WORD_TRADE_MACHINE_SETTING_GL",
+    "value": "Converter Settings"
   },
   {
     "wordingKey": "WORD_TRAINING_AFTER",
@@ -10193,12 +12205,28 @@
     "value": "Pre-Upgrade"
   },
   {
+    "wordingKey": "WORD_TREE",
+    "value": "Trees"
+  },
+  {
+    "wordingKey": "WORD_TRESURE_BOX_NOTIFICATION",
+    "value": "A paper airplane appeared!"
+  },
+  {
+    "wordingKey": "WORD_TRIPOD_GL",
+    "value": "Tripod"
+  },
+  {
     "wordingKey": "WORD_TUTORIAL_GAME_DESCRIPTION_END_CONFIRM_MESSAGE",
     "value": "Exit Gameplay Tutorial?"
   },
   {
     "wordingKey": "WORD_TUTORIAL_GAME_DESCRIPTION_END_CONFIRM_TITLE",
     "value": "Gameplay Tutorial"
+  },
+  {
+    "wordingKey": "WORD_TUTORIAL_THIS_FURNITURE_IS_CREATED",
+    "value": "Cannot build during tutorial."
   },
   {
     "wordingKey": "WORD_TWITTER",
@@ -10211,6 +12239,14 @@
   {
     "wordingKey": "WORD_UNCERTAIN_LUCK",
     "value": "Future Blessing"
+  },
+  {
+    "wordingKey": "WORD_UNCREATED",
+    "value": "Unbuilt"
+  },
+  {
+    "wordingKey": "WORD_UNDO",
+    "value": "Cancel"
   },
   {
     "wordingKey": "WORD_UNIT",
@@ -10553,12 +12589,40 @@
     "value": "Equip purchased item now?"
   },
   {
+    "wordingKey": "WORD_VIRTUAL_SHOP_BONUS",
+    "value": "(Bonus)"
+  },
+  {
+    "wordingKey": "WORD_VIRTUAL_SHOP_FIRST_BONUS",
+    "value": "<color=#FF5588>（初回購入特典）<\/color>"
+  },
+  {
     "wordingKey": "WORD_VIRTUAL_SINGER_VERSION",
     "value": "VIRTUAL SINGER ver."
   },
   {
     "wordingKey": "WORD_VISIBLE",
     "value": "Display"
+  },
+  {
+    "wordingKey": "WORD_VISIT",
+    "value": "VISIT"
+  },
+  {
+    "wordingKey": "WORD_VISITING_MYSEKAI",
+    "value": "Not Home"
+  },
+  {
+    "wordingKey": "WORD_VISIT_JP",
+    "value": "VISIT"
+  },
+  {
+    "wordingKey": "WORD_VISIT_LIST",
+    "value": "おでかけリスト"
+  },
+  {
+    "wordingKey": "WORD_VISIT_SETTING",
+    "value": "Visit Settings"
   },
   {
     "wordingKey": "WORD_VL_CHAR",
@@ -10606,7 +12670,7 @@
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_QUALITY",
-    "value": "Image Quality"
+    "value": "Virtual Show Image Quality"
   },
   {
     "wordingKey": "WORD_VL_SETTINGS_QUALITY_DEFAULT",
@@ -10673,6 +12737,14 @@
     "value": "Pending Approvals"
   },
   {
+    "wordingKey": "WORD_WALL",
+    "value": "Walls"
+  },
+  {
+    "wordingKey": "WORD_WALLPAPER",
+    "value": "Walls"
+  },
+  {
     "wordingKey": "WORD_WARERABLE_MEMBER",
     "value": "Wearable by"
   },
@@ -10687,6 +12759,14 @@
   {
     "wordingKey": "WORD_WEARABLE_MEMBER",
     "value": "Wearable by"
+  },
+  {
+    "wordingKey": "WORD_WEATHER",
+    "value": "Forecast"
+  },
+  {
+    "wordingKey": "WORD_WEEKLY_LINEUP_GL",
+    "value": "WEEKLY LINEUP"
   },
   {
     "wordingKey": "WORD_WEEK_FRY",
