@@ -12394,6 +12394,51 @@
     "releaseConditionId": 1
   },
   {
+    "id": 839,
+    "areaId": 1,
+    "actionSetType": "normal",
+    "isNextGrade": false,
+    "scenarioId": "areatalk_ev_night_01_001",
+    "scriptId": "as_ev_night_01_001",
+    "characterIds": [
+      3,
+      17
+    ],
+    "archivePublishedAt": 1233345600000,
+    "isExtraLottery": false,
+    "releaseConditionId": 100108
+  },
+  {
+    "id": 840,
+    "areaId": 3,
+    "actionSetType": "normal",
+    "isNextGrade": false,
+    "scenarioId": "areatalk_ev_night_01_002",
+    "scriptId": "as_ev_night_01_002",
+    "characterIds": [
+      3,
+      17
+    ],
+    "archivePublishedAt": 1233345600000,
+    "isExtraLottery": false,
+    "releaseConditionId": 100108
+  },
+  {
+    "id": 841,
+    "areaId": 4,
+    "actionSetType": "normal",
+    "isNextGrade": false,
+    "scenarioId": "areatalk_ev_night_01_003",
+    "scriptId": "as_ev_night_01_003",
+    "characterIds": [
+      17,
+      3
+    ],
+    "archivePublishedAt": 1233345600000,
+    "isExtraLottery": false,
+    "releaseConditionId": 100108
+  },
+  {
     "id": 842,
     "areaId": 9,
     "actionSetType": "normal",
@@ -37209,5 +37254,83 @@
     "archivePublishedAt": 1764543600000,
     "isExtraLottery": false,
     "releaseConditionId": 114608
+  },
+  {
+    "id": 2537,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_idol_20_001",
+    "scriptId": "as_ev_idol_20_001",
+    "characterIds": [
+      283,
+      282,
+      284,
+      285
+    ],
+    "archivePublishedAt": 1770764400000,
+    "isExtraLottery": false,
+    "releaseConditionId": 115608
+  },
+  {
+    "id": 2538,
+    "areaId": 13,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_idol_20_002",
+    "scriptId": "as_ev_idol_20_002",
+    "characterIds": [
+      282,
+      283
+    ],
+    "archivePublishedAt": 1770764400000,
+    "isExtraLottery": false,
+    "releaseConditionId": 115608
+  },
+  {
+    "id": 2539,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_idol_20_003",
+    "scriptId": "as_ev_idol_20_003",
+    "characterIds": [
+      283,
+      318
+    ],
+    "archivePublishedAt": 1770764400000,
+    "isExtraLottery": false,
+    "releaseConditionId": 115608
+  },
+  {
+    "id": 2540,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_idol_20_004",
+    "scriptId": "as_ev_idol_20_004",
+    "characterIds": [
+      312,
+      283
+    ],
+    "archivePublishedAt": 1770764400000,
+    "isExtraLottery": false,
+    "releaseConditionId": 115608
+  },
+  {
+    "id": 2541,
+    "areaId": 7,
+    "actionSetType": "normal",
+    "isNextGrade": true,
+    "scenarioId": "areatalk_ev_idol_20_005",
+    "scriptId": "as_ev_idol_20_005",
+    "characterIds": [
+      324,
+      285,
+      284
+    ],
+    "archivePublishedAt": 1770764400000,
+    "isExtraLottery": false,
+    "releaseConditionId": 115608
   }
 ]

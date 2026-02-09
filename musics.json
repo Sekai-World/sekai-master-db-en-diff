@@ -1970,7 +1970,8 @@
     "seq": 2307701,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Angel's Clover",
     "pronunciation": "angel'sclover",
@@ -4520,7 +4521,8 @@
     "seq": 2420401,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "City",
     "pronunciation": "city",
@@ -8806,7 +8808,8 @@
     "seq": 1247201,
     "releaseConditionId": 5,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Tokyo Teddy Bear",
     "pronunciation": "tokyoteddybear",
@@ -10792,7 +10795,8 @@
     "seq": 2454301,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "FUEL",
     "pronunciation": "fuel",
@@ -12837,6 +12841,54 @@
     "releasedAt": 1420185600000,
     "liveStageId": 1,
     "fillerSec": 8.052599906921387,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 582,
+    "seq": 2358401,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv_2d"
+    ],
+    "title": "Anti you",
+    "pronunciation": "antiyou",
+    "creatorArtistId": 103,
+    "lyricist": "Chinozo",
+    "composer": "Chinozo",
+    "arranger": "Chinozo",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_582",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1770764400000,
+    "releasedAt": 1739174400000,
+    "liveStageId": 1,
+    "fillerSec": 7.605000019073486,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 587,
+    "seq": 1158501,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Rule Book",
+    "pronunciation": "rulebook",
+    "creatorArtistId": 269,
+    "lyricist": "Fujiwara Hagane",
+    "composer": "Fujiwara Hagane",
+    "arranger": "Fujiwara Hagane",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_587",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1770937200000,
+    "releasedAt": 1732953600000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
