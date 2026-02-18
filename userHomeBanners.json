@@ -32,26 +32,46 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1189,
-    "seq": 100,
+    "homeBannerId": 1191,
+    "seq": 190,
     "homeBannerType": "general",
-    "name": "2026 Valentine's Day Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1153",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1153,
-    "startAt": 1770235200000,
-    "endAt": 1771185599000
+    "name": "Lunar Festival Street Wear Costume All Colors",
+    "assetbundleName": "banner_shop_costume_sale_en_17",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1771358400000,
+    "endAt": 1772308799000
   },
   {
-    "homeBannerId": 1190,
+    "homeBannerId": 1192,
     "seq": 100,
     "homeBannerType": "general",
-    "name": "[It's Back] 2025 February Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1154",
+    "name": "Lunar New Year Campagin 10x Gacha Ticket",
+    "assetbundleName": "banner_shop_gachaticket_miku10_gl",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1771358400000,
+    "endAt": 1772287199000
+  },
+  {
+    "homeBannerId": 1194,
+    "seq": 90,
+    "homeBannerType": "general",
+    "name": "Lunar New Year Campaign 10x Gacha",
+    "assetbundleName": "banner_gacha1155",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1154,
-    "startAt": 1770235200000,
-    "endAt": 1771185599000
+    "transitionDestinationId": 1155,
+    "startAt": 1771358400000,
+    "endAt": 1772308799000
+  },
+  {
+    "homeBannerId": 1195,
+    "seq": 10,
+    "homeBannerType": "general",
+    "name": "[It's Back] Recollection Festival Gacha",
+    "assetbundleName": "banner_gacha1156",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1156,
+    "startAt": 1771358400000,
+    "endAt": 1771963199000
   },
   {
     "homeBannerId": 100196,
@@ -74,28 +94,6 @@
     "transitionDestinationId": 157,
     "startAt": 1770764400000,
     "endAt": 1771628399000
-  },
-  {
-    "homeBannerId": 100200,
-    "seq": 140,
-    "homeBannerType": "general",
-    "name": "[It's Back] Photogenic ♡ Valentine Gacha",
-    "assetbundleName": "banner_gacha679",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 679,
-    "startAt": 1770494400000,
-    "endAt": 1771271999000
-  },
-  {
-    "homeBannerId": 100204,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "Valentine's Day Show 2025",
-    "assetbundleName": "banner_virtuallive359",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 359,
-    "startAt": 1770937200000,
-    "endAt": 1771369199000
   },
   {
     "homeBannerId": 100351,

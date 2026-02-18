@@ -182,11 +182,12 @@
     "id": 504,
     "mysekaiNormalMissionSheetId": 5,
     "seq": 5,
-    "sentence": "Place the Small furniture you built.",
-    "mysekaiNormalMissionType": "put_specific_mysekai_fixture",
+    "sentence": "Place the Small furniture you built in your house.",
+    "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
     "mysekaiNormalMissionCategory": "normal",
     "requirement1": 1,
-    "conditionValue1": 317
+    "conditionValue1": 317,
+    "conditionValue2": 2
   },
   {
     "id": 600,

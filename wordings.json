@@ -992,6 +992,14 @@
     "value": "Use Crystals <color=#ff5588>x{0}<\/color> to instantly Convert {1}?"
   },
   {
+    "wordingKey": "MSG_CONVERT_START_ATTENTION_EXPIRED_PASS",
+    "value": "*If your World Pass expires before you start, the wait time will change."
+  },
+  {
+    "wordingKey": "MSG_CONVERT_START_CONFIRM",
+    "value": "Start Conversion?"
+  },
+  {
     "wordingKey": "MSG_CONVERT_SURPLUS_BLUEPRINT_CHOICE_ATTENTION",
     "value": "※設計図は被る可能性があります。"
   },
@@ -1014,6 +1022,10 @@
   {
     "wordingKey": "MSG_COPY_COMPLETE_ROOM_ID",
     "value": "Room ID copied."
+  },
+  {
+    "wordingKey": "MSG_COPY_COMPLETE_SERIAL_CODE",
+    "value": "Copied serial code."
   },
   {
     "wordingKey": "MSG_COPY_COMPLETE_USER_ID",
@@ -2317,7 +2329,7 @@
   },
   {
     "wordingKey": "MSG_MYSEKAI_COLORFUL_PASS_ALERT",
-    "value": "Colorful Pass has expired.\nPurchase another?"
+    "value": "Your World Pass has expired.\nDo you want to renew it?"
   },
   {
     "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
@@ -2674,6 +2686,10 @@
   {
     "wordingKey": "MSG_NOT_HAVE_TOOL",
     "value": "You don't have the right tool.\nMake one at a Workbench."
+  },
+  {
+    "wordingKey": "MSG_NOT_HOUSE_INCLUDED_IN_PRESET",
+    "value": "Unable to load Preset, as it contains unowned item:\n<color=#FF5599>{0}<\/color>"
   },
   {
     "wordingKey": "MSG_NOT_INVITATION_EXPIRED_PASS",
@@ -3398,6 +3414,10 @@
   {
     "wordingKey": "MSG_SERCH_MATCHING_OPPONENT",
     "value": "Matchmaking..."
+  },
+  {
+    "wordingKey": "MSG_SERIAL_CODE_COSTUME_GET",
+    "value": "Obtained Costume."
   },
   {
     "wordingKey": "MSG_SERIAL_CODE_STAMP_RALLY_COSTUME_GET",
@@ -4880,6 +4900,14 @@
     "value": "Costumes"
   },
   {
+    "wordingKey": "WORD_BONUS_DETAIL_CUSTOM_PROFILE",
+    "value": "Custom Profile Item"
+  },
+  {
+    "wordingKey": "WORD_BONUS_DETAIL_STAMP",
+    "value": "Stamp"
+  },
+  {
     "wordingKey": "WORD_BONUS_MISSION",
     "value": "Bonus Missions"
   },
@@ -5748,6 +5776,10 @@
     "value": "Delete Bookmark"
   },
   {
+    "wordingKey": "WORD_CONFIRM_SERIAL_CODE",
+    "value": "Confirm Serial Code"
+  },
+  {
     "wordingKey": "WORD_CONFIRM_START_LIVE",
     "value": "Start Show"
   },
@@ -5919,6 +5951,10 @@
   {
     "wordingKey": "WORD_CONVERT_START",
     "value": "Convert"
+  },
+  {
+    "wordingKey": "WORD_CONVERT_START_CONFIRM",
+    "value": "Start"
   },
   {
     "wordingKey": "WORD_COPY",
@@ -9293,6 +9329,14 @@
     "value": "Placed Furniture"
   },
   {
+    "wordingKey": "WORD_MYSEKAI_COLORFUL_PASS_1DAY_GL",
+    "value": "World Pass (1 Day)"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_COLORFUL_PASS_30DAYS_GL",
+    "value": "World Pass (30 Days)"
+  },
+  {
     "wordingKey": "WORD_MYSEKAI_COLORFUL_PASS_ALERT_TITLE",
     "value": "Expired"
   },
@@ -10997,12 +11041,20 @@
     "value": "HOME > DAILY LINEUP"
   },
   {
+    "wordingKey": "WORD_SECRET_DAILY_PICKUP_COMPLETE",
+    "value": "HOME > DAILY LINEUP > ORDER COMPLETE"
+  },
+  {
     "wordingKey": "WORD_SECRET_SHOP_NAME_GL",
     "value": "secret-shop.com"
   },
   {
     "wordingKey": "WORD_SECRET_WEEKLY_PICKUP",
     "value": "HOME > WEEKLY LINEUP"
+  },
+  {
+    "wordingKey": "WORD_SECRET_WEEKLY_PICKUP_COMPLETE",
+    "value": "HOME > WEEKLY LINEUP > ORDER COMPLETE"
   },
   {
     "wordingKey": "WORD_SEE_CONTENT",
@@ -11139,6 +11191,10 @@
   {
     "wordingKey": "WORD_SEND_MESSAGE",
     "value": "Send Message"
+  },
+  {
+    "wordingKey": "WORD_SERIAL_CODE",
+    "value": "Serial Code"
   },
   {
     "wordingKey": "WORD_SERIES_LIST",

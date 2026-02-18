@@ -753,5 +753,23 @@
     "mysekaiSiteIds": [
       8
     ]
+  },
+  {
+    "id": 64,
+    "seq": 505,
+    "mysekaiMaterialType": "junk",
+    "name": "Thunderstone",
+    "pronunciation": "thunderstone",
+    "description": "A mysterious stone that crackles with energy. Sometimes found on the ground during thunderstorms.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_mineral_9",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 8,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
   }
 ]

@@ -1321,6 +1321,23 @@
     ]
   },
   {
+    "id": 86,
+    "seq": 86,
+    "name": "Miku Day Login Campaign",
+    "startAt": 1773039600000,
+    "endAt": 1773125999000,
+    "assetbundleName": "mikusday_2024",
+    "closeAt": 1773125999000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 190,
+        "limitedLoginBonusId": 86,
+        "day": 1,
+        "resourceBoxId": 112
+      }
+    ]
+  },
+  {
     "id": 87,
     "seq": 87,
     "name": "White Day Login Campaign",
@@ -7172,6 +7189,130 @@
         "limitedLoginBonusId": 1184,
         "day": 1,
         "resourceBoxId": 1512
+      }
+    ]
+  },
+  {
+    "id": 1185,
+    "seq": 1185,
+    "name": "Lunar New Year Login Campaign",
+    "startAt": 1771358400000,
+    "endAt": 1772279999000,
+    "assetbundleName": "lunar_login_bonus_2026_gl",
+    "closeAt": 1771761600000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1576,
+        "limitedLoginBonusId": 1185,
+        "day": 1,
+        "resourceBoxId": 1513
+      },
+      {
+        "id": 1577,
+        "limitedLoginBonusId": 1185,
+        "day": 2,
+        "resourceBoxId": 1513
+      },
+      {
+        "id": 1578,
+        "limitedLoginBonusId": 1185,
+        "day": 3,
+        "resourceBoxId": 1514
+      },
+      {
+        "id": 1579,
+        "limitedLoginBonusId": 1185,
+        "day": 4,
+        "resourceBoxId": 1513
+      },
+      {
+        "id": 1580,
+        "limitedLoginBonusId": 1185,
+        "day": 5,
+        "resourceBoxId": 1513
+      },
+      {
+        "id": 1581,
+        "limitedLoginBonusId": 1185,
+        "day": 6,
+        "resourceBoxId": 1514
+      },
+      {
+        "id": 1582,
+        "limitedLoginBonusId": 1185,
+        "day": 7,
+        "resourceBoxId": 1513
+      }
+    ]
+  },
+  {
+    "id": 1186,
+    "seq": 1186,
+    "name": "Spring Login Campaign",
+    "startAt": 1772568000000,
+    "endAt": 1774177199000,
+    "assetbundleName": "spring_login_bonus_2022",
+    "closeAt": 1773399600000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1583,
+        "limitedLoginBonusId": 1186,
+        "day": 1,
+        "resourceBoxId": 1515
+      },
+      {
+        "id": 1584,
+        "limitedLoginBonusId": 1186,
+        "day": 2,
+        "resourceBoxId": 1515
+      },
+      {
+        "id": 1585,
+        "limitedLoginBonusId": 1186,
+        "day": 3,
+        "resourceBoxId": 1516
+      },
+      {
+        "id": 1586,
+        "limitedLoginBonusId": 1186,
+        "day": 4,
+        "resourceBoxId": 1515
+      },
+      {
+        "id": 1587,
+        "limitedLoginBonusId": 1186,
+        "day": 5,
+        "resourceBoxId": 1515
+      },
+      {
+        "id": 1588,
+        "limitedLoginBonusId": 1186,
+        "day": 6,
+        "resourceBoxId": 1515
+      },
+      {
+        "id": 1589,
+        "limitedLoginBonusId": 1186,
+        "day": 7,
+        "resourceBoxId": 1515
+      },
+      {
+        "id": 1590,
+        "limitedLoginBonusId": 1186,
+        "day": 8,
+        "resourceBoxId": 1516
+      },
+      {
+        "id": 1591,
+        "limitedLoginBonusId": 1186,
+        "day": 9,
+        "resourceBoxId": 1515
+      },
+      {
+        "id": 1592,
+        "limitedLoginBonusId": 1186,
+        "day": 10,
+        "resourceBoxId": 1515
       }
     ]
   }

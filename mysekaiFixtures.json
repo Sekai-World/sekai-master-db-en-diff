@@ -18628,6 +18628,2147 @@
     "assetbundleName": "mdl_clb1101_fixture_fusionstage2"
   },
   {
+    "id": 515,
+    "mysekaiFixtureType": "normal",
+    "name": "Raijin Festival Taiko",
+    "pronunciation": "raijinfestivaltaiko",
+    "flavorText": "Raijin Festival Taiko",
+    "seq": 40003001,
+    "gridSize": {
+      "width": 3,
+      "depth": 3,
+      "height": 5
+    },
+    "colorCode": "#4D1D9C",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#6A450E"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#005788"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 515,
+      "mysekaiFixtureTagId1": 10515,
+      "mysekaiFixtureTagId2": 77,
+      "mysekaiFixtureTagId3": 74
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_env0003_fixture_drum1"
+  },
+  {
+    "id": 516,
+    "mysekaiFixtureType": "normal",
+    "name": "Raijin Festival Hanging Lanterns",
+    "pronunciation": "raijinfestivalhanginglanterns",
+    "flavorText": "Raijin Festival Hanging Lanterns",
+    "seq": 40003002,
+    "gridSize": {
+      "width": 5,
+      "depth": 2,
+      "height": 4
+    },
+    "colorCode": "#4D1D9C",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#027700"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#005788"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 516,
+      "mysekaiFixtureTagId1": 10516,
+      "mysekaiFixtureTagId2": 77
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_env0003_fixture_lantern1"
+  },
+  {
+    "id": 517,
+    "mysekaiFixtureType": "normal",
+    "name": "Raijin Festival Mask Stall",
+    "pronunciation": "raijinfestivalmaskstall",
+    "flavorText": "Raijin Festival Mask Stall",
+    "seq": 40003003,
+    "gridSize": {
+      "width": 5,
+      "depth": 2,
+      "height": 5
+    },
+    "colorCode": "#4D1D9C",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#027700"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#005788"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 517,
+      "mysekaiFixtureTagId1": 10517,
+      "mysekaiFixtureTagId2": 77
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0003_fixture_maskstand1"
+  },
+  {
+    "id": 518,
+    "mysekaiFixtureType": "normal",
+    "name": "Raijin Festival Cotton Candy Stall",
+    "pronunciation": "raijinfestivalcottoncandystall",
+    "flavorText": "Raijin Festival Cotton Candy Stall",
+    "seq": 40003004,
+    "gridSize": {
+      "width": 5,
+      "depth": 2,
+      "height": 5
+    },
+    "colorCode": "#4D1D9C",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#027700"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#005788"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 518,
+      "mysekaiFixtureTagId1": 10518,
+      "mysekaiFixtureTagId2": 77
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0003_fixture_foodstand1"
+  },
+  {
+    "id": 519,
+    "mysekaiFixtureType": "normal",
+    "name": "Raijin Festival Outdoor Lantern",
+    "pronunciation": "raijinfestivaloutdoorlantern",
+    "flavorText": "Raijin Festival Outdoor Lantern",
+    "seq": 40003005,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 4
+    },
+    "colorCode": "#4D1D9C",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#027700"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#005788"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 519,
+      "mysekaiFixtureTagId1": 10519,
+      "mysekaiFixtureTagId2": 77,
+      "mysekaiFixtureTagId3": 70
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0003_fixture_toro1"
+  },
+  {
+    "id": 520,
+    "mysekaiFixtureType": "normal",
+    "name": "Raijin Festival Pond",
+    "pronunciation": "raijinfestivalpond",
+    "flavorText": "Raijin Festival Pond",
+    "seq": 40003006,
+    "gridSize": {
+      "width": 8,
+      "depth": 12,
+      "height": 3
+    },
+    "colorCode": "#CA2828",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8B5300"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#bb6688"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 520,
+      "mysekaiFixtureTagId1": 10520,
+      "mysekaiFixtureTagId2": 77
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0003_fixture_pond1"
+  },
+  {
+    "id": 521,
+    "mysekaiFixtureType": "normal",
+    "name": "Raijin Festival Right-Facing Fox Statue",
+    "pronunciation": "raijinfestivalright-facingfoxstatue",
+    "flavorText": "Raijin Festival Right-Facing Fox Statue",
+    "seq": 40003007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 5
+    },
+    "colorCode": "#4D1D9C",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#027700"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#CA2828"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 521,
+      "mysekaiFixtureTagId1": 10521,
+      "mysekaiFixtureTagId2": 77
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_env0003_fixture_foxstatue1"
+  },
+  {
+    "id": 522,
+    "mysekaiFixtureType": "system",
+    "name": "Raijin Festival House",
+    "pronunciation": "raijinfestivalhouse",
+    "flavorText": "Raijin Festival House",
+    "seq": 40003008,
+    "gridSize": {
+      "width": 12,
+      "depth": 12,
+      "height": 15
+    },
+    "colorCode": "#4D1D9C",
+    "mysekaiFixtureMainGenreId": 11,
+    "mysekaiFixtureSubGenreId": 24,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#027700"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#005788"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 522,
+      "mysekaiFixtureTagId1": 10522,
+      "mysekaiFixtureTagId2": 77
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0003_house_house1"
+  },
+  {
+    "id": 523,
+    "mysekaiFixtureType": "normal",
+    "name": "Raijin Festival Shrine Gate",
+    "pronunciation": "raijinfestivalshrinegate",
+    "flavorText": "Raijin Festival Shrine Gate",
+    "seq": 40003009,
+    "gridSize": {
+      "width": 8,
+      "depth": 2,
+      "height": 9
+    },
+    "colorCode": "#4D1D9C",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#027700"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#005788"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 523,
+      "mysekaiFixtureTagId1": 10523,
+      "mysekaiFixtureTagId2": 77
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0003_fixture_torii1"
+  },
+  {
+    "id": 524,
+    "mysekaiFixtureType": "normal",
+    "name": "Raijin Festival Bench",
+    "pronunciation": "raijinfestivalbench",
+    "flavorText": "Raijin Festival Bench",
+    "seq": 40003010,
+    "gridSize": {
+      "width": 6,
+      "depth": 2,
+      "height": 6
+    },
+    "colorCode": "#8E2871",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8F0000"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#008078"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 524,
+      "mysekaiFixtureTagId1": 10524,
+      "mysekaiFixtureTagId2": 77
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0003_fixture_chair1"
+  },
+  {
+    "id": 525,
+    "mysekaiFixtureType": "normal",
+    "name": "Raijin Festival Left-Facing Fox Statue",
+    "pronunciation": "raijinfestivalleft-facingfoxstatue",
+    "flavorText": "Raijin Festival Left-Facing Fox Statue",
+    "seq": 40003011,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 5
+    },
+    "colorCode": "#4D1D9C",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#027700"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#CA2828"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 525,
+      "mysekaiFixtureTagId1": 10525,
+      "mysekaiFixtureTagId2": 77
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_env0003_fixture_foxstatue2"
+  },
+  {
+    "id": 526,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "Retro Kitchen Wallpaper",
+    "pronunciation": "retrokitchenwallpaper",
+    "flavorText": "Retro Kitchen Wallpaper",
+    "seq": 30002012,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 7,
+    "mysekaiFixtureSubGenreId": 19,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 526,
+      "mysekaiFixtureTagId1": 10526,
+      "mysekaiFixtureTagId2": 36
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "ext0002"
+  },
+  {
+    "id": 527,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "Retro Kitchen Flooring",
+    "pronunciation": "retrokitchenflooring",
+    "flavorText": "Retro Kitchen Flooring",
+    "seq": 30002013,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 8,
+    "mysekaiFixtureSubGenreId": 20,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 527,
+      "mysekaiFixtureTagId1": 10527,
+      "mysekaiFixtureTagId2": 36
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "ext0002"
+  },
+  {
+    "id": 529,
+    "mysekaiFixtureType": "normal",
+    "name": "Kitchen Wall Cabinet",
+    "pronunciation": "kitchenwallcabinet",
+    "flavorText": "Kitchen Wall Cabinet",
+    "seq": 30002015,
+    "gridSize": {
+      "width": 3,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 529,
+      "mysekaiFixtureTagId1": 10529,
+      "mysekaiFixtureTagId2": 36
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0002_fixture_rack1"
+  },
+  {
+    "id": 530,
+    "mysekaiFixtureType": "normal",
+    "name": "Vegetable Basket",
+    "pronunciation": "vegetablebasket",
+    "flavorText": "Vegetable Basket",
+    "seq": 30002016,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 530,
+      "mysekaiFixtureTagId1": 10530,
+      "mysekaiFixtureTagId2": 36
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0002_fixture_basket1"
+  },
+  {
+    "id": 537,
+    "mysekaiFixtureType": "normal",
+    "name": "Mossy Boulder",
+    "pronunciation": "mossyboulder",
+    "flavorText": "Mossy Boulder",
+    "seq": 21004001,
+    "gridSize": {
+      "width": 3,
+      "depth": 3,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 537,
+      "mysekaiFixtureTagId1": 10531
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non1004_fixture_mossrock1"
+  },
+  {
+    "id": 538,
+    "mysekaiFixtureType": "normal",
+    "name": "Boulder",
+    "pronunciation": "boulder",
+    "flavorText": "Boulder",
+    "seq": 21004002,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 538,
+      "mysekaiFixtureTagId1": 10532
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non1004_fixture_rock1"
+  },
+  {
+    "id": 539,
+    "mysekaiFixtureType": "normal",
+    "name": "Rock",
+    "pronunciation": "rock",
+    "flavorText": "Rock",
+    "seq": 21004003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 539,
+      "mysekaiFixtureTagId1": 10533
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non1004_fixture_rock2"
+  },
+  {
+    "id": 540,
+    "mysekaiFixtureType": "normal",
+    "name": "Grassy Boulder",
+    "pronunciation": "grassyboulder",
+    "flavorText": "Grassy Boulder",
+    "seq": 21004004,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 540,
+      "mysekaiFixtureTagId1": 10534
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non1004_fixture_grassrock1"
+  },
+  {
+    "id": 541,
+    "mysekaiFixtureType": "normal",
+    "name": "Grassy Rock",
+    "pronunciation": "grassyrock",
+    "flavorText": "Grassy Rock",
+    "seq": 21004005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 541,
+      "mysekaiFixtureTagId1": 10535
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non1004_fixture_grassrock2"
+  },
+  {
+    "id": 542,
+    "mysekaiFixtureType": "normal",
+    "name": "Shrub",
+    "pronunciation": "shrub",
+    "flavorText": "Shrub",
+    "seq": 21004006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 542,
+      "mysekaiFixtureTagId1": 10536,
+      "mysekaiFixtureTagId2": 71
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non1004_fixture_shrub1"
+  },
+  {
+    "id": 543,
+    "mysekaiFixtureType": "normal",
+    "name": "Flowering Shrub",
+    "pronunciation": "floweringshrub",
+    "flavorText": "Flowering Shrub",
+    "seq": 21004007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 543,
+      "mysekaiFixtureTagId1": 10537,
+      "mysekaiFixtureTagId2": 71
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non1004_fixture_shrub2"
+  },
+  {
+    "id": 544,
+    "mysekaiFixtureType": "normal",
+    "name": "Red Tile",
+    "pronunciation": "redtile",
+    "flavorText": "Red Tile",
+    "seq": 22003001,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 544,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10539
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_rd1"
+  },
+  {
+    "id": 545,
+    "mysekaiFixtureType": "normal",
+    "name": "Orange Tile",
+    "pronunciation": "orangetile",
+    "flavorText": "Orange Tile",
+    "seq": 22003002,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 545,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10540
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_or1"
+  },
+  {
+    "id": 546,
+    "mysekaiFixtureType": "normal",
+    "name": "Light Orange Tile",
+    "pronunciation": "lightorangetile",
+    "flavorText": "Light Orange Tile",
+    "seq": 22003003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 546,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10541
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_lor1"
+  },
+  {
+    "id": 547,
+    "mysekaiFixtureType": "normal",
+    "name": "Yellow Tile",
+    "pronunciation": "yellowtile",
+    "flavorText": "Yellow Tile",
+    "seq": 22003004,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 547,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10542
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_yw1"
+  },
+  {
+    "id": 548,
+    "mysekaiFixtureType": "normal",
+    "name": "Light Green Tile",
+    "pronunciation": "lightgreentile",
+    "flavorText": "Light Green Tile",
+    "seq": 22003005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 548,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10543
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_ygn1"
+  },
+  {
+    "id": 549,
+    "mysekaiFixtureType": "normal",
+    "name": "Green Tile",
+    "pronunciation": "greentile",
+    "flavorText": "Green Tile",
+    "seq": 22003006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 549,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10544
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_gn1"
+  },
+  {
+    "id": 550,
+    "mysekaiFixtureType": "normal",
+    "name": "Blue-Green Tile",
+    "pronunciation": "blue-greentile",
+    "flavorText": "Blue-Green Tile",
+    "seq": 22003007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 550,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10545
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_bgn1"
+  },
+  {
+    "id": 551,
+    "mysekaiFixtureType": "normal",
+    "name": "Light Blue Tile",
+    "pronunciation": "lightbluetile",
+    "flavorText": "Light Blue Tile",
+    "seq": 22003008,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 551,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10546
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_lbl1"
+  },
+  {
+    "id": 552,
+    "mysekaiFixtureType": "normal",
+    "name": "Blue Tile",
+    "pronunciation": "bluetile",
+    "flavorText": "Blue Tile",
+    "seq": 22003009,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 552,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10547
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_bl1"
+  },
+  {
+    "id": 553,
+    "mysekaiFixtureType": "normal",
+    "name": "Violet Tile",
+    "pronunciation": "violettile",
+    "flavorText": "Violet Tile",
+    "seq": 22003010,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 553,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10548
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_pr1"
+  },
+  {
+    "id": 554,
+    "mysekaiFixtureType": "normal",
+    "name": "Purple Tile",
+    "pronunciation": "purpletile",
+    "flavorText": "Purple Tile",
+    "seq": 22003011,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 554,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10549
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_ppr1"
+  },
+  {
+    "id": 555,
+    "mysekaiFixtureType": "normal",
+    "name": "Pink Tile",
+    "pronunciation": "pinktile",
+    "flavorText": "Pink Tile",
+    "seq": 22003012,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 555,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10550
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_pk1"
+  },
+  {
+    "id": 556,
+    "mysekaiFixtureType": "normal",
+    "name": "Cream Tile",
+    "pronunciation": "creamtile",
+    "flavorText": "Cream Tile",
+    "seq": 22003013,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 556,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10551
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_lbg1"
+  },
+  {
+    "id": 557,
+    "mysekaiFixtureType": "normal",
+    "name": "Beige Tile",
+    "pronunciation": "beigetile",
+    "flavorText": "Beige Tile",
+    "seq": 22003014,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 557,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10552
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_bg1"
+  },
+  {
+    "id": 558,
+    "mysekaiFixtureType": "normal",
+    "name": "Light Brown Tile",
+    "pronunciation": "lightbrowntile",
+    "flavorText": "Light Brown Tile",
+    "seq": 22003015,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 558,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10553
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_lbr1"
+  },
+  {
+    "id": 559,
+    "mysekaiFixtureType": "normal",
+    "name": "Brown Tile",
+    "pronunciation": "browntile",
+    "flavorText": "Brown Tile",
+    "seq": 22003016,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 559,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10554
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_br1"
+  },
+  {
+    "id": 560,
+    "mysekaiFixtureType": "normal",
+    "name": "White Tile",
+    "pronunciation": "whitetile",
+    "flavorText": "White Tile",
+    "seq": 22003017,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 560,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10555
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_wh1"
+  },
+  {
+    "id": 561,
+    "mysekaiFixtureType": "normal",
+    "name": "Light Gray Tile",
+    "pronunciation": "lightgraytile",
+    "flavorText": "Light Gray Tile",
+    "seq": 22003018,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 561,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10556
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_lgr1"
+  },
+  {
+    "id": 562,
+    "mysekaiFixtureType": "normal",
+    "name": "Gray Tile",
+    "pronunciation": "graytile",
+    "flavorText": "Gray Tile",
+    "seq": 22003019,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 562,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10557
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_gr1"
+  },
+  {
+    "id": 563,
+    "mysekaiFixtureType": "normal",
+    "name": "Black Tile",
+    "pronunciation": "blacktile",
+    "flavorText": "Black Tile",
+    "seq": 22003020,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 31,
+    "mysekaiFixtureSubGenreId": 34,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 563,
+      "mysekaiFixtureTagId1": 10538,
+      "mysekaiFixtureTagId2": 10558
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2003_road_bk1"
+  },
+  {
+    "id": 564,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Saki Plushie (S)",
+    "pronunciation": "colorfulfestivalsakiplushie(s)",
+    "flavorText": "Colorful Festival Saki Plushie (S)",
+    "seq": 81102001,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 4,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 564,
+      "mysekaiFixtureTagId1": 10559,
+      "mysekaiFixtureTagId2": 2
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas102_fixture_doll1small"
+  },
+  {
+    "id": 565,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Saki Plushie (M)",
+    "pronunciation": "colorfulfestivalsakiplushie(m)",
+    "flavorText": "Colorful Festival Saki Plushie (M)",
+    "seq": 81102002,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 5,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 565,
+      "mysekaiFixtureTagId1": 10560,
+      "mysekaiFixtureTagId2": 2
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas102_fixture_doll1medium"
+  },
+  {
+    "id": 566,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Saki Plushie (L)",
+    "pronunciation": "colorfulfestivalsakiplushie(l)",
+    "flavorText": "Colorful Festival Saki Plushie (L)",
+    "seq": 81102003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 6,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 566,
+      "mysekaiFixtureTagId1": 10561,
+      "mysekaiFixtureTagId2": 2
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas102_fixture_doll1large"
+  },
+  {
+    "id": 567,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Airi Plushie (S)",
+    "pronunciation": "colorfulfestivalairiplushie(s)",
+    "flavorText": "Colorful Festival Airi Plushie (S)",
+    "seq": 82107001,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 19,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 567,
+      "mysekaiFixtureTagId1": 10562,
+      "mysekaiFixtureTagId2": 8
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas107_fixture_doll1small"
+  },
+  {
+    "id": 568,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Airi Plushie (M)",
+    "pronunciation": "colorfulfestivalairiplushie(m)",
+    "flavorText": "Colorful Festival Airi Plushie (M)",
+    "seq": 82107002,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 20,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 568,
+      "mysekaiFixtureTagId1": 10563,
+      "mysekaiFixtureTagId2": 8
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas107_fixture_doll1medium"
+  },
+  {
+    "id": 569,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Airi Plushie (L)",
+    "pronunciation": "colorfulfestivalairiplushie(l)",
+    "flavorText": "Colorful Festival Airi Plushie (L)",
+    "seq": 82107002,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 21,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 569,
+      "mysekaiFixtureTagId1": 10564,
+      "mysekaiFixtureTagId2": 8
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas107_fixture_doll1large"
+  },
+  {
+    "id": 570,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival An Plushie (S)",
+    "pronunciation": "colorfulfestivalanplushie(s)",
+    "flavorText": "Colorful Festival An Plushie (S)",
+    "seq": 83110001,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 28,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 570,
+      "mysekaiFixtureTagId1": 10565,
+      "mysekaiFixtureTagId2": 12
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas110_fixture_doll1small"
+  },
+  {
+    "id": 571,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival An Plushie (M)",
+    "pronunciation": "colorfulfestivalanplushie(m)",
+    "flavorText": "Colorful Festival An Plushie (M)",
+    "seq": 83110002,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 29,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 571,
+      "mysekaiFixtureTagId1": 10566,
+      "mysekaiFixtureTagId2": 12
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas110_fixture_doll1medium"
+  },
+  {
+    "id": 572,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival An Plushie (L)",
+    "pronunciation": "colorfulfestivalanplushie(l)",
+    "flavorText": "Colorful Festival An Plushie (L)",
+    "seq": 83110003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 30,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 572,
+      "mysekaiFixtureTagId1": 10567,
+      "mysekaiFixtureTagId2": 12
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas110_fixture_doll1large"
+  },
+  {
+    "id": 573,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Emu Plushie (S)",
+    "pronunciation": "colorfulfestivalemuplushie(s)",
+    "flavorText": "Colorful Festival Emu Plushie (S)",
+    "seq": 84114001,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 40,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 573,
+      "mysekaiFixtureTagId1": 10568,
+      "mysekaiFixtureTagId2": 17
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas114_fixture_doll1small"
+  },
+  {
+    "id": 574,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Emu Plushie (M)",
+    "pronunciation": "colorfulfestivalemuplushie(m)",
+    "flavorText": "Colorful Festival Emu Plushie (M)",
+    "seq": 84114002,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 41,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 574,
+      "mysekaiFixtureTagId1": 10569,
+      "mysekaiFixtureTagId2": 17
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas114_fixture_doll1medium"
+  },
+  {
+    "id": 575,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Emu Plushie (L)",
+    "pronunciation": "colorfulfestivalemuplushie(l)",
+    "flavorText": "Colorful Festival Emu Plushie (L)",
+    "seq": 84114003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 42,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 575,
+      "mysekaiFixtureTagId1": 10570,
+      "mysekaiFixtureTagId2": 17
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas114_fixture_doll1large"
+  },
+  {
+    "id": 576,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Mizuki Plushie (S)",
+    "pronunciation": "colorfulfestivalmizukiplushie(s)",
+    "flavorText": "Colorful Festival Mizuki Plushie (S)",
+    "seq": 85120001,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 58,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 576,
+      "mysekaiFixtureTagId1": 10571,
+      "mysekaiFixtureTagId2": 24
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas120_fixture_doll1small"
+  },
+  {
+    "id": 577,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Mizuki Plushie (M)",
+    "pronunciation": "colorfulfestivalmizukiplushie(m)",
+    "flavorText": "Colorful Festival Mizuki Plushie (M)",
+    "seq": 85120002,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 59,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 577,
+      "mysekaiFixtureTagId1": 10572,
+      "mysekaiFixtureTagId2": 24
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas120_fixture_doll1medium"
+  },
+  {
+    "id": 578,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Mizuki Plushie (L)",
+    "pronunciation": "colorfulfestivalmizukiplushie(l)",
+    "flavorText": "Colorful Festival Mizuki Plushie (L)",
+    "seq": 85120003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 60,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 578,
+      "mysekaiFixtureTagId1": 10573,
+      "mysekaiFixtureTagId2": 24
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas120_fixture_doll1large"
+  },
+  {
+    "id": 579,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Rin Plushie (S)",
+    "pronunciation": "colorfulfestivalrinplushie(s)",
+    "flavorText": "Colorful Festival Rin Plushie (S)",
+    "seq": 86122001,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 64,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 579,
+      "mysekaiFixtureTagId1": 10574,
+      "mysekaiFixtureTagId2": 27
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas122_fixture_doll1small"
+  },
+  {
+    "id": 580,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Rin Plushie (M)",
+    "pronunciation": "colorfulfestivalrinplushie(m)",
+    "flavorText": "Colorful Festival Rin Plushie (M)",
+    "seq": 86122002,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 65,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 580,
+      "mysekaiFixtureTagId1": 10575,
+      "mysekaiFixtureTagId2": 27
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas122_fixture_doll1medium"
+  },
+  {
+    "id": 581,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival Rin Plushie (L)",
+    "pronunciation": "colorfulfestivalrinplushie(l)",
+    "flavorText": "Colorful Festival Rin Plushie (L)",
+    "seq": 86122003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 66,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 581,
+      "mysekaiFixtureTagId1": 10576,
+      "mysekaiFixtureTagId2": 27
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas122_fixture_doll1large"
+  },
+  {
+    "id": 582,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival MEIKO Plushie (S)",
+    "pronunciation": "colorfulfestivalmeikoplushie(s)",
+    "flavorText": "Colorful Festival MEIKO Plushie (S)",
+    "seq": 86125001,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 73,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 582,
+      "mysekaiFixtureTagId1": 10577,
+      "mysekaiFixtureTagId2": 30
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas125_fixture_doll1small"
+  },
+  {
+    "id": 583,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival MEIKO Plushie (M)",
+    "pronunciation": "colorfulfestivalmeikoplushie(m)",
+    "flavorText": "Colorful Festival MEIKO Plushie (M)",
+    "seq": 86125002,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 74,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 583,
+      "mysekaiFixtureTagId1": 10578,
+      "mysekaiFixtureTagId2": 30
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas125_fixture_doll1medium"
+  },
+  {
+    "id": 584,
+    "mysekaiFixtureType": "normal",
+    "name": "Colorful Festival MEIKO Plushie (L)",
+    "pronunciation": "colorfulfestivalmeikoplushie(l)",
+    "flavorText": "Colorful Festival MEIKO Plushie (L)",
+    "seq": 86125003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 75,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 584,
+      "mysekaiFixtureTagId1": 10579,
+      "mysekaiFixtureTagId2": 30
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas125_fixture_doll1large"
+  },
+  {
     "id": 801,
     "mysekaiFixtureType": "normal",
     "name": "Morgana Figure",
