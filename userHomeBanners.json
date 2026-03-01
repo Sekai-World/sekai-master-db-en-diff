@@ -32,27 +32,6 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1191,
-    "seq": 190,
-    "homeBannerType": "general",
-    "name": "Lunar Festival Street Wear Costume All Colors",
-    "assetbundleName": "banner_shop_costume_sale_en_17",
-    "transitionDestinationType": "billing_shop_for_jewel",
-    "startAt": 1771358400000,
-    "endAt": 1772308799000
-  },
-  {
-    "homeBannerId": 1194,
-    "seq": 90,
-    "homeBannerType": "general",
-    "name": "Lunar New Year Campaign 10x Gacha",
-    "assetbundleName": "banner_gacha1155",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1155,
-    "startAt": 1771358400000,
-    "endAt": 1772308799000
-  },
-  {
     "homeBannerId": 100201,
     "seq": 150,
     "homeBannerType": "general",
@@ -64,28 +43,6 @@
     "endAt": 1772913599000
   },
   {
-    "homeBannerId": 100210,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]シャッフル穂波イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha687",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 687,
-    "startAt": 1771617600000,
-    "endAt": 1772308799000
-  },
-  {
-    "homeBannerId": 100212,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]シャッフル穂波イベ_イベントバナー",
-    "assetbundleName": "event_readaloud_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 158,
-    "startAt": 1771628400000,
-    "endAt": 1772319599000
-  },
-  {
     "homeBannerId": 100214,
     "seq": 90,
     "homeBannerType": "general",
@@ -95,6 +52,39 @@
     "transitionDestinationId": 688,
     "startAt": 1771876800000,
     "endAt": 1772654399000
+  },
+  {
+    "homeBannerId": 100217,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]シャッフル咲希イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha689",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 689,
+    "startAt": 1772308800000,
+    "endAt": 1773169199000
+  },
+  {
+    "homeBannerId": 100219,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]シャッフル咲希イベ_イベントバナー",
+    "assetbundleName": "event_heartsmessage_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 159,
+    "startAt": 1772319600000,
+    "endAt": 1773179999000
+  },
+  {
+    "homeBannerId": 100221,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[小豆沢こはね]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive363",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 363,
+    "startAt": 1772319600000,
+    "endAt": 1772438399000
   },
   {
     "homeBannerId": 100351,
