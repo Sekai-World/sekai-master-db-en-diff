@@ -783,5 +783,52 @@
         "rewardResourceBoxIds": []
       }
     ]
+  },
+  {
+    "id": 98,
+    "seq": 1,
+    "title": "[復刻][プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ",
+    "assetbundleName": "collaboration-sanrio-story",
+    "startAt": 1772740800000,
+    "endAt": 1773903599000,
+    "episodes": [
+      {
+        "id": 98,
+        "specialStoryId": 98,
+        "episodeNo": 1,
+        "title": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリープロローグ",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 22,
+        "assetbundleName": "story_collaboration_sanrio",
+        "scenarioId": "collaboration_sanrio_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "seq": 1,
+    "title": "[復刻][プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ",
+    "assetbundleName": "collaboration-sanrio-story",
+    "startAt": 1773903600000,
+    "endAt": 1773989999000,
+    "episodes": [
+      {
+        "id": 99,
+        "specialStoryId": 99,
+        "episodeNo": 1,
+        "title": "[プロセカ×サンリオキャラクターズ]コラボ記念ログインストーリーエピローグ",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_sanrio",
+        "scenarioId": "collaboration_sanrio_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
   }
 ]
