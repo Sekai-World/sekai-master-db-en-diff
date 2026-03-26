@@ -88,6 +88,10 @@
     "value": "Uninvite {0}?"
   },
   {
+    "wordingKey": "FORMAT_MSG_CONFIRM_CANCEL_INVITATION_NOT_RECEIVED_MEMORIA",
+    "value": "{0}に招待状を送るのを取りやめますか？\n<color=#FF3366>※本日分のメモリアをまだ受け取っていません。\n招待を取りやめると、本日獲得できるメモリアが1個になります。<\/color>"
+  },
+  {
     "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE",
     "value": "Switch to {0}?\n\n<color=#FF5588>*You won't be able to collect Memoria until 5:00 AM (PT) tomorrow.\n*You won't be able to change your Gate for {1} days.\n*Anyone invited to your SEKAI will be uninvited.<\/color>"
   },
@@ -1088,6 +1092,10 @@
     "value": "No items available for purchase."
   },
   {
+    "wordingKey": "MSG_CRYSTAL_SHOP_MINORS_GL",
+    "value": "This product is not available to minors."
+  },
+  {
     "wordingKey": "MSG_CRYSTAL_SHOP_PURCHASE_ERROR",
     "value": "Purchase failed.\nPlease wait a while and try again."
   },
@@ -1432,6 +1440,18 @@
     "value": "EXP x{0}"
   },
   {
+    "wordingKey": "MSG_EXTERNAL_PAYMENT_LINK_DIALOG_MESSAGE_1_GL",
+    "value": "*To obtain items in the Web Store, you need your Player ID. Please be careful not to make a mistake."
+  },
+  {
+    "wordingKey": "MSG_EXTERNAL_PAYMENT_LINK_DIALOG_MESSAGE_2_GL",
+    "value": "*Open the webpage"
+  },
+  {
+    "wordingKey": "MSG_EXTERNAL_PAYMENT_LINK_MENU_MESSAGE_GL",
+    "value": "Check out the great deals!"
+  },
+  {
     "wordingKey": "MSG_EXTERNAL_PAYMENT_LINK_NOTICE",
     "value": "*An external browser will launch."
   },
@@ -1630,6 +1650,10 @@
   {
     "wordingKey": "MSG_GACHA_LIMIT_SPIN_COUNT",
     "value": "Limit reached."
+  },
+  {
+    "wordingKey": "MSG_GACHA_MINORS_GL",
+    "value": "This Gacha is not available to minors."
   },
   {
     "wordingKey": "MSG_GACHA_PAID_JEWEL_PRIORITY_USE",
@@ -2136,6 +2160,10 @@
     "value": "Member Results"
   },
   {
+    "wordingKey": "MSG_MEMORABILIA_BOX_MINORS_GL",
+    "value": "This Memorabilia Box is not available to minors."
+  },
+  {
     "wordingKey": "MSG_MESSAGE_EMPTY",
     "value": "Send a blank Fan Message.\nContinue?"
   },
@@ -2392,6 +2420,10 @@
     "value": "No space to place tripod."
   },
   {
+    "wordingKey": "MSG_MYSEKAI_INVITATION_BALLOON",
+    "value": "招待中は獲得メモリア＋1個！"
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_JOIN_ERROR",
     "value": "You can't visit this player's MYSEKAI right now.\nThe number of visitors is at capacity."
   },
@@ -2486,6 +2518,30 @@
   {
     "wordingKey": "MSG_MYSEKAI_SKETCH_TRADE_GO",
     "value": "ヘンカンへ"
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_CHARACTER_VISIT_COUNT_FORMAT",
+    "value": "Occurs when talking to {1} after they visit {0} times."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_CHARACTER_VISIT_COUNT_ONCE_FORMAT",
+    "value": "Occurs when talking to {0}."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_FIXTURE_MULTI_FORMAT",
+    "value": "Occurs as {0}'s reaction to certain furniture."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_FIXTURE_SINGLE_FORMAT",
+    "value": "Occurs as {0}'s reaction to {1}."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_PHENOMENA_FORMAT",
+    "value": "Occurs when talking to {1} when the weather is {0}."
+  },
+  {
+    "wordingKey": "MSG_MYSEKAI_TALK_RELEASE_CONDITION_READ_EVENT_STORY_EPISODE_FORMAT",
+    "value": "Occurs when talking to {2} after viewing episode {1} of \"{0}\"."
   },
   {
     "wordingKey": "MSG_MYSEKAI_TUTORIAL_CALL_CHARACTER_IN_PHOTO_MODE",
@@ -2786,6 +2842,10 @@
   {
     "wordingKey": "MSG_NO_INVITE",
     "value": "No invitations."
+  },
+  {
+    "wordingKey": "MSG_NO_SETTING_CHARACTER",
+    "value": "No Character set."
   },
   {
     "wordingKey": "MSG_NO_STORY_FOUND",
@@ -4484,6 +4544,10 @@
     "value": "コピー済み"
   },
   {
+    "wordingKey": "WORD_ALREADY_CREATED_COSTUME",
+    "value": "Made"
+  },
+  {
     "wordingKey": "WORD_ALREADY_DOWNLOADED",
     "value": "Downloaded"
   },
@@ -5092,6 +5156,10 @@
     "value": "Confirm"
   },
   {
+    "wordingKey": "WORD_CAN_MAKE_COSTUME",
+    "value": "Can Make"
+  },
+  {
     "wordingKey": "WORD_CAN_NOT_RECYCLED",
     "value": "Non-Recyclable"
   },
@@ -5316,8 +5384,16 @@
     "value": "{0}"
   },
   {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_FIXTURE_TALK",
+    "value": "Furniture"
+  },
+  {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_GACHA",
     "value": "Gacha"
+  },
+  {
+    "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_GENERAL_TALK",
+    "value": "Regular"
   },
   {
     "wordingKey": "WORD_CHARACTER_ARCHIVE_CATEGORY_LIVE",
@@ -6909,8 +6985,20 @@
     "value": "EXP"
   },
   {
+    "wordingKey": "WORD_EXTERNAL_PAYMENT_LINK_DIALOG_COPY_PLAYER_ID_LABEL_GL",
+    "value": "Tap to copy Player ID"
+  },
+  {
+    "wordingKey": "WORD_EXTERNAL_PAYMENT_LINK_DIALOG_OPEN_STORE_LABEL_GL",
+    "value": "Open the store"
+  },
+  {
     "wordingKey": "WORD_EXTERNAL_PAYMENT_LINK_LABEL",
     "value": "Web Store"
+  },
+  {
+    "wordingKey": "WORD_EXTERNAL_PAYMENT_LINK_MENU_LABEL_GL",
+    "value": "Tap now!"
   },
   {
     "wordingKey": "WORD_EXTERNAL_PAYMENT_LINK_TAB",
@@ -7023,6 +7111,10 @@
   {
     "wordingKey": "WORD_FILTER",
     "value": "Filter"
+  },
+  {
+    "wordingKey": "WORD_FILTERED_COSTUME_EMPTY",
+    "value": "No applicable Costumes."
   },
   {
     "wordingKey": "WORD_FILTER_CARD_NORMAL",
@@ -7911,6 +8003,10 @@
   {
     "wordingKey": "WORD_HELD_TIME",
     "value": "Show Year"
+  },
+  {
+    "wordingKey": "WORD_HELPSHIFT_BUTTON_GL",
+    "value": "Support"
   },
   {
     "wordingKey": "WORD_HIDDEN",
@@ -8989,8 +9085,12 @@
     "value": "Collect Characters"
   },
   {
+    "wordingKey": "WORD_MISSION_TITLE_COLLECT_MYSEKAI_CANVAS",
+    "value": "Paintings"
+  },
+  {
     "wordingKey": "WORD_MISSION_TITLE_COLLECT_MYSEKAI_FIXTURE",
-    "value": "マイセカイ家具"
+    "value": "Tagged Furniture"
   },
   {
     "wordingKey": "WORD_MISSION_TITLE_COLLECT_STAMP",
@@ -9473,6 +9573,14 @@
     "value": "Size"
   },
   {
+    "wordingKey": "WORD_MYSEKAI_TALK_RELEASE_CONDITION_SEPARATOR",
+    "value": "\/"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_TALK_RELEASE_CONDITION_TWEET_FORMAT",
+    "value": "{0}"
+  },
+  {
     "wordingKey": "WORD_MYSEKAI_VISIST",
     "value": "Who Can Visit You"
   },
@@ -9623,6 +9731,10 @@
   {
     "wordingKey": "WORD_NOT_FULL_COMBO",
     "value": "No Full Combo"
+  },
+  {
+    "wordingKey": "WORD_NOT_GET_COSTUME",
+    "value": "Unowned"
   },
   {
     "wordingKey": "WORD_NOT_INVITED",
@@ -10314,11 +10426,11 @@
   },
   {
     "wordingKey": "WORD_PRESET_HAD_BEEN_SET_CONFIRMATION",
-    "value": "Load the Preset <color=#F59>{0}<\/color>?\nYour currently placed furniture will be put away.\n\n<color=#F36>*Any furniture already placed in MYSEKAI will be placed once it is put away.<\/color>"
+    "value": "Load the Preset <color=#F59>{0}<\/color>?\nYour currently placed furniture will be put away.\n<color=#F36>*Any furniture already placed in MYSEKAI will be placed once it is put away.<\/color>\n<color=#F36>*If the Preset includes any Block furniture, it must be in your inventory or in the same area.<\/color>"
   },
   {
     "wordingKey": "WORD_PRESET_NO_HAVE_CONFIRMATION",
-    "value": "Load the Preset <color=#F59>{0}<\/color>?\nYour currently placed furniture will be put away.\n\n<color=#F36>*Any furniture in the Preset that you do not own will not be placed.<\/color>"
+    "value": "Load the Preset <color=#F59>{0}<\/color>?\nYour currently placed furniture will be put away.\n<color=#F36>*Any furniture in the Preset that you do not own will not be placed.<\/color>\n<color=#F36>*If the Preset includes any Block furniture, it must be in your inventory or in the same area.<\/color>"
   },
   {
     "wordingKey": "WORD_PRESET_OVERWRITE_CONFIRMATION",
@@ -10583,6 +10695,10 @@
   {
     "wordingKey": "WORD_REACTION_CHARACTER",
     "value": "Reactions"
+  },
+  {
+    "wordingKey": "WORD_REACTION_IN_UNDER_FIXTURE",
+    "value": "Triggered by:"
   },
   {
     "wordingKey": "WORD_READ",
@@ -11365,6 +11481,18 @@
     "value": "Year"
   },
   {
+    "wordingKey": "WORD_SHORTAGE_COUNT",
+    "value": "Needed"
+  },
+  {
+    "wordingKey": "WORD_SHORTAGE_FIXTURE",
+    "value": "Missing Furniture"
+  },
+  {
+    "wordingKey": "WORD_SHORTAGE_FIXTURE_FOR_PRESET",
+    "value": "Cannot load Preset due to missing furniture."
+  },
+  {
     "wordingKey": "WORD_SHOWMISSION_DETAIL",
     "value": "Get a total of {0} Show Points"
   },
@@ -11843,6 +11971,10 @@
   {
     "wordingKey": "WORD_SUPPORT_DECK_EDIT",
     "value": "Edit Support Group"
+  },
+  {
+    "wordingKey": "WORD_SUPPORT_DECK_EDIT_COUNT_FORMAT",
+    "value": "{0}\/{1}"
   },
   {
     "wordingKey": "WORD_SUPPORT_MEMBR",
