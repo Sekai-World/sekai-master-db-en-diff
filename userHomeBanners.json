@@ -54,17 +54,6 @@
     "endAt": 1775156399000
   },
   {
-    "homeBannerId": 100233,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha703",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 703,
-    "startAt": 1774033200000,
-    "endAt": 1774897199000
-  },
-  {
     "homeBannerId": 100235,
     "seq": 100,
     "homeBannerType": "event",
@@ -74,6 +63,71 @@
     "transitionDestinationId": 161,
     "startAt": 1774044000000,
     "endAt": 1774907999000
+  },
+  {
+    "homeBannerId": 100244,
+    "seq": 20,
+    "homeBannerType": "general",
+    "name": "JP 4.5 Year Anniversary Bloom Festival Gacha Dream Pick",
+    "assetbundleName": "banner_gacha704",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 704,
+    "startAt": 1774897200000,
+    "endAt": 1775329199000
+  },
+  {
+    "homeBannerId": 100245,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "JP 4.5 Year Anniversary Premium Gift Gacha",
+    "assetbundleName": "banner_gacha705",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 705,
+    "startAt": 1774897200000,
+    "endAt": 1775674799000
+  },
+  {
+    "homeBannerId": 100246,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "JP 4.5 Year Anniversary Free Gacha",
+    "assetbundleName": "banner_gacha707",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 707,
+    "startAt": 1774897200000,
+    "endAt": 1779519599000
+  },
+  {
+    "homeBannerId": 100248,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "[4.5周年記念]セレクトリストガチャ Limited Edition",
+    "assetbundleName": "banner_gacha709",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 709,
+    "startAt": 1774897200000,
+    "endAt": 1775674799000
+  },
+  {
+    "homeBannerId": 100249,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "JP 4.5 Year Anniversary Heartfelt Gift Gacha",
+    "assetbundleName": "banner_gacha710",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 710,
+    "startAt": 1774897200000,
+    "endAt": 1775674799000
+  },
+  {
+    "homeBannerId": 100252,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "4.5周年クリスタルショップ",
+    "assetbundleName": "banner_shop_4-5th_anniversary",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1774897200000,
+    "endAt": 1775674799000
   },
   {
     "homeBannerId": 100351,
