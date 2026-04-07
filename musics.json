@@ -2940,14 +2940,14 @@
   },
   {
     "id": 152,
-    "seq": 1116001,
+    "seq": 1116002,
     "releaseConditionId": 5,
     "categories": [
       "original"
     ],
     "title": "I want to be your heart",
     "pronunciation": "iwanttobeyourheart",
-    "creatorArtistId": 85,
+    "creatorArtistId": 277,
     "lyricist": "Yurry Canon",
     "composer": "Yurry Canon",
     "arranger": "Yurry Canon",
@@ -12213,6 +12213,30 @@
     "isFullLength": false
   },
   {
+    "id": 538,
+    "seq": 2571701,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "All-Save Challenge",
+    "pronunciation": "all-savechallenge",
+    "creatorArtistId": 237,
+    "lyricist": "Moimi Kashii",
+    "composer": "Moimi Kashii",
+    "arranger": "Moimi Kashii",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_538",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1777442700000,
+    "releasedAt": 1745827200000,
+    "liveStageId": 1,
+    "fillerSec": 9.37279987335205,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
     "id": 541,
     "seq": 1160501,
     "releaseConditionId": 5,
@@ -12923,7 +12947,8 @@
     "seq": 2553302,
     "releaseConditionId": 10,
     "categories": [
-      "image"
+      "image",
+      "mv_2d"
     ],
     "title": "Smile Symphony",
     "pronunciation": "smilesymphony",
@@ -12948,7 +12973,8 @@
     "seq": 2153802,
     "releaseConditionId": 10,
     "categories": [
-      "image"
+      "image",
+      "mv_2d"
     ],
     "title": "Hello, SEKAI",
     "pronunciation": "hellosekai",
@@ -13424,6 +13450,78 @@
     "liveStageId": 1,
     "fillerSec": 9.32610034942627,
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 606,
+    "seq": 1671401,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Suicide Parade",
+    "pronunciation": "suicideparade",
+    "creatorArtistId": 277,
+    "lyricist": "Yurry Canon",
+    "composer": "Yurry Canon",
+    "arranger": "Yurry Canon",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_606",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1776204000000,
+    "releasedAt": 1500364800000,
+    "liveStageId": 1,
+    "fillerSec": 8.659000396728516,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 607,
+    "seq": 1371601,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Sky Passing Around, Moon Rabbit",
+    "pronunciation": "skypassingaround,moonrabbit",
+    "creatorArtistId": 10,
+    "lyricist": "Orangestar",
+    "composer": "Orangestar",
+    "arranger": "Orangestar",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_607",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1776895200000,
+    "releasedAt": 1479110400000,
+    "liveStageId": 1,
+    "fillerSec": 7.5,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 608,
+    "seq": 1171501,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Starry Melancolia",
+    "pronunciation": "starrymelancolia",
+    "creatorArtistId": 278,
+    "lyricist": "yuichi NAGAO",
+    "composer": "yuichi NAGAO",
+    "arranger": "yuichi NAGAO",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_608",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1776549600000,
+    "releasedAt": 1737619200000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {

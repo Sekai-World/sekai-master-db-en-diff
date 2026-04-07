@@ -58,7 +58,7 @@
     "dailyLimitCount": 1,
     "displayFlg": false,
     "startAt": 1602054000000,
-    "endAt": 4095039600000
+    "endAt": 1775674800000
   },
   {
     "id": 8,
@@ -67,6 +67,14 @@
     "dailyLimitCount": 2,
     "displayFlg": true,
     "startAt": 1602054000000,
+    "endAt": 4095039600000
+  },
+  {
+    "id": 10,
+    "adRewardPlayType": "event_exchange_result",
+    "dailyLimitCount": 1,
+    "displayFlg": false,
+    "startAt": 1776884400000,
     "endAt": 4095039600000
   }
 ]
