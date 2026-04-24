@@ -54,17 +54,6 @@
     "endAt": 1779519599000
   },
   {
-    "homeBannerId": 100255,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ビビバスWL2イベ_イベントバナー",
-    "assetbundleName": "event_wl_2nd_street_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 163,
-    "startAt": 1775703600000,
-    "endAt": 1776895199000
-  },
-  {
     "homeBannerId": 100259,
     "seq": 140,
     "homeBannerType": "general",
@@ -85,6 +74,17 @@
     "transitionDestinationId": 720,
     "startAt": 1776884400000,
     "endAt": 1777575599000
+  },
+  {
+    "homeBannerId": 100265,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
+    "assetbundleName": "event_choicesfuture_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 164,
+    "startAt": 1776895200000,
+    "endAt": 1777586399000
   },
   {
     "homeBannerId": 100351,
