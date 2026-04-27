@@ -568,6 +568,10 @@
     "value": "Purchase the paid Golden Charm"
   },
   {
+    "wordingKey": "MSG_CANT_COPY_CARD_SET",
+    "value": "All tabs are full.\nDelete some profile cards to free up space."
+  },
+  {
     "wordingKey": "MSG_CANVAS_BONUS_DIALOG_DESCRIPTION",
     "value": "Make a Painting of this Character\nin MYSEKAI to boost its Talent."
   },
@@ -702,6 +706,10 @@
   {
     "wordingKey": "MSG_COIN_DESCRIPTION",
     "value": "Coins used in various areas to purchase items. Earned from shows."
+  },
+  {
+    "wordingKey": "MSG_COLLECTION_GACHA_RESALE_TIME_OVER",
+    "value": "No longer available."
   },
   {
     "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
@@ -1024,6 +1032,10 @@
     "value": "Cannot convert this quantity before your World Pass expires.\nPlease select a smaller number."
   },
   {
+    "wordingKey": "MSG_COPY_CARD_CONFIRMATION",
+    "value": "Duplicate selected profile card to tab {0}?"
+  },
+  {
     "wordingKey": "MSG_COPY_COMPLETE_ROOM_ID",
     "value": "Room ID copied."
   },
@@ -1106,6 +1118,10 @@
   {
     "wordingKey": "MSG_CUSTOM_PROFILE_COLLECTION_ALERT",
     "value": "When the number of acquired Memorabilia you have selected has reached 0, it can no longer be used within the same set.\n\n*When a layer of Memorabilia is deleted, the number of pieces in your possession will be restored according to the number of pieces deleted.\n*The number of pieces used will be counted as the total in the set."
+  },
+  {
+    "wordingKey": "MSG_CUSTOM_PROFILE_COLLECTION_SHORTAGE",
+    "value": "Cannot duplicate due to missing Memorabilia.\n"
   },
   {
     "wordingKey": "MSG_CUSTOM_PROFILE_PARTS_VISUAL_SELECT",
@@ -1250,6 +1266,10 @@
   {
     "wordingKey": "MSG_EDITABLE_MYLIST",
     "value": "Pick your favorite songs and\ncreate your own custom Playlist."
+  },
+  {
+    "wordingKey": "MSG_EMPTY_COLLECTION_GACHA_RESALE_BOX",
+    "value": "No applicable Memorabilia Boxes found."
   },
   {
     "wordingKey": "MSG_EMPTY_HISTORY",
@@ -3440,12 +3460,56 @@
     "value": "secretshop\/mysekai"
   },
   {
+    "wordingKey": "MSG_SEGA_ACCOUNT_LINK_ACCOUNT_NOT_GL",
+    "value": "You can link your SEGA Account after you start the game."
+  },
+  {
+    "wordingKey": "MSG_SEGA_ACCOUNT_LINK_COMPLETE_NO_REWARD_GL",
+    "value": "You have successfully linked your SEGA Account."
+  },
+  {
+    "wordingKey": "MSG_SEGA_ACCOUNT_LINK_COMPLETE_REWARD_GL",
+    "value": "You have successfully linked your SEGA Account.\n Your reward for linking your account has been sent to your Gift Box."
+  },
+  {
+    "wordingKey": "MSG_SEGA_ACCOUNT_LINK_ERROR_BAN_GL",
+    "value": "Your linked SEGA Account is currently restricted."
+  },
+  {
+    "wordingKey": "MSG_SEGA_ACCOUNT_LINK_ERROR_GL",
+    "value": "Unable to link to SEGA Account at this time."
+  },
+  {
+    "wordingKey": "MSG_SEGA_ACCOUNT_LINK_EXPLAIN_GL",
+    "value": "Create a SEGA Account and receive incredible in-game rewards!\nSEGA Account is a profile that lets you maximize your experience with the SEGA Group's online services and offers a ton of benefits. Anyone can sign up and use it with ease!\nCreate an account now to earn rewards!\n<color=#ff5599>*Rewards may be altered or cancelled without notice.<\/color>"
+  },
+  {
+    "wordingKey": "MSG_SEGA_ACCOUNT_LINK_FINISHED_GL",
+    "value": "Already linked with a SEGA Account."
+  },
+  {
+    "wordingKey": "MSG_SEGA_ACCOUNT_LINK_FINISHED_NOT_RECEIVE_GL",
+    "value": "Already linked with a SEGA Account.\n Your reward for linking your account has been sent to your Gift Box."
+  },
+  {
+    "wordingKey": "MSG_SEGA_ACCOUNT_LINK_GL",
+    "value": "Link to\nSEGA Account"
+  },
+  {
+    "wordingKey": "MSG_SEGA_ACCOUNT_LINK_PAGE_GL",
+    "value": "Go to\nSEGA Account Page"
+  },
+  {
     "wordingKey": "MSG_SELECT_ACTION_FROM_BELOW",
     "value": "Select your favorite Actions from those available below."
   },
   {
     "wordingKey": "MSG_SELECT_CLEANUP",
     "value": "Your profile has not been saved.\nSave and exit?"
+  },
+  {
+    "wordingKey": "MSG_SELECT_COPY_SET",
+    "value": "Select a tab (01 - 10) to duplicate to."
   },
   {
     "wordingKey": "MSG_SELECT_LIST",
@@ -4426,6 +4490,10 @@
   {
     "wordingKey": "WORD_ADD_VALUE",
     "value": "＋{0}"
+  },
+  {
+    "wordingKey": "WORD_AD_CHARACTER_EXCHANGE_TICKET_BUTTON_GET_GL",
+    "value": "Get a Character \nPick Voucher"
   },
   {
     "wordingKey": "WORD_AD_REWARD_COMMON_LABEL",
@@ -5700,6 +5768,10 @@
     "value": "Amazake"
   },
   {
+    "wordingKey": "WORD_COLLECTION_SHORTAGE",
+    "value": "Missing Memorabilia"
+  },
+  {
     "wordingKey": "WORD_COLLECTION_STAGE",
     "value": "コレクションステージ"
   },
@@ -6047,6 +6119,10 @@
   {
     "wordingKey": "WORD_COPY_PLAYER_ID",
     "value": "Copy Player ID"
+  },
+  {
+    "wordingKey": "WORD_COPY_TITLE_GL",
+    "value": "Copying"
   },
   {
     "wordingKey": "WORD_COSTUME",
@@ -7137,6 +7213,10 @@
     "value": "Has Hairstyle"
   },
   {
+    "wordingKey": "WORD_FILTER_JOINED_VIRTUAL_LIVE",
+    "value": "Virtual Show History"
+  },
+  {
     "wordingKey": "WORD_FILTER_PERIOD_LIMITED",
     "value": "Limited Time"
   },
@@ -7155,6 +7235,10 @@
   {
     "wordingKey": "WORD_FILTER_TITLE_MV",
     "value": "Music Video"
+  },
+  {
+    "wordingKey": "WORD_FILTER_TOGGLE_NOT_JOINED_VIRTUAL_LIVE",
+    "value": "Not Joined"
   },
   {
     "wordingKey": "WORD_FINAL_CONFIRM",
@@ -10426,11 +10510,11 @@
   },
   {
     "wordingKey": "WORD_PRESET_HAD_BEEN_SET_CONFIRMATION",
-    "value": "Load the Preset <color=#F59>{0}<\/color>?\nYour currently placed furniture will be put away.\n<color=#F36>*Any furniture already placed in MYSEKAI will be placed once it is put away.<\/color>\n<color=#F36>*If the Preset includes any Block furniture, it must be in your inventory or in the same area.<\/color>"
+    "value": "Load the Preset <color=#F59>{0}<\/color>?\nYour currently placed furniture will be put away.\n\n<color=#F36>*Any furniture already placed in MYSEKAI will be placed once it is put away.<\/color>"
   },
   {
     "wordingKey": "WORD_PRESET_NO_HAVE_CONFIRMATION",
-    "value": "Load the Preset <color=#F59>{0}<\/color>?\nYour currently placed furniture will be put away.\n<color=#F36>*Any furniture in the Preset that you do not own will not be placed.<\/color>\n<color=#F36>*If the Preset includes any Block furniture, it must be in your inventory or in the same area.<\/color>"
+    "value": "Load the Preset <color=#F59>{0}<\/color>?\nYour currently placed furniture will be put away.\n\n<color=#F36>*Any furniture in the Preset that you do not own will not be placed.<\/color>"
   },
   {
     "wordingKey": "WORD_PRESET_OVERWRITE_CONFIRMATION",
@@ -11490,7 +11574,7 @@
   },
   {
     "wordingKey": "WORD_SHORTAGE_FIXTURE_FOR_PRESET",
-    "value": "Cannot load Preset due to missing furniture."
+    "value": "Cannot load Preset due to missing furniture.\n<color=#F36>*Furniture must be in your inventory or placed in the same area.<\/color>"
   },
   {
     "wordingKey": "WORD_SHOWMISSION_DETAIL",

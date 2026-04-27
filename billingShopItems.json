@@ -4063,8 +4063,8 @@
     "assetbundleName": "shop_20137",
     "resourceBoxId": 20117,
     "bonusResourceBoxId": 20122,
-    "startAt": 1773903600000,
-    "endAt": 1774508399000
+    "startAt": 1777532400000,
+    "endAt": 1778137199000
   },
   {
     "id": 20147,
@@ -6141,6 +6141,20 @@
     "badgeAssetbundleName": "badge0001_gl",
     "startAt": 1771358400000,
     "endAt": 1772287199000
+  },
+  {
+    "id": 50135,
+    "seq": 340,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50193,
+    "name": "Character Pick Voucher x100",
+    "description": "Character Pick Voucher x100",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_50135",
+    "resourceBoxId": 50135,
+    "badgeAssetbundleName": "badge0003_gl"
   },
   {
     "id": 70000,
@@ -10752,6 +10766,99 @@
     "assetbundleName": "shop_300760",
     "resourceBoxId": 425,
     "startAt": 1775026800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300770,
+    "seq": 461429,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "[Detective] Costumes All Colors",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 426,
+    "startAt": 1777618800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300771,
+    "seq": 461430,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Detective] Costumes Original Color",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 427,
+    "startAt": 1777618800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300772,
+    "seq": 461431,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Detective] Costumes Color Variant 1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 428,
+    "startAt": 1777618800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300773,
+    "seq": 461432,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Detective] Costumes Color Variant 2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 429,
+    "startAt": 1777618800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300774,
+    "seq": 461433,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Detective] Costumes Color Variant 3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 430,
+    "startAt": 1777618800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300780,
+    "seq": 461429,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "[World Championship 2024] Costumes",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300780",
+    "resourceBoxId": 431,
+    "startAt": 1777618800000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300790,
+    "seq": 461429,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "[Global Edition] Costumes",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300790",
+    "resourceBoxId": 432,
+    "startAt": 1777618800000,
     "purchaseOption": "exchange"
   },
   {

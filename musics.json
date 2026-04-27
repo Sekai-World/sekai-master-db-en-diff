@@ -268,7 +268,7 @@
   },
   {
     "id": 21,
-    "seq": 1504001,
+    "seq": 1504002,
     "releaseConditionId": 5,
     "categories": [
       "original",
@@ -287,7 +287,7 @@
     "publishedAt": 1639263600000,
     "releasedAt": 1466323200000,
     "liveStageId": 1,
-    "fillerSec": 9.0,
+    "fillerSec": 9.005000114440918,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -941,7 +941,7 @@
     "publishedAt": 1560209231000,
     "releasedAt": 1358668800000,
     "liveStageId": 1,
-    "fillerSec": 8.996999740600586,
+    "fillerSec": 9.005999565124512,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -972,7 +972,7 @@
   },
   {
     "id": 69,
-    "seq": 1400104,
+    "seq": 1400105,
     "releaseConditionId": 5,
     "categories": [
       "mv",
@@ -991,7 +991,7 @@
     "publishedAt": 1560209231000,
     "releasedAt": 1473494400000,
     "liveStageId": 1,
-    "fillerSec": 9.0,
+    "fillerSec": 8.991999626159668,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -1241,7 +1241,7 @@
   },
   {
     "id": 82,
-    "seq": 1100301,
+    "seq": 1100302,
     "releaseConditionId": 5,
     "categories": [
       "image"
@@ -1259,7 +1259,7 @@
     "publishedAt": 1602543600000,
     "releasedAt": 1601452800000,
     "liveStageId": 1,
-    "fillerSec": 9.0,
+    "fillerSec": 8.987000465393066,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -12214,7 +12214,7 @@
   },
   {
     "id": 538,
-    "seq": 2571001,
+    "seq": 2571002,
     "releaseConditionId": 10,
     "categories": [
       "mv"
@@ -12233,6 +12233,30 @@
     "releasedAt": 1745827200000,
     "liveStageId": 1,
     "fillerSec": 9.37279987335205,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 540,
+    "seq": 2671401,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "Mx.Nihil",
+    "pronunciation": "mx.nihil",
+    "creatorArtistId": 279,
+    "lyricist": "¿?shimon",
+    "composer": "¿?shimon",
+    "arranger": "¿?shimon",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_540",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1778133900000,
+    "releasedAt": 1746518400000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -12870,7 +12894,8 @@
     "seq": 2253102,
     "releaseConditionId": 10,
     "categories": [
-      "image"
+      "image",
+      "mv_2d"
     ],
     "title": "SToRY",
     "pronunciation": "story",
@@ -13737,6 +13762,81 @@
     "releasedAt": 1611648000000,
     "liveStageId": 1,
     "fillerSec": 7.677700042724609,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 622,
+    "seq": 3771301,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Chou Night of Knights",
+    "pronunciation": "chounightofknights",
+    "creatorArtistId": 240,
+    "lyricist": "-",
+    "composer": "ZUN (Team Shanghai Alice)",
+    "arranger": "beatMARIO × MARON",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_622",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1778018400000,
+    "releasedAt": 1746432000000,
+    "liveStageId": 1,
+    "fillerSec": 8.68910026550293,
+    "musicCollaborationId": 6,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 623,
+    "seq": 1571201,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Touhou☆Wonderland",
+    "pronunciation": "touhou☆wonderland",
+    "creatorArtistId": 240,
+    "lyricist": "beatMARIO × MARON",
+    "composer": "ZUN (Team Shanghai Alice)",
+    "arranger": "beatMARIO × MARON, Tokyo Active NEETs",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_623",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1777932000000,
+    "releasedAt": 1746345600000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "musicCollaborationId": 6,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 624,
+    "seq": 1171101,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Cirno's Perfect Math Academy",
+    "pronunciation": "cirno'sperfectmathacademy",
+    "creatorArtistId": 240,
+    "lyricist": "beatMARIO × MARON, Youno Yoshimi (IOSYS)",
+    "composer": "ZUN (Team Shanghai Alice)",
+    "arranger": "beatMARIO × MARON, ARM (IOSYS)",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_624",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1777845600000,
+    "releasedAt": 1746259200000,
+    "liveStageId": 1,
+    "fillerSec": 10.556099891662598,
+    "musicCollaborationId": 6,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
