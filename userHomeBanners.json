@@ -32,17 +32,6 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1198,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "2026 April Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1160",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1160,
-    "startAt": 1775934000000,
-    "endAt": 1777575599000
-  },
-  {
     "homeBannerId": 100246,
     "seq": 200,
     "homeBannerType": "general",
@@ -65,17 +54,6 @@
     "endAt": 1778007599000
   },
   {
-    "homeBannerId": 100263,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha720",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 720,
-    "startAt": 1776884400000,
-    "endAt": 1777575599000
-  },
-  {
     "homeBannerId": 100265,
     "seq": 100,
     "homeBannerType": "event",
@@ -87,15 +65,26 @@
     "endAt": 1777586399000
   },
   {
-    "homeBannerId": 100268,
+    "homeBannerId": 100269,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[東雲絵名]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive373",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 373,
-    "startAt": 1777413600000,
-    "endAt": 1777532399000
+    "name": "Ena Shinonome Happy Birthday 2026 Gacha",
+    "assetbundleName": "banner_gacha721",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 721,
+    "startAt": 1777532400000,
+    "endAt": 1777618799000
+  },
+  {
+    "homeBannerId": 100271,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha725",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 725,
+    "startAt": 1777575600000,
+    "endAt": 1778353199000
   },
   {
     "homeBannerId": 100351,
