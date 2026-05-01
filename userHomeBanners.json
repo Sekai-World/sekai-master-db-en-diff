@@ -54,28 +54,6 @@
     "endAt": 1778007599000
   },
   {
-    "homeBannerId": 100265,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ワンダショ箱イベ_イベントバナー",
-    "assetbundleName": "event_choicesfuture_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 164,
-    "startAt": 1776895200000,
-    "endAt": 1777586399000
-  },
-  {
-    "homeBannerId": 100269,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "Ena Shinonome Happy Birthday 2026 Gacha",
-    "assetbundleName": "banner_gacha721",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 721,
-    "startAt": 1777532400000,
-    "endAt": 1777618799000
-  },
-  {
     "homeBannerId": 100271,
     "seq": 110,
     "homeBannerType": "general",
@@ -85,6 +63,17 @@
     "transitionDestinationId": 725,
     "startAt": 1777575600000,
     "endAt": 1778353199000
+  },
+  {
+    "homeBannerId": 100273,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
+    "assetbundleName": "event_needlemoving_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 165,
+    "startAt": 1777586400000,
+    "endAt": 1778212799000
   },
   {
     "homeBannerId": 100351,
