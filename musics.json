@@ -6713,7 +6713,8 @@
     "seq": 2337401,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "The peachy key",
     "pronunciation": "thepeachykey",
@@ -8568,7 +8569,8 @@
     "seq": 1643201,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      "original",
+      "mv_2d"
     ],
     "title": "God-ish",
     "pronunciation": "godish",
@@ -11277,7 +11279,8 @@
     "seq": 2364401,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Hashiru! Tooku! Todoku!",
     "pronunciation": "hashiru!tooku!todoku!",
@@ -11561,6 +11564,30 @@
     "releasedAt": 1684051200000,
     "liveStageId": 1,
     "fillerSec": 7.940999984741211,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 510,
+    "seq": 1671601,
+    "releaseConditionId": 5,
+    "categories": [
+      "mv"
+    ],
+    "title": "FAILURE GIRL",
+    "pronunciation": "failuregirl",
+    "creatorArtistId": 81,
+    "lyricist": "Kairiki Bear",
+    "composer": "Kairiki Bear",
+    "arranger": "Kairiki Bear",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_510",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1778623200000,
+    "releasedAt": 1439020800000,
+    "liveStageId": 1,
+    "fillerSec": 7.5,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -12233,6 +12260,30 @@
     "releasedAt": 1745827200000,
     "liveStageId": 1,
     "fillerSec": 9.37279987335205,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 539,
+    "seq": 2372101,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "Eleventh",
+    "pronunciation": "eleventh",
+    "creatorArtistId": 88,
+    "lyricist": "Police Piccadilly",
+    "composer": "Police Piccadilly",
+    "arranger": "Police Piccadilly",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_539",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1780121100000,
+    "releasedAt": 1748505600000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
@@ -13310,6 +13361,30 @@
     "isFullLength": false
   },
   {
+    "id": 595,
+    "seq": 1272001,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Envy Cat Walk",
+    "pronunciation": "envycatwalk",
+    "creatorArtistId": 281,
+    "lyricist": "Tohma",
+    "composer": "Tohma",
+    "arranger": "Tohma",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_595",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1779832800000,
+    "releasedAt": 1319270400000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 596,
     "seq": 2669701,
     "releaseConditionId": 10,
@@ -13766,6 +13841,54 @@
     "isFullLength": false
   },
   {
+    "id": 619,
+    "seq": 1171901,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "Connecting",
+    "pronunciation": "connecting",
+    "creatorArtistId": 141,
+    "lyricist": "halyosy",
+    "composer": "halyosy",
+    "arranger": "halyosy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_619",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1779573600000,
+    "releasedAt": 1417766400000,
+    "liveStageId": 1,
+    "fillerSec": 7.681399822235107,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 620,
+    "seq": 1471501,
+    "releaseConditionId": 5,
+    "categories": [
+      "original"
+    ],
+    "title": "Shama",
+    "pronunciation": "shama",
+    "creatorArtistId": 80,
+    "lyricist": "NILFRUITS",
+    "composer": "NILFRUITS",
+    "arranger": "NILFRUITS",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_620",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1778364000000,
+    "releasedAt": 1538985600000,
+    "liveStageId": 1,
+    "fillerSec": 8.984999656677246,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 622,
     "seq": 3771301,
     "releaseConditionId": 5,
@@ -13838,6 +13961,78 @@
     "fillerSec": 10.556099891662598,
     "musicCollaborationId": 6,
     "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 626,
+    "seq": 1171801,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Fish and Tips",
+    "pronunciation": "fishandtips",
+    "creatorArtistId": 280,
+    "lyricist": "Dopam!ne",
+    "composer": "Dopam!ne",
+    "arranger": "Dopam!ne",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_626",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1779228000000,
+    "releasedAt": 1737187200000,
+    "liveStageId": 1,
+    "fillerSec": 8.25,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 627,
+    "seq": 1172301,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "TETORIS",
+    "pronunciation": "tetoris",
+    "creatorArtistId": 188,
+    "lyricist": "Hiiragi Magnetite",
+    "composer": "Traditional",
+    "arranger": "Hiiragi Magnetite",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_627",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1780437600000,
+    "releasedAt": 1731052800000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 634,
+    "seq": 2472201,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv_2d"
+    ],
+    "title": "Voice of The Beam",
+    "pronunciation": "voiceofthebeam",
+    "creatorArtistId": 152,
+    "lyricist": "Guiano",
+    "composer": "Guiano",
+    "arranger": "Guiano",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_634",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1780264800000,
+    "releasedAt": 1748678400000,
+    "liveStageId": 1,
+    "fillerSec": 8.565199851989746,
+    "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
   {
