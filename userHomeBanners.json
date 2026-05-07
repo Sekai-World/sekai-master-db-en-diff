@@ -32,6 +32,27 @@
     "endAt": 4102473540000
   },
   {
+    "homeBannerId": 1204,
+    "seq": 80,
+    "homeBannerType": "general",
+    "name": "Movie 4★ Character Guaranteed Gacha",
+    "assetbundleName": "banner_gacha1169",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1169,
+    "startAt": 1778180400000,
+    "endAt": 1780815599000
+  },
+  {
+    "homeBannerId": 1206,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "劇場版★2メンバーコレクションバンドル",
+    "assetbundleName": "banner_shop_movie_character_ticket_gl",
+    "transitionDestinationType": "billing_shop_for_value_set",
+    "startAt": 1778180400000,
+    "endAt": 1796626799000
+  },
+  {
     "homeBannerId": 100246,
     "seq": 200,
     "homeBannerType": "general",
