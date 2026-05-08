@@ -75,17 +75,6 @@
     "endAt": 1778353199000
   },
   {
-    "homeBannerId": 100273,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
-    "assetbundleName": "event_needlemoving_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 165,
-    "startAt": 1777586400000,
-    "endAt": 1778212799000
-  },
-  {
     "homeBannerId": 100276,
     "seq": 130,
     "homeBannerType": "general",
@@ -117,6 +106,17 @@
     "transitionDestinationId": 732,
     "startAt": 1777834800000,
     "endAt": 1778741999000
+  },
+  {
+    "homeBannerId": 100281,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "Cheerful Carnival Event Test Event",
+    "assetbundleName": "event_cheerfutest_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 165,
+    "startAt": 1778212800000,
+    "endAt": 1778381999000
   },
   {
     "homeBannerId": 100288,
