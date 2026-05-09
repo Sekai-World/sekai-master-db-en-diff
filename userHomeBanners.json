@@ -64,17 +64,6 @@
     "endAt": 1779519599000
   },
   {
-    "homeBannerId": 100271,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha725",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 725,
-    "startAt": 1777575600000,
-    "endAt": 1778353199000
-  },
-  {
     "homeBannerId": 100276,
     "seq": 130,
     "homeBannerType": "general",
@@ -86,15 +75,15 @@
     "endAt": 1779562799000
   },
   {
-    "homeBannerId": 100278,
+    "homeBannerId": 100279,
     "seq": 130,
     "homeBannerType": "general",
-    "name": "[天馬咲希]HAPPY BIRTHDAYライブ",
-    "assetbundleName": "banner_virtuallive375",
-    "transitionDestinationType": "virtual_live",
-    "transitionDestinationId": 375,
-    "startAt": 1778191200000,
-    "endAt": 1778309999000
+    "name": "Saki Tenma Happy Birthday 2026 Gacha",
+    "assetbundleName": "banner_gacha728",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 728,
+    "startAt": 1778310000000,
+    "endAt": 1778396399000
   },
   {
     "homeBannerId": 100280,
@@ -117,6 +106,17 @@
     "transitionDestinationId": 165,
     "startAt": 1778212800000,
     "endAt": 1778381999000
+  },
+  {
+    "homeBannerId": 100282,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワンダショWL2イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha733",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 733,
+    "startAt": 1778353200000,
+    "endAt": 1779562799000
   },
   {
     "homeBannerId": 100288,
