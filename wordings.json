@@ -380,8 +380,20 @@
     "value": "<color=#ff5588>*You will need to increase this Character's Mastery Rank to 2.<\/color>"
   },
   {
+    "wordingKey": "MSG_ANOTHER_COLORFUL_PASS_WEB_PAYMENT_REFLECTION_AWAITING",
+    "value": "You have already purchased another COLORFUL+ subscription.\nReturn to the home screen to update its purchase status."
+  },
+  {
     "wordingKey": "MSG_ANOTHER_COLOR_ACQUISITION_CONDITIONS_NL",
     "value": "Increase the <color=#FF3366>Mastery Rank<\/color> of\n\"{0}\" {1}\nto unlock Color Variants."
+  },
+  {
+    "wordingKey": "MSG_ANOTHER_PRODUCT_WEB_PAYMENT_PURCHASE_LOCK",
+    "value": "Payment pending for bundle-eligible product.\nComplete or cancel that transaction to purchase this product."
+  },
+  {
+    "wordingKey": "MSG_ANOTHER_PRODUCT_WEB_PAYMENT_REFLECTION_AWAITING",
+    "value": "Purchase status update pending for bundle-eligible product.\nReturn to the home screen to update its purchase status."
   },
   {
     "wordingKey": "MSG_ANOTHER_VICAL_RELEASE_CONDITION",
@@ -4160,6 +4172,14 @@
     "value": "Leave app and navigate to external website?"
   },
   {
+    "wordingKey": "MSG_WEB_PAYMENT_REFLECTION_AWAITING",
+    "value": "You have already purchased this product.\nReturn to the home screen to update its purchase status."
+  },
+  {
+    "wordingKey": "MSG_WEB_PAYMENT_TERM_PRODUCT_REFLECT",
+    "value": "{0} purchase status updated."
+  },
+  {
     "wordingKey": "MSG_WISH_LIST_BACK_GACHA_TOP_CONFIRM",
     "value": "*Cannot save incomplete list."
   },
@@ -4494,6 +4514,34 @@
   {
     "wordingKey": "WORD_AD_CHARACTER_EXCHANGE_TICKET_BUTTON_GET_GL",
     "value": "Get a Character \nPick Voucher"
+  },
+  {
+    "wordingKey": "WORD_AD_MYSEKAI_BLUEPRINT_SCRAP_BUTTON_GET_GL",
+    "value": "Get Blueprint Scrap"
+  },
+  {
+    "wordingKey": "WORD_AD_MYSEKAI_BONUS_ENERGY_WINDOW_GL",
+    "value": "Watch Ad to Restore"
+  },
+  {
+    "wordingKey": "WORD_AD_MYSEKAI_COLLECT_ITEM_BUTTON_GET_GL",
+    "value": "Watch Ads"
+  },
+  {
+    "wordingKey": "WORD_AD_MYSEKAI_COMMON_ITEM_BUTTON_GET_GL",
+    "value": "Get Basic Material"
+  },
+  {
+    "wordingKey": "WORD_AD_MYSEKAI_RANDOM_TOOL_ITEM_BUTTON_GET_GL",
+    "value": "Get Tool Part"
+  },
+  {
+    "wordingKey": "WORD_AD_MYSEKAI_RARE_ITEM_BUTTON_GET_GL",
+    "value": "Get Special Material"
+  },
+  {
+    "wordingKey": "WORD_AD_MYSEKAI_WORKBENCH_WINDOW_GL",
+    "value": "Ads"
   },
   {
     "wordingKey": "WORD_AD_REWARD_COMMON_LABEL",
