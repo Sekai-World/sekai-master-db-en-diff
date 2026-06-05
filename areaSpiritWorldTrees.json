@@ -500,5 +500,71 @@
         "cueName": "SE_PLA_NIGHTCODE"
       }
     ]
+  },
+  {
+    "id": 15,
+    "areaId": 21,
+    "seq": 3,
+    "displayAssetbundleName": "sapling_nig",
+    "releaseConditionId1": 116905,
+    "releaseConditionId2": 9999999,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 1001,
+        "areaSpiritWorldTreeId": 15,
+        "flavorText": "Swaying from the wind.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 1002,
+        "areaSpiritWorldTreeId": 15,
+        "flavorText": "Calm and still.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 1003,
+        "areaSpiritWorldTreeId": 15,
+        "flavorText": "Looking well.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA"
+      },
+      {
+        "id": 1004,
+        "areaSpiritWorldTreeId": 15,
+        "flavorText": "You can hear musical instruments.",
+        "weight": 25,
+        "assetbundleName": "sapling_leo",
+        "cueName": "SE_PLA_LEONEED"
+      },
+      {
+        "id": 1005,
+        "areaSpiritWorldTreeId": 15,
+        "flavorText": "You can hear cheering.",
+        "weight": 25,
+        "assetbundleName": "sapling_mmj",
+        "cueName": "SE_PLA_MOREMORE"
+      },
+      {
+        "id": 1006,
+        "areaSpiritWorldTreeId": 15,
+        "flavorText": "You can hear powerful music.",
+        "weight": 25,
+        "assetbundleName": "sapling_vbs",
+        "cueName": "SE_PLA_VIVIDBAD"
+      },
+      {
+        "id": 1007,
+        "areaSpiritWorldTreeId": 15,
+        "flavorText": "It sounds quite lively.",
+        "weight": 25,
+        "assetbundleName": "sapling_wnd",
+        "cueName": "SE_PLA_WONDERLANDS"
+      }
+    ]
   }
 ]

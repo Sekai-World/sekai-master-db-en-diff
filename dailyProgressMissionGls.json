@@ -1,1 +1,254 @@
-[]
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "challenge_live",
+    "missionTargetId": 41,
+    "requirement": 1,
+    "sentence": "Play a Challenge Show. (Includes Auto-Play.)",
+    "rewards": [
+      {
+        "id": 30000001,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 1,
+        "seq": 1,
+        "resourceBoxId": 300001
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "seq": 2,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "clear_live",
+    "missionTargetId": 41,
+    "requirement": 3,
+    "sentence": "Clear 3 Shows. (Includes Auto-Play.)",
+    "rewards": [
+      {
+        "id": 30000002,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 2,
+        "seq": 2,
+        "resourceBoxId": 300002
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "seq": 3,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "training_level_up",
+    "missionTargetId": 41,
+    "requirement": 1,
+    "sentence": "Level up a Character on the Practice menu.",
+    "rewards": [
+      {
+        "id": 30000003,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 3,
+        "seq": 3,
+        "resourceBoxId": 300003
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "seq": 4,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "full_combo",
+    "missionTargetId": 41,
+    "requirement": 1,
+    "sentence": "Achieve a Full Combo.",
+    "rewards": [
+      {
+        "id": 30000004,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 4,
+        "seq": 4,
+        "resourceBoxId": 300004
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "seq": 5,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "clear_live",
+    "missionTargetId": 41,
+    "requirement": 3,
+    "sentence": "Clear 3 Shows. (Includes Auto-Play.)",
+    "rewards": [
+      {
+        "id": 30000005,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 5,
+        "seq": 5,
+        "resourceBoxId": 300005
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "seq": 6,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "read_card_episode",
+    "missionTargetId": 41,
+    "requirement": 1,
+    "sentence": "View a Character's Side Story.",
+    "rewards": [
+      {
+        "id": 30000006,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 6,
+        "seq": 6,
+        "resourceBoxId": 300006
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "seq": 7,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "multi_live_clear",
+    "missionTargetId": 41,
+    "requirement": 2,
+    "sentence": "Clear 2 Co-op Shows.",
+    "rewards": [
+      {
+        "id": 30000007,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 7,
+        "seq": 7,
+        "resourceBoxId": 300007
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "seq": 8,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "clear_live",
+    "missionTargetId": 41,
+    "requirement": 5,
+    "sentence": "Clear 5 Shows. (Includes Auto-Play.)",
+    "rewards": [
+      {
+        "id": 30000008,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 8,
+        "seq": 8,
+        "resourceBoxId": 300008
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "seq": 9,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "clear_live",
+    "missionTargetId": 41,
+    "requirement": 5,
+    "sentence": "Clear 5 Shows. (Includes Auto-Play.)",
+    "rewards": [
+      {
+        "id": 30000009,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 9,
+        "seq": 9,
+        "resourceBoxId": 300009
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "seq": 10,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "clear_live",
+    "missionTargetId": 41,
+    "requirement": 5,
+    "sentence": "Clear 5 Shows. (Includes Auto-Play.)",
+    "rewards": [
+      {
+        "id": 30000010,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 10,
+        "seq": 10,
+        "resourceBoxId": 300010
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "seq": 11,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "clear_live_manual",
+    "missionTargetId": 41,
+    "requirement": 3,
+    "sentence": "Clear 3 Shows.",
+    "rewards": [
+      {
+        "id": 30000011,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 11,
+        "seq": 11,
+        "resourceBoxId": 300011
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "seq": 12,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "clear_live_manual",
+    "missionTargetId": 41,
+    "requirement": 5,
+    "sentence": "Clear 5 Shows.",
+    "rewards": [
+      {
+        "id": 30000012,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 12,
+        "seq": 12,
+        "resourceBoxId": 300012
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "seq": 13,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "full_combo",
+    "missionTargetId": 41,
+    "requirement": 2,
+    "sentence": "Achieve 2 Full Combos.",
+    "rewards": [
+      {
+        "id": 30000013,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 13,
+        "seq": 13,
+        "resourceBoxId": 300013
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "seq": 14,
+    "dailyProgressMissionPeriodGlId": 1,
+    "dailyProgressMissionType": "clear_live_manual",
+    "missionTargetId": 41,
+    "requirement": 10,
+    "sentence": "Clear 10 Shows.",
+    "rewards": [
+      {
+        "id": 30000014,
+        "missionType": "daily_progress_mission_gl",
+        "missionId": 14,
+        "seq": 14,
+        "resourceBoxId": 300014
+      }
+    ]
+  }
+]

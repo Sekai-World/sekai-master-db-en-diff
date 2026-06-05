@@ -54246,6 +54246,855 @@
     "materialExchangeDisplayResourceGroups": []
   },
   {
+    "id": 1000023,
+    "seq": 1000023,
+    "exchangeCategory": "home_exchange",
+    "materialExchangeType": "normal",
+    "materialExchangeDisplayResourceGroupId": 1000023,
+    "name": "4.5 Year Anniversary Gift Ticket",
+    "assetbundleName": "icon_giftTicket",
+    "startAt": 1780858800000,
+    "endAt": 1782845999000,
+    "materialExchanges": [
+      {
+        "id": 1000834,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 10,
+        "displayName": "VS Wish Jewel",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240001,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000834,
+            "costGroupId": 1000834,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 30
+          }
+        ]
+      },
+      {
+        "id": 1000835,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 20,
+        "displayName": "L\/N Wish Jewel",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240002,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000835,
+            "costGroupId": 1000835,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 30
+          }
+        ]
+      },
+      {
+        "id": 1000836,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 30,
+        "displayName": "MMJ Wish Jewel",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240003,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000836,
+            "costGroupId": 1000836,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 30
+          }
+        ]
+      },
+      {
+        "id": 1000837,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 40,
+        "displayName": "VBS Wish Jewel",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240004,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000837,
+            "costGroupId": 1000837,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 30
+          }
+        ]
+      },
+      {
+        "id": 1000838,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 50,
+        "displayName": "WXS Wish Jewel",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240005,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000838,
+            "costGroupId": 1000838,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 30
+          }
+        ]
+      },
+      {
+        "id": 1000839,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 60,
+        "displayName": "N25 Wish Jewel",
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240006,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000839,
+            "costGroupId": 1000839,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 30
+          }
+        ]
+      },
+      {
+        "id": 1000840,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 70,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240007,
+        "refreshCycle": "none",
+        "exchangeLimit": 10,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000840,
+            "costGroupId": 1000840,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000841,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 80,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240008,
+        "refreshCycle": "none",
+        "exchangeLimit": 10,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000841,
+            "costGroupId": 1000841,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000842,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 90,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240009,
+        "refreshCycle": "none",
+        "exchangeLimit": 25,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000842,
+            "costGroupId": 1000842,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 1000843,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 100,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240010,
+        "refreshCycle": "none",
+        "exchangeLimit": 10,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000843,
+            "costGroupId": 1000843,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 1000844,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 110,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240011,
+        "refreshCycle": "none",
+        "exchangeLimit": 10,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000844,
+            "costGroupId": 1000844,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 1000845,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 120,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240012,
+        "refreshCycle": "none",
+        "exchangeLimit": 10,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000845,
+            "costGroupId": 1000845,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 1000846,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 130,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240013,
+        "refreshCycle": "none",
+        "exchangeLimit": 10,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000846,
+            "costGroupId": 1000846,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 1000847,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 140,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240014,
+        "refreshCycle": "none",
+        "exchangeLimit": 10,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000847,
+            "costGroupId": 1000847,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 1000848,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 150,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240015,
+        "refreshCycle": "none",
+        "exchangeLimit": 50,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000848,
+            "costGroupId": 1000848,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 1000849,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 160,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240016,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000849,
+            "costGroupId": 1000849,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000850,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 170,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240017,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000850,
+            "costGroupId": 1000850,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000851,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 180,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240018,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000851,
+            "costGroupId": 1000851,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000852,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 190,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240019,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000852,
+            "costGroupId": 1000852,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000853,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 200,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240020,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000853,
+            "costGroupId": 1000853,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000854,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 210,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240021,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000854,
+            "costGroupId": 1000854,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000855,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 220,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240022,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000855,
+            "costGroupId": 1000855,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000856,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 230,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240023,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000856,
+            "costGroupId": 1000856,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000857,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 240,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240024,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000857,
+            "costGroupId": 1000857,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000858,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 250,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240025,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000858,
+            "costGroupId": 1000858,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000859,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 260,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240026,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000859,
+            "costGroupId": 1000859,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000860,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 270,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240027,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000860,
+            "costGroupId": 1000860,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000861,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 280,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240028,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000861,
+            "costGroupId": 1000861,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000862,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 290,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240029,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000862,
+            "costGroupId": 1000862,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000863,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 300,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240030,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000863,
+            "costGroupId": 1000863,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000864,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 310,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240031,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000864,
+            "costGroupId": 1000864,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000865,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 320,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240032,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000865,
+            "costGroupId": 1000865,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000866,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 330,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240033,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000866,
+            "costGroupId": 1000866,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000867,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 340,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240034,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000867,
+            "costGroupId": 1000867,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000868,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 350,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240035,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000868,
+            "costGroupId": 1000868,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000869,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 360,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240036,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000869,
+            "costGroupId": 1000869,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000870,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 370,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240037,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000870,
+            "costGroupId": 1000870,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000871,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 380,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240038,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000871,
+            "costGroupId": 1000871,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000872,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 390,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240039,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000872,
+            "costGroupId": 1000872,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000873,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 400,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240040,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000873,
+            "costGroupId": 1000873,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "id": 1000874,
+        "materialExchangeSummaryId": 1000023,
+        "seq": 410,
+        "isDisplayQuantity": true,
+        "resourceBoxId": 240041,
+        "refreshCycle": "none",
+        "exchangeLimit": 1,
+        "startAt": 1780858800000,
+        "costs": [
+          {
+            "materialExchangeId": 1000874,
+            "costGroupId": 1000874,
+            "seq": 1,
+            "resourceType": "material",
+            "resourceId": 1000014,
+            "quantity": 3
+          }
+        ]
+      }
+    ],
+    "materialExchangeDisplayResourceGroups": [
+      {
+        "id": 1000023,
+        "groupId": 1000023,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 1000014,
+        "assetbundleName": "icon_giftTicket"
+      }
+    ]
+  },
+  {
     "id": 1000024,
     "seq": 50,
     "exchangeCategory": "card_ticket",
