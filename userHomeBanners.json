@@ -32,15 +32,69 @@
     "endAt": 4102473540000
   },
   {
-    "homeBannerId": 1204,
+    "homeBannerId": 1199,
+    "seq": 20,
+    "homeBannerType": "general",
+    "name": "4.5 Year Anniversary Bloom Festival Gacha Dream Pick",
+    "assetbundleName": "banner_gacha1163",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1163,
+    "startAt": 1780858800000,
+    "endAt": 1781290799000
+  },
+  {
+    "homeBannerId": 1200,
     "seq": 80,
     "homeBannerType": "general",
-    "name": "Movie 4★ Character Guaranteed Gacha",
-    "assetbundleName": "banner_gacha1169",
+    "name": "4.5 Year Anniversary Premium Gift Gacha",
+    "assetbundleName": "banner_gacha1164",
     "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1169,
-    "startAt": 1778180400000,
-    "endAt": 1780815599000
+    "transitionDestinationId": 1164,
+    "startAt": 1780858800000,
+    "endAt": 1781636399000
+  },
+  {
+    "homeBannerId": 1201,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "4.5 Year Anniversary Free Gacha",
+    "assetbundleName": "banner_gacha1166",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1166,
+    "startAt": 1780858800000,
+    "endAt": 1785481199000
+  },
+  {
+    "homeBannerId": 1202,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "4.5 Year Anniversary Your Pick Gacha (Limited Edition)",
+    "assetbundleName": "banner_gacha1167",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1167,
+    "startAt": 1780858800000,
+    "endAt": 1781636399000
+  },
+  {
+    "homeBannerId": 1203,
+    "seq": 60,
+    "homeBannerType": "general",
+    "name": "4.5 Year Anniversary Heartfelt Gift Gacha",
+    "assetbundleName": "banner_gacha1168",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1168,
+    "startAt": 1780858800000,
+    "endAt": 1781636399000
+  },
+  {
+    "homeBannerId": 1205,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "4.5周年クリスタルショップ_gl",
+    "assetbundleName": "banner_shop_4-5th_anniversary_gl",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1780858800000,
+    "endAt": 1782845999000
   },
   {
     "homeBannerId": 1206,
