@@ -22639,5 +22639,173 @@
         ]
       }
     ]
+  },
+  {
+    "id": 15,
+    "name": "DEEMO×Cytus Series Collaboration Stamp Missions",
+    "assetbundleName": "dc_tieup_pm",
+    "bgmAssetbundleName": "dc_tieup_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1781992800000,
+    "progressEndAt": 1783061999000,
+    "closedAt": 1783061999000,
+    "distributionEndAt": 1784271599000,
+    "informationId": 3240,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1501,
+        "panelMissionCampaignId": 15,
+        "name": "Collaboration",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 150101,
+            "panelMissionSheetGroupId": 1501,
+            "name": "Collaboration Card",
+            "seq": 1,
+            "assetbundleName": "sheet_dc_tieup",
+            "panelMissions": [
+              {
+                "id": 15010101,
+                "panelMissionSheetId": 150101,
+                "name": "Clear the song SAIRAI 2 times",
+                "description": "Clear the song SAIRAI 2 times.\n*Available on Jun. 20, 2026 3:00 PM (PT)",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 18191,
+                    "missionType": "panel_mission",
+                    "missionId": 15010101,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              },
+              {
+                "id": 15010102,
+                "panelMissionSheetId": 150101,
+                "name": "Clear the song CHAOS 2 times",
+                "description": "Clear the song CHAOS 2 times.\n*Available on Jun. 21, 2026 3:00 PM (PT)",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 18192,
+                    "missionType": "panel_mission",
+                    "missionId": 15010102,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              },
+              {
+                "id": 15010103,
+                "panelMissionSheetId": 150101,
+                "name": "Clear the song Saika 2 times",
+                "description": "Clear the song Saika 2 times.\n*Available on Jun. 22, 2026 3:00 PM (PT) ",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 18193,
+                    "missionType": "panel_mission",
+                    "missionId": 15010103,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              },
+              {
+                "id": 15010104,
+                "panelMissionSheetId": 150101,
+                "name": "Clear the song 99 Glooms 2 times",
+                "description": "Clear the song 99 Glooms 2 times.\n*Available on Jun. 23, 2026 3:00 PM (PT)",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 18194,
+                    "missionType": "panel_mission",
+                    "missionId": 15010104,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              },
+              {
+                "id": 15010105,
+                "panelMissionSheetId": 150101,
+                "name": "Clear the song ANiMA 2 times",
+                "description": "Clear the song ANiMA 2 times.\n*Available on Jun. 24, 2026 3:00 PM (PT)",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 18195,
+                    "missionType": "panel_mission",
+                    "missionId": 15010105,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              },
+              {
+                "id": 15010106,
+                "panelMissionSheetId": 150101,
+                "name": "Clear the song Masquerade 2 times",
+                "description": "Clear the song Masquerade 2 times.\n*Available on Jun. 25, 2026 3:00 PM (PT)",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 18196,
+                    "missionType": "panel_mission",
+                    "missionId": 15010106,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              },
+              {
+                "id": 15010107,
+                "panelMissionSheetId": 150101,
+                "name": "Clear 10 Co-op Shows",
+                "description": "Clear 10 Co-op Shows.",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 18197,
+                    "missionType": "panel_mission",
+                    "missionId": 15010107,
+                    "seq": 1,
+                    "resourceBoxId": 2044
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 18198,
+                "missionType": "panel_mission_complete",
+                "missionId": 150101,
+                "seq": 1,
+                "resourceBoxId": 2045
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
