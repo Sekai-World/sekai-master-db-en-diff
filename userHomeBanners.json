@@ -63,28 +63,6 @@
     "endAt": 1796626799000
   },
   {
-    "homeBannerId": 100305,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "Nightcord at 25:00 World Link Event Support Gacha",
-    "assetbundleName": "banner_gacha747",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 747,
-    "startAt": 1780426800000,
-    "endAt": 1782241199000
-  },
-  {
-    "homeBannerId": 100307,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴWL2イベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha749",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 749,
-    "startAt": 1781031600000,
-    "endAt": 1782241199000
-  },
-  {
     "homeBannerId": 100309,
     "seq": 100,
     "homeBannerType": "event",
@@ -115,6 +93,28 @@
     "transitionDestinationType": "gacha",
     "transitionDestinationId": 752,
     "startAt": 1781636400000,
+    "endAt": 1783450799000
+  },
+  {
+    "homeBannerId": 100316,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[神代類]HAPPY BIRTHDAYライブ",
+    "assetbundleName": "banner_virtuallive382",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 382,
+    "startAt": 1782165600000,
+    "endAt": 1782284399000
+  },
+  {
+    "homeBannerId": 100318,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]レオニWL2イベ_定常ガチャバナー",
+    "assetbundleName": "banner_gacha757",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 757,
+    "startAt": 1782241200000,
     "endAt": 1783450799000
   },
   {
