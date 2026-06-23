@@ -761,7 +761,7 @@
   },
   {
     "wordingKey": "MSG_COLORFUL_SELECT_GACHA_BALLOON",
-    "value": "<size=24>Start by choosing characters!<\/size>"
+    "value": "Start by choosing characters!"
   },
   {
     "wordingKey": "MSG_COLORFUL_SELECT_GACHA_LIST_RATE_NOTICE",
@@ -2392,6 +2392,10 @@
     "value": "Your World Pass has expired.\nDo you want to renew it?"
   },
   {
+    "wordingKey": "MSG_MYSEKAI_CONFIRM_REMOVE_FIXTURE_INVALID_LAYOUT",
+    "value": "Some furniture placement is invalid.\nPut away the below furniture and save changes?"
+  },
+  {
     "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
     "value": "You can now place more <color=#ff5599>fences and paths<\/color>."
   },
@@ -2614,6 +2618,14 @@
   {
     "wordingKey": "MSG_NEXT_INVITATION_GL",
     "value": "Invite again in:"
+  },
+  {
+    "wordingKey": "MSG_NEXT_PLAYER_EXP",
+    "value": "<color=#FF5599>{0}<\/color> to next rank"
+  },
+  {
+    "wordingKey": "MSG_NEXT_PLAYER_EXP_MAX",
+    "value": "Max Player Rank"
   },
   {
     "wordingKey": "MSG_NGWORD_BALLOON",
@@ -2926,6 +2938,14 @@
   {
     "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_CONFIRM_DIALOG_ATTENSION2",
     "value": "※抽選申込みサイトでは申込みIDが必要になります。\n<color=#ff5588>※申込みIDは個人専用のIDになりますので\n他人には絶対に教えないでください。<\/color>"
+  },
+  {
+    "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_EXPIRED_DIALOG_BODY",
+    "value": "イベントの申込み期間が終了しています。\nホーム画面に戻ります。"
+  },
+  {
+    "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_NOTFOUND_DIALOG_BODY",
+    "value": "申込み可能なイベントがありません。\nホーム画面に戻ります。"
   },
   {
     "wordingKey": "MSG_OFFLINE_EVENT_EVALUATION_PERIOD",
@@ -9497,6 +9517,10 @@
     "value": "Music Video Files"
   },
   {
+    "wordingKey": "WORD_MV_ONLY_DECK_NAME",
+    "value": "Music Video Group"
+  },
+  {
     "wordingKey": "WORD_MV_ON_JACKET",
     "value": "Music Video"
   },
@@ -9639,6 +9663,10 @@
   {
     "wordingKey": "WORD_MYSEKAI_INVALID_ANIMATION_SPACE",
     "value": "アニメーションスペースの確保が必要な家具があります。\n配置を見直してください。"
+  },
+  {
+    "wordingKey": "WORD_MYSEKAI_INVALID_FIXTURE_LIST_OK_BUTTON",
+    "value": "Put Away and Save"
   },
   {
     "wordingKey": "WORD_MYSEKAI_INVALID_LAYOUT",
@@ -10719,6 +10747,10 @@
   {
     "wordingKey": "WORD_PUT",
     "value": "Place"
+  },
+  {
+    "wordingKey": "WORD_PUT_NUMBER_GL",
+    "value": "Placed"
   },
   {
     "wordingKey": "WORD_QUALITY_SETTING",
