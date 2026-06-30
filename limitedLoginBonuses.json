@@ -8040,5 +8040,40 @@
         "resourceBoxId": 1534
       }
     ]
+  },
+  {
+    "id": 1211,
+    "seq": 1211,
+    "name": "Anime Expo 2026 Login Campaign",
+    "startAt": 1783018800000,
+    "endAt": 1783594799000,
+    "assetbundleName": "ax2026_logincp_gl",
+    "closeAt": 1783335600000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1637,
+        "limitedLoginBonusId": 1211,
+        "day": 1,
+        "resourceBoxId": 1535
+      },
+      {
+        "id": 1638,
+        "limitedLoginBonusId": 1211,
+        "day": 2,
+        "resourceBoxId": 1536
+      },
+      {
+        "id": 1639,
+        "limitedLoginBonusId": 1211,
+        "day": 3,
+        "resourceBoxId": 1536
+      },
+      {
+        "id": 1640,
+        "limitedLoginBonusId": 1211,
+        "day": 4,
+        "resourceBoxId": 1536
+      }
+    ]
   }
 ]
