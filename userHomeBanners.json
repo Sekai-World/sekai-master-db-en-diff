@@ -64,28 +64,6 @@
     "endAt": 1785524399000
   },
   {
-    "homeBannerId": 100314,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[レオニ]ワールドリンクイベントサポートガチャ",
-    "assetbundleName": "banner_gacha752",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 752,
-    "startAt": 1781636400000,
-    "endAt": 1783450799000
-  },
-  {
-    "homeBannerId": 100318,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]レオニWL2イベ_定常ガチャバナー",
-    "assetbundleName": "banner_gacha757",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 757,
-    "startAt": 1782241200000,
-    "endAt": 1783450799000
-  },
-  {
     "homeBannerId": 100320,
     "seq": 100,
     "homeBannerType": "event",
@@ -128,6 +106,17 @@
     "transitionDestinationId": 384,
     "startAt": 1783288800000,
     "endAt": 1783720799000
+  },
+  {
+    "homeBannerId": 100329,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "Bloom Festival Gacha",
+    "assetbundleName": "banner_gacha762",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 762,
+    "startAt": 1783450800000,
+    "endAt": 1783796399000
   },
   {
     "homeBannerId": 100336,
