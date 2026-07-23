@@ -26240,6 +26240,939 @@
     "assetbundleName": "mdl_non3001_block_concre2"
   },
   {
+    "id": 739,
+    "mysekaiFixtureType": "normal",
+    "name": "Concrete Path",
+    "pronunciation": "concretepath",
+    "flavorText": "Concrete Path",
+    "seq": 22001004,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#D0D0D9",
+    "mysekaiFixtureMainGenreId": 12,
+    "mysekaiFixtureSubGenreId": 22,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#8D8C96"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 739,
+      "mysekaiFixtureTagId1": 10741
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2001_road_concre1"
+  },
+  {
+    "id": 740,
+    "mysekaiFixtureType": "normal",
+    "name": "Gravel Path",
+    "pronunciation": "gravelpath",
+    "flavorText": "Gravel Path",
+    "seq": 22001005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#8D8C96",
+    "mysekaiFixtureMainGenreId": 12,
+    "mysekaiFixtureSubGenreId": 22,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F9FE"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#93B315"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 740,
+      "mysekaiFixtureTagId1": 10742
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2001_road_gravel1"
+  },
+  {
+    "id": 741,
+    "mysekaiFixtureType": "normal",
+    "name": "Sand Path",
+    "pronunciation": "sandpath",
+    "flavorText": "Sand Path",
+    "seq": 22001006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#F7ECD2",
+    "mysekaiFixtureMainGenreId": 12,
+    "mysekaiFixtureSubGenreId": 22,
+    "mysekaiFixtureHandleType": "road",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "road",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#EFCF90"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFD0F2"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 18,
+    "mysekaiFixtureFootstepId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 741,
+      "mysekaiFixtureTagId1": 10743
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non2001_road_whitesand1"
+  },
+  {
+    "id": 742,
+    "mysekaiFixtureType": "system",
+    "name": "Dreamy Baby Room House",
+    "pronunciation": "dreamybabyroomhouse",
+    "flavorText": "Dreamy Baby Room House",
+    "seq": 40008001,
+    "gridSize": {
+      "width": 12,
+      "depth": 12,
+      "height": 13
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 11,
+    "mysekaiFixtureSubGenreId": 24,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 742,
+      "mysekaiFixtureTagId1": 10744,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0008_house_house1"
+  },
+  {
+    "id": 743,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "Dreamy Baby Room Wallpaper",
+    "pronunciation": "dreamybabyroomwallpaper",
+    "flavorText": "Dreamy Baby Room Wallpaper",
+    "seq": 40008002,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 7,
+    "mysekaiFixtureSubGenreId": 19,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 743,
+      "mysekaiFixtureTagId1": 10745,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "env0008"
+  },
+  {
+    "id": 744,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "Dreamy Baby Room Flooring",
+    "pronunciation": "dreamybabyroomflooring",
+    "flavorText": "Dreamy Baby Room Flooring",
+    "seq": 40008003,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 8,
+    "mysekaiFixtureSubGenreId": 20,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 744,
+      "mysekaiFixtureTagId1": 10746,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "env0008"
+  },
+  {
+    "id": 745,
+    "mysekaiFixtureType": "normal",
+    "name": "Dreamy Baby Room Window",
+    "pronunciation": "dreamybabyroomwindow",
+    "flavorText": "Dreamy Baby Room Window",
+    "seq": 40008004,
+    "gridSize": {
+      "width": 4,
+      "depth": 1,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "windowpane",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 745,
+      "mysekaiFixtureTagId1": 10747,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0008_window_window1"
+  },
+  {
+    "id": 746,
+    "mysekaiFixtureType": "normal",
+    "name": "Dreamy Baby Room Bed",
+    "pronunciation": "dreamybabyroombed",
+    "flavorText": "Dreamy Baby Room Bed",
+    "seq": 40008005,
+    "gridSize": {
+      "width": 4,
+      "depth": 3,
+      "height": 3
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 2,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 746,
+      "mysekaiFixtureTagId1": 10748,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0008_fixture_bed1"
+  },
+  {
+    "id": 747,
+    "mysekaiFixtureType": "normal",
+    "name": "Dreamy Baby Room Picture Bookshelf",
+    "pronunciation": "dreamybabyroompicturebookshelf",
+    "flavorText": "Dreamy Baby Room Picture Bookshelf",
+    "seq": 40008006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 5,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 747,
+      "mysekaiFixtureTagId1": 10749,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_env0008_fixture_bookshelf1"
+  },
+  {
+    "id": 748,
+    "mysekaiFixtureType": "normal",
+    "name": "Dreamy Baby Room Rocking Animal",
+    "pronunciation": "dreamybabyroomrockinganimal",
+    "flavorText": "Dreamy Baby Room Rocking Animal",
+    "seq": 40008007,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#F9F7F1",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 748,
+      "mysekaiFixtureTagId1": 10750,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0008_fixture_rockingsheep1"
+  },
+  {
+    "id": 749,
+    "mysekaiFixtureType": "normal",
+    "name": "Dreamy Baby Room Cushion",
+    "pronunciation": "dreamybabyroomcushion",
+    "flavorText": "Dreamy Baby Room Cushion",
+    "seq": 40008008,
+    "gridSize": {
+      "width": 3,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 749,
+      "mysekaiFixtureTagId1": 10751,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_env0008_fixture_cushion1"
+  },
+  {
+    "id": 750,
+    "mysekaiFixtureType": "normal",
+    "name": "Dreamy Baby Room Mobile",
+    "pronunciation": "dreamybabyroommobile",
+    "flavorText": "Dreamy Baby Room Mobile",
+    "seq": 40008009,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 3
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 750,
+      "mysekaiFixtureTagId1": 10752,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0008_fixture_mobile1"
+  },
+  {
+    "id": 751,
+    "mysekaiFixtureType": "normal",
+    "name": "Dreamy Baby Room Rug",
+    "pronunciation": "dreamybabyroomrug",
+    "flavorText": "Dreamy Baby Room Rug",
+    "seq": 40008010,
+    "gridSize": {
+      "width": 6,
+      "depth": 4,
+      "height": 1
+    },
+    "colorCode": "#B9D4E3",
+    "mysekaiFixtureMainGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "rug",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#A6CECC"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#C8BADF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureFootstepId": 5,
+    "mysekaiFixtureTagGroup": {
+      "id": 751,
+      "mysekaiFixtureTagId1": 10753,
+      "mysekaiFixtureTagId2": 81
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_env0008_rug_rug1"
+  },
+  {
+    "id": 752,
+    "mysekaiFixtureType": "normal",
+    "name": "Cyber City Amphibious Hovercar",
+    "pronunciation": "cybercityamphibioushovercar",
+    "flavorText": "Cyber City Amphibious Hovercar",
+    "seq": 70001001,
+    "gridSize": {
+      "width": 4,
+      "depth": 6,
+      "height": 3
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F9F9FE"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 752,
+      "mysekaiFixtureTagId1": 10754,
+      "mysekaiFixtureTagId2": 82
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_con0001_fixture_flyingcar1"
+  },
+  {
+    "id": 753,
+    "mysekaiFixtureType": "normal",
+    "name": "Cyber City Arch",
+    "pronunciation": "cybercityarch",
+    "flavorText": "Cyber City Arch",
+    "seq": 70001002,
+    "gridSize": {
+      "width": 8,
+      "depth": 2,
+      "height": 6
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F9F9FE"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 753,
+      "mysekaiFixtureTagId1": 10755,
+      "mysekaiFixtureTagId2": 82
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0001_fixture_gate1"
+  },
+  {
+    "id": 754,
+    "mysekaiFixtureType": "normal",
+    "name": "Cyber City Neon Light",
+    "pronunciation": "cybercityneonlight",
+    "flavorText": "Cyber City Neon Light",
+    "seq": 70001003,
+    "gridSize": {
+      "width": 4,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F9F9FE"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 754,
+      "mysekaiFixtureTagId1": 10756,
+      "mysekaiFixtureTagId2": 82
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0001_fixture_guardrail1"
+  },
+  {
+    "id": 755,
+    "mysekaiFixtureType": "normal",
+    "name": "Cyber City Pile of Tech",
+    "pronunciation": "cybercitypileoftech",
+    "flavorText": "Cyber City Pile of Tech",
+    "seq": 70001004,
+    "gridSize": {
+      "width": 5,
+      "depth": 5,
+      "height": 4
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F9F9FE"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 755,
+      "mysekaiFixtureTagId1": 10757,
+      "mysekaiFixtureTagId2": 82
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0001_fixture_equipment1"
+  },
+  {
+    "id": 756,
+    "mysekaiFixtureType": "normal",
+    "name": "Cyber City Signpost",
+    "pronunciation": "cybercitysignpost",
+    "flavorText": "Cyber City Signpost",
+    "seq": 70001005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 7
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FF7FDB"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F9F9FE"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 756,
+      "mysekaiFixtureTagId1": 10758,
+      "mysekaiFixtureTagId2": 82
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0001_fixture_signpost1"
+  },
+  {
+    "id": 757,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "Happy Blue Whale Wallpaper",
+    "pronunciation": "happybluewhalewallpaper",
+    "flavorText": "Happy Blue Whale Wallpaper",
+    "seq": 70002001,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 7,
+    "mysekaiFixtureSubGenreId": 19,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 757,
+      "mysekaiFixtureTagId1": 10759,
+      "mysekaiFixtureTagId2": 83
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "con0002"
+  },
+  {
+    "id": 758,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "Happy Blue Whale Flooring",
+    "pronunciation": "happybluewhaleflooring",
+    "flavorText": "Happy Blue Whale Flooring",
+    "seq": 70002002,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 8,
+    "mysekaiFixtureSubGenreId": 20,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 758,
+      "mysekaiFixtureTagId1": 10760,
+      "mysekaiFixtureTagId2": 83
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "con0002"
+  },
+  {
+    "id": 759,
+    "mysekaiFixtureType": "normal",
+    "name": "Happy Blue Whale Plushie",
+    "pronunciation": "happybluewhaleplushie",
+    "flavorText": "Happy Blue Whale Plushie",
+    "seq": 70002003,
+    "gridSize": {
+      "width": 3,
+      "depth": 4,
+      "height": 3
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 759,
+      "mysekaiFixtureTagId1": 10761,
+      "mysekaiFixtureTagId2": 83
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0002_fixture_stuffedwhale1"
+  },
+  {
+    "id": 760,
+    "mysekaiFixtureType": "normal",
+    "name": "Happy Blue Whale Fishy Armchair",
+    "pronunciation": "happybluewhalefishyarmchair",
+    "flavorText": "Happy Blue Whale Fishy Armchair",
+    "seq": 70002004,
+    "gridSize": {
+      "width": 4,
+      "depth": 3,
+      "height": 2
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 760,
+      "mysekaiFixtureTagId1": 10762,
+      "mysekaiFixtureTagId2": 83
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0002_fixture_sofa1"
+  },
+  {
+    "id": 761,
+    "mysekaiFixtureType": "normal",
+    "name": "Happy Blue Whale Coral",
+    "pronunciation": "happybluewhalecoral",
+    "flavorText": "Happy Blue Whale Coral",
+    "seq": 70002005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#9DE7FF",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 761,
+      "mysekaiFixtureTagId1": 10763,
+      "mysekaiFixtureTagId2": 83
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "loop",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0002_fixture_coral1"
+  },
+  {
     "id": 762,
     "mysekaiFixtureType": "normal",
     "name": "Limited Style #1 Ichika Plushie (S)",
@@ -26912,6 +27845,582 @@
     "assetbundleName": "mdl_pas125_fixture_doll2large"
   },
   {
+    "id": 783,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Shiho Plushie (S)",
+    "pronunciation": "limitedstyle#1shihoplushie(s)",
+    "flavorText": "Limited Style #1 Shiho Plushie (S)",
+    "seq": 81104004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 10,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 783,
+      "mysekaiFixtureTagId1": 10785,
+      "mysekaiFixtureTagId2": 3
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas104_fixture_doll2small"
+  },
+  {
+    "id": 784,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Shiho Plushie (M)",
+    "pronunciation": "limitedstyle#1shihoplushie(m)",
+    "flavorText": "Limited Style #1 Shiho Plushie (M)",
+    "seq": 81104005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 11,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 784,
+      "mysekaiFixtureTagId1": 10786,
+      "mysekaiFixtureTagId2": 3
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas104_fixture_doll2medium"
+  },
+  {
+    "id": 785,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Shiho Plushie (L)",
+    "pronunciation": "limitedstyle#1shihoplushie(l)",
+    "flavorText": "Limited Style #1 Shiho Plushie (L)",
+    "seq": 81104006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 12,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 785,
+      "mysekaiFixtureTagId1": 10787,
+      "mysekaiFixtureTagId2": 3
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas104_fixture_doll2large"
+  },
+  {
+    "id": 786,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Minori Plushie (S)",
+    "pronunciation": "limitedstyle#1minoriplushie(s)",
+    "flavorText": "Limited Style #1 Minori Plushie (S)",
+    "seq": 82105004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 13,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 786,
+      "mysekaiFixtureTagId1": 10788,
+      "mysekaiFixtureTagId2": 6
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas105_fixture_doll2small"
+  },
+  {
+    "id": 787,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Minori Plushie (M)",
+    "pronunciation": "limitedstyle#1minoriplushie(m)",
+    "flavorText": "Limited Style #1 Minori Plushie (M)",
+    "seq": 82105005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 14,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 787,
+      "mysekaiFixtureTagId1": 10789,
+      "mysekaiFixtureTagId2": 6
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas105_fixture_doll2medium"
+  },
+  {
+    "id": 788,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Minori Plushie (L)",
+    "pronunciation": "limitedstyle#1minoriplushie(l)",
+    "flavorText": "Limited Style #1 Minori Plushie (L)",
+    "seq": 82105006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 15,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 788,
+      "mysekaiFixtureTagId1": 10790,
+      "mysekaiFixtureTagId2": 6
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas105_fixture_doll2large"
+  },
+  {
+    "id": 789,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Akito Plushie (S)",
+    "pronunciation": "limitedstyle#1akitoplushie(s)",
+    "flavorText": "Limited Style #1 Akito Plushie (S)",
+    "seq": 83111004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 31,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 789,
+      "mysekaiFixtureTagId1": 10791,
+      "mysekaiFixtureTagId2": 13
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas111_fixture_doll2small"
+  },
+  {
+    "id": 790,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Akito Plushie (M)",
+    "pronunciation": "limitedstyle#1akitoplushie(m)",
+    "flavorText": "Limited Style #1 Akito Plushie (M)",
+    "seq": 83111005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 32,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 790,
+      "mysekaiFixtureTagId1": 10792,
+      "mysekaiFixtureTagId2": 13
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas111_fixture_doll2medium"
+  },
+  {
+    "id": 791,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Akito Plushie (L)",
+    "pronunciation": "limitedstyle#1akitoplushie(l)",
+    "flavorText": "Limited Style #1 Akito Plushie (L)",
+    "seq": 83111006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 33,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 791,
+      "mysekaiFixtureTagId1": 10793,
+      "mysekaiFixtureTagId2": 13
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas111_fixture_doll2large"
+  },
+  {
+    "id": 792,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Emu Plushie (S)",
+    "pronunciation": "limitedstyle#1emuplushie(s)",
+    "flavorText": "Limited Style #1 Emu Plushie (S)",
+    "seq": 84114004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 40,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 792,
+      "mysekaiFixtureTagId1": 10794,
+      "mysekaiFixtureTagId2": 17
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas114_fixture_doll2small"
+  },
+  {
+    "id": 793,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Emu Plushie (M)",
+    "pronunciation": "limitedstyle#1emuplushie(m)",
+    "flavorText": "Limited Style #1 Emu Plushie (M)",
+    "seq": 84114005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 41,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 793,
+      "mysekaiFixtureTagId1": 10795,
+      "mysekaiFixtureTagId2": 17
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas114_fixture_doll2medium"
+  },
+  {
+    "id": 794,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Emu Plushie (L)",
+    "pronunciation": "limitedstyle#1emuplushie(l)",
+    "flavorText": "Limited Style #1 Emu Plushie (L)",
+    "seq": 84114006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 42,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 794,
+      "mysekaiFixtureTagId1": 10796,
+      "mysekaiFixtureTagId2": 17
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas114_fixture_doll2large"
+  },
+  {
+    "id": 795,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Mafuyu Plushie (S)",
+    "pronunciation": "limitedstyle#1mafuyuplushie(s)",
+    "flavorText": "Limited Style #1 Mafuyu Plushie (S)",
+    "seq": 85118004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 52,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 795,
+      "mysekaiFixtureTagId1": 10797,
+      "mysekaiFixtureTagId2": 22
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas118_fixture_doll2small"
+  },
+  {
+    "id": 796,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Mafuyu Plushie (M)",
+    "pronunciation": "limitedstyle#1mafuyuplushie(m)",
+    "flavorText": "Limited Style #1 Mafuyu Plushie (M)",
+    "seq": 85118005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 53,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 796,
+      "mysekaiFixtureTagId1": 10798,
+      "mysekaiFixtureTagId2": 22
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas118_fixture_doll2medium"
+  },
+  {
+    "id": 797,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Mafuyu Plushie (L)",
+    "pronunciation": "limitedstyle#1mafuyuplushie(l)",
+    "flavorText": "Limited Style #1 Mafuyu Plushie (L)",
+    "seq": 85118006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 54,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 797,
+      "mysekaiFixtureTagId1": 10799,
+      "mysekaiFixtureTagId2": 22
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas118_fixture_doll2large"
+  },
+  {
+    "id": 798,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Len Plushie (S)",
+    "pronunciation": "limitedstyle#1lenplushie(s)",
+    "flavorText": "Limited Style #1 Len Plushie (S)",
+    "seq": 86123004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 67,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 798,
+      "mysekaiFixtureTagId1": 10800,
+      "mysekaiFixtureTagId2": 28
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas123_fixture_doll2small"
+  },
+  {
+    "id": 799,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Len Plushie (M)",
+    "pronunciation": "limitedstyle#1lenplushie(m)",
+    "flavorText": "Limited Style #1 Len Plushie (M)",
+    "seq": 86123005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 68,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 799,
+      "mysekaiFixtureTagId1": 10801,
+      "mysekaiFixtureTagId2": 28
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas123_fixture_doll2medium"
+  },
+  {
+    "id": 800,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Len Plushie (L)",
+    "pronunciation": "limitedstyle#1lenplushie(l)",
+    "flavorText": "Limited Style #1 Len Plushie (L)",
+    "seq": 86123006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 69,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 800,
+      "mysekaiFixtureTagId1": 10802,
+      "mysekaiFixtureTagId2": 28
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas123_fixture_doll2large"
+  },
+  {
     "id": 801,
     "mysekaiFixtureType": "normal",
     "name": "Morgana Figure",
@@ -26941,6 +28450,230 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_clb1103_fixture_morgana1"
+  },
+  {
+    "id": 837,
+    "mysekaiFixtureType": "normal",
+    "name": "Mametchi",
+    "pronunciation": "mametchi",
+    "flavorText": "Mametchi",
+    "seq": 90001004,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "idle_timeline",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 837,
+      "mysekaiFixtureTagId1": 10839,
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_clb1102_fixture_egg1"
+  },
+  {
+    "id": 838,
+    "mysekaiFixtureType": "normal",
+    "name": "Kuchipatchi",
+    "pronunciation": "kuchipatchi",
+    "flavorText": "Kuchipatchi",
+    "seq": 90001005,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "idle_timeline",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 838,
+      "mysekaiFixtureTagId1": 10842,
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_clb1102_fixture_egg2"
+  },
+  {
+    "id": 839,
+    "mysekaiFixtureType": "normal",
+    "name": "Mimitchi",
+    "pronunciation": "mimitchi",
+    "flavorText": "Mimitchi",
+    "seq": 90001006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "idle_timeline",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 839,
+      "mysekaiFixtureTagId1": 10840,
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_clb1102_fixture_egg3"
+  },
+  {
+    "id": 840,
+    "mysekaiFixtureType": "normal",
+    "name": "Memetchi",
+    "pronunciation": "memetchi",
+    "flavorText": "Memetchi",
+    "seq": 90001007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "idle_timeline",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 840,
+      "mysekaiFixtureTagId1": 10841,
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_clb1102_fixture_egg4"
+  },
+  {
+    "id": 841,
+    "mysekaiFixtureType": "normal",
+    "name": "Tama Fountain",
+    "pronunciation": "tamafountain",
+    "flavorText": "Tama Fountain",
+    "seq": 90001008,
+    "gridSize": {
+      "width": 6,
+      "depth": 6,
+      "height": 10
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 841,
+      "mysekaiFixtureTagId1": 10843,
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_clb1102_fixture_fountain1"
+  },
+  {
+    "id": 842,
+    "mysekaiFixtureType": "normal",
+    "name": "Tama Planter",
+    "pronunciation": "tamaplanter",
+    "flavorText": "Tama Planter",
+    "seq": 90001009,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 5,
+    "mysekaiFixtureTagGroup": {
+      "id": 842,
+      "mysekaiFixtureTagId1": 10844,
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_clb1102_fixture_planter1"
+  },
+  {
+    "id": 843,
+    "mysekaiFixtureType": "normal",
+    "name": "Tamagotchi Planet Decoration",
+    "pronunciation": "tamagotchiplanetdecoration",
+    "flavorText": "Tamagotchi Planet Decoration",
+    "seq": 90001010,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 5
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 3,
+    "mysekaiFixtureTagGroup": {
+      "id": 843,
+      "mysekaiFixtureTagId1": 10845,
+      "mysekaiFixtureTagId2": 75,
+      "mysekaiFixtureTagId3": 87
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_clb1102_fixture_earth1"
   },
   {
     "id": 1140,

@@ -22160,6 +22160,480 @@
     ]
   },
   {
+    "id": 10,
+    "name": "COLORFUL STAGE!×Tamagotchi Crossover Stamp Missions",
+    "assetbundleName": "tamagotchi_collab_2025_pm",
+    "bgmAssetbundleName": "tamagotchi_collab_2025_pm_bgm",
+    "selectableLimit": 3,
+    "startAt": 1785870000000,
+    "progressEndAt": 1786690799000,
+    "closedAt": 1786690799000,
+    "distributionEndAt": 1787295599000,
+    "informationId": 3288,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1001,
+        "panelMissionCampaignId": 10,
+        "name": "Login",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 100101,
+            "panelMissionSheetGroupId": 1001,
+            "name": "Login Card",
+            "seq": 1,
+            "assetbundleName": "sheet_tamagotchi_collab_login",
+            "panelMissions": [
+              {
+                "id": 10010101,
+                "panelMissionSheetId": 100101,
+                "name": "Log In on 1 Day",
+                "description": "Log in on 1 day.",
+                "seq": 1,
+                "panelMissionType": "login",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14690,
+                    "missionType": "panel_mission",
+                    "missionId": 10010101,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10010102,
+                "panelMissionSheetId": 100101,
+                "name": "Log In on 2 Days",
+                "description": "Log in on 2 days.",
+                "seq": 2,
+                "panelMissionType": "login",
+                "requirement1": 2,
+                "rewards": [
+                  {
+                    "id": 14691,
+                    "missionType": "panel_mission",
+                    "missionId": 10010102,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10010103,
+                "panelMissionSheetId": 100101,
+                "name": "Log In on 3 Days",
+                "description": "Log in on 3 days.",
+                "seq": 3,
+                "panelMissionType": "login",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14692,
+                    "missionType": "panel_mission",
+                    "missionId": 10010103,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10010104,
+                "panelMissionSheetId": 100101,
+                "name": "Log In on 4 Days",
+                "description": "Log in on 4 days.",
+                "seq": 4,
+                "panelMissionType": "login",
+                "requirement1": 4,
+                "rewards": [
+                  {
+                    "id": 14693,
+                    "missionType": "panel_mission",
+                    "missionId": 10010104,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10010105,
+                "panelMissionSheetId": 100101,
+                "name": "Log In on 5 Days",
+                "description": "Log in on 5 days.",
+                "seq": 5,
+                "panelMissionType": "login",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14694,
+                    "missionType": "panel_mission",
+                    "missionId": 10010105,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10010106,
+                "panelMissionSheetId": 100101,
+                "name": "Log In on 6 Days",
+                "description": "Log in on 6 days.",
+                "seq": 6,
+                "panelMissionType": "login",
+                "requirement1": 6,
+                "rewards": [
+                  {
+                    "id": 14695,
+                    "missionType": "panel_mission",
+                    "missionId": 10010106,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10010107,
+                "panelMissionSheetId": 100101,
+                "name": "Log In on 7 Days",
+                "description": "Log in on 7 days.",
+                "seq": 7,
+                "panelMissionType": "login",
+                "requirement1": 7,
+                "rewards": [
+                  {
+                    "id": 14696,
+                    "missionType": "panel_mission",
+                    "missionId": 10010107,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14697,
+                "missionType": "panel_mission_complete",
+                "missionId": 100101,
+                "seq": 1,
+                "resourceBoxId": 1785
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1002,
+        "panelMissionCampaignId": 10,
+        "name": "Show",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 100201,
+            "panelMissionSheetGroupId": 1002,
+            "name": "Show Card",
+            "seq": 1,
+            "assetbundleName": "sheet_tamagotchi_collab_live",
+            "panelMissions": [
+              {
+                "id": 10020101,
+                "panelMissionSheetId": 100201,
+                "name": "Clear 1 Show",
+                "description": "Clear 1 show.\n(Includes Auto-Play.)",
+                "seq": 1,
+                "panelMissionType": "live_clear",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 14698,
+                    "missionType": "panel_mission",
+                    "missionId": 10020101,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10020102,
+                "panelMissionSheetId": 100201,
+                "name": "Clear 3 Shows",
+                "description": "Clear 3 shows.\n(Includes Auto-Play.)",
+                "seq": 2,
+                "panelMissionType": "live_clear",
+                "requirement1": 3,
+                "rewards": [
+                  {
+                    "id": 14699,
+                    "missionType": "panel_mission",
+                    "missionId": 10020102,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10020103,
+                "panelMissionSheetId": 100201,
+                "name": "Clear 5 Shows",
+                "description": "Clear 5 shows.\n(Includes Auto-Play.)",
+                "seq": 3,
+                "panelMissionType": "live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  {
+                    "id": 14700,
+                    "missionType": "panel_mission",
+                    "missionId": 10020103,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10020104,
+                "panelMissionSheetId": 100201,
+                "name": "Clear 10 Shows",
+                "description": "Clear 10 shows.\n(Includes Auto-Play.)",
+                "seq": 4,
+                "panelMissionType": "live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14701,
+                    "missionType": "panel_mission",
+                    "missionId": 10020104,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10020105,
+                "panelMissionSheetId": 100201,
+                "name": "Clear 15 Shows",
+                "description": "Clear 15 shows.\n(Includes Auto-Play.)",
+                "seq": 5,
+                "panelMissionType": "live_clear",
+                "requirement1": 15,
+                "rewards": [
+                  {
+                    "id": 14702,
+                    "missionType": "panel_mission",
+                    "missionId": 10020105,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10020106,
+                "panelMissionSheetId": 100201,
+                "name": "Clear 20 Shows",
+                "description": "Clear 20 shows.\n(Includes Auto-Play.)",
+                "seq": 6,
+                "panelMissionType": "live_clear",
+                "requirement1": 20,
+                "rewards": [
+                  {
+                    "id": 14703,
+                    "missionType": "panel_mission",
+                    "missionId": 10020106,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10020107,
+                "panelMissionSheetId": 100201,
+                "name": "Clear 30 Shows",
+                "description": "Clear 30 shows.\n(Includes Auto-Play.)",
+                "seq": 7,
+                "panelMissionType": "live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  {
+                    "id": 14704,
+                    "missionType": "panel_mission",
+                    "missionId": 10020107,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14705,
+                "missionType": "panel_mission_complete",
+                "missionId": 100201,
+                "seq": 1,
+                "resourceBoxId": 1786
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1003,
+        "panelMissionCampaignId": 10,
+        "name": "MYSEKAI",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 100301,
+            "panelMissionSheetGroupId": 1003,
+            "name": "MYSEKAI Card",
+            "seq": 1,
+            "assetbundleName": "sheet_tamagotchi_collab_mysekai",
+            "panelMissions": [
+              {
+                "id": 10030101,
+                "panelMissionSheetId": 100301,
+                "name": "Collect 10 MYSEKAI Resources",
+                "description": "Collect 10 resources in MYSEKAI.",
+                "seq": 1,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 14706,
+                    "missionType": "panel_mission",
+                    "missionId": 10030101,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10030102,
+                "panelMissionSheetId": 100301,
+                "name": "Collect 50 MYSEKAI Resources",
+                "description": "Collect 50 resources in MYSEKAI.",
+                "seq": 2,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 14707,
+                    "missionType": "panel_mission",
+                    "missionId": 10030102,
+                    "seq": 1,
+                    "resourceBoxId": 1783
+                  }
+                ]
+              },
+              {
+                "id": 10030103,
+                "panelMissionSheetId": 100301,
+                "name": "Collect 100 MYSEKAI Resources",
+                "description": "Collect 100 resources in MYSEKAI.",
+                "seq": 3,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 14708,
+                    "missionType": "panel_mission",
+                    "missionId": 10030103,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10030104,
+                "panelMissionSheetId": 100301,
+                "name": "Collect 300 MYSEKAI Resources",
+                "description": "Collect 300 resources in MYSEKAI.",
+                "seq": 4,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 300,
+                "rewards": [
+                  {
+                    "id": 14709,
+                    "missionType": "panel_mission",
+                    "missionId": 10030104,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10030105,
+                "panelMissionSheetId": 100301,
+                "name": "Collect 500 MYSEKAI Resources",
+                "description": "Collect 500 resources in MYSEKAI.",
+                "seq": 5,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 500,
+                "rewards": [
+                  {
+                    "id": 14710,
+                    "missionType": "panel_mission",
+                    "missionId": 10030105,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10030106,
+                "panelMissionSheetId": 100301,
+                "name": "Collect 700 MYSEKAI Resources",
+                "description": "Collect 700 resources in MYSEKAI.",
+                "seq": 6,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 700,
+                "rewards": [
+                  {
+                    "id": 14711,
+                    "missionType": "panel_mission",
+                    "missionId": 10030106,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              },
+              {
+                "id": 10030107,
+                "panelMissionSheetId": 100301,
+                "name": "Collect 1,000 MYSEKAI Resources",
+                "description": "Collect 1,000 resources in MYSEKAI.",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1000,
+                "rewards": [
+                  {
+                    "id": 14712,
+                    "missionType": "panel_mission",
+                    "missionId": 10030107,
+                    "seq": 1,
+                    "resourceBoxId": 1784
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 14713,
+                "missionType": "panel_mission_complete",
+                "missionId": 100301,
+                "seq": 1,
+                "resourceBoxId": 1787
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 12,
     "name": "COLORFUL STAGE!×Sanrio Crossover Celebration Stamp Missions",
     "assetbundleName": "sanrio_collab_2026_pm",
