@@ -42,17 +42,6 @@
     "endAt": 1796626799000
   },
   {
-    "homeBannerId": 100346,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]モモジャン箱イベ_イベントバナー",
-    "assetbundleName": "event_crossing_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 174,
-    "startAt": 1784844000000,
-    "endAt": 1785535199000
-  },
-  {
     "homeBannerId": 100351,
     "seq": 45,
     "homeBannerType": "general",
@@ -95,5 +84,27 @@
     "transitionDestinationId": 778,
     "startAt": 1785524400000,
     "endAt": 1786215599000
+  },
+  {
+    "homeBannerId": 100360,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ビビバス箱イベ_イベントバナー",
+    "assetbundleName": "event_competitive_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 175,
+    "startAt": 1785535200000,
+    "endAt": 1786244400000
+  },
+  {
+    "homeBannerId": 100363,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "MORE MORE JUMP! World Link Event Support Gacha",
+    "assetbundleName": "banner_gacha779",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 779,
+    "startAt": 1785610800000,
+    "endAt": 1787425199000
   }
 ]
