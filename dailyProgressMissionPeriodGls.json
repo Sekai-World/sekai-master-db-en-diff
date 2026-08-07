@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 2,
+    "assetbundleName": "res005_no007",
+    "specialTrainingStatus": "done",
+    "startAt": 1786388400000,
+    "endAt": 1788202799000,
+    "closedAt": 1788202799000,
+    "sentence": "Reward from Daily Progress Mission.",
+    "sentenceComplete": "Reward for completing the Daily Progress Mission.",
+    "musicVocalId": 1659,
+    "rewards": [
+      {
+        "id": 30000030,
+        "missionType": "daily_progress_mission_complete_gl",
+        "missionId": 2,
+        "seq": 1,
+        "resourceBoxId": 300030
+      }
+    ]
+  }
+]

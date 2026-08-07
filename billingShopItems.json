@@ -3974,8 +3974,8 @@
     "assetbundleName": "shop_20137",
     "resourceBoxId": 20117,
     "bonusResourceBoxId": 20122,
-    "startAt": 1784530800000,
-    "endAt": 1785135599000
+    "startAt": 1786431600000,
+    "endAt": 1787036399000
   },
   {
     "id": 20141,
@@ -4063,8 +4063,8 @@
     "assetbundleName": "shop_20137",
     "resourceBoxId": 20117,
     "bonusResourceBoxId": 20122,
-    "startAt": 1785049200000,
-    "endAt": 1785653999000
+    "startAt": 1787814000000,
+    "endAt": 1788418799000
   },
   {
     "id": 20147,
@@ -11228,6 +11228,71 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 454,
     "startAt": 1785567600000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300840,
+    "seq": 462659,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "[Police] Costumes All Colors",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 455,
+    "startAt": 1788246000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300841,
+    "seq": 462660,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Police] Costumes Original Color",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 456,
+    "startAt": 1788246000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300842,
+    "seq": 462661,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Police] Costumes Color Variant 1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 457,
+    "startAt": 1788246000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300843,
+    "seq": 462662,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Police] Costumes Color Variant 2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 458,
+    "startAt": 1788246000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300844,
+    "seq": 462663,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Police] Costumes Color Variant 3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 459,
+    "startAt": 1788246000000,
     "purchaseOption": "exchange"
   },
   {

@@ -19005,6 +19005,7 @@
       }
     ],
     "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureFootstepId": 6,
     "mysekaiFixtureTagGroup": {
       "id": 522,
       "mysekaiFixtureTagId1": 10522,
@@ -19220,6 +19221,47 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "ext0002"
+  },
+  {
+    "id": 528,
+    "mysekaiFixtureType": "normal",
+    "name": "Kitchen Shelf",
+    "pronunciation": "kitchenshelf",
+    "flavorText": "Kitchen Shelf",
+    "seq": 30002014,
+    "gridSize": {
+      "width": 4,
+      "depth": 2,
+      "height": 2
+    },
+    "colorCode": "#FFC2C2",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 5,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_base",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#FFF6A6"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 528,
+      "mysekaiFixtureTagId1": 10528,
+      "mysekaiFixtureTagId2": 36
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0002_fixture_shelf1"
   },
   {
     "id": 529,
@@ -23263,6 +23305,7 @@
       }
     ],
     "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureFootstepId": 6,
     "mysekaiFixtureTagGroup": {
       "id": 655,
       "mysekaiFixtureTagId1": 10657,
@@ -26392,6 +26435,7 @@
       }
     ],
     "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureFootstepId": 6,
     "mysekaiFixtureTagGroup": {
       "id": 742,
       "mysekaiFixtureTagId1": 10744,
@@ -28450,6 +28494,1222 @@
     "mysekaiFixturePlayerActionType": "no_action",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_clb1103_fixture_morgana1"
+  },
+  {
+    "id": 802,
+    "mysekaiFixtureType": "normal",
+    "name": "Weeping Fig",
+    "pronunciation": "weepingfig",
+    "flavorText": "Weeping Fig",
+    "seq": 30018007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 802,
+      "mysekaiFixtureTagId1": 10804,
+      "mysekaiFixtureTagId2": 71
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0018_fixture_benjamin1"
+  },
+  {
+    "id": 803,
+    "mysekaiFixtureType": "normal",
+    "name": "Lemon Cypress",
+    "pronunciation": "lemoncypress",
+    "flavorText": "Lemon Cypress",
+    "seq": 30018008,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 7,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 6,
+    "mysekaiFixtureTagGroup": {
+      "id": 803,
+      "mysekaiFixtureTagId1": 10805,
+      "mysekaiFixtureTagId2": 71
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0018_fixture_goldcrest1"
+  },
+  {
+    "id": 804,
+    "mysekaiFixtureType": "normal",
+    "name": "Begonia",
+    "pronunciation": "begonia",
+    "flavorText": "Begonia",
+    "seq": 30018009,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 5,
+    "mysekaiFixtureTagGroup": {
+      "id": 804,
+      "mysekaiFixtureTagId1": 10806,
+      "mysekaiFixtureTagId2": 71
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0018_fixture_begonia1"
+  },
+  {
+    "id": 805,
+    "mysekaiFixtureType": "normal",
+    "name": "Smiley Taiyaki Vendor Food Truck",
+    "pronunciation": "smileytaiyakivendorfoodtruck",
+    "flavorText": "Smiley Taiyaki Vendor Food Truck",
+    "seq": 70003001,
+    "gridSize": {
+      "width": 8,
+      "depth": 9,
+      "height": 7
+    },
+    "colorCode": "#A5EFEA",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E4C9FF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#CA2828"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 805,
+      "mysekaiFixtureTagId1": 10807,
+      "mysekaiFixtureTagId2": 85
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_con0003_fixture_kitchencar1"
+  },
+  {
+    "id": 806,
+    "mysekaiFixtureType": "normal",
+    "name": "Smiley Taiyaki Vendor Menu",
+    "pronunciation": "smileytaiyakivendormenu",
+    "flavorText": "Smiley Taiyaki Vendor Menu",
+    "seq": 70003002,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "colorCode": "#E6CEAA",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#8D8C96"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 806,
+      "mysekaiFixtureTagId1": 10808,
+      "mysekaiFixtureTagId2": 85
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0003_fixture_menusign1"
+  },
+  {
+    "id": 807,
+    "mysekaiFixtureType": "normal",
+    "name": "Smiley Taiyaki Vendor Garbage Can",
+    "pronunciation": "smileytaiyakivendorgarbagecan",
+    "flavorText": "Smiley Taiyaki Vendor Garbage Can",
+    "seq": 70003003,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "colorCode": "#A5EFEA",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E4C9FF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#CA2828"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 807,
+      "mysekaiFixtureTagId1": 10809,
+      "mysekaiFixtureTagId2": 85
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0003_fixture_dustbox1"
+  },
+  {
+    "id": 808,
+    "mysekaiFixtureType": "normal",
+    "name": "Smiley Taiyaki Vendor Garland",
+    "pronunciation": "smileytaiyakivendorgarland",
+    "flavorText": "Smiley Taiyaki Vendor Garland",
+    "seq": 70003004,
+    "gridSize": {
+      "width": 8,
+      "depth": 1,
+      "height": 8
+    },
+    "colorCode": "#F9F9FE",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#FFD0F2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#D0D0D9"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 808,
+      "mysekaiFixtureTagId1": 10810,
+      "mysekaiFixtureTagId2": 85
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0003_fixture_garland1"
+  },
+  {
+    "id": 809,
+    "mysekaiFixtureType": "normal",
+    "name": "Smiley Taiyaki Vendor Taiyaki",
+    "pronunciation": "smileytaiyakivendortaiyaki",
+    "flavorText": "Smiley Taiyaki Vendor Taiyaki",
+    "seq": 70003005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "colorCode": "#E0B16A",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#F9F7F1"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#6A450E"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 809,
+      "mysekaiFixtureTagId1": 10811,
+      "mysekaiFixtureTagId2": 85
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0003_fixture_taiyaki1"
+  },
+  {
+    "id": 810,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "Fluffy Friend Wallpaper",
+    "pronunciation": "fluffyfriendwallpaper",
+    "flavorText": "Fluffy Friend Wallpaper",
+    "seq": 70004001,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#EFCF90",
+    "mysekaiFixtureMainGenreId": 7,
+    "mysekaiFixtureSubGenreId": 19,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E2B9D7"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B9D4E3"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 810,
+      "mysekaiFixtureTagId1": 10812,
+      "mysekaiFixtureTagId2": 86
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "con0004"
+  },
+  {
+    "id": 811,
+    "mysekaiFixtureType": "surface_appearance",
+    "name": "Fluffy Friend Flooring",
+    "pronunciation": "fluffyfriendflooring",
+    "flavorText": "Fluffy Friend Flooring",
+    "seq": 70004002,
+    "gridSize": {
+      "width": 0,
+      "depth": 0,
+      "height": 0
+    },
+    "colorCode": "#EFCF90",
+    "mysekaiFixtureMainGenreId": 8,
+    "mysekaiFixtureSubGenreId": 20,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "floor_appearance",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E2B9D7"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B9D4E3"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 15,
+    "mysekaiFixtureTagGroup": {
+      "id": 811,
+      "mysekaiFixtureTagId1": 10813,
+      "mysekaiFixtureTagId2": 86
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "con0004"
+  },
+  {
+    "id": 812,
+    "mysekaiFixtureType": "normal",
+    "name": "Fluffy Friend Wall Shelf",
+    "pronunciation": "fluffyfriendwallshelf",
+    "flavorText": "Fluffy Friend Wall Shelf",
+    "seq": 70004003,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#EFCF90",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E2B9D7"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B9D4E3"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 812,
+      "mysekaiFixtureTagId1": 10814,
+      "mysekaiFixtureTagId2": 86
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0004_fixture_wallshelf1"
+  },
+  {
+    "id": 813,
+    "mysekaiFixtureType": "normal",
+    "name": "Fluffy Friend Bed",
+    "pronunciation": "fluffyfriendbed",
+    "flavorText": "Fluffy Friend Bed",
+    "seq": 70004004,
+    "gridSize": {
+      "width": 4,
+      "depth": 5,
+      "height": 3
+    },
+    "colorCode": "#EFCF90",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 2,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E2B9D7"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B9D4E3"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 813,
+      "mysekaiFixtureTagId1": 10815,
+      "mysekaiFixtureTagId2": 86
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_con0004_fixture_bed1"
+  },
+  {
+    "id": 814,
+    "mysekaiFixtureType": "normal",
+    "name": "Fluffy Friend Armchair",
+    "pronunciation": "fluffyfriendarmchair",
+    "flavorText": "Fluffy Friend Armchair",
+    "seq": 70004005,
+    "gridSize": {
+      "width": 4,
+      "depth": 3,
+      "height": 3
+    },
+    "colorCode": "#EFCF90",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E2B9D7"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B9D4E3"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 814,
+      "mysekaiFixtureTagId1": 10816,
+      "mysekaiFixtureTagId2": 86
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_con0004_fixture_sofa1"
+  },
+  {
+    "id": 815,
+    "mysekaiFixtureType": "normal",
+    "name": "Pristine Powder Room Window",
+    "pronunciation": "pristinepowderroomwindow",
+    "flavorText": "Pristine Powder Room Window",
+    "seq": 30003010,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 3
+    },
+    "colorCode": "#A5EFEA",
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "windowpane",
+    "mysekaiSettableSiteType": "room",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#E6CEAA"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#B2CCFF"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 1,
+    "mysekaiFixtureTagGroup": {
+      "id": 815,
+      "mysekaiFixtureTagId1": 10817,
+      "mysekaiFixtureTagId2": 37
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0003_window_window1"
+  },
+  {
+    "id": 816,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Honami Plushie (S)",
+    "pronunciation": "limitedstyle#1honamiplushie(s)",
+    "flavorText": "Limited Style #1 Honami Plushie (S)",
+    "seq": 81103004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 7,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 816,
+      "mysekaiFixtureTagId1": 10818,
+      "mysekaiFixtureTagId2": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas103_fixture_doll2small"
+  },
+  {
+    "id": 817,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Honami Plushie (M)",
+    "pronunciation": "limitedstyle#1honamiplushie(m)",
+    "flavorText": "Limited Style #1 Honami Plushie (M)",
+    "seq": 81103005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 8,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 817,
+      "mysekaiFixtureTagId1": 10819,
+      "mysekaiFixtureTagId2": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas103_fixture_doll2medium"
+  },
+  {
+    "id": 818,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Honami Plushie (L)",
+    "pronunciation": "limitedstyle#1honamiplushie(l)",
+    "flavorText": "Limited Style #1 Honami Plushie (L)",
+    "seq": 81103006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 9,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 818,
+      "mysekaiFixtureTagId1": 10820,
+      "mysekaiFixtureTagId2": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas103_fixture_doll2large"
+  },
+  {
+    "id": 819,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Shizuku Plushie (S)",
+    "pronunciation": "limitedstyle#1shizukuplushie(s)",
+    "flavorText": "Limited Style #1 Shizuku Plushie (S)",
+    "seq": 82108004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 22,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 819,
+      "mysekaiFixtureTagId1": 10821,
+      "mysekaiFixtureTagId2": 9
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas108_fixture_doll2small"
+  },
+  {
+    "id": 820,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Shizuku Plushie (M)",
+    "pronunciation": "limitedstyle#1shizukuplushie(m)",
+    "flavorText": "Limited Style #1 Shizuku Plushie (M)",
+    "seq": 82108005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 23,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 820,
+      "mysekaiFixtureTagId1": 10822,
+      "mysekaiFixtureTagId2": 9
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas108_fixture_doll2medium"
+  },
+  {
+    "id": 821,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Shizuku Plushie (L)",
+    "pronunciation": "limitedstyle#1shizukuplushie(l)",
+    "flavorText": "Limited Style #1 Shizuku Plushie (L)",
+    "seq": 82108006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 24,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 821,
+      "mysekaiFixtureTagId1": 10823,
+      "mysekaiFixtureTagId2": 9
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas108_fixture_doll2large"
+  },
+  {
+    "id": 822,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Toya Plushie (S)",
+    "pronunciation": "limitedstyle#1toyaplushie(s)",
+    "flavorText": "Limited Style #1 Toya Plushie (S)",
+    "seq": 83112004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 34,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 822,
+      "mysekaiFixtureTagId1": 10824,
+      "mysekaiFixtureTagId2": 14
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas112_fixture_doll2small"
+  },
+  {
+    "id": 823,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Toya Plushie (M)",
+    "pronunciation": "limitedstyle#1toyaplushie(m)",
+    "flavorText": "Limited Style #1 Toya Plushie (M)",
+    "seq": 83112005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 35,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 823,
+      "mysekaiFixtureTagId1": 10825,
+      "mysekaiFixtureTagId2": 14
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas112_fixture_doll2medium"
+  },
+  {
+    "id": 824,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Toya Plushie (L)",
+    "pronunciation": "limitedstyle#1toyaplushie(l)",
+    "flavorText": "Limited Style #1 Toya Plushie (L)",
+    "seq": 83112006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 36,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 824,
+      "mysekaiFixtureTagId1": 10826,
+      "mysekaiFixtureTagId2": 14
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas112_fixture_doll2large"
+  },
+  {
+    "id": 825,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Nene Plushie (S)",
+    "pronunciation": "limitedstyle#1neneplushie(s)",
+    "flavorText": "Limited Style #1 Nene Plushie (S)",
+    "seq": 84115004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 43,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 825,
+      "mysekaiFixtureTagId1": 10827,
+      "mysekaiFixtureTagId2": 18
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas115_fixture_doll2small"
+  },
+  {
+    "id": 826,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Nene Plushie (M)",
+    "pronunciation": "limitedstyle#1neneplushie(m)",
+    "flavorText": "Limited Style #1 Nene Plushie (M)",
+    "seq": 84115005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 44,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 826,
+      "mysekaiFixtureTagId1": 10828,
+      "mysekaiFixtureTagId2": 18
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas115_fixture_doll2medium"
+  },
+  {
+    "id": 827,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Nene Plushie (L)",
+    "pronunciation": "limitedstyle#1neneplushie(l)",
+    "flavorText": "Limited Style #1 Nene Plushie (L)",
+    "seq": 84115006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 45,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 827,
+      "mysekaiFixtureTagId1": 10829,
+      "mysekaiFixtureTagId2": 18
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas115_fixture_doll2large"
+  },
+  {
+    "id": 828,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Ena Plushie (S)",
+    "pronunciation": "limitedstyle#1enaplushie(s)",
+    "flavorText": "Limited Style #1 Ena Plushie (S)",
+    "seq": 85119004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 55,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 828,
+      "mysekaiFixtureTagId1": 10830,
+      "mysekaiFixtureTagId2": 23
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas119_fixture_doll2small"
+  },
+  {
+    "id": 829,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Ena Plushie (M)",
+    "pronunciation": "limitedstyle#1enaplushie(m)",
+    "flavorText": "Limited Style #1 Ena Plushie (M)",
+    "seq": 85119005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 56,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 829,
+      "mysekaiFixtureTagId1": 10831,
+      "mysekaiFixtureTagId2": 23
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas119_fixture_doll2medium"
+  },
+  {
+    "id": 830,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Ena Plushie (L)",
+    "pronunciation": "limitedstyle#1enaplushie(l)",
+    "flavorText": "Limited Style #1 Ena Plushie (L)",
+    "seq": 85119006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 57,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 830,
+      "mysekaiFixtureTagId1": 10832,
+      "mysekaiFixtureTagId2": 23
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas119_fixture_doll2large"
+  },
+  {
+    "id": 831,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Luka Plushie (S)",
+    "pronunciation": "limitedstyle#1lukaplushie(s)",
+    "flavorText": "Limited Style #1 Luka Plushie (S)",
+    "seq": 86124004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 70,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 831,
+      "mysekaiFixtureTagId1": 10833,
+      "mysekaiFixtureTagId2": 29
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas124_fixture_doll2small"
+  },
+  {
+    "id": 832,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Luka Plushie (M)",
+    "pronunciation": "limitedstyle#1lukaplushie(m)",
+    "flavorText": "Limited Style #1 Luka Plushie (M)",
+    "seq": 86124005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 71,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 832,
+      "mysekaiFixtureTagId1": 10834,
+      "mysekaiFixtureTagId2": 29
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas124_fixture_doll2medium"
+  },
+  {
+    "id": 833,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 Luka Plushie (L)",
+    "pronunciation": "limitedstyle#1lukaplushie(l)",
+    "flavorText": "Limited Style #1 Luka Plushie (L)",
+    "seq": 86124006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 72,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 833,
+      "mysekaiFixtureTagId1": 10835,
+      "mysekaiFixtureTagId2": 29
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas124_fixture_doll2large"
+  },
+  {
+    "id": 834,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 KAITO Plushie (S)",
+    "pronunciation": "limitedstyle#1kaitoplushie(s)",
+    "flavorText": "Limited Style #1 KAITO Plushie (S)",
+    "seq": 86126004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 76,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 834,
+      "mysekaiFixtureTagId1": 10836,
+      "mysekaiFixtureTagId2": 31
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas126_fixture_doll2small"
+  },
+  {
+    "id": 835,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 KAITO Plushie (M)",
+    "pronunciation": "limitedstyle#1kaitoplushie(m)",
+    "flavorText": "Limited Style #1 KAITO Plushie (M)",
+    "seq": 86126005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 77,
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 835,
+      "mysekaiFixtureTagId1": 10837,
+      "mysekaiFixtureTagId2": 31
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas126_fixture_doll2medium"
+  },
+  {
+    "id": 836,
+    "mysekaiFixtureType": "normal",
+    "name": "Limited Style #1 KAITO Plushie (L)",
+    "pronunciation": "limitedstyle#1kaitoplushie(l)",
+    "flavorText": "Limited Style #1 KAITO Plushie (L)",
+    "seq": 86126006,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 29,
+    "mysekaiFixtureSubGenreId": 10,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixtureGameCharacterGroupPerformanceBonusId": 78,
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 836,
+      "mysekaiFixtureTagId1": 10838,
+      "mysekaiFixtureTagId2": 31
+    },
+    "isAssembled": true,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_pas126_fixture_doll2large"
   },
   {
     "id": 837,
