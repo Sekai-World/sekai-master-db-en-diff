@@ -3974,8 +3974,8 @@
     "assetbundleName": "shop_20137",
     "resourceBoxId": 20117,
     "bonusResourceBoxId": 20122,
-    "startAt": 1786431600000,
-    "endAt": 1787036399000
+    "startAt": 1788159600000,
+    "endAt": 1788764399000
   },
   {
     "id": 20141,
@@ -7341,6 +7341,36 @@
     "assetbundleName": "jewel_G_gl",
     "resourceBoxId": 210008,
     "bonusResourceBoxId": 210008
+  },
+  {
+    "id": 200025,
+    "seq": 2,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 200025,
+    "name": "Crystal and Product Set A",
+    "description": "Crystals(有償) x 950\nCrystals(無償) x 50　*WEB STORE ボーナス",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "jewel_C_gl",
+    "resourceBoxId": 210004,
+    "bonusResourceBoxId": 210012,
+    "startAt": 1790319600000
+  },
+  {
+    "id": 200026,
+    "seq": 1,
+    "billingShopItemType": "jewel",
+    "billingProductGroupId": 200026,
+    "name": "Crystal and Product Set B",
+    "description": "Crystals(有償) x 5000\nCrystals(無償) x 250　*WEB STORE ボーナス\n想いのカケラx 100　*WEB STORE ボーナス",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "jewel_F_gl",
+    "resourceBoxId": 210007,
+    "bonusResourceBoxId": 210015,
+    "startAt": 1790319600000
   },
   {
     "id": 210001,
