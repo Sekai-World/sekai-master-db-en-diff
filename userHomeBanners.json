@@ -64,28 +64,6 @@
     "url": "https:\/\/www.colorfulstage.com\/news\/detail\/000852.html"
   },
   {
-    "homeBannerId": 100368,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]モモジャンWL2イベ_イベントバナー",
-    "assetbundleName": "event_wl_2nd_idol_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 176,
-    "startAt": 1786244400000,
-    "endAt": 1787435999000
-  },
-  {
-    "homeBannerId": 100371,
-    "seq": 140,
-    "homeBannerType": "general",
-    "name": "[It's Back] In My Fairytale Gacha",
-    "assetbundleName": "banner_gacha787",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 787,
-    "startAt": 1786734000000,
-    "endAt": 1787511599000
-  },
-  {
     "homeBannerId": 100372,
     "seq": 150,
     "homeBannerType": "general",
@@ -106,5 +84,16 @@
     "transitionDestinationId": 789,
     "startAt": 1787425200000,
     "endAt": 1788116399000
+  },
+  {
+    "homeBannerId": 100377,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]ニーゴ箱イベ_イベントバナー",
+    "assetbundleName": "event_tomorrow_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 177,
+    "startAt": 1787436000000,
+    "endAt": 1788127199000
   }
 ]
