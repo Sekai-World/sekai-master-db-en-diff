@@ -42,6 +42,16 @@
     "endAt": 1796626799000
   },
   {
+    "homeBannerId": 1209,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "マジカルミライ2024_2025衣装再販",
+    "assetbundleName": "banner_shop_magicalmirai_costume_2025",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1787943600000,
+    "endAt": 1788461999000
+  },
+  {
     "homeBannerId": 1210,
     "seq": 100,
     "homeBannerType": "general",
@@ -51,6 +61,17 @@
     "transitionDestinationId": 1172,
     "startAt": 1786388400000,
     "endAt": 1788202799000
+  },
+  {
+    "homeBannerId": 1211,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[マジカルミライ2026]プレミアムプレゼントガチャ",
+    "assetbundleName": "banner_gacha1173",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 1173,
+    "startAt": 1787943600000,
+    "endAt": 1788461999000
   },
   {
     "homeBannerId": 100351,
@@ -64,17 +85,6 @@
     "url": "https:\/\/www.colorfulstage.com\/news\/detail\/000852.html"
   },
   {
-    "homeBannerId": 100375,
-    "seq": 110,
-    "homeBannerType": "general",
-    "name": "[ガチャ]ニーゴ箱イベ_ガチャバナー",
-    "assetbundleName": "banner_gacha789",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 789,
-    "startAt": 1787425200000,
-    "endAt": 1788116399000
-  },
-  {
     "homeBannerId": 100377,
     "seq": 100,
     "homeBannerType": "event",
@@ -84,5 +94,38 @@
     "transitionDestinationId": 177,
     "startAt": 1787436000000,
     "endAt": 1788127199000
+  },
+  {
+    "homeBannerId": 100383,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "[初音ミク]HAPPY ANNIVERSARYライブ",
+    "assetbundleName": "banner_virtuallive396",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 396,
+    "startAt": 1788040800000,
+    "endAt": 1788159599000
+  },
+  {
+    "homeBannerId": 100387,
+    "seq": 110,
+    "homeBannerType": "general",
+    "name": "[ガチャ]ワンダショ箱イベ_ガチャバナー",
+    "assetbundleName": "banner_gacha799",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 799,
+    "startAt": 1788116400000,
+    "endAt": 1788721199000
+  },
+  {
+    "homeBannerId": 100392,
+    "seq": 130,
+    "homeBannerType": "general",
+    "name": "VIRTUAL SINGER World Link Event Support Gacha",
+    "assetbundleName": "banner_gacha800",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 800,
+    "startAt": 1788116400000,
+    "endAt": 1789930799000
   }
 ]
