@@ -52,17 +52,6 @@
     "endAt": 1788461999000
   },
   {
-    "homeBannerId": 1210,
-    "seq": 100,
-    "homeBannerType": "general",
-    "name": "2026 August Premium Gift Gacha",
-    "assetbundleName": "banner_gacha1172",
-    "transitionDestinationType": "gacha",
-    "transitionDestinationId": 1172,
-    "startAt": 1786388400000,
-    "endAt": 1788202799000
-  },
-  {
     "homeBannerId": 1211,
     "seq": 50,
     "homeBannerType": "general",
@@ -127,5 +116,16 @@
     "transitionDestinationId": 800,
     "startAt": 1788116400000,
     "endAt": 1789930799000
+  },
+  {
+    "homeBannerId": 100394,
+    "seq": 10,
+    "homeBannerType": "general",
+    "name": "Recollection Festival Gacha",
+    "assetbundleName": "banner_gacha801",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 801,
+    "startAt": 1788202800000,
+    "endAt": 1788548399000
   }
 ]
