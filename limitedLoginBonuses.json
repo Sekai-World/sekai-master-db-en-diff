@@ -1963,6 +1963,57 @@
     ]
   },
   {
+    "id": 134,
+    "seq": 134,
+    "name": "JP 5th Anniversary Countdown Login Campaign",
+    "startAt": 1790535600000,
+    "endAt": 1790578799000,
+    "assetbundleName": "5th_anniversary_countdown_01",
+    "closeAt": 1790578799000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 277,
+        "limitedLoginBonusId": 134,
+        "day": 1,
+        "resourceBoxId": 174
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "seq": 135,
+    "name": "JP 5th Anniversary Countdown Login Campaign",
+    "startAt": 1790578800000,
+    "endAt": 1790665199000,
+    "assetbundleName": "5th_anniversary_countdown_02",
+    "closeAt": 1790665199000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 278,
+        "limitedLoginBonusId": 135,
+        "day": 1,
+        "resourceBoxId": 175
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "seq": 136,
+    "name": "JP 5th Anniversary Countdown Login Campaign",
+    "startAt": 1790665200000,
+    "endAt": 1790751599000,
+    "assetbundleName": "5th_anniversary_countdown_03",
+    "closeAt": 1790751599000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 279,
+        "limitedLoginBonusId": 136,
+        "day": 1,
+        "resourceBoxId": 176
+      }
+    ]
+  },
+  {
     "id": 1001,
     "seq": 1001,
     "name": "OBT特別ログインボーナス",
@@ -8242,6 +8293,71 @@
         "limitedLoginBonusId": 1215,
         "day": 1,
         "resourceBoxId": 1544
+      }
+    ]
+  },
+  {
+    "id": 1216,
+    "seq": 1216,
+    "name": "18 Million Players Login Campaign",
+    "startAt": 1789066800000,
+    "endAt": 1790333999000,
+    "assetbundleName": "1800_anniversary",
+    "closeAt": 1789642800000,
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1659,
+        "limitedLoginBonusId": 1216,
+        "day": 1,
+        "resourceBoxId": 1545
+      },
+      {
+        "id": 1660,
+        "limitedLoginBonusId": 1216,
+        "day": 2,
+        "resourceBoxId": 1546
+      },
+      {
+        "id": 1661,
+        "limitedLoginBonusId": 1216,
+        "day": 3,
+        "resourceBoxId": 1547
+      },
+      {
+        "id": 1662,
+        "limitedLoginBonusId": 1216,
+        "day": 4,
+        "resourceBoxId": 1545
+      },
+      {
+        "id": 1663,
+        "limitedLoginBonusId": 1216,
+        "day": 5,
+        "resourceBoxId": 1546
+      },
+      {
+        "id": 1664,
+        "limitedLoginBonusId": 1216,
+        "day": 6,
+        "resourceBoxId": 1547
+      },
+      {
+        "id": 1665,
+        "limitedLoginBonusId": 1216,
+        "day": 7,
+        "resourceBoxId": 1545
+      },
+      {
+        "id": 1666,
+        "limitedLoginBonusId": 1216,
+        "day": 8,
+        "resourceBoxId": 1546
+      },
+      {
+        "id": 1667,
+        "limitedLoginBonusId": 1216,
+        "day": 9,
+        "resourceBoxId": 1547
       }
     ]
   }

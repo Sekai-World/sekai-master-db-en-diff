@@ -412,6 +412,10 @@
     "value": "Characters with a subgroup will gain the effects of Decorations of the group that higher Talent boost.\n\nEffects from multiple groups' Decorations do not stack."
   },
   {
+    "wordingKey": "MSG_AREA_RELEASED_WITH_THUMBNAIL",
+    "value": "A new SEKAI has appeared."
+  },
+  {
     "wordingKey": "MSG_AROUND_MB",
     "value": "Approx. {0}MB"
   },
@@ -1440,6 +1444,10 @@
     "value": "Trade for {0}"
   },
   {
+    "wordingKey": "MSG_EXCHANGE_MEANS_FORMAT",
+    "value": "Trade {0}"
+  },
+  {
     "wordingKey": "MSG_EXCHANGE_OUT_OF_DATE",
     "value": "Expiry date has passed. Unable to trade."
   },
@@ -1522,6 +1530,10 @@
   {
     "wordingKey": "MSG_FEEDBACK_THANKS",
     "value": "Thank you for your feedback.\nWe hope you will continue to enjoy \nHATSUNE MIKU: COLORFUL STAGE!"
+  },
+  {
+    "wordingKey": "MSG_FINALE_SUPPORT_DECK_RESET",
+    "value": "Reset your Support Group?"
   },
   {
     "wordingKey": "MSG_FINAL_CHARA_TICKET_CONFIRM",
@@ -2154,6 +2166,10 @@
   {
     "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM_BY_GACHA_CIEL",
     "value": "Trade {0} <color=#FF5599>x{1}<\/color> for this item?"
+  },
+  {
+    "wordingKey": "MSG_MATERIAL_EXCHANGE_COST_SELECT_DIALOG",
+    "value": "Choose an item to trade with."
   },
   {
     "wordingKey": "MSG_MATERIAL_POSSESSION",
@@ -3088,6 +3104,10 @@
     "value": "<size=80>{0}<\/size> matches left to determine starting rank."
   },
   {
+    "wordingKey": "MSG_PLAYER_FRAME_NONE",
+    "value": "You have no Frames."
+  },
+  {
     "wordingKey": "MSG_PLAYER_KICKOUT_AND_BLOCK_RESULT",
     "value": "This player has been blocked and kicked from your MYSEKAI."
   },
@@ -3150,6 +3170,30 @@
   {
     "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_2",
     "value": "You will receive a prize of one or more items for each pull.\n\n *Prizes will be randomly selected on the Gacha results screen.\n *Prizes are pulled one at a time based on existing drop rates. The drop rates therefore do not mean that, for example, items with a drop rate of 1% are guaranteed to appear once every 100 pulls.\n *One of the prizes is a 2026 New Year Bloom Festival Gacha Ticket. These tickets can only be used in the 2026 New Year Bloom Festival Gacha. Please note that once that Gacha ends, you will no longer be able to use any 2026 New Year Bloom Festival Gacha Tickets.\n *One of the prizes is a 2026 New Year's Free Gacha Ticket. These tickets can only be used in the 2026 New Year's Free Gacha. Please note that once that Gacha ends, you will no longer be able to use any 2026 New Year's Free Gacha Tickets."
+  },
+  {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_3",
+    "value": "You will receive a prize of one or more items for each pull.\n\n*Prizes will be randomly selected on the Gacha results screen.\n*Prizes are pulled one at a time based on existing drop rates. The drop rates therefore do not mean that, for example, items with a drop rate of 1% are guaranteed to appear once every 100 pulls.\n*One of the prizes is a JP 5th Anniversary Bloom Festival Gacha Ticket. These tickets can only be used in the JP 5th Anniversary Bloom Festival Gacha Dream Pick or JP 5th Anniversary Bloom Festival Gacha Gold Fever. Please note that once those Gacha end, you will no longer be able to use any JP 5th Anniversary Bloom Festival Gacha Tickets.\n*One of the prizes is a JP 5th Anniversary Free Gacha Ticket. These tickets can only be used in the JP 5th Anniversary Free Gacha. Please note that once that Gacha ends, you will no longer be able to use any JP 5th Anniversary Free Gacha Tickets."
+  },
+  {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_4",
+    "value": "You will receive a prize of one or more items for each pull.\n\n*Prizes will be randomly selected on the Gacha results screen.\n*Prizes are pulled one at a time based on existing drop rates. The drop rates therefore do not mean that, for example, items with a drop rate of 1% are guaranteed to appear once every 100 pulls.\n*One of the prizes is a JP 5th Anniversary Bloom Festival Gacha Ticket. These tickets can only be used in the JP 5th Anniversary Bloom Festival Gacha Dream Pick or JP 5th Anniversary Bloom Festival Gacha Gold Fever. Please note that once those Gacha end, you will no longer be able to use any JP 5th Anniversary Bloom Festival Gacha Tickets.\n*One of the prizes is a JP 5th Anniversary Free Gacha Ticket. These tickets can only be used in the JP 5th Anniversary Free Gacha. Please note that once that Gacha ends, you will no longer be able to use any JP 5th Anniversary Free Gacha Tickets."
+  },
+  {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_5",
+    "value": "You will receive a prize of one or more items for each pull.\n\n*Prizes will be randomly selected on the Gacha results screen.\n*Prizes are pulled one at a time based on existing drop rates. The drop rates therefore do not mean that, for example, items with a drop rate of 1% are guaranteed to appear once every 100 pulls.\n*One of the prizes is a JP 5th Anniversary Bloom Festival Gacha Ticket. These tickets can only be used in the JP 5th Anniversary Bloom Festival Gacha Dream Pick or JP 5th Anniversary Bloom Festival Gacha Gold Fever. Please note that once those Gacha end, you will no longer be able to use any JP 5th Anniversary Bloom Festival Gacha Tickets.\n*One of the prizes is a JP 5th Anniversary Free Gacha Ticket. These tickets can only be used in the JP 5th Anniversary Free Gacha. Please note that once that Gacha ends, you will no longer be able to use any JP 5th Anniversary Free Gacha Tickets."
+  },
+  {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_6",
+    "value": "You will receive a prize of one or more items for each pull.\n\n*Prizes will be randomly selected on the Gacha results screen.\n*Prizes are pulled one at a time based on existing drop rates. The drop rates therefore do not mean that, for example, items with a drop rate of 1% are guaranteed to appear once every 100 pulls.\n*One of the prizes is a JP 5th Anniversary Bloom Festival Gacha Ticket. These tickets can only be used in the JP 5th Anniversary Bloom Festival Gacha Dream Pick or JP 5th Anniversary Bloom Festival Gacha Gold Fever. Please note that once those Gacha end, you will no longer be able to use any JP 5th Anniversary Bloom Festival Gacha Tickets.\n*One of the prizes is a JP 5th Anniversary Free Gacha Ticket. These tickets can only be used in the JP 5th Anniversary Free Gacha. Please note that once that Gacha ends, you will no longer be able to use any JP 5th Anniversary Free Gacha Tickets."
+  },
+  {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_7",
+    "value": "You will receive a prize of one or more items for each pull.\n\n*Prizes will be randomly selected on the Gacha results screen.\n*Prizes are pulled one at a time based on existing drop rates. The drop rates therefore do not mean that, for example, items with a drop rate of 1% are guaranteed to appear once every 100 pulls.\n*One of the prizes is a JP 5th Anniversary Bloom Festival Gacha Ticket. These tickets can only be used in the JP 5th Anniversary Bloom Festival Gacha Dream Pick or JP 5th Anniversary Bloom Festival Gacha Gold Fever. Please note that once those Gacha end, you will no longer be able to use any JP 5th Anniversary Bloom Festival Gacha Tickets.\n*One of the prizes is a JP 5th Anniversary Free Gacha Ticket. These tickets can only be used in the JP 5th Anniversary Free Gacha. Please note that once that Gacha ends, you will no longer be able to use any JP 5th Anniversary Free Gacha Tickets."
+  },
+  {
+    "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_8",
+    "value": "You will receive a prize of one or more items for each pull.\n\n*Prizes will be randomly selected on the Gacha results screen.\n*Prizes are pulled one at a time based on existing drop rates. The drop rates therefore do not mean that, for example, items with a drop rate of 1% are guaranteed to appear once every 100 pulls.\n*One of the prizes is a JP 5th Anniversary Bloom Festival Gacha Ticket. These tickets can only be used in the JP 5th Anniversary Bloom Festival Gacha Dream Pick or JP 5th Anniversary Bloom Festival Gacha Gold Fever. Please note that once those Gacha end, you will no longer be able to use any JP 5th Anniversary Bloom Festival Gacha Tickets.\n*One of the prizes is a JP 5th Anniversary Free Gacha Ticket. These tickets can only be used in the JP 5th Anniversary Free Gacha. Please note that once that Gacha ends, you will no longer be able to use any JP 5th Anniversary Free Gacha Tickets."
   },
   {
     "wordingKey": "MSG_PRODUCT_IS_PENDING",
@@ -4212,6 +4256,10 @@
     "value": "{0} purchase status updated."
   },
   {
+    "wordingKey": "MSG_WEEKLY_MISSION_UPDATED_GL",
+    "value": "Weekly Missions have updated. Returning to home screen."
+  },
+  {
     "wordingKey": "MSG_WISH_LIST_BACK_GACHA_TOP_CONFIRM",
     "value": "*Cannot save incomplete list."
   },
@@ -4270,6 +4318,10 @@
   {
     "wordingKey": "MSG_WORLD_BLOOM_INHERIT_LIMIT_START",
     "value": "You are now in the <color=#ff5588>top {0}<\/color> of the Overall Event Rankings.\nIn the interests of fairness, a temporary account transfer cap is placed on players in the <color=#ff5588>top {1}<\/color>.\n \nThe cap will be lifted when the event ends ({2}).\nRemaining account transfers: {3}\n<color=#ff5588>*The number of transfers is shared with Chapter Rankings.<\/color>\n \nThank you for your understanding."
+  },
+  {
+    "wordingKey": "MSG_WORLD_BLOOM_LEADER_CHANGE",
+    "value": "Changing your Leader will reset your Support Group.\nAre you sure?"
   },
   {
     "wordingKey": "MSG_WORLD_BLOOM_YOUR_TOTAL_EVENT_POINT",
@@ -4662,6 +4714,10 @@
   {
     "wordingKey": "WORD_ALL",
     "value": "All"
+  },
+  {
+    "wordingKey": "WORD_ALL_CHARACTER",
+    "value": "All Characters"
   },
   {
     "wordingKey": "WORD_ALL_PERFECT",
@@ -9782,7 +9838,7 @@
   },
   {
     "wordingKey": "WORD_MY_SEKAI_MATERIAL_GAME_CHARACTER",
-    "value": "Rainbow Memoria"
+    "value": "Memoria"
   },
   {
     "wordingKey": "WORD_NAME",
@@ -10419,6 +10475,14 @@
   {
     "wordingKey": "WORD_PLAYER_COMMENT",
     "value": "Comment"
+  },
+  {
+    "wordingKey": "WORD_PLAYER_FRAME",
+    "value": "Frame"
+  },
+  {
+    "wordingKey": "WORD_PLAYER_FRAME_LIST_PREVIEW",
+    "value": "List Preview"
   },
   {
     "wordingKey": "WORD_PLAYER_ID",
@@ -13141,6 +13205,14 @@
     "value": "WEEKLY LINEUP"
   },
   {
+    "wordingKey": "WORD_WEEKLY_MISSION_GL",
+    "value": "Weekly Missions"
+  },
+  {
+    "wordingKey": "WORD_WEEKLY_MISSION_TAB_GL",
+    "value": "Weekly"
+  },
+  {
     "wordingKey": "WORD_WEEK_FRY",
     "value": "(Fri)"
   },
@@ -13259,5 +13331,9 @@
   {
     "wordingKey": "WORD_YES",
     "value": "Yes"
+  },
+  {
+    "wordingKey": "WORD_YOU",
+    "value": "You"
   }
 ]

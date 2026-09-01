@@ -29936,6 +29936,295 @@
     "assetbundleName": "mdl_clb1102_fixture_earth1"
   },
   {
+    "id": 974,
+    "mysekaiFixtureType": "normal",
+    "name": "Rustic Japanese Floor Cushion",
+    "pronunciation": "rusticjapanesefloorcushion",
+    "flavorText": "Rustic Japanese Floor Cushion",
+    "seq": 30006016,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 1
+    },
+    "colorCode": "#CB7A00",
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#1B90D2"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#CA2828"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 9,
+    "mysekaiFixtureTagGroup": {
+      "id": 974,
+      "mysekaiFixtureTagId1": 10846,
+      "mysekaiFixtureTagId2": 38
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_ext0006_fixture_cushion1"
+  },
+  {
+    "id": 975,
+    "mysekaiFixtureType": "system",
+    "name": "Radio",
+    "pronunciation": "radio",
+    "flavorText": "Radio",
+    "seq": 20004004,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "colorCode": "#28AEA6",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 12,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#CA2828"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#F7ECD2"
+      },
+      {
+        "textureId": 4,
+        "colorCode": "#956E20"
+      },
+      {
+        "textureId": 5,
+        "colorCode": "#C8A800"
+      },
+      {
+        "textureId": 6,
+        "colorCode": "#93B315"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 975,
+      "mysekaiFixtureTagId1": 10847,
+      "mysekaiFixtureTagId2": 56
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non0004_system_radio1"
+  },
+  {
+    "id": 976,
+    "mysekaiFixtureType": "system",
+    "name": "CD Player",
+    "pronunciation": "cdplayer",
+    "flavorText": "CD Player",
+    "seq": 20004005,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 1
+    },
+    "colorCode": "#A5EFEA",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 12,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#B2CCFF"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#BFF1B7"
+      },
+      {
+        "textureId": 4,
+        "colorCode": "#FFC2C2"
+      },
+      {
+        "textureId": 5,
+        "colorCode": "#FFDEAD"
+      },
+      {
+        "textureId": 6,
+        "colorCode": "#E4C9FF"
+      },
+      {
+        "textureId": 7,
+        "colorCode": "#F9F9FE"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 976,
+      "mysekaiFixtureTagId1": 10848,
+      "mysekaiFixtureTagId2": 56
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non0004_system_cdplayer1"
+  },
+  {
+    "id": 977,
+    "mysekaiFixtureType": "system",
+    "name": "Mini Stereo",
+    "pronunciation": "ministereo",
+    "flavorText": "Mini Stereo",
+    "seq": 20004006,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 2
+    },
+    "colorCode": "#F9F9FE",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 12,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#33ccbb"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#4455dd"
+      },
+      {
+        "textureId": 4,
+        "colorCode": "#88dd44"
+      },
+      {
+        "textureId": 5,
+        "colorCode": "#ee1166"
+      },
+      {
+        "textureId": 6,
+        "colorCode": "#ff9900"
+      },
+      {
+        "textureId": 7,
+        "colorCode": "#884499"
+      },
+      {
+        "textureId": 8,
+        "colorCode": "#222222"
+      },
+      {
+        "textureId": 9,
+        "colorCode": "#FBE9D9"
+      },
+      {
+        "textureId": 10,
+        "colorCode": "#D5882D"
+      },
+      {
+        "textureId": 11,
+        "colorCode": "#1B90D2"
+      },
+      {
+        "textureId": 12,
+        "colorCode": "#CA2828"
+      },
+      {
+        "textureId": 13,
+        "colorCode": "#39A936"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 977,
+      "mysekaiFixtureTagId1": 10849,
+      "mysekaiFixtureTagId2": 56
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non0004_system_compo2"
+  },
+  {
+    "id": 978,
+    "mysekaiFixtureType": "system",
+    "name": "Radio Cassette Player",
+    "pronunciation": "radiocassetteplayer",
+    "flavorText": "Radio Cassette Player",
+    "seq": 20004007,
+    "gridSize": {
+      "width": 2,
+      "depth": 1,
+      "height": 1
+    },
+    "colorCode": "#33ccbb",
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 12,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [
+      {
+        "textureId": 2,
+        "colorCode": "#4455dd"
+      },
+      {
+        "textureId": 3,
+        "colorCode": "#88dd44"
+      },
+      {
+        "textureId": 4,
+        "colorCode": "#ee1166"
+      },
+      {
+        "textureId": 5,
+        "colorCode": "#ff9900"
+      },
+      {
+        "textureId": 6,
+        "colorCode": "#884499"
+      },
+      {
+        "textureId": 7,
+        "colorCode": "#F9F9FE"
+      }
+    ],
+    "mysekaiFixturePutSoundId": 7,
+    "mysekaiFixtureTagGroup": {
+      "id": 978,
+      "mysekaiFixtureTagId1": 10850,
+      "mysekaiFixtureTagId2": 56
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_non0004_system_cassetteplayer1"
+  },
+  {
     "id": 1140,
     "mysekaiFixtureType": "normal",
     "name": "Hello Kitty's Piano",

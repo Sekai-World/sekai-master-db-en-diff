@@ -3,6 +3,7 @@
     "id": 1,
     "areaId": 17,
     "seq": 1,
+    "worldTreeType": "bud",
     "displayAssetbundleName": "bud_leo",
     "releaseConditionId1": 1,
     "releaseConditionId2": 1
@@ -11,6 +12,7 @@
     "id": 2,
     "areaId": 18,
     "seq": 1,
+    "worldTreeType": "bud",
     "displayAssetbundleName": "bud_mmj",
     "releaseConditionId1": 1,
     "releaseConditionId2": 1
@@ -19,6 +21,7 @@
     "id": 3,
     "areaId": 19,
     "seq": 1,
+    "worldTreeType": "bud",
     "displayAssetbundleName": "bud_vbs",
     "releaseConditionId1": 1,
     "releaseConditionId2": 1
@@ -27,6 +30,7 @@
     "id": 4,
     "areaId": 20,
     "seq": 1,
+    "worldTreeType": "bud",
     "displayAssetbundleName": "bud_wnd",
     "releaseConditionId1": 1,
     "releaseConditionId2": 1
@@ -35,6 +39,7 @@
     "id": 5,
     "areaId": 21,
     "seq": 1,
+    "worldTreeType": "bud",
     "displayAssetbundleName": "bud_nig",
     "releaseConditionId1": 1,
     "releaseConditionId2": 1
@@ -43,6 +48,7 @@
     "id": 6,
     "areaId": 17,
     "seq": 2,
+    "worldTreeType": "seedling",
     "displayAssetbundleName": "seedling_leo",
     "releaseConditionId1": 113908,
     "releaseConditionId2": 116200,
@@ -109,6 +115,7 @@
     "id": 7,
     "areaId": 18,
     "seq": 2,
+    "worldTreeType": "seedling",
     "displayAssetbundleName": "seedling_mmj",
     "releaseConditionId1": 113908,
     "releaseConditionId2": 116200,
@@ -175,6 +182,7 @@
     "id": 8,
     "areaId": 19,
     "seq": 2,
+    "worldTreeType": "seedling",
     "displayAssetbundleName": "seedling_vbs",
     "releaseConditionId1": 113908,
     "releaseConditionId2": 116200,
@@ -241,6 +249,7 @@
     "id": 9,
     "areaId": 20,
     "seq": 2,
+    "worldTreeType": "seedling",
     "displayAssetbundleName": "seedling_wnd",
     "releaseConditionId1": 113908,
     "releaseConditionId2": 116200,
@@ -307,6 +316,7 @@
     "id": 10,
     "areaId": 21,
     "seq": 2,
+    "worldTreeType": "seedling",
     "displayAssetbundleName": "seedling_nig",
     "releaseConditionId1": 113908,
     "releaseConditionId2": 116200,
@@ -373,6 +383,7 @@
     "id": 11,
     "areaId": 17,
     "seq": 3,
+    "worldTreeType": "sapling",
     "displayAssetbundleName": "sapling_leo",
     "releaseConditionId1": 117005,
     "releaseConditionId2": 9999999,
@@ -439,6 +450,7 @@
     "id": 12,
     "areaId": 18,
     "seq": 3,
+    "worldTreeType": "sapling",
     "displayAssetbundleName": "sapling_mmj",
     "releaseConditionId1": 117505,
     "releaseConditionId2": 9999999,
@@ -505,6 +517,7 @@
     "id": 13,
     "areaId": 19,
     "seq": 3,
+    "worldTreeType": "sapling",
     "displayAssetbundleName": "sapling_vbs",
     "releaseConditionId1": 116206,
     "releaseConditionId2": 9999999,
@@ -571,6 +584,7 @@
     "id": 14,
     "areaId": 20,
     "seq": 3,
+    "worldTreeType": "sapling",
     "displayAssetbundleName": "sapling_wnd",
     "releaseConditionId1": 116606,
     "releaseConditionId2": 9999999,
@@ -637,6 +651,7 @@
     "id": 15,
     "areaId": 21,
     "seq": 3,
+    "worldTreeType": "sapling",
     "displayAssetbundleName": "sapling_nig",
     "releaseConditionId1": 116905,
     "releaseConditionId2": 9999999,
@@ -696,6 +711,551 @@
         "weight": 25,
         "assetbundleName": "sapling_wnd",
         "cueName": "SE_PLA_WONDERLANDS"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "areaId": 17,
+    "seq": 4,
+    "worldTreeType": "sapling_before",
+    "displayAssetbundleName": "sapling_leo",
+    "releaseConditionId1": 117808,
+    "releaseConditionId2": 117809,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 1101,
+        "areaSpiritWorldTreeId": 16,
+        "flavorText": "A strange light is being emitted.",
+        "weight": 1,
+        "assetbundleName": "sapling",
+        "cueName": "SE_PLA_02"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "areaId": 18,
+    "seq": 4,
+    "worldTreeType": "sapling_before",
+    "displayAssetbundleName": "sapling_mmj",
+    "releaseConditionId1": 117808,
+    "releaseConditionId2": 117809,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 1102,
+        "areaSpiritWorldTreeId": 17,
+        "flavorText": "A strange light is being emitted.",
+        "weight": 1,
+        "assetbundleName": "sapling",
+        "cueName": "SE_PLA_02"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "areaId": 19,
+    "seq": 4,
+    "worldTreeType": "sapling_before",
+    "displayAssetbundleName": "sapling_vbs",
+    "releaseConditionId1": 117808,
+    "releaseConditionId2": 117809,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 1103,
+        "areaSpiritWorldTreeId": 18,
+        "flavorText": "A strange light is being emitted.",
+        "weight": 1,
+        "assetbundleName": "sapling",
+        "cueName": "SE_PLA_02"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "areaId": 20,
+    "seq": 4,
+    "worldTreeType": "sapling_before",
+    "displayAssetbundleName": "sapling_wnd",
+    "releaseConditionId1": 117808,
+    "releaseConditionId2": 117809,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 1104,
+        "areaSpiritWorldTreeId": 19,
+        "flavorText": "A strange light is being emitted.",
+        "weight": 1,
+        "assetbundleName": "sapling",
+        "cueName": "SE_PLA_02"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "areaId": 21,
+    "seq": 4,
+    "worldTreeType": "sapling_before",
+    "displayAssetbundleName": "sapling_nig",
+    "releaseConditionId1": 117808,
+    "releaseConditionId2": 117809,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 1105,
+        "areaSpiritWorldTreeId": 20,
+        "flavorText": "A strange light is being emitted.",
+        "weight": 1,
+        "assetbundleName": "sapling",
+        "cueName": "SE_PLA_02"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "areaId": 17,
+    "seq": 5,
+    "worldTreeType": "sapling_after",
+    "displayAssetbundleName": "sapling_after_leo",
+    "releaseConditionId1": 117902,
+    "releaseConditionId2": 117903,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 1201,
+        "areaSpiritWorldTreeId": 21,
+        "flavorText": "Little flowers are swaying.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1202,
+        "areaSpiritWorldTreeId": 21,
+        "flavorText": "Calm and still.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1203,
+        "areaSpiritWorldTreeId": 21,
+        "flavorText": "Little flowers are blooming.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1204,
+        "areaSpiritWorldTreeId": 21,
+        "flavorText": "You can hear cheering.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_mmj",
+        "cueName": "SE_PLA_MOREMORE"
+      },
+      {
+        "id": 1205,
+        "areaSpiritWorldTreeId": 21,
+        "flavorText": "You can hear powerful music.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_vbs",
+        "cueName": "SE_PLA_VIVIDBAD"
+      },
+      {
+        "id": 1206,
+        "areaSpiritWorldTreeId": 21,
+        "flavorText": "It sounds quite lively.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_wnd",
+        "cueName": "SE_PLA_WONDERLANDS"
+      },
+      {
+        "id": 1207,
+        "areaSpiritWorldTreeId": 21,
+        "flavorText": "It sounds lonely somehow.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_nig",
+        "cueName": "SE_PLA_NIGHTCODE"
+      },
+      {
+        "id": 1208,
+        "areaSpiritWorldTreeId": 21,
+        "flavorText": "You can hear a gentle, empathetic voice.",
+        "weight": 20,
+        "assetbundleName": "wish_tree_ppr",
+        "cueName": "SE_PLA_VS"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "areaId": 18,
+    "seq": 5,
+    "worldTreeType": "sapling_after",
+    "displayAssetbundleName": "sapling_after_mmj",
+    "releaseConditionId1": 117902,
+    "releaseConditionId2": 117903,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 1301,
+        "areaSpiritWorldTreeId": 22,
+        "flavorText": "Little flowers are swaying.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1302,
+        "areaSpiritWorldTreeId": 22,
+        "flavorText": "Calm and still.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1303,
+        "areaSpiritWorldTreeId": 22,
+        "flavorText": "Little flowers are blooming.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1304,
+        "areaSpiritWorldTreeId": 22,
+        "flavorText": "You can hear musical instruments.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_leo",
+        "cueName": "SE_PLA_LEONEED"
+      },
+      {
+        "id": 1305,
+        "areaSpiritWorldTreeId": 22,
+        "flavorText": "You can hear powerful music.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_vbs",
+        "cueName": "SE_PLA_VIVIDBAD"
+      },
+      {
+        "id": 1306,
+        "areaSpiritWorldTreeId": 22,
+        "flavorText": "It sounds quite lively.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_wnd",
+        "cueName": "SE_PLA_WONDERLANDS"
+      },
+      {
+        "id": 1307,
+        "areaSpiritWorldTreeId": 22,
+        "flavorText": "It sounds lonely somehow.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_nig",
+        "cueName": "SE_PLA_NIGHTCODE"
+      },
+      {
+        "id": 1308,
+        "areaSpiritWorldTreeId": 22,
+        "flavorText": "You can hear a gentle, empathetic voice.",
+        "weight": 20,
+        "assetbundleName": "wish_tree_ppr",
+        "cueName": "SE_PLA_VS"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "areaId": 19,
+    "seq": 5,
+    "worldTreeType": "sapling_after",
+    "displayAssetbundleName": "sapling_after_vbs",
+    "releaseConditionId1": 117902,
+    "releaseConditionId2": 117903,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 1401,
+        "areaSpiritWorldTreeId": 23,
+        "flavorText": "Little flowers are swaying.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1402,
+        "areaSpiritWorldTreeId": 23,
+        "flavorText": "Calm and still.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1403,
+        "areaSpiritWorldTreeId": 23,
+        "flavorText": "Little flowers are blooming.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1404,
+        "areaSpiritWorldTreeId": 23,
+        "flavorText": "You can hear musical instruments.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_leo",
+        "cueName": "SE_PLA_LEONEED"
+      },
+      {
+        "id": 1405,
+        "areaSpiritWorldTreeId": 23,
+        "flavorText": "You can hear cheering.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_mmj",
+        "cueName": "SE_PLA_MOREMORE"
+      },
+      {
+        "id": 1406,
+        "areaSpiritWorldTreeId": 23,
+        "flavorText": "It sounds quite lively.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_wnd",
+        "cueName": "SE_PLA_WONDERLANDS"
+      },
+      {
+        "id": 1407,
+        "areaSpiritWorldTreeId": 23,
+        "flavorText": "It sounds lonely somehow.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_nig",
+        "cueName": "SE_PLA_NIGHTCODE"
+      },
+      {
+        "id": 1408,
+        "areaSpiritWorldTreeId": 23,
+        "flavorText": "You can hear a gentle, empathetic voice.",
+        "weight": 20,
+        "assetbundleName": "wish_tree_ppr",
+        "cueName": "SE_PLA_VS"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "areaId": 20,
+    "seq": 5,
+    "worldTreeType": "sapling_after",
+    "displayAssetbundleName": "sapling_after_wnd",
+    "releaseConditionId1": 117902,
+    "releaseConditionId2": 117903,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 1501,
+        "areaSpiritWorldTreeId": 24,
+        "flavorText": "Little flowers are swaying.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1502,
+        "areaSpiritWorldTreeId": 24,
+        "flavorText": "Calm and still.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1503,
+        "areaSpiritWorldTreeId": 24,
+        "flavorText": "Little flowers are blooming.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1504,
+        "areaSpiritWorldTreeId": 24,
+        "flavorText": "You can hear musical instruments.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_leo",
+        "cueName": "SE_PLA_LEONEED"
+      },
+      {
+        "id": 1505,
+        "areaSpiritWorldTreeId": 24,
+        "flavorText": "You can hear cheering.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_mmj",
+        "cueName": "SE_PLA_MOREMORE"
+      },
+      {
+        "id": 1506,
+        "areaSpiritWorldTreeId": 24,
+        "flavorText": "You can hear powerful music.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_vbs",
+        "cueName": "SE_PLA_VIVIDBAD"
+      },
+      {
+        "id": 1507,
+        "areaSpiritWorldTreeId": 24,
+        "flavorText": "It sounds lonely somehow.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_nig",
+        "cueName": "SE_PLA_NIGHTCODE"
+      },
+      {
+        "id": 1508,
+        "areaSpiritWorldTreeId": 24,
+        "flavorText": "You can hear a gentle, empathetic voice.",
+        "weight": 20,
+        "assetbundleName": "wish_tree_ppr",
+        "cueName": "SE_PLA_VS"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "areaId": 21,
+    "seq": 5,
+    "worldTreeType": "sapling_after",
+    "displayAssetbundleName": "sapling_after_nig",
+    "releaseConditionId1": 117902,
+    "releaseConditionId2": 117903,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 1601,
+        "areaSpiritWorldTreeId": 25,
+        "flavorText": "Little flowers are swaying.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1602,
+        "areaSpiritWorldTreeId": 25,
+        "flavorText": "Calm and still.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1603,
+        "areaSpiritWorldTreeId": 25,
+        "flavorText": "Little flowers are blooming.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1604,
+        "areaSpiritWorldTreeId": 25,
+        "flavorText": "You can hear musical instruments.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_leo",
+        "cueName": "SE_PLA_LEONEED"
+      },
+      {
+        "id": 1605,
+        "areaSpiritWorldTreeId": 25,
+        "flavorText": "You can hear cheering.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_mmj",
+        "cueName": "SE_PLA_MOREMORE"
+      },
+      {
+        "id": 1606,
+        "areaSpiritWorldTreeId": 25,
+        "flavorText": "You can hear powerful music.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_vbs",
+        "cueName": "SE_PLA_VIVIDBAD"
+      },
+      {
+        "id": 1607,
+        "areaSpiritWorldTreeId": 25,
+        "flavorText": "It sounds quite lively.",
+        "weight": 20,
+        "assetbundleName": "sapling_after_wnd",
+        "cueName": "SE_PLA_WONDERLANDS"
+      },
+      {
+        "id": 1608,
+        "areaSpiritWorldTreeId": 25,
+        "flavorText": "You can hear a gentle, empathetic voice.",
+        "weight": 20,
+        "assetbundleName": "wish_tree_ppr",
+        "cueName": "SE_PLA_VS"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "areaId": 27,
+    "seq": 1,
+    "worldTreeType": "wish_tree",
+    "displayAssetbundleName": "wish_tree_ppr",
+    "releaseConditionId1": 117902,
+    "releaseConditionId2": 117903,
+    "areaSpiritWorldTreeReactionLotteries": [
+      {
+        "id": 1701,
+        "areaSpiritWorldTreeId": 26,
+        "flavorText": "You can see fruits glistening.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1702,
+        "areaSpiritWorldTreeId": 26,
+        "flavorText": "Leaves are rustling.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1703,
+        "areaSpiritWorldTreeId": 26,
+        "flavorText": "The breeze seems nice.",
+        "weight": 300,
+        "assetbundleName": "none",
+        "cueName": "SE_PLA_02"
+      },
+      {
+        "id": 1704,
+        "areaSpiritWorldTreeId": 26,
+        "flavorText": "You can hear musical instruments.",
+        "weight": 20,
+        "assetbundleName": "wish_tree_leo",
+        "cueName": "SE_PLA_LEONEED"
+      },
+      {
+        "id": 1705,
+        "areaSpiritWorldTreeId": 26,
+        "flavorText": "You can hear cheering.",
+        "weight": 20,
+        "assetbundleName": "wish_tree_mmj",
+        "cueName": "SE_PLA_MOREMORE"
+      },
+      {
+        "id": 1706,
+        "areaSpiritWorldTreeId": 26,
+        "flavorText": "You can hear powerful music.",
+        "weight": 20,
+        "assetbundleName": "wish_tree_vbs",
+        "cueName": "SE_PLA_VIVIDBAD"
+      },
+      {
+        "id": 1707,
+        "areaSpiritWorldTreeId": 26,
+        "flavorText": "It sounds quite lively.",
+        "weight": 20,
+        "assetbundleName": "wish_tree_wnd",
+        "cueName": "SE_PLA_WONDERLANDS"
+      },
+      {
+        "id": 1708,
+        "areaSpiritWorldTreeId": 26,
+        "flavorText": "It sounds lonely somehow.",
+        "weight": 20,
+        "assetbundleName": "wish_tree_nig",
+        "cueName": "SE_PLA_NIGHTCODE"
       }
     ]
   }
