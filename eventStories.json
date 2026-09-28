@@ -5752,7 +5752,7 @@
         "id": 1000366,
         "eventStoryId": 45,
         "episodeNo": 9,
-        "title": "Please Let It Comes True",
+        "title": "Please Let It Come True",
         "assetbundleName": "event_prayer_2022_09",
         "scenarioId": "event_45_09",
         "releaseConditionId": 104408,
@@ -23689,6 +23689,135 @@
           {
             "storyType": "event_story",
             "resourceBoxId": 132
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "eventId": 181,
+    "outline": "An has finally caught up on the schoolwork she missed during her time in the US, when she and other high-schooler artists in the area are invited to perform at a music festival on a remote island.",
+    "bannerGameCharacterUnitId": 10,
+    "assetbundleName": "event_golden_2025",
+    "eventStoryEpisodes": [
+      {
+        "id": 1001475,
+        "eventStoryId": 181,
+        "episodeNo": 1,
+        "title": "Invitation to the Festival",
+        "assetbundleName": "event_golden_2025_01",
+        "scenarioId": "event_181_01",
+        "releaseConditionId": 1,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001476,
+        "eventStoryId": 181,
+        "episodeNo": 2,
+        "title": "After Rehearsal",
+        "assetbundleName": "event_golden_2025_02",
+        "scenarioId": "event_181_02",
+        "releaseConditionId": 118001,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001477,
+        "eventStoryId": 181,
+        "episodeNo": 3,
+        "title": "A Stamp Rally Adventure",
+        "assetbundleName": "event_golden_2025_03",
+        "scenarioId": "event_181_03",
+        "releaseConditionId": 118002,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001478,
+        "eventStoryId": 181,
+        "episodeNo": 4,
+        "title": "A Chapter of Our Youth",
+        "assetbundleName": "event_golden_2025_04",
+        "scenarioId": "event_181_04",
+        "releaseConditionId": 118003,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001479,
+        "eventStoryId": 181,
+        "episodeNo": 5,
+        "title": "My Happiest Days",
+        "assetbundleName": "event_golden_2025_05",
+        "scenarioId": "event_181_05",
+        "releaseConditionId": 118004,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001480,
+        "eventStoryId": 181,
+        "episodeNo": 6,
+        "title": "What Does Last",
+        "assetbundleName": "event_golden_2025_06",
+        "scenarioId": "event_181_06",
+        "releaseConditionId": 118005,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001481,
+        "eventStoryId": 181,
+        "episodeNo": 7,
+        "title": "Ultimate Excitement",
+        "assetbundleName": "event_golden_2025_07",
+        "scenarioId": "event_181_07",
+        "releaseConditionId": 118006,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 1001482,
+        "eventStoryId": 181,
+        "episodeNo": 8,
+        "title": "Sprinting Toward the Future",
+        "assetbundleName": "event_golden_2025_08",
+        "scenarioId": "event_181_08",
+        "releaseConditionId": 118007,
+        "episodeRewards": [
+          {
+            "storyType": "event_story",
+            "resourceBoxId": 133
           }
         ]
       }

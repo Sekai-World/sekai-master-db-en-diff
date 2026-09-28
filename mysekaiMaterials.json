@@ -346,7 +346,7 @@
     "mysekaiMaterialType": "plant",
     "name": "Petal",
     "pronunciation": "petal",
-    "description": "Put some color in your life with the prettiest part of a flower. Obtained from flowers.",
+    "description": "Put some color in your life with the prettiest part of a flower. Obtained from flowers. Most abundant on sunny days.",
     "mysekaiMaterialRarityType": "rarity_1",
     "iconAssetbundleName": "item_plant_4",
     "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop01",
@@ -360,7 +360,7 @@
     "mysekaiMaterialType": "tone",
     "name": "Plain Note",
     "pronunciation": "plainnote",
-    "description": "A straightforward musical note, untouched by anything else. Obtained by listening carefully in the Forgotten Place. Use it in the Converter to obtain materials.",
+    "description": "A straightforward musical note, untouched by anything else. Obtained by listening carefully in the Forgotten Place. Appears more on sunny days. Use it in the Converter to obtain materials.",
     "mysekaiMaterialRarityType": "rarity_1",
     "iconAssetbundleName": "item_tone_8",
     "modelAssetbundleName": "mdl_site_tone_common_tonedrop08",
@@ -807,6 +807,18 @@
       6,
       8
     ]
+  },
+  {
+    "id": 72,
+    "seq": 706,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "Haruka's Celebration Flower",
+    "pronunciation": "haruka'scelebrationflower",
+    "description": "Used to build furniture to celebrate Haruka's birthday.\n*Can only be used in the 2026 birthday event.",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_6",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop106",
+    "mysekaiSiteIds": []
   },
   {
     "id": 93,
