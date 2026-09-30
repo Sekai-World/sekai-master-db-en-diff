@@ -42,6 +42,16 @@
     "endAt": 1796626799000
   },
   {
+    "homeBannerId": 1212,
+    "seq": 160,
+    "homeBannerType": "general",
+    "name": "5周年クリスタルショップ_JP",
+    "assetbundleName": "banner_shop_5th_anniversary",
+    "transitionDestinationType": "billing_shop_for_jewel",
+    "startAt": 1790751600000,
+    "endAt": 1791745199000
+  },
+  {
     "homeBannerId": 1215,
     "seq": 100,
     "homeBannerType": "general",
@@ -95,5 +105,60 @@
     "transitionDestinationId": 107,
     "startAt": 1790535600000,
     "endAt": 1790794799000
+  },
+  {
+    "homeBannerId": 100417,
+    "seq": 30,
+    "homeBannerType": "general",
+    "name": "[ガチャ]1\/3セレクトリストガチャ LIMITED EDITION",
+    "assetbundleName": "banner_gacha832",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 832,
+    "startAt": 1790751600000,
+    "endAt": 1791745199000
+  },
+  {
+    "homeBannerId": 100418,
+    "seq": 40,
+    "homeBannerType": "general",
+    "name": "[ガチャ]メモリアルセレクトガチャ",
+    "assetbundleName": "banner_gacha833",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 833,
+    "startAt": 1790751600000,
+    "endAt": 1791745199000
+  },
+  {
+    "homeBannerId": 100419,
+    "seq": 50,
+    "homeBannerType": "general",
+    "name": "[ガチャ]プレプレガチャ全体バナー",
+    "assetbundleName": "banner_gacha_tab36",
+    "transitionDestinationType": "gacha_tab_parent",
+    "transitionDestinationId": 109,
+    "startAt": 1790751600000,
+    "endAt": 1791745199000
+  },
+  {
+    "homeBannerId": 100420,
+    "seq": 200,
+    "homeBannerType": "general",
+    "name": "[ガチャ]無料ガチャバナー",
+    "assetbundleName": "banner_gacha834",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 834,
+    "startAt": 1790751600000,
+    "endAt": 1793473199000
+  },
+  {
+    "homeBannerId": 100425,
+    "seq": 170,
+    "homeBannerType": "general",
+    "name": "JP 5th Anniversary Special Show",
+    "assetbundleName": "banner_virtuallive426",
+    "transitionDestinationType": "virtual_live",
+    "transitionDestinationId": 426,
+    "startAt": 1790751600000,
+    "endAt": 1790838000000
   }
 ]
