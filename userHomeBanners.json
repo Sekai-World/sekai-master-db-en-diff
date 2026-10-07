@@ -52,16 +52,6 @@
     "endAt": 1791745199000
   },
   {
-    "homeBannerId": 1213,
-    "seq": 120,
-    "homeBannerType": "general",
-    "name": "Haruka Kiritani Birthday Set",
-    "assetbundleName": "banner_shop_bd_set_haruka_gl",
-    "transitionDestinationType": "billing_shop_for_value_set",
-    "startAt": 1790881200000,
-    "endAt": 1791399599000
-  },
-  {
     "homeBannerId": 100351,
     "seq": 45,
     "homeBannerType": "general",
@@ -159,5 +149,16 @@
     "transitionDestinationId": 5363,
     "startAt": 1790924400000,
     "endAt": 1791442799000
+  },
+  {
+    "homeBannerId": 100431,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "[It's Back] Talent Blooms Gacha",
+    "assetbundleName": "banner_gacha843",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 843,
+    "startAt": 1791399600000,
+    "endAt": 1792177199000
   }
 ]
