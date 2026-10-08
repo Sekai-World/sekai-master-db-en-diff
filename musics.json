@@ -393,7 +393,8 @@
     "releaseConditionId": 5,
     "categories": [
       "original",
-      "mv_2d"
+      "mv_2d",
+      "mv"
     ],
     "title": "Miracle Paint",
     "pronunciation": "miraclepaint",
@@ -1463,7 +1464,8 @@
     "seq": 1203601,
     "releaseConditionId": 5,
     "categories": [
-      "original"
+      "original",
+      "mv"
     ],
     "title": "Dramaturgy",
     "pronunciation": "dramaturgy",
@@ -1682,7 +1684,8 @@
     "seq": 1403401,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      "mv_2d",
+      "mv"
     ],
     "title": "ECHO",
     "pronunciation": "echo",
@@ -1922,7 +1925,8 @@
     "seq": 1103501,
     "releaseConditionId": 5,
     "categories": [
-      "image"
+      "image",
+      "mv"
     ],
     "title": "Senbonzakura",
     "pronunciation": "senbonzakura",
@@ -2239,7 +2243,8 @@
     "releaseConditionId": 5,
     "categories": [
       "original",
-      "mv_2d"
+      "mv_2d",
+      "mv"
     ],
     "title": "dreamin chuchu",
     "pronunciation": "dreaminchuchu",
@@ -3845,7 +3850,8 @@
     "seq": 2616702,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Nomad",
     "pronunciation": "nomad",
@@ -5971,7 +5977,8 @@
     "seq": 1622201,
     "releaseConditionId": 5,
     "categories": [
-      "mv_2d"
+      "mv_2d",
+      "mv"
     ],
     "title": "phony",
     "pronunciation": "phony",
@@ -12997,6 +13004,30 @@
     "isFullLength": false
   },
   {
+    "id": 570,
+    "seq": 2264601,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv"
+    ],
+    "title": "Star",
+    "pronunciation": "star",
+    "creatorArtistId": 236,
+    "lyricist": "Daibakuhasin",
+    "composer": "Daibakuhasin",
+    "arranger": "Daibakuhasin",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_570",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1792476300000,
+    "releasedAt": 1760860800000,
+    "liveStageId": 1,
+    "fillerSec": 9.419500350952148,
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
     "id": 571,
     "seq": 1462901,
     "releaseConditionId": 5,
@@ -13303,7 +13334,8 @@
     "seq": 2461702,
     "releaseConditionId": 10,
     "categories": [
-      "mv"
+      "mv",
+      "mv_2d"
     ],
     "title": "Accelerate",
     "pronunciation": "accelerate",
@@ -14697,6 +14729,54 @@
     "isFullLength": false
   },
   {
+    "id": 652,
+    "seq": 1164401,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Kareshi No Jude",
+    "pronunciation": "kareshinojude",
+    "creatorArtistId": 28,
+    "lyricist": "syudou",
+    "composer": "syudou",
+    "arranger": "syudou",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_652",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1792015200000,
+    "releasedAt": 1628928000000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 653,
+    "seq": 1164501,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Pamela",
+    "pronunciation": "pamela",
+    "creatorArtistId": 11,
+    "lyricist": "Balloon",
+    "composer": "Balloon",
+    "arranger": "Balloon",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_653",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1792101600000,
+    "releasedAt": 1634284800000,
+    "liveStageId": 1,
+    "fillerSec": 8.1899995803833,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 654,
     "seq": 1147401,
     "releaseConditionId": 5,
@@ -14790,6 +14870,30 @@
     "liveStageId": 1,
     "fillerSec": 9.0,
     "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 659,
+    "seq": 2364701,
+    "releaseConditionId": 10,
+    "categories": [
+      "mv_2d"
+    ],
+    "title": "To be with you",
+    "pronunciation": "tobewithyou ",
+    "creatorArtistId": 60,
+    "lyricist": "YUZY",
+    "composer": "YUZY",
+    "arranger": "YUZY",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_659",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1792620000000,
+    "releasedAt": 1761033600000,
+    "liveStageId": 1,
+    "fillerSec": 7.63640022277832,
+    "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
   {
@@ -15057,6 +15161,30 @@
     "fillerSec": 9.0,
     "musicCollaborationId": 10,
     "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
+    "id": 677,
+    "seq": 1164801,
+    "releaseConditionId": 5,
+    "categories": [
+      "image"
+    ],
+    "title": "Abelia",
+    "pronunciation": "abelia",
+    "creatorArtistId": 300,
+    "lyricist": "Aliey:S",
+    "composer": "Aliey:S",
+    "arranger": "Aliey:S",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_677",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1793138400000,
+    "releasedAt": 1751875200000,
+    "liveStageId": 1,
+    "fillerSec": 9.052000045776367,
+    "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {

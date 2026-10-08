@@ -30096,6 +30096,166 @@
     "assetbundleName": "mdl_bir1106_fixture_chair1"
   },
   {
+    "id": 849,
+    "mysekaiFixtureType": "system",
+    "name": "Honami's Birthday Cake",
+    "pronunciation": "honami'sbirthdaycake",
+    "flavorText": "Honami's Birthday Cake",
+    "seq": 60001006,
+    "gridSize": {
+      "width": 4,
+      "depth": 4,
+      "height": 3
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 9,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 849,
+      "mysekaiFixtureTagId1": 10947,
+      "mysekaiFixtureTagId2": 10952,
+      "mysekaiFixtureTagId3": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_bir1103_fixture_cake1"
+  },
+  {
+    "id": 850,
+    "mysekaiFixtureType": "normal",
+    "name": "Honami's Birthday Balloons",
+    "pronunciation": "honami'sbirthdayballoons",
+    "flavorText": "Honami's Birthday Balloons",
+    "seq": 60001007,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 5
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 12,
+    "mysekaiFixtureTagGroup": {
+      "id": 850,
+      "mysekaiFixtureTagId1": 10948,
+      "mysekaiFixtureTagId2": 10952,
+      "mysekaiFixtureTagId3": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_bir1103_fixture_balloon1"
+  },
+  {
+    "id": 851,
+    "mysekaiFixtureType": "normal",
+    "name": "Honami's Birthday Bouquet",
+    "pronunciation": "honami'sbirthdaybouquet",
+    "flavorText": "Honami's Birthday Bouquet",
+    "seq": 60001008,
+    "gridSize": {
+      "width": 1,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "put_target",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 13,
+    "mysekaiFixtureTagGroup": {
+      "id": 851,
+      "mysekaiFixtureTagId1": 10949,
+      "mysekaiFixtureTagId2": 10952,
+      "mysekaiFixtureTagId3": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_bir1103_fixture_flower1"
+  },
+  {
+    "id": 852,
+    "mysekaiFixtureType": "normal",
+    "name": "Honami's Birthday Garland",
+    "pronunciation": "honami'sbirthdaygarland",
+    "flavorText": "Honami's Birthday Garland",
+    "seq": 60001009,
+    "gridSize": {
+      "width": 6,
+      "depth": 1,
+      "height": 2
+    },
+    "mysekaiFixtureMainGenreId": 4,
+    "mysekaiFixtureSubGenreId": 14,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "wall",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 10,
+    "mysekaiFixtureTagGroup": {
+      "id": 852,
+      "mysekaiFixtureTagId1": 10950,
+      "mysekaiFixtureTagId2": 10952,
+      "mysekaiFixtureTagId3": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_bir1103_fixture_garland1"
+  },
+  {
+    "id": 853,
+    "mysekaiFixtureType": "normal",
+    "name": "Honami's Birthday Chair",
+    "pronunciation": "honami'sbirthdaychair",
+    "flavorText": "Honami's Birthday Chair",
+    "seq": 60001010,
+    "gridSize": {
+      "width": 2,
+      "depth": 2,
+      "height": 4
+    },
+    "mysekaiFixtureMainGenreId": 2,
+    "mysekaiFixtureSubGenreId": 4,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "any",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 2,
+    "mysekaiFixtureTagGroup": {
+      "id": 853,
+      "mysekaiFixtureTagId1": 10951,
+      "mysekaiFixtureTagId2": 10952,
+      "mysekaiFixtureTagId3": 4
+    },
+    "isAssembled": true,
+    "isDisassembled": true,
+    "mysekaiFixturePlayerActionType": "timeline",
+    "isGameCharacterAction": true,
+    "assetbundleName": "mdl_bir1103_fixture_chair1"
+  },
+  {
     "id": 974,
     "mysekaiFixtureType": "normal",
     "name": "Rustic Japanese Floor Cushion",
