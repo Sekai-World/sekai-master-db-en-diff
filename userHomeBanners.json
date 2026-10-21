@@ -75,17 +75,6 @@
     "endAt": 1793473199000
   },
   {
-    "homeBannerId": 100428,
-    "seq": 100,
-    "homeBannerType": "event",
-    "name": "[イベント]レオニ箱イベ_イベントバナー",
-    "assetbundleName": "event_heartbeat_2025",
-    "transitionDestinationType": "event",
-    "transitionDestinationId": 182,
-    "startAt": 1791756000000,
-    "endAt": 1792619999000
-  },
-  {
     "homeBannerId": 100432,
     "seq": 150,
     "homeBannerType": "general",
@@ -117,5 +106,16 @@
     "transitionDestinationId": 846,
     "startAt": 1792609200000,
     "endAt": 1793473199000
+  },
+  {
+    "homeBannerId": 100437,
+    "seq": 100,
+    "homeBannerType": "event",
+    "name": "[イベント]モモジャン箱イベ_イベントバナー",
+    "assetbundleName": "event_colorcross_2025",
+    "transitionDestinationType": "event",
+    "transitionDestinationId": 183,
+    "startAt": 1792620000000,
+    "endAt": 1793483999000
   }
 ]
