@@ -1428,6 +1428,22 @@
     "materialType": "birthday_party_delivery"
   },
   {
+    "id": 184,
+    "seq": 30011,
+    "name": "Coral Festivity Dewdrops",
+    "flavorText": "彰人の誕生日をお祝いする花を育てるためのあまつゆ。\n※2025年バースデーイベントでのみ利用可能",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
+    "id": 198,
+    "seq": 30025,
+    "name": "Red Festivity Dewdrops",
+    "flavorText": "MEIKOの記念日をお祝いする花を育てるためのあまつゆ。\n※2025年アニバーサリーイベントでのみ利用可能",
+    "canUse": false,
+    "materialType": "birthday_party_delivery"
+  },
+  {
     "id": 200,
     "seq": 10618,
     "name": "Red Memory Charm",
@@ -1610,5 +1626,21 @@
     "flavorText": "Can be traded for a 2★ Character of your choice in the Movie 2-Star Character Voucher Exchange.\nExpiry Date: Jan. 6, 2027 11:59 PM (PT)",
     "canUse": false,
     "materialType": "card_ticket"
+  },
+  {
+    "id": 1000016,
+    "seq": 1000016,
+    "name": "Decal Voucher",
+    "flavorText": "Can be traded for Decals in the Voucher Exchange menu.",
+    "canUse": false,
+    "materialType": "decal_ticket_gl"
+  },
+  {
+    "id": 1000017,
+    "seq": 1000017,
+    "name": "Costume Voucher",
+    "flavorText": "Can be traded for Global Original Costumes in the Voucher Exchange menu.",
+    "canUse": false,
+    "materialType": "costume_ticket_gl"
   }
 ]
