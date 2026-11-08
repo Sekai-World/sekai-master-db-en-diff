@@ -75,17 +75,6 @@
     "endAt": 1794351599000
   },
   {
-    "homeBannerId": 100451,
-    "seq": 130,
-    "homeBannerType": "general",
-    "name": "[MEIKO]HAPPY ANNIVERSARYイベント",
-    "assetbundleName": "banner_birthday_meiko_2025",
-    "transitionDestinationType": "information",
-    "transitionDestinationId": 5492,
-    "startAt": 1793606400000,
-    "endAt": 1794124800000
-  },
-  {
     "homeBannerId": 100452,
     "seq": 80,
     "homeBannerType": "general",
@@ -106,6 +95,17 @@
     "transitionDestinationId": 854,
     "startAt": 1793649600000,
     "endAt": 1794427199000
+  },
+  {
+    "homeBannerId": 100456,
+    "seq": 140,
+    "homeBannerType": "general",
+    "name": "Akito Shinonome Happy Birthday 2026 Gacha",
+    "assetbundleName": "banner_gacha856",
+    "transitionDestinationType": "gacha",
+    "transitionDestinationId": 856,
+    "startAt": 1794124800000,
+    "endAt": 1794556799000
   },
   {
     "homeBannerId": 100463,
