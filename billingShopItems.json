@@ -4114,8 +4114,8 @@
     "assetbundleName": "shop_20137",
     "resourceBoxId": 20117,
     "bonusResourceBoxId": 20122,
-    "startAt": 1793516400000,
-    "endAt": 1794124799000
+    "startAt": 1796198400000,
+    "endAt": 1796803199000
   },
   {
     "id": 20141,
@@ -6513,6 +6513,21 @@
     "resourceBoxId": 50148,
     "startAt": 1794168000000,
     "endAt": 1794686399000
+  },
+  {
+    "id": 50149,
+    "seq": 820,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 50225,
+    "name": "Shizuku Hinomori Birthday Set",
+    "description": "Party Cake x1、Bonus Energy Drink (L) x3、Pastel Green Memoria x1",
+    "billableLimitType": "count",
+    "billableLimitValue": 3,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_50149",
+    "resourceBoxId": 50149,
+    "startAt": 1796241600000,
+    "endAt": 1796759999000
   },
   {
     "id": 50201,
@@ -11844,6 +11859,85 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 483,
     "startAt": 1793516400000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300930,
+    "seq": 463570,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "[Star] Costumes All Colors",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 484,
+    "startAt": 1796112000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300931,
+    "seq": 463571,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Star] Costumes Original Color",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 485,
+    "startAt": 1796112000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300932,
+    "seq": 463572,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Star] Costumes Color Variant 1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 486,
+    "startAt": 1796112000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300933,
+    "seq": 463573,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Star] Costumes Color Variant 2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 487,
+    "startAt": 1796112000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300934,
+    "seq": 463574,
+    "billingShopItemType": "costume_3d",
+    "saleType": "single",
+    "name": "[Star] Costumes Color Variant 3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "resourceBoxId": 488,
+    "startAt": 1796112000000,
+    "purchaseOption": "exchange"
+  },
+  {
+    "id": 300940,
+    "seq": 463570,
+    "billingShopItemType": "costume_3d",
+    "saleType": "bundle",
+    "name": "[COLORFUL STAGE! Championship Autumn 2024] Costumes",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_300940",
+    "resourceBoxId": 489,
+    "startAt": 1796112000000,
     "purchaseOption": "exchange"
   },
   {
