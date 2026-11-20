@@ -25327,6 +25327,333 @@
     ]
   },
   {
+    "id": 14,
+    "name": "COLORFUL STAGE!×Ensemble Stars!! Music Crossover Stamp Missions",
+    "assetbundleName": "ensemble_collab_2026_pm",
+    "bgmAssetbundleName": "ensemble_collab_2026_pm_bgm",
+    "selectableLimit": 2,
+    "startAt": 1795464000000,
+    "progressEndAt": 1796716799000,
+    "closedAt": 1796716799000,
+    "distributionEndAt": 1797926399000,
+    "informationId": 3558,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1401,
+        "panelMissionCampaignId": 14,
+        "name": "Songs",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 140101,
+            "panelMissionSheetGroupId": 1401,
+            "name": "Song Card",
+            "seq": 1,
+            "assetbundleName": "sheet_ensemble_collab_music",
+            "panelMissions": [
+              {
+                "id": 14010101,
+                "panelMissionSheetId": 140101,
+                "name": "Clear Fusion 1 time",
+                "description": "Clear the song Fusion 1 time.",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 1,
+                "rewards": [
+                  {
+                    "id": 17794,
+                    "missionType": "panel_mission",
+                    "missionId": 14010101,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14010102,
+                "panelMissionSheetId": 140101,
+                "name": "Clear 3 Songs",
+                "description": "Clear 3 different songs.\n(Includes Auto-Play.)",
+                "seq": 2,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 3,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 17795,
+                    "missionType": "panel_mission",
+                    "missionId": 14010102,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14010103,
+                "panelMissionSheetId": 140101,
+                "name": "Clear 5 Songs",
+                "description": "Clear 5 different songs.\n(Includes Auto-Play.)",
+                "seq": 3,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 5,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 17796,
+                    "missionType": "panel_mission",
+                    "missionId": 14010103,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14010104,
+                "panelMissionSheetId": 140101,
+                "name": "Clear 10 Songs",
+                "description": "Clear 10 different songs.\n(Includes Auto-Play.)",
+                "seq": 4,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 10,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 17797,
+                    "missionType": "panel_mission",
+                    "missionId": 14010104,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14010105,
+                "panelMissionSheetId": 140101,
+                "name": "Clear 15 Songs",
+                "description": "Clear 15 different songs.\n(Includes Auto-Play.)",
+                "seq": 5,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 15,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 17798,
+                    "missionType": "panel_mission",
+                    "missionId": 14010105,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14010106,
+                "panelMissionSheetId": 140101,
+                "name": "Clear 20 Songs",
+                "description": "Clear 20 different songs.\n(Includes Auto-Play.)",
+                "seq": 6,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 20,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 17799,
+                    "missionType": "panel_mission",
+                    "missionId": 14010106,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14010107,
+                "panelMissionSheetId": 140101,
+                "name": "Clear 25 Songs",
+                "description": "Clear 25 different songs.\n(Includes Auto-Play.)",
+                "seq": 7,
+                "panelMissionType": "live_clear_with_different_music",
+                "requirement1": 25,
+                "requirement2": 1,
+                "rewards": [
+                  {
+                    "id": 17800,
+                    "missionType": "panel_mission",
+                    "missionId": 14010107,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 17801,
+                "missionType": "panel_mission_complete",
+                "missionId": 140101,
+                "seq": 1,
+                "resourceBoxId": 2035
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1402,
+        "panelMissionCampaignId": 14,
+        "name": "MYSEKAI",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 140201,
+            "panelMissionSheetGroupId": 1402,
+            "name": "MYSEKAI Card",
+            "seq": 1,
+            "assetbundleName": "sheet_ensemble_collab_mysekai",
+            "panelMissions": [
+              {
+                "id": 14020101,
+                "panelMissionSheetId": 140201,
+                "name": "Collect 10 MYSEKAI Resources",
+                "description": "Collect 10 resources in MYSEKAI.",
+                "seq": 1,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 10,
+                "rewards": [
+                  {
+                    "id": 17802,
+                    "missionType": "panel_mission",
+                    "missionId": 14020101,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14020102,
+                "panelMissionSheetId": 140201,
+                "name": "Collect 50 MYSEKAI Resources",
+                "description": "Collect 50 resources in MYSEKAI.",
+                "seq": 2,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 50,
+                "rewards": [
+                  {
+                    "id": 17803,
+                    "missionType": "panel_mission",
+                    "missionId": 14020102,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14020103,
+                "panelMissionSheetId": 140201,
+                "name": "Collect 100 MYSEKAI Resources",
+                "description": "Collect 100 resources in MYSEKAI.",
+                "seq": 3,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 100,
+                "rewards": [
+                  {
+                    "id": 17804,
+                    "missionType": "panel_mission",
+                    "missionId": 14020103,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14020104,
+                "panelMissionSheetId": 140201,
+                "name": "Collect 300 MYSEKAI Resources",
+                "description": "Collect 300 resources in MYSEKAI.",
+                "seq": 4,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 300,
+                "rewards": [
+                  {
+                    "id": 17805,
+                    "missionType": "panel_mission",
+                    "missionId": 14020104,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14020105,
+                "panelMissionSheetId": 140201,
+                "name": "Collect 500 MYSEKAI Resources",
+                "description": "Collect 500 resources in MYSEKAI.",
+                "seq": 5,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 500,
+                "rewards": [
+                  {
+                    "id": 17806,
+                    "missionType": "panel_mission",
+                    "missionId": 14020105,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14020106,
+                "panelMissionSheetId": 140201,
+                "name": "Collect 700 MYSEKAI Resources",
+                "description": "Collect 700 resources in MYSEKAI.",
+                "seq": 6,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 700,
+                "rewards": [
+                  {
+                    "id": 17807,
+                    "missionType": "panel_mission",
+                    "missionId": 14020106,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              },
+              {
+                "id": 14020107,
+                "panelMissionSheetId": 140201,
+                "name": "Collect 1,000 MYSEKAI Resources",
+                "description": "Collect 1,000 resources in MYSEKAI.",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1000,
+                "rewards": [
+                  {
+                    "id": 17808,
+                    "missionType": "panel_mission",
+                    "missionId": 14020107,
+                    "seq": 1,
+                    "resourceBoxId": 1883
+                  }
+                ]
+              }
+            ],
+            "rewards": [
+              {
+                "id": 17809,
+                "missionType": "panel_mission_complete",
+                "missionId": 140201,
+                "seq": 1,
+                "resourceBoxId": 2036
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 15,
     "name": "DEEMO×Cytus Series Collaboration Stamp Missions",
     "assetbundleName": "dc_tieup_pm",

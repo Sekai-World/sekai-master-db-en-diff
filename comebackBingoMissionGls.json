@@ -1,0 +1,249 @@
+[
+  {
+    "id": 1,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "play_live",
+    "position": 1,
+    "requirement": 1,
+    "name": "Play 1 Show",
+    "description": "Play 1 show. (Excludes Auto-Play.)",
+    "rewards": [
+      {
+        "id": 50000001,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 1,
+        "seq": 1,
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "play_live",
+    "position": 2,
+    "requirement": 3,
+    "name": "Play 3 Shows",
+    "description": "Play 3 shows. (Excludes Auto-Play.)",
+    "rewards": [
+      {
+        "id": 50000002,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 2,
+        "seq": 1,
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "full_combo",
+    "position": 3,
+    "requirement": 1,
+    "name": "1 Full Combo",
+    "description": "Achieve 1 Full Combo.",
+    "rewards": [
+      {
+        "id": 50000003,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 3,
+        "seq": 1,
+        "resourceBoxId": 500003
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "card_level_up",
+    "position": 4,
+    "requirement": 1,
+    "name": "Level Up a Character",
+    "description": "Level up a Character.",
+    "rewards": [
+      {
+        "id": 50000004,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 4,
+        "seq": 1,
+        "resourceBoxId": 500003
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "play_live",
+    "position": 5,
+    "requirement": 10,
+    "name": "Play 10 Shows",
+    "description": "Play 10 shows. (Excludes Auto-Play.)",
+    "rewards": [
+      {
+        "id": 50000005,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 5,
+        "seq": 1,
+        "resourceBoxId": 500004
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "play_live",
+    "position": 6,
+    "requirement": 5,
+    "name": "Play 5 Shows",
+    "description": "Play 5 shows. (Excludes Auto-Play.)",
+    "rewards": [
+      {
+        "id": 50000006,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 6,
+        "seq": 1,
+        "resourceBoxId": 500005
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "play_multi_live",
+    "position": 7,
+    "requirement": 1,
+    "name": "Play 1 Co-op Show",
+    "description": "Play 1 Co-op Show.",
+    "rewards": [
+      {
+        "id": 50000007,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 7,
+        "seq": 1,
+        "resourceBoxId": 500003
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "enter_mysekai",
+    "position": 8,
+    "requirement": 1,
+    "name": "Visit MYSEKAI",
+    "description": "Visit MYSEKAI.",
+    "rewards": [
+      {
+        "id": 50000008,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 8,
+        "seq": 1,
+        "resourceBoxId": 500002
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "read_story_without_skip",
+    "position": 9,
+    "requirement": 1,
+    "name": "View 1 Story Episode",
+    "description": "View 1 story episode without skipping or fast forwarding.",
+    "rewards": [
+      {
+        "id": 50000009,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 9,
+        "seq": 1,
+        "resourceBoxId": 500001
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "line",
+    "requirement": 1,
+    "name": "Make Bingo x1!",
+    "description": "Complete 1 vertical, horizontal or diagonal line.",
+    "rewards": [
+      {
+        "id": 50000010,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 10,
+        "seq": 1,
+        "resourceBoxId": 500006
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "line",
+    "requirement": 2,
+    "name": "Make Bingo x2!",
+    "description": "Complete 2 vertical, horizontal or diagonal lines.",
+    "rewards": [
+      {
+        "id": 50000011,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 11,
+        "seq": 1,
+        "resourceBoxId": 500007
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "line",
+    "requirement": 3,
+    "name": "Make Bingo x3!",
+    "description": "Complete 3 vertical, horizontal or diagonal lines.",
+    "rewards": [
+      {
+        "id": 50000012,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 12,
+        "seq": 1,
+        "resourceBoxId": 500006
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "line",
+    "requirement": 5,
+    "name": "Make Bingo x5!",
+    "description": "Complete 5 vertical, horizontal or diagonal lines.",
+    "rewards": [
+      {
+        "id": 50000013,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 13,
+        "seq": 1,
+        "resourceBoxId": 500007
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "comebackBingoGlId": 1,
+    "comebackBingoMissionType": "line",
+    "requirement": 8,
+    "name": "Blackout!",
+    "description": "Complete all vertical, horizontal and diagonal lines.",
+    "rewards": [
+      {
+        "id": 50000014,
+        "missionType": "comeback_bingo_mission_gl",
+        "missionId": 14,
+        "seq": 1,
+        "resourceBoxId": 500006
+      }
+    ]
+  }
+]

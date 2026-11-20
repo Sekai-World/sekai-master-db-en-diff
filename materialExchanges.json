@@ -79901,6 +79901,50 @@
     "materialExchangeRelationParents": []
   },
   {
+    "id": 1001389,
+    "materialExchangeSummaryId": 1000025,
+    "seq": 489,
+    "releaseConditionId": 7000173,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 4000489,
+    "refreshCycle": "none",
+    "exchangeLimit": 1,
+    "startAt": 1795215600000,
+    "costs": [
+      {
+        "materialExchangeId": 1001389,
+        "costGroupId": 1001389,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 1000016,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001390,
+    "materialExchangeSummaryId": 1000025,
+    "seq": 490,
+    "releaseConditionId": 7000174,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 4000490,
+    "refreshCycle": "none",
+    "exchangeLimit": 1,
+    "startAt": 1796079600000,
+    "costs": [
+      {
+        "materialExchangeId": 1001390,
+        "costGroupId": 1001390,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 1000016,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
     "id": 1001408,
     "materialExchangeSummaryId": 1000026,
     "seq": 1,
@@ -80448,6 +80492,6447 @@
         "resourceType": "material",
         "resourceId": 1000017,
         "quantity": 10
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001437,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 10,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310001,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001437,
+        "costGroupId": 1001437,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001438,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 20,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310002,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001438,
+        "costGroupId": 1001438,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001439,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 30,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310003,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001439,
+        "costGroupId": 1001439,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001440,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 40,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310004,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001440,
+        "costGroupId": 1001440,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001441,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 50,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310005,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001441,
+        "costGroupId": 1001441,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001442,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 60,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310006,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001442,
+        "costGroupId": 1001442,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001443,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 70,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310007,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001443,
+        "costGroupId": 1001443,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001444,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 80,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310008,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001444,
+        "costGroupId": 1001444,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001445,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 90,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310009,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001445,
+        "costGroupId": 1001445,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001446,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 100,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310010,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001446,
+        "costGroupId": 1001446,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001447,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 110,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310011,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001447,
+        "costGroupId": 1001447,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001448,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 120,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310012,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001448,
+        "costGroupId": 1001448,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001449,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 130,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310013,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001449,
+        "costGroupId": 1001449,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001450,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 140,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310014,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001450,
+        "costGroupId": 1001450,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001451,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 150,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310015,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001451,
+        "costGroupId": 1001451,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001452,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 160,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310016,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001452,
+        "costGroupId": 1001452,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001453,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 170,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310017,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001453,
+        "costGroupId": 1001453,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001454,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 180,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310018,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001454,
+        "costGroupId": 1001454,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001455,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 190,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310019,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001455,
+        "costGroupId": 1001455,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001456,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 200,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310020,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001456,
+        "costGroupId": 1001456,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001457,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 210,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310021,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001457,
+        "costGroupId": 1001457,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001458,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 220,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310022,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001458,
+        "costGroupId": 1001458,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001459,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 230,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310023,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001459,
+        "costGroupId": 1001459,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001460,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 240,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310024,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001460,
+        "costGroupId": 1001460,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001461,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 250,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310025,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001461,
+        "costGroupId": 1001461,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001462,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 260,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310026,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001462,
+        "costGroupId": 1001462,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001463,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 270,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310027,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001463,
+        "costGroupId": 1001463,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001464,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 280,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310028,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001464,
+        "costGroupId": 1001464,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001465,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 290,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310029,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001465,
+        "costGroupId": 1001465,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001466,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 300,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310030,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001466,
+        "costGroupId": 1001466,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001467,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 310,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310031,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001467,
+        "costGroupId": 1001467,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001468,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 320,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310032,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001468,
+        "costGroupId": 1001468,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001469,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 330,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310033,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001469,
+        "costGroupId": 1001469,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001470,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 340,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310034,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001470,
+        "costGroupId": 1001470,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001471,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 350,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310035,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001471,
+        "costGroupId": 1001471,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001472,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 360,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310036,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001472,
+        "costGroupId": 1001472,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001473,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 370,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310037,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001473,
+        "costGroupId": 1001473,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001474,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 380,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310038,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001474,
+        "costGroupId": 1001474,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001475,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 390,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310039,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001475,
+        "costGroupId": 1001475,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001476,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 400,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310040,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001476,
+        "costGroupId": 1001476,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001477,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 410,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310041,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001477,
+        "costGroupId": 1001477,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001478,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 420,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310042,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001478,
+        "costGroupId": 1001478,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001479,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 430,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310043,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001479,
+        "costGroupId": 1001479,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001480,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 440,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310044,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001480,
+        "costGroupId": 1001480,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001481,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 450,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310045,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001481,
+        "costGroupId": 1001481,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001482,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 460,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310046,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001482,
+        "costGroupId": 1001482,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001483,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 470,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310047,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001483,
+        "costGroupId": 1001483,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001484,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 480,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310048,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001484,
+        "costGroupId": 1001484,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001485,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 490,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310049,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001485,
+        "costGroupId": 1001485,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001486,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 500,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310050,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001486,
+        "costGroupId": 1001486,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001487,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 510,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310051,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001487,
+        "costGroupId": 1001487,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001488,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 520,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310052,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001488,
+        "costGroupId": 1001488,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001489,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 530,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310053,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001489,
+        "costGroupId": 1001489,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001490,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 540,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310054,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001490,
+        "costGroupId": 1001490,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001491,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 550,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310055,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001491,
+        "costGroupId": 1001491,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001492,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 560,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310056,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001492,
+        "costGroupId": 1001492,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001493,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 570,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310057,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001493,
+        "costGroupId": 1001493,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001494,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 580,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310058,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001494,
+        "costGroupId": 1001494,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001495,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 590,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310059,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001495,
+        "costGroupId": 1001495,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001496,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 600,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310060,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001496,
+        "costGroupId": 1001496,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001497,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 610,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310061,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001497,
+        "costGroupId": 1001497,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001498,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 620,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310062,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001498,
+        "costGroupId": 1001498,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001499,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 630,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310063,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001499,
+        "costGroupId": 1001499,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001500,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 640,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310064,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001500,
+        "costGroupId": 1001500,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001501,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 650,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310065,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001501,
+        "costGroupId": 1001501,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001502,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 660,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310066,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001502,
+        "costGroupId": 1001502,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001503,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 670,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310067,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001503,
+        "costGroupId": 1001503,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001504,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 680,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310068,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001504,
+        "costGroupId": 1001504,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001505,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 690,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310069,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001505,
+        "costGroupId": 1001505,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001506,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 700,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310070,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001506,
+        "costGroupId": 1001506,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001507,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 710,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310071,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001507,
+        "costGroupId": 1001507,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001508,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 720,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310072,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001508,
+        "costGroupId": 1001508,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001509,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 730,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310073,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001509,
+        "costGroupId": 1001509,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001510,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 740,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310074,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001510,
+        "costGroupId": 1001510,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001511,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 750,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310075,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001511,
+        "costGroupId": 1001511,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001512,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 760,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310076,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001512,
+        "costGroupId": 1001512,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001513,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 770,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310077,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001513,
+        "costGroupId": 1001513,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001514,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 780,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310078,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001514,
+        "costGroupId": 1001514,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001515,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 790,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310079,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001515,
+        "costGroupId": 1001515,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001516,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 800,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310080,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001516,
+        "costGroupId": 1001516,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001517,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 810,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310081,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001517,
+        "costGroupId": 1001517,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001518,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 820,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310082,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001518,
+        "costGroupId": 1001518,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001519,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 830,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310083,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001519,
+        "costGroupId": 1001519,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001520,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 840,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310084,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001520,
+        "costGroupId": 1001520,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001521,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 850,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310085,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001521,
+        "costGroupId": 1001521,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001522,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 860,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310086,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001522,
+        "costGroupId": 1001522,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001523,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 870,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310087,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001523,
+        "costGroupId": 1001523,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001524,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 880,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310088,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001524,
+        "costGroupId": 1001524,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001525,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 890,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310089,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001525,
+        "costGroupId": 1001525,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001526,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 900,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310090,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001526,
+        "costGroupId": 1001526,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001527,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 910,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310091,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001527,
+        "costGroupId": 1001527,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001528,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 920,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310092,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001528,
+        "costGroupId": 1001528,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001529,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 930,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310093,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001529,
+        "costGroupId": 1001529,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001530,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 940,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310094,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001530,
+        "costGroupId": 1001530,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001531,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 950,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310095,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001531,
+        "costGroupId": 1001531,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001532,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 960,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310096,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001532,
+        "costGroupId": 1001532,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001533,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 970,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310097,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001533,
+        "costGroupId": 1001533,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001534,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 980,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310098,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001534,
+        "costGroupId": 1001534,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001535,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 990,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310099,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001535,
+        "costGroupId": 1001535,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001536,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1000,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310100,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001536,
+        "costGroupId": 1001536,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001537,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1010,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310101,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001537,
+        "costGroupId": 1001537,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001538,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1020,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310102,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001538,
+        "costGroupId": 1001538,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001539,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1030,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310103,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001539,
+        "costGroupId": 1001539,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001543,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1070,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310107,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001543,
+        "costGroupId": 1001543,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001544,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1080,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310108,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001544,
+        "costGroupId": 1001544,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001545,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1090,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310109,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001545,
+        "costGroupId": 1001545,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001546,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1100,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310110,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001546,
+        "costGroupId": 1001546,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001547,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1110,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310111,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001547,
+        "costGroupId": 1001547,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001548,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1120,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310112,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001548,
+        "costGroupId": 1001548,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001549,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1130,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310113,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001549,
+        "costGroupId": 1001549,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001550,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1140,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310114,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001550,
+        "costGroupId": 1001550,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001551,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1150,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310115,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001551,
+        "costGroupId": 1001551,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001552,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1160,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310116,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001552,
+        "costGroupId": 1001552,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001553,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1170,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310117,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001553,
+        "costGroupId": 1001553,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001554,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1180,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310118,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001554,
+        "costGroupId": 1001554,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001555,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1190,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310119,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001555,
+        "costGroupId": 1001555,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001556,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1200,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310120,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001556,
+        "costGroupId": 1001556,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001557,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1210,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310121,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001557,
+        "costGroupId": 1001557,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001558,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1220,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310122,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001558,
+        "costGroupId": 1001558,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001559,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1230,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310123,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001559,
+        "costGroupId": 1001559,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001560,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1240,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310124,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001560,
+        "costGroupId": 1001560,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001561,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1250,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310125,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001561,
+        "costGroupId": 1001561,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001562,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1260,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310126,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001562,
+        "costGroupId": 1001562,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001563,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1270,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310127,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001563,
+        "costGroupId": 1001563,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001564,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1280,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310128,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001564,
+        "costGroupId": 1001564,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001565,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1290,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310129,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001565,
+        "costGroupId": 1001565,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001566,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1300,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310130,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001566,
+        "costGroupId": 1001566,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001567,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1310,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310131,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001567,
+        "costGroupId": 1001567,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001568,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1320,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310132,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001568,
+        "costGroupId": 1001568,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001569,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1330,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310133,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001569,
+        "costGroupId": 1001569,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001570,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1340,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310134,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001570,
+        "costGroupId": 1001570,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001571,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1350,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310135,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001571,
+        "costGroupId": 1001571,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001572,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1360,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310136,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001572,
+        "costGroupId": 1001572,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001573,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1370,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310137,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001573,
+        "costGroupId": 1001573,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001574,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1380,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310138,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001574,
+        "costGroupId": 1001574,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001575,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1390,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310139,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001575,
+        "costGroupId": 1001575,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001576,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1400,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310140,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001576,
+        "costGroupId": 1001576,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001577,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1410,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310141,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001577,
+        "costGroupId": 1001577,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001578,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1420,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310142,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001578,
+        "costGroupId": 1001578,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001579,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1430,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310143,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001579,
+        "costGroupId": 1001579,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001580,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1440,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310144,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001580,
+        "costGroupId": 1001580,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001581,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1450,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310145,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001581,
+        "costGroupId": 1001581,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001582,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1460,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310146,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001582,
+        "costGroupId": 1001582,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001583,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1470,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310147,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001583,
+        "costGroupId": 1001583,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001584,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1480,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310148,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001584,
+        "costGroupId": 1001584,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001585,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1490,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310149,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001585,
+        "costGroupId": 1001585,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001586,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1500,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310150,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001586,
+        "costGroupId": 1001586,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001587,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1510,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310151,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001587,
+        "costGroupId": 1001587,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001588,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1520,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310152,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001588,
+        "costGroupId": 1001588,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001589,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1530,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310153,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001589,
+        "costGroupId": 1001589,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001590,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1540,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310154,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001590,
+        "costGroupId": 1001590,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001591,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1550,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310155,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001591,
+        "costGroupId": 1001591,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001592,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1560,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310156,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001592,
+        "costGroupId": 1001592,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001593,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1570,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310157,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001593,
+        "costGroupId": 1001593,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001594,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1580,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310158,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001594,
+        "costGroupId": 1001594,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001595,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1590,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310159,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001595,
+        "costGroupId": 1001595,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001596,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1600,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310160,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001596,
+        "costGroupId": 1001596,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001597,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1610,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310161,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001597,
+        "costGroupId": 1001597,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001598,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1620,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310162,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001598,
+        "costGroupId": 1001598,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001599,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1630,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310163,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001599,
+        "costGroupId": 1001599,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001600,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1640,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310164,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001600,
+        "costGroupId": 1001600,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001601,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1650,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310165,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001601,
+        "costGroupId": 1001601,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001602,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1660,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310166,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001602,
+        "costGroupId": 1001602,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001603,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1670,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310167,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001603,
+        "costGroupId": 1001603,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001604,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1680,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310168,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001604,
+        "costGroupId": 1001604,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001605,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1690,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310169,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001605,
+        "costGroupId": 1001605,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001606,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1700,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310170,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001606,
+        "costGroupId": 1001606,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001607,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1710,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310171,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001607,
+        "costGroupId": 1001607,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001608,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1720,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310172,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001608,
+        "costGroupId": 1001608,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001609,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1730,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310173,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001609,
+        "costGroupId": 1001609,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001610,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1740,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310174,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001610,
+        "costGroupId": 1001610,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001611,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1750,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310175,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001611,
+        "costGroupId": 1001611,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001612,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1760,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310176,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001612,
+        "costGroupId": 1001612,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001613,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1770,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310177,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001613,
+        "costGroupId": 1001613,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001614,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1780,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310178,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001614,
+        "costGroupId": 1001614,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001615,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1790,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310179,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001615,
+        "costGroupId": 1001615,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001616,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1800,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310180,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001616,
+        "costGroupId": 1001616,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001617,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1810,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310181,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001617,
+        "costGroupId": 1001617,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001618,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1820,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310182,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001618,
+        "costGroupId": 1001618,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001619,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1830,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310183,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001619,
+        "costGroupId": 1001619,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001620,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1840,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310184,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001620,
+        "costGroupId": 1001620,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001621,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1850,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310185,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001621,
+        "costGroupId": 1001621,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001622,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1860,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310186,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001622,
+        "costGroupId": 1001622,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001623,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1870,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310187,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001623,
+        "costGroupId": 1001623,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001624,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1880,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310188,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001624,
+        "costGroupId": 1001624,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001625,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1890,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310189,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001625,
+        "costGroupId": 1001625,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001626,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1900,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310190,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001626,
+        "costGroupId": 1001626,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001627,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1910,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310191,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001627,
+        "costGroupId": 1001627,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001628,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1920,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310192,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001628,
+        "costGroupId": 1001628,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001629,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1930,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310193,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001629,
+        "costGroupId": 1001629,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001630,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1940,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310194,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001630,
+        "costGroupId": 1001630,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001631,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1950,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310195,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001631,
+        "costGroupId": 1001631,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001632,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1960,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310196,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001632,
+        "costGroupId": 1001632,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001633,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1970,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310197,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001633,
+        "costGroupId": 1001633,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001634,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1980,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310198,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001634,
+        "costGroupId": 1001634,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001635,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 1990,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310199,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001635,
+        "costGroupId": 1001635,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001636,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2000,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310200,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001636,
+        "costGroupId": 1001636,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001637,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2010,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310201,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001637,
+        "costGroupId": 1001637,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001638,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2020,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310202,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001638,
+        "costGroupId": 1001638,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001639,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2030,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310203,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001639,
+        "costGroupId": 1001639,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001640,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2040,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310204,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001640,
+        "costGroupId": 1001640,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001641,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2050,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310205,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001641,
+        "costGroupId": 1001641,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001642,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2060,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310206,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001642,
+        "costGroupId": 1001642,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001643,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2070,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310207,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001643,
+        "costGroupId": 1001643,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001644,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2080,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310208,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001644,
+        "costGroupId": 1001644,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001645,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2090,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310209,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001645,
+        "costGroupId": 1001645,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001646,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2100,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310210,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001646,
+        "costGroupId": 1001646,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001647,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2110,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310211,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001647,
+        "costGroupId": 1001647,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001648,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2120,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310212,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001648,
+        "costGroupId": 1001648,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001649,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2130,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310213,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001649,
+        "costGroupId": 1001649,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001650,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2140,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310214,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001650,
+        "costGroupId": 1001650,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001651,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2150,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310215,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001651,
+        "costGroupId": 1001651,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001652,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2160,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310216,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001652,
+        "costGroupId": 1001652,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001653,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2170,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310217,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001653,
+        "costGroupId": 1001653,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001654,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2180,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310218,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001654,
+        "costGroupId": 1001654,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001655,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2190,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310219,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001655,
+        "costGroupId": 1001655,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001656,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2200,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310220,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001656,
+        "costGroupId": 1001656,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001657,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2210,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310221,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001657,
+        "costGroupId": 1001657,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001658,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2220,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310222,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001658,
+        "costGroupId": 1001658,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001659,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2230,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310223,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001659,
+        "costGroupId": 1001659,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001660,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2240,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310224,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001660,
+        "costGroupId": 1001660,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001661,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2250,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310225,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001661,
+        "costGroupId": 1001661,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001662,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2260,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310226,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001662,
+        "costGroupId": 1001662,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001663,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2270,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310227,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001663,
+        "costGroupId": 1001663,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001664,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2280,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310228,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001664,
+        "costGroupId": 1001664,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001665,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2290,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310229,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001665,
+        "costGroupId": 1001665,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001666,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2300,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310230,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001666,
+        "costGroupId": 1001666,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001667,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2310,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310231,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001667,
+        "costGroupId": 1001667,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001668,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2320,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310232,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001668,
+        "costGroupId": 1001668,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001669,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2330,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310233,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001669,
+        "costGroupId": 1001669,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001670,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2340,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310234,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001670,
+        "costGroupId": 1001670,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001671,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2350,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310235,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001671,
+        "costGroupId": 1001671,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001672,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2360,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310236,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001672,
+        "costGroupId": 1001672,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001673,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2370,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310237,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001673,
+        "costGroupId": 1001673,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001674,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2380,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310238,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001674,
+        "costGroupId": 1001674,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001675,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2390,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310239,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001675,
+        "costGroupId": 1001675,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001676,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2400,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310240,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001676,
+        "costGroupId": 1001676,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001677,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2410,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310241,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001677,
+        "costGroupId": 1001677,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001678,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2420,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310242,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001678,
+        "costGroupId": 1001678,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001679,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2430,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310243,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001679,
+        "costGroupId": 1001679,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001680,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2440,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310244,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001680,
+        "costGroupId": 1001680,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001681,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2450,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310245,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001681,
+        "costGroupId": 1001681,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001682,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2460,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310246,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001682,
+        "costGroupId": 1001682,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001683,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2470,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310247,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001683,
+        "costGroupId": 1001683,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001684,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2480,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310248,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001684,
+        "costGroupId": 1001684,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001685,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2490,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310249,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001685,
+        "costGroupId": 1001685,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001686,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2500,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310250,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001686,
+        "costGroupId": 1001686,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001687,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2510,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310251,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001687,
+        "costGroupId": 1001687,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001688,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2520,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310252,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001688,
+        "costGroupId": 1001688,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001689,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2530,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310253,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001689,
+        "costGroupId": 1001689,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001690,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2540,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310254,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001690,
+        "costGroupId": 1001690,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001691,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2550,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310255,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001691,
+        "costGroupId": 1001691,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001692,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2560,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310256,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001692,
+        "costGroupId": 1001692,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001693,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2570,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310257,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001693,
+        "costGroupId": 1001693,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001694,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2580,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310258,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001694,
+        "costGroupId": 1001694,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001695,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2590,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310259,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001695,
+        "costGroupId": 1001695,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001696,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2600,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310260,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001696,
+        "costGroupId": 1001696,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001697,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2610,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310261,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001697,
+        "costGroupId": 1001697,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001698,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2620,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310262,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001698,
+        "costGroupId": 1001698,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001699,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2630,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310263,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001699,
+        "costGroupId": 1001699,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001700,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2640,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310264,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001700,
+        "costGroupId": 1001700,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001701,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2650,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310265,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001701,
+        "costGroupId": 1001701,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001702,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2660,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310266,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001702,
+        "costGroupId": 1001702,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001703,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2670,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310267,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001703,
+        "costGroupId": 1001703,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001704,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2680,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310268,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001704,
+        "costGroupId": 1001704,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001705,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2690,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310269,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001705,
+        "costGroupId": 1001705,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001706,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2700,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310270,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001706,
+        "costGroupId": 1001706,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001707,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2710,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310271,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001707,
+        "costGroupId": 1001707,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001708,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2720,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310272,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001708,
+        "costGroupId": 1001708,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001709,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2730,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310273,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001709,
+        "costGroupId": 1001709,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001710,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2740,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310274,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001710,
+        "costGroupId": 1001710,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001711,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2750,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310275,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001711,
+        "costGroupId": 1001711,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001712,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2760,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310276,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001712,
+        "costGroupId": 1001712,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001713,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2770,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310277,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001713,
+        "costGroupId": 1001713,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001714,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2780,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310278,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001714,
+        "costGroupId": 1001714,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001715,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2790,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310279,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001715,
+        "costGroupId": 1001715,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001716,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2800,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310280,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001716,
+        "costGroupId": 1001716,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001717,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2810,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310281,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001717,
+        "costGroupId": 1001717,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001718,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2820,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310282,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001718,
+        "costGroupId": 1001718,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001719,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2830,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310283,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001719,
+        "costGroupId": 1001719,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001720,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2840,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310284,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001720,
+        "costGroupId": 1001720,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001721,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2850,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310285,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001721,
+        "costGroupId": 1001721,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001722,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2860,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310286,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001722,
+        "costGroupId": 1001722,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001723,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2870,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310287,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001723,
+        "costGroupId": 1001723,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001724,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2880,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310288,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001724,
+        "costGroupId": 1001724,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001725,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2890,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310289,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001725,
+        "costGroupId": 1001725,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001726,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2900,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310290,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001726,
+        "costGroupId": 1001726,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001727,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2910,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310291,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001727,
+        "costGroupId": 1001727,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001728,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2920,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310292,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001728,
+        "costGroupId": 1001728,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001729,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2930,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310293,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001729,
+        "costGroupId": 1001729,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001730,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2940,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310294,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001730,
+        "costGroupId": 1001730,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001731,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2950,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310295,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001731,
+        "costGroupId": 1001731,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001732,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2960,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310296,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001732,
+        "costGroupId": 1001732,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001733,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2970,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310297,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001733,
+        "costGroupId": 1001733,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001734,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2980,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310298,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001734,
+        "costGroupId": 1001734,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001735,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 2990,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310299,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001735,
+        "costGroupId": 1001735,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001736,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3000,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310300,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001736,
+        "costGroupId": 1001736,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001737,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3010,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310301,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001737,
+        "costGroupId": 1001737,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001738,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3020,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310302,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001738,
+        "costGroupId": 1001738,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001739,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3030,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310303,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001739,
+        "costGroupId": 1001739,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001740,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3040,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310304,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001740,
+        "costGroupId": 1001740,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001741,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3050,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310305,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001741,
+        "costGroupId": 1001741,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001742,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3060,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310306,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001742,
+        "costGroupId": 1001742,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001743,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3070,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310307,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001743,
+        "costGroupId": 1001743,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001744,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3080,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310308,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001744,
+        "costGroupId": 1001744,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001745,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3090,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310309,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001745,
+        "costGroupId": 1001745,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001746,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3100,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310310,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001746,
+        "costGroupId": 1001746,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001747,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3110,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310311,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001747,
+        "costGroupId": 1001747,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001748,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3120,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310312,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001748,
+        "costGroupId": 1001748,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001749,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3130,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310313,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001749,
+        "costGroupId": 1001749,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001750,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3140,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310314,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001750,
+        "costGroupId": 1001750,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001751,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3150,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310315,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001751,
+        "costGroupId": 1001751,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001752,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3160,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310316,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001752,
+        "costGroupId": 1001752,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001753,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3170,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310317,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001753,
+        "costGroupId": 1001753,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001754,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3180,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310318,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001754,
+        "costGroupId": 1001754,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001755,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3190,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310319,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001755,
+        "costGroupId": 1001755,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001756,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3200,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310320,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001756,
+        "costGroupId": 1001756,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001757,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3210,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310321,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001757,
+        "costGroupId": 1001757,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001758,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3220,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310322,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001758,
+        "costGroupId": 1001758,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001759,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3230,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310323,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001759,
+        "costGroupId": 1001759,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001760,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3240,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310324,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001760,
+        "costGroupId": 1001760,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001761,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3250,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310325,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001761,
+        "costGroupId": 1001761,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001762,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3260,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310326,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001762,
+        "costGroupId": 1001762,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001763,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3270,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310327,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001763,
+        "costGroupId": 1001763,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001764,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3280,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310328,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001764,
+        "costGroupId": 1001764,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001765,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3290,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310329,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001765,
+        "costGroupId": 1001765,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001766,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3300,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310330,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001766,
+        "costGroupId": 1001766,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001767,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3310,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310331,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001767,
+        "costGroupId": 1001767,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001768,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3320,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310332,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001768,
+        "costGroupId": 1001768,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001769,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3330,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310333,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001769,
+        "costGroupId": 1001769,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001770,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3340,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310334,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001770,
+        "costGroupId": 1001770,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001771,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3350,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310335,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001771,
+        "costGroupId": 1001771,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001772,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3360,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310336,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001772,
+        "costGroupId": 1001772,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001773,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3370,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310337,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001773,
+        "costGroupId": 1001773,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001774,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3380,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310338,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001774,
+        "costGroupId": 1001774,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001775,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3390,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310339,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001775,
+        "costGroupId": 1001775,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001776,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3400,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310340,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001776,
+        "costGroupId": 1001776,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001777,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3410,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310341,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001777,
+        "costGroupId": 1001777,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
+      }
+    ],
+    "materialExchangeRelationParents": []
+  },
+  {
+    "id": 1001778,
+    "materialExchangeSummaryId": 1000027,
+    "seq": 3420,
+    "isDisplayQuantity": true,
+    "resourceBoxId": 310342,
+    "refreshCycle": "none",
+    "costs": [
+      {
+        "materialExchangeId": 1001778,
+        "costGroupId": 1001778,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 214,
+        "quantity": 1
       }
     ],
     "materialExchangeRelationParents": []

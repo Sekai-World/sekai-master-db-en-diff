@@ -14048,6 +14048,22 @@
     ]
   },
   {
+    "id": 20024,
+    "seq": 38,
+    "honorMissionType": "play_level_clear",
+    "requirement": 38,
+    "sentence": "Clear a song of Lv. 38 or higher.",
+    "rewards": [
+      {
+        "id": 15622,
+        "missionType": "honor_mission",
+        "missionId": 20024,
+        "seq": 1,
+        "resourceBoxId": 20024
+      }
+    ]
+  },
+  {
     "id": 21001,
     "seq": 15,
     "honorMissionType": "play_level_full_combo_clear",
@@ -14412,6 +14428,22 @@
         "missionId": 21023,
         "seq": 1,
         "resourceBoxId": 21023
+      }
+    ]
+  },
+  {
+    "id": 21024,
+    "seq": 38,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 38,
+    "sentence": "Clear a song of Lv. 38 or higher with a Full Combo.",
+    "rewards": [
+      {
+        "id": 15623,
+        "missionType": "honor_mission",
+        "missionId": 21024,
+        "seq": 1,
+        "resourceBoxId": 21024
       }
     ]
   }

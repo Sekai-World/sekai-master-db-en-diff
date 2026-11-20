@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "seq": 1,
+    "name": "Returnee Login Campaign",
+    "startAt": 1792580400000,
+    "endAt": 4102401599000,
+    "durationDays": 10,
+    "assetbundleName": "returnee_login_bonus_gl",
+    "comebackLoginBonusDetails": [
+      {
+        "id": 1,
+        "comebackLoginBonusGlId": 1,
+        "day": 1,
+        "resourceBoxId": 10001
+      },
+      {
+        "id": 2,
+        "comebackLoginBonusGlId": 1,
+        "day": 2,
+        "resourceBoxId": 10002
+      },
+      {
+        "id": 3,
+        "comebackLoginBonusGlId": 1,
+        "day": 3,
+        "resourceBoxId": 10002
+      },
+      {
+        "id": 4,
+        "comebackLoginBonusGlId": 1,
+        "day": 4,
+        "resourceBoxId": 10002
+      },
+      {
+        "id": 5,
+        "comebackLoginBonusGlId": 1,
+        "day": 5,
+        "resourceBoxId": 10002
+      }
+    ]
+  }
+]
