@@ -620293,6 +620293,23 @@
   },
   {
     "resourceBoxPurpose": "friend_invitation_campaign_mission_reward",
+    "id": 9,
+    "resourceBoxType": "expand",
+    "name": "フレンド招待キャンペーン報酬",
+    "description": "フレンド招待キャンペーン報酬",
+    "details": [
+      {
+        "resourceBoxPurpose": "friend_invitation_campaign_mission_reward",
+        "resourceBoxId": 9,
+        "seq": 1,
+        "resourceType": "gacha_ticket",
+        "resourceId": 29,
+        "resourceQuantity": 1
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "friend_invitation_campaign_mission_reward",
     "id": 100001,
     "resourceBoxType": "expand",
     "name": "フレンド招待キャンペーン報酬",
@@ -785873,6 +785890,21 @@
         "resourceType": "material",
         "resourceId": 1000013,
         "resourceQuantity": 15
+      }
+    ]
+  },
+  {
+    "resourceBoxPurpose": "gift_detail",
+    "id": 10161,
+    "resourceBoxType": "expand",
+    "details": [
+      {
+        "resourceBoxPurpose": "gift_detail",
+        "resourceBoxId": 10161,
+        "seq": 1,
+        "resourceType": "material",
+        "resourceId": 1000013,
+        "resourceQuantity": 10
       }
     ]
   },
